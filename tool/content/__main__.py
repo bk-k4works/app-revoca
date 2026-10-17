@@ -129,6 +129,10 @@ def parser():
     p = commands.add_parser('hs-review-import', help='Record human decisions from the approval sheet')
     p.add_argument('--csv', type=Path, required=True)
     commands.add_parser('hs-review-status', help='Count Codex coverage and human decisions')
+    p = commands.add_parser('hs-review-web-export', help='Write the data file for the web approval page')
+    p.add_argument('--output', type=Path, default=None)
+    p = commands.add_parser('hs-review-web-import', help='Record decisions saved from the web approval page')
+    p.add_argument('--json', type=Path, required=True)
     p = commands.add_parser('install')
     p.add_argument('package', type=Path)
     p.add_argument('--assets', type=Path, default=ROOT / 'assets/content')
@@ -230,6 +234,10 @@ def main(argv=None):
             return hs_review.export_human(args.output) if args.output else hs_review.export_human()
         if command == 'hs-review-import':
             return hs_review.import_human(args.csv)
+        if command == 'hs-review-web-export':
+            return hs_review.export_web(args.output) if args.output else hs_review.export_web()
+        if command == 'hs-review-web-import':
+            return hs_review.import_web(args.json)
         return hs_review.status()
     if command == 'install':
         return build.install(args.package, args.assets)

@@ -81,7 +81,7 @@
 
 1. **자동 검사** (`hs-draft`): 예문 길이·표제어 출현·어휘 범위·문체 규칙.
 2. **Codex 독립 검토**: 원고를 쓰지 않은 다른 모델(OpenAI Codex CLI, 읽기 전용)이 뜻마다 `ok`·`minor`·`fix`·`reject`를 판정하고 빠진 중요 뜻을 제안한다. 판정은 뜻 텍스트의 해시(`inputHash`)에 묶여 있어서 원고를 고치면 그 뜻은 다시 검토받아야 한다. 검토 기준은 `content/highschool/v1/review/codex-v1/prompt.md`에 있다.
-3. **사람 승인**: 검수표(CSV)에서 뜻마다 `human_approved`·`needs_fix`·`rejected`를 고르고 실제 검수자 이름을 적는다. 수정·반려에는 이유가 필요하고, 기계 검토자 이름(codex, claude 등)은 받지 않는다. 결정은 `review/human/decisions.jsonl`에 쌓이며, 원고가 바뀐 뒤의 오래된 행은 거절된다.
+3. **사람 승인**: 웹 승인 화면(아래)이나 검수표(CSV)에서 뜻마다 `human_approved`·`needs_fix`·`rejected`를 고르고 실제 검수자 이름을 적는다. 수정·반려에는 이유가 필요하고, 기계 검토자 이름(codex, claude 등)은 받지 않는다. 결정은 `review/human/decisions.jsonl`에 쌓이며, 원고가 바뀐 뒤의 오래된 행은 거절된다.
 
 ```sh
 # Codex 검토 묶음 만들기 → 실행 → 판정 합치기
@@ -95,13 +95,27 @@ cd content/highschool/v1/review/codex-v1 && cat prompt.md batches/batch-01.txt |
 .venv-content/bin/python -m tool.content hs-review-import --csv content/highschool/v1/review/human/review.csv
 .venv-content/bin/python -m tool.content hs-review-status
 
+# 웹 승인 화면: 데이터 만들기 → 화면에서 결정 → '결정 파일 받기' JSON 가져오기
+.venv-content/bin/python -m tool.content hs-review-web-export
+.venv-content/bin/python -m tool.content hs-review-web-import --json ~/Downloads/revoca-decisions-*.json
+
 # 모든 뜻의 결정이 끝나면 출시 패키지
 .venv-content/bin/python -m tool.content hs-release --input content/highschool/v1/drafts.jsonl \
   --output content/releases/high-1.0.0 --version high-1.0.0
 .venv-content/bin/python -m tool.content install content/releases/high-1.0.0
 ```
 
+### 웹 승인 화면
+
+`tool/review-web/index.html`은 claude.ai Artifact로 게시하는 승인 화면이다. 뜻 카드마다 뜻·설명·연어·예문 2개·유의어와 Codex 지적을 보여 주고 **승인**·**수정 필요**·**반려**를 누른다(키보드 `J`/`K`로 이동, `A`·`F`·`R`로 결정). 수정·반려는 이유를 적어야 저장된다.
+
+- 데이터: `hs-review-web-export`가 만든 `build/review-web/senses.json`을 화면과 함께 게시한다(저장소에는 넣지 않는다). 원고를 고치면 다시 만들어 게시한다.
+- 저장: 결정은 Artifact 저장소 `review/<part>/decisions/<뜻 id>`에 `{senseKey, inputHash, decision, note, reviewerId, decidedAt}`로 남는다. 검수자는 처음에 자기 이름을 `reviewers/<계정 id>`에 저장하고, 그 문서는 본인만 고칠 수 있다.
+- 원고가 바뀐 뜻은 해시가 달라 화면에 '원고 바뀜'으로 표시되고 미결정으로 센다.
+- 권한: 소유자와 기여자(Contributor) 이상만 결정을 남긴다. 다른 검수자에게는 Share 메뉴에서 기여자 권한을 준다.
+- 가져오기: 화면의 **결정 파일 받기**로 받은 JSON을 `hs-review-web-import`로 `decisions.jsonl`에 더한다. 해시가 다른 결정은 건너뛰어 보고하고, 이미 기록된 같은 결정은 다시 쓰지 않으므로 같은 파일을 여러 번 가져와도 된다. 기계 검토자 이름은 여기서도 받지 않는다.
+
 ## 다음 작업
 
-1. 사람 승인: `content/highschool/v1/review/human/review.csv`에서 뜻 2,594개의 결정을 기록한다. 모두 결정되면 `hs-release`로 출시 패키지를 만든다.
+1. 사람 승인: 웹 승인 화면(또는 `review/human/review.csv`)에서 뜻 2,594개의 결정을 기록한다. 모두 결정되면 `hs-release`로 출시 패키지를 만든다.
 2. 철자 문제에서 뜻이 같은 다른 표제어(예: nevertheless·nonetheless)를 쓰면 오답 대신 안내하는 방식을 검토한다. 원고에서는 같은 품사의 대표 뜻을 모두 구분했지만, 진짜 유의어는 뜻만으로 완전히 가를 수 없다.

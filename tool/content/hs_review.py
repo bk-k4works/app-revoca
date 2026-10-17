@@ -8,7 +8,7 @@ import json
 import sys
 from pathlib import Path
 
-from .common import CONTENT, digest
+from .common import CONTENT, ROOT, digest
 
 AUTHORED = CONTENT / 'highschool/v1/authored'
 REVIEW = CONTENT / 'highschool/v1/review/codex-v1'
@@ -209,3 +209,72 @@ def prepare_pending(name='round2', size=150):
         manifest.append({'batch': label, 'senses': [{'key': r['key'], 'inputHash': r['inputHash']} for r in batch]})
     (out / 'manifest.json').write_text(json.dumps(manifest, ensure_ascii=False, indent=1) + '\n')
     return {'pending': len(pending), 'batches': len(manifest)}
+
+
+# ---- 웹 승인 화면 ---------------------------------------------------------
+WEB = ROOT / 'build/review-web'
+
+
+def web_id(key):
+    """Document id for the web page's store: only letters, digits and `_ - . ~ : @ +` are allowed."""
+    return key.replace(' ', '_').replace('|', '~')
+
+
+def export_web(output=WEB / 'senses.json'):
+    """Write the data file the approval page loads: every current sense with its Codex verdict."""
+    from .highschool import HS_SOURCE
+    from .common import sources, now
+    tiers = {w: r['tier'] for w, r in sources(HS_SOURCE).items()}
+    verdicts, decided = current_verdicts(), ledger()
+    items = []
+    for r in senses():
+        v = verdicts.get(r['key']) or {}
+        d = decided.get(r['key'])
+        items.append({'id': web_id(r['key']), 'key': r['key'], 'hash': r['inputHash'], 'part': r['file'][:-4],
+                      'tier': tiers.get(r['headword'], ''), 'hw': r['headword'], 'pos': r['pos'],
+                      'meaning': r['meaning'], 'expl': r['explanation'], 'col': r['collocation'],
+                      'colKo': r['collocationKo'], 'ex': [[r['en1'], r['ko1']], [r['en2'], r['ko2']]],
+                      'syn': r['synonyms'], 'codex': v.get('verdict', 'none'),
+                      'issues': [[i['field'], i['problem'], i['suggestion']] for i in v.get('issues', [])],
+                      'repo': d['decision'] if d and d['inputHash'] == r['inputHash'] else ''})
+    ids = [i['id'] for i in items]
+    assert len(ids) == len(set(ids)), 'web ids collide'
+    output = Path(output)
+    output.parent.mkdir(parents=True, exist_ok=True)
+    output.write_text(json.dumps({'generatedAt': now(), 'items': items}, ensure_ascii=False, separators=(',', ':')))
+    return {'output': str(output), 'senses': len(items), 'bytes': output.stat().st_size}
+
+
+def import_web(json_path, path=HUMAN / 'decisions.jsonl'):
+    """Record decisions saved from the approval page (its '결정 파일 받기' JSON).
+
+    Each record names a reviewer label and the reviewer's opaque account id. Rows
+    already in the ledger with the same decision and hash are skipped, so the
+    same file can be imported again after more work."""
+    current = {r['key']: r['inputHash'] for r in senses()}
+    known = ledger(path)
+    data = json.loads(Path(json_path).read_text())
+    from .common import require
+    new, stale = [], []
+    for d in data['decisions']:
+        key, decision = d['senseKey'], d['decision']
+        require(key in current, f'{key}: 알 수 없는 뜻이에요')
+        if d['inputHash'] != current[key]:
+            stale.append(key)
+            continue
+        require(decision in DECISIONS, f'{key}: decision은 {sorted(DECISIONS)} 중 하나여야 해요')
+        reviewer = (d.get('reviewer') or '').strip()
+        require(reviewer and reviewer.lower() not in MACHINE_REVIEWERS and d.get('reviewerId'),
+                f'{key}: 실제 검수자 이름과 계정이 필요해요')
+        note = (d.get('note') or '').strip()
+        require(decision == 'human_approved' or note, f'{key}: 수정·반려에는 이유(note)가 필요해요')
+        old = known.get(key)
+        if old and (old['inputHash'], old['decision'], old.get('note', '')) == (d['inputHash'], decision, note):
+            continue
+        new.append({'senseKey': key, 'inputHash': d['inputHash'], 'decision': decision, 'reviewer': reviewer,
+                    'reviewerId': d['reviewerId'], 'note': note, 'decidedAt': d['decidedAt'], 'via': 'web'})
+    path = Path(path)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open('a', encoding='utf-8') as stream:
+        stream.writelines(json.dumps(d, ensure_ascii=False) + '\n' for d in new)
+    return {'recorded': len(new), 'stale': stale, **status()}

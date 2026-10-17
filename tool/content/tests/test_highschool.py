@@ -1,4 +1,5 @@
 import csv
+import re
 import sqlite3
 import tempfile
 import unittest
@@ -106,6 +107,32 @@ class HighSchoolTest(unittest.TestCase):
                 attempt(decision='human_approved', reviewer='편집자A', inputHash='stale')
             attempt(decision='human_approved', reviewer='편집자A')
             self.assertEqual(hs_review.ledger(ledger)[row['key']]['decision'], 'human_approved')
+
+    def test_web_decisions_import_once_and_skip_stale_text(self):
+        import json
+        from tool.content import hs_review
+        first, second = hs_review.senses()[:2]
+        record = {'reviewer': '편집자A', 'reviewerId': 'u_test', 'decidedAt': '2026-10-18T00:00:00+00:00', 'note': ''}
+        with tempfile.TemporaryDirectory() as temporary:
+            saved, ledger = Path(temporary) / 'web.json', Path(temporary) / 'decisions.jsonl'
+
+            def attempt(*decisions):
+                saved.write_text(json.dumps({'decisions': list(decisions)}, ensure_ascii=False))
+                return hs_review.import_web(saved, ledger)
+
+            approve = {**record, 'senseKey': first['key'], 'inputHash': first['inputHash'], 'decision': 'human_approved'}
+            stale = {**approve, 'senseKey': second['key'], 'inputHash': 'old'}
+            result = attempt(approve, stale)
+            self.assertEqual((result['recorded'], result['stale']), (1, [second['key']]))
+            self.assertEqual(attempt(approve)['recorded'], 0)  # 같은 파일을 다시 가져와도 겹치지 않는다
+            with self.assertRaises(ValueError):
+                attempt({**approve, 'reviewer': 'Claude'})
+            with self.assertRaises(ValueError):
+                attempt({**approve, 'decision': 'needs_fix'})
+            self.assertEqual(hs_review.ledger(ledger)[first['key']]['via'], 'web')
+        ids = [hs_review.web_id(r['key']) for r in hs_review.senses()]
+        self.assertEqual(len(ids), len(set(ids)))
+        self.assertTrue(all(re.fullmatch(r'[A-Za-z0-9_.~:@+-]{1,200}', i) for i in ids))
 
     def test_release_refuses_unreviewed_or_unapproved_senses(self):
         with tempfile.TemporaryDirectory() as temporary:

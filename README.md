@@ -89,7 +89,7 @@ analysis/                분석·기획·디자인·검증 기록
 
 출시 전에는 다음 작업이 필요합니다.
 
-1. 고등 트랙 사람 승인(검수표 `content/highschool/v1/review/human/review.csv`) 후 `hs-release`로 출시 패키지 만들기. 작성자 재검토와 Codex 독립 검토는 끝남. 중학 트랙은 그 후에 시작
+1. 고등 트랙 사람 승인(웹 승인 화면 `tool/review-web/` 또는 검수표 `content/highschool/v1/review/human/review.csv`) 후 `hs-release`로 출시 패키지 만들기. 작성자 재검토와 Codex 독립 검토는 끝남. 중학 트랙은 그 후에 시작
 2. 검수된 발음 음성 확보 또는 기기별 TTS 품질 확인, 필요한 음성 다운로드 전략 결정
 3. 실제 학생 대상 학습 흐름 확인과 Android/iPhone 실기기·키보드·음성 검증
 4. 교과서별 콘텐츠 연결, 직접 입력/가져오기 등 시험 범위 기능 확장

@@ -1,0 +1,517 @@
+<title>리보카 뜻 승인</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<style>
+:root {
+  --bg: #f6f5f1; --surface: #ffffff; --surface-2: #f0eee8; --line: #e2dfd6;
+  --text: #1d1c1a; --muted: #6b675e; --faint: #9a958a;
+  --accent: #2f5bd3; --accent-soft: #e6ecfb;
+  --ok: #1f7a4a; --ok-soft: #e3f3ea; --fix: #a85a00; --fix-soft: #fbefdf;
+  --bad: #b3261e; --bad-soft: #fbe6e4; --mark: #fff1a8;
+  --radius: 12px; --gutter: max(16px, env(safe-area-inset-left));
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #151514; --surface: #1f1f1d; --surface-2: #2a2a27; --line: #34332f;
+    --text: #ecebe6; --muted: #a8a49a; --faint: #77736a;
+    --accent: #8fb0ff; --accent-soft: #24304d;
+    --ok: #6fcf97; --ok-soft: #1c3527; --fix: #f0b35e; --fix-soft: #3a2c17;
+    --bad: #ff8a80; --bad-soft: #3d1f1d; --mark: #5a4d12;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #151514; --surface: #1f1f1d; --surface-2: #2a2a27; --line: #34332f;
+  --text: #ecebe6; --muted: #a8a49a; --faint: #77736a;
+  --accent: #8fb0ff; --accent-soft: #24304d;
+  --ok: #6fcf97; --ok-soft: #1c3527; --fix: #f0b35e; --fix-soft: #3a2c17;
+  --bad: #ff8a80; --bad-soft: #3d1f1d; --mark: #5a4d12;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0; background: var(--bg); color: var(--text);
+  font: 15px/1.55 -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", sans-serif;
+  word-break: keep-all; overflow-wrap: anywhere;
+}
+.wrap { max-width: 880px; margin: 0 auto; padding: 0 max(var(--gutter), env(safe-area-inset-right)) 64px var(--gutter); }
+header { position: sticky; top: 0; z-index: 5; background: color-mix(in srgb, var(--bg) 92%, transparent); backdrop-filter: blur(8px); border-bottom: 1px solid var(--line); }
+header .wrap { padding-top: 14px; padding-bottom: 12px; }
+.top { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+h1 { font-size: 19px; margin: 0; letter-spacing: -0.01em; }
+h1 b { color: var(--fix); }
+.me { margin-left: auto; display: flex; align-items: center; gap: 8px; font-size: 13px; color: var(--muted); }
+.me img { width: 22px; height: 22px; border-radius: 50%; }
+.bar { display: flex; height: 8px; border-radius: 4px; overflow: hidden; background: var(--surface-2); margin: 12px 0 6px; }
+.bar i { display: block; height: 100%; }
+.counts { display: flex; gap: 14px; flex-wrap: wrap; font-size: 13px; color: var(--muted); }
+.counts b { color: var(--text); font-variant-numeric: tabular-nums; }
+.dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 5px; vertical-align: 1px; }
+.filters { display: grid; grid-template-columns: 1fr repeat(3, auto); gap: 8px; margin-top: 12px; }
+@media (max-width: 640px) { .filters { grid-template-columns: 1fr 1fr 1fr; } .filters input { grid-column: 1 / -1; } }
+input, select, textarea, button { font: inherit; color: inherit; }
+input[type=search], select, textarea, .name input {
+  background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 7px 10px; min-width: 0;
+}
+input:focus-visible, select:focus-visible, textarea:focus-visible, button:focus-visible, .card:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+button { cursor: pointer; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); padding: 7px 14px; }
+button:disabled { cursor: not-allowed; opacity: .5; }
+button.primary { background: var(--accent); border-color: var(--accent); color: var(--surface); font-weight: 600; }
+.ghost { background: transparent; border-color: transparent; color: var(--muted); padding: 4px 8px; font-size: 13px; }
+.notice { margin: 16px 0; padding: 12px 14px; border-radius: var(--radius); background: var(--accent-soft); font-size: 14px; }
+.notice.warn { background: var(--fix-soft); }
+.name { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; margin-top: 8px; }
+.name input { width: 180px; }
+.hint { font-size: 12px; color: var(--faint); margin: 14px 0 6px; }
+kbd { font: 11px ui-monospace, Menlo, monospace; border: 1px solid var(--line); border-bottom-width: 2px; border-radius: 4px; padding: 0 4px; background: var(--surface); }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 16px 18px; margin: 12px 0; }
+.card.d-human_approved { border-left: 4px solid var(--ok); }
+.card.d-needs_fix { border-left: 4px solid var(--fix); }
+.card.d-rejected { border-left: 4px solid var(--bad); }
+.head { display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap; }
+.hw { font-size: 20px; font-weight: 700; letter-spacing: -0.01em; }
+.chip { font-size: 12px; padding: 1px 8px; border-radius: 99px; background: var(--surface-2); color: var(--muted); }
+.chip.codex-minor { background: var(--fix-soft); color: var(--fix); }
+.chip.codex-fix { background: var(--bad-soft); color: var(--bad); }
+.chip.codex-ok { background: var(--ok-soft); color: var(--ok); }
+.head .chip:last-child { margin-left: auto; }
+.meaning { font-size: 17px; font-weight: 600; margin: 8px 0 2px; }
+.expl { color: var(--muted); margin: 0 0 10px; }
+dl { display: grid; grid-template-columns: 4.5em 1fr; gap: 6px 10px; margin: 0; font-size: 14px; }
+dt { color: var(--faint); }
+dd { margin: 0; }
+dd .ko { color: var(--muted); display: block; }
+mark { background: var(--mark); color: inherit; border-radius: 3px; padding: 0 2px; }
+.issues { margin: 12px 0 0; padding: 10px 12px; border-radius: 8px; background: var(--fix-soft); font-size: 13px; }
+.issues p { margin: 0 0 6px; }
+.issues p:last-child { margin: 0; }
+.issues b { color: var(--fix); }
+.actions { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; margin-top: 14px; padding-top: 12px; border-top: 1px dashed var(--line); }
+.actions .ok.on { background: var(--ok); border-color: var(--ok); color: var(--surface); }
+.actions .fix.on { background: var(--fix); border-color: var(--fix); color: var(--surface); }
+.actions .bad.on { background: var(--bad); border-color: var(--bad); color: var(--surface); }
+.who { font-size: 13px; color: var(--muted); margin-left: auto; }
+.who.stale { color: var(--bad); }
+.noteform { display: none; margin-top: 10px; gap: 8px; }
+.noteform.open { display: grid; grid-template-columns: 1fr auto; }
+.noteform textarea { min-height: 2.6em; resize: vertical; }
+.savednote { font-size: 13px; margin-top: 8px; color: var(--muted); }
+.pager { display: flex; justify-content: center; align-items: center; gap: 12px; margin: 20px 0; font-size: 14px; color: var(--muted); }
+.empty { text-align: center; color: var(--muted); padding: 48px 0; }
+.foot { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; justify-content: space-between; margin-top: 28px; padding-top: 16px; border-top: 1px solid var(--line); font-size: 13px; color: var(--muted); }
+.toast { position: fixed; left: 50%; bottom: 24px; transform: translateX(-50%); background: var(--text); color: var(--bg); padding: 8px 16px; border-radius: 99px; font-size: 14px; opacity: 0; transition: opacity .2s; pointer-events: none; }
+.toast.show { opacity: 1; }
+</style>
+
+<header>
+  <div class="wrap">
+    <div class="top">
+      <h1>리보카 <b>뜻 승인</b></h1>
+      <div class="me" id="me"></div>
+    </div>
+    <div class="bar" id="bar" aria-hidden="true"></div>
+    <div class="counts" id="counts">불러오는 중…</div>
+    <div class="filters">
+      <input type="search" id="q" placeholder="표제어·뜻·예문 검색" aria-label="검색">
+      <select id="fState" aria-label="결정 상태">
+        <option value="pending">미결정</option>
+        <option value="all">모든 상태</option>
+        <option value="human_approved">승인</option>
+        <option value="needs_fix">수정 필요</option>
+        <option value="rejected">반려</option>
+        <option value="stale">원고 바뀜</option>
+      </select>
+      <select id="fTier" aria-label="단계">
+        <option value="">모든 단계</option>
+        <option value="basic">기본</option>
+        <option value="familiar">익숙한</option>
+        <option value="core">핵심</option>
+        <option value="advanced">심화</option>
+        <option value="phrase">숙어</option>
+      </select>
+      <select id="fCodex" aria-label="Codex 판정">
+        <option value="">Codex 전체</option>
+        <option value="flagged">지적 있음</option>
+        <option value="fix">fix</option>
+        <option value="minor">minor</option>
+        <option value="ok">ok</option>
+      </select>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <div id="status"></div>
+  <p class="hint"><kbd>J</kbd>/<kbd>K</kbd> 다음·이전 카드 · <kbd>A</kbd> 승인 · <kbd>F</kbd> 수정 필요 · <kbd>R</kbd> 반려 · 수정·반려는 이유를 적어야 저장돼요</p>
+  <div id="list"></div>
+  <div class="pager" id="pager"></div>
+  <div class="foot">
+    <span id="genAt"></span>
+    <button id="dl" disabled>결정 파일 받기 (JSON)</button>
+  </div>
+</main>
+<div class="toast" id="toast" role="status"></div>
+
+<script>
+const PAGE = 25;
+const TIER = { basic: '기본', familiar: '익숙한', core: '핵심', advanced: '심화', phrase: '숙어' };
+const POS = { n: '명사', v: '동사', adj: '형용사', adv: '부사', prep: '전치사', conj: '접속사', det: '한정사', pron: '대명사', phrase: '숙어' };
+const DECISION = { human_approved: '승인', needs_fix: '수정 필요', rejected: '반려' };
+const FIELD = { meaning: '뜻', explanation: '설명', collocation: '연어', collocationKo: '연어 뜻', en1: '예문1', ko1: '번역1', en2: '예문2', ko2: '번역2', synonyms: '유의어', sense: '뜻' };
+
+const S = {
+  items: [], byId: new Map(), decisions: new Map(), reviewers: new Map(),
+  db: null, user: null, uid: null, canWrite: true, page: 0, focus: 0, shown: [],
+};
+const use = (name) => (window.claude && claude.use ? claude.use(name) : Promise.resolve(null));
+const $ = (id) => document.getElementById(id);
+const el = (tag, cls, text) => { const n = document.createElement(tag); if (cls) n.className = cls; if (text != null) n.textContent = text; return n; };
+
+function toast(msg) {
+  const t = $('toast'); t.textContent = msg; t.classList.add('show');
+  clearTimeout(toast.timer); toast.timer = setTimeout(() => t.classList.remove('show'), 2200);
+}
+
+function state(item) {
+  const d = S.decisions.get(item.id);
+  if (!d) return 'pending';
+  return d.inputHash === item.hash ? d.decision : 'stale';
+}
+
+function highlight(node, text, hw) {
+  const words = hw.split(' ').filter(w => w.length > 2 && !['the', 'and', 'for', 'one'].includes(w.toLowerCase()));
+  if (!words.length) { node.textContent = text; return; }
+  const stem = (w) => w.length > 4 ? w.slice(0, w.length - (w.endsWith('e') || w.endsWith('y') ? 1 : 0)) : w;
+  const re = new RegExp('\\b(' + words.map(w => stem(w).replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('|') + ')[a-z]*', 'gi');
+  let last = 0;
+  for (const m of text.matchAll(re)) {
+    node.append(text.slice(last, m.index), el('mark', null, m[0]));
+    last = m.index + m[0].length;
+  }
+  node.append(text.slice(last));
+}
+
+function filtered() {
+  const q = $('q').value.trim().toLowerCase();
+  const fs = $('fState').value, ft = $('fTier').value, fc = $('fCodex').value;
+  return S.items.filter(it => {
+    if (ft && it.tier !== ft) return false;
+    if (fc === 'flagged' ? it.codex === 'ok' : fc && it.codex !== fc) return false;
+    const st = state(it);
+    if (fs === 'pending' ? !(st === 'pending' || st === 'stale') : fs !== 'all' && st !== fs) return false;
+    if (q) {
+      const hay = [it.hw, it.meaning, it.expl, it.col, it.colKo, ...it.ex.flat()].join(' ').toLowerCase();
+      if (!hay.includes(q)) return false;
+    }
+    return true;
+  });
+}
+
+function renderCounts() {
+  const c = { human_approved: 0, needs_fix: 0, rejected: 0, pending: 0, stale: 0 };
+  for (const it of S.items) c[state(it)]++;
+  const total = S.items.length || 1;
+  const bar = $('bar'); bar.replaceChildren();
+  for (const [k, color] of [['human_approved', 'var(--ok)'], ['needs_fix', 'var(--fix)'], ['rejected', 'var(--bad)']]) {
+    const i = el('i'); i.style.width = (c[k] / total * 100) + '%'; i.style.background = color; bar.append(i);
+  }
+  const box = $('counts'); box.replaceChildren();
+  const add = (label, n, color) => {
+    const s = el('span'); if (color) { const d = el('span', 'dot'); d.style.background = color; s.append(d); }
+    s.append(label + ' '); s.append(el('b', null, n.toLocaleString('ko-KR'))); box.append(s);
+  };
+  add('승인', c.human_approved, 'var(--ok)');
+  add('수정 필요', c.needs_fix, 'var(--fix)');
+  add('반려', c.rejected, 'var(--bad)');
+  add('남음', c.pending + c.stale, 'var(--line)');
+  if (c.stale) add('그중 원고 바뀜', c.stale);
+  add('전체', S.items.length);
+}
+
+async function renderList(keepFocus) {
+  const all = filtered();
+  const pages = Math.max(1, Math.ceil(all.length / PAGE));
+  S.page = Math.min(S.page, pages - 1);
+  S.shown = all.slice(S.page * PAGE, S.page * PAGE + PAGE);
+  if (!keepFocus) S.focus = 0;
+  const ids = [...new Set(S.shown.map(it => S.decisions.get(it.id)?.reviewerId).filter(Boolean))];
+  const profiles = S.user && ids.length ? await S.user.profiles(ids) : {};
+  const list = $('list'); list.replaceChildren();
+  if (!S.shown.length) list.append(el('div', 'empty', S.items.length ? '조건에 맞는 뜻이 없어요.' : '뜻 목록을 불러오는 중이에요.'));
+  S.shown.forEach((it, n) => list.append(card(it, n, profiles)));
+  const pager = $('pager'); pager.replaceChildren();
+  if (all.length > PAGE) {
+    const prev = el('button', null, '이전'); prev.disabled = S.page === 0;
+    prev.onclick = () => { S.page--; renderList(); window.scrollTo(0, 0); };
+    const next = el('button', null, '다음'); next.disabled = S.page >= pages - 1;
+    next.onclick = () => { S.page++; renderList(); window.scrollTo(0, 0); };
+    pager.append(prev, el('span', null, `${S.page + 1} / ${pages}쪽 · ${all.length.toLocaleString('ko-KR')}개`), next);
+  } else if (all.length) {
+    pager.append(el('span', null, `${all.length.toLocaleString('ko-KR')}개`));
+  }
+}
+
+function card(it, n, profiles) {
+  const st = state(it), d = S.decisions.get(it.id);
+  const c = el('article', 'card d-' + st); c.tabIndex = -1; c.dataset.n = n; c.dataset.id = it.id;
+  c.addEventListener('focus', () => { S.focus = n; });
+  const head = el('div', 'head');
+  head.append(el('span', 'hw', it.hw), el('span', 'chip', POS[it.pos] || it.pos), el('span', 'chip', TIER[it.tier] || it.tier),
+    el('span', 'chip codex-' + it.codex, 'Codex ' + it.codex));
+  c.append(head, el('p', 'meaning', it.meaning), el('p', 'expl', it.expl));
+  const dl = el('dl');
+  const row = (k, v) => { dl.append(el('dt', null, k)); dl.append(v); };
+  const col = el('dd'); col.append(it.col + ' '); col.append(el('span', 'ko', it.colKo)); row('연어', col);
+  it.ex.forEach(([en, ko], i) => {
+    const dd = el('dd'); const e = el('span'); highlight(e, en, it.hw); dd.append(e, el('span', 'ko', ko)); row('예문 ' + (i + 1), dd);
+  });
+  if (it.syn) row('유의어', el('dd', null, it.syn.split(',').join(', ') + ' (객관식 오답에서 빠짐)'));
+  c.append(dl);
+  if (it.issues.length) {
+    const box = el('div', 'issues');
+    for (const [f, problem, suggestion] of it.issues) {
+      const p = el('p'); p.append(el('b', null, (FIELD[f] || f) + ' '), problem + ' → ' + suggestion); box.append(p);
+    }
+    c.append(box);
+  }
+  const actions = el('div', 'actions');
+  const btn = (cls, decision, label) => {
+    const b = el('button', cls + (st === decision ? ' on' : ''), label);
+    b.disabled = !S.db || !S.canWrite;
+    b.onclick = () => choose(it, decision, c);
+    actions.append(b);
+  };
+  btn('ok', 'human_approved', '승인');
+  btn('fix', 'needs_fix', '수정 필요');
+  btn('bad', 'rejected', '반려');
+  if (d) {
+    const label = S.reviewers.get(d.reviewerId) || profiles[d.reviewerId]?.name || '검수자';
+    const when = new Date(d.decidedAt).toLocaleString('ko-KR', { month: 'numeric', day: 'numeric', hour: '2-digit', minute: '2-digit' });
+    const who = el('span', 'who' + (st === 'stale' ? ' stale' : ''),
+      st === 'stale' ? `원고가 바뀌어 다시 봐야 해요 (이전: ${DECISION[d.decision]} · ${label})` : `${DECISION[d.decision]} · ${label} · ${when}`);
+    actions.append(who);
+    if (st !== 'stale' && S.db && S.canWrite) {
+      const undo = el('button', 'ghost', '취소'); undo.onclick = () => clear(it); actions.append(undo);
+    }
+  }
+  c.append(actions);
+  const form = el('div', 'noteform');
+  const ta = el('textarea'); ta.placeholder = '무엇을 고쳐야 하는지, 왜 반려하는지 적어 주세요'; ta.setAttribute('aria-label', '이유');
+  const save = el('button', 'primary', '저장');
+  form.append(ta, save);
+  c.append(form);
+  if (d && st !== 'stale' && d.note) c.append(el('p', 'savednote', '이유: ' + d.note));
+  return c;
+}
+
+function choose(it, decision, c) {
+  if (!S.reviewers.get(S.uid)) { askName(); toast('먼저 검수자 이름을 저장해 주세요'); $('status').scrollIntoView(); return; }
+  if (decision === 'human_approved') return write(it, decision, '');
+  const form = c.querySelector('.noteform'), ta = form.querySelector('textarea'), save = form.querySelector('button');
+  const d = S.decisions.get(it.id);
+  form.classList.add('open'); ta.value = d && d.decision === decision && d.inputHash === it.hash ? d.note : '';
+  save.textContent = DECISION[decision] + '로 저장';
+  ta.focus();
+  const submit = () => {
+    const note = ta.value.trim();
+    if (!note) { toast('이유를 적어야 저장돼요'); ta.focus(); return; }
+    form.classList.remove('open');
+    write(it, decision, note);
+  };
+  save.onclick = submit;
+  ta.onkeydown = (e) => { if (e.key === 'Enter' && (e.metaKey || e.ctrlKey)) submit(); if (e.key === 'Escape') { closeForm(form); c.focus(); } };
+}
+
+function ref(it) { return S.db.collection('review/' + it.part + '/decisions').doc(it.id); }
+const pending = new Map();
+
+async function write(it, decision, note) {
+  if (pending.get(it.id)) return;
+  pending.set(it.id, true);
+  S.deferred = false;
+  try {
+    await ref(it).set({ senseKey: it.key, inputHash: it.hash, decision, note, reviewerId: S.uid, decidedAt: new Date().toISOString() });
+    toast(`${it.hw}: ${DECISION[decision]}`);
+    renderCounts(); await renderList(true);
+    if ($('fState').value === 'pending') moveFocusAfterWrite();
+  } catch (e) { fail(e); } finally { pending.delete(it.id); }
+}
+
+async function clear(it) {
+  try { await ref(it).delete(); toast(`${it.hw}: 결정을 취소했어요`); } catch (e) { fail(e); }
+}
+
+function fail(e) {
+  if (e && e.code === 'invalid_argument') {
+    S.canWrite = false; renderStatus(); renderList(true);
+    toast('이 화면에서는 결정을 저장할 수 없어요');
+  } else if (e && e.code === 'quota_exceeded') {
+    toast('저장 공간이 가득 찼어요');
+  } else {
+    toast('저장하지 못했어요. 잠시 뒤 다시 눌러 주세요');
+  }
+}
+
+function moveFocusAfterWrite() {
+  // 미결정 목록에서는 결정한 카드가 빠지므로 같은 자리의 다음 카드에 머문다.
+  requestAnimationFrame(() => focusCard(S.focus));
+}
+
+function focusCard(n) {
+  const cards = [...document.querySelectorAll('.card')];
+  if (!cards.length) return;
+  const c = cards[Math.max(0, Math.min(n, cards.length - 1))];
+  c.focus({ preventScroll: true });
+  c.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+}
+
+document.addEventListener('keydown', (e) => {
+  if (e.target.matches('input, textarea, select') || e.metaKey || e.ctrlKey || e.altKey) return;
+  const key = e.key.toLowerCase();
+  if (key === 'j' || key === 'k') { e.preventDefault(); focusCard(S.focus + (key === 'j' ? 1 : -1)); return; }
+  const map = { a: 'human_approved', f: 'needs_fix', r: 'rejected' };
+  if (map[key] && S.shown[S.focus] && S.db && S.canWrite) {
+    e.preventDefault();
+    const c = document.querySelector(`.card[data-n="${S.focus}"]`);
+    choose(S.shown[S.focus], map[key], c);
+  }
+});
+
+let scheduled = false;
+function rerender() {
+  if (scheduled) return;
+  scheduled = true;
+  requestAnimationFrame(() => {
+    scheduled = false; renderCounts();
+    // 이유를 적는 중에는 목록을 다시 그리지 않는다(다른 검수자의 저장이 입력을 지우지 않게).
+    if (document.querySelector('.noteform.open')) S.deferred = true; else renderList(true);
+  });
+}
+
+function closeForm(form) {
+  form.classList.remove('open');
+  if (S.deferred) { S.deferred = false; renderList(true).then(() => focusCard(S.focus)); }
+}
+
+function renderStatus() {
+  const box = $('status');
+  let msg = '';
+  if (!S.db) msg = '이 화면에서는 결정을 저장할 수 없어요. claude.ai에 로그인한 상태로 열어 주세요.';
+  else if (!S.canWrite) msg = '보기 전용이에요. 결정을 남기려면 소유자에게 기여자(Contributor) 이상의 권한을 받아 주세요.';
+  else if (!S.uid) msg = '계정 정보를 받지 못해 결정을 남길 수 없어요.';
+  if (msg) { box.replaceChildren(el('div', 'notice warn', msg)); return; }
+  if (S.reviewers.get(S.uid) && !S.renaming) box.replaceChildren();
+  else askName();
+}
+
+function askName() {
+  const box = $('status');
+  if (box.querySelector('.name')) return;
+  const n = el('div', 'notice');
+  n.append('승인 기록에 남길 검수자 이름을 정해 주세요. 출시 기록(decisions.jsonl)에 이 이름이 들어가요.');
+  const row = el('div', 'name');
+  const input = el('input'); input.placeholder = '예: 홍길동'; input.setAttribute('aria-label', '검수자 이름'); input.maxLength = 40;
+  input.value = S.reviewers.get(S.uid) || '';
+  if (!input.value && S.user) S.user.me().then(me => { if (!input.value) input.value = me.name || ''; });
+  const save = el('button', 'primary', '저장');
+  save.onclick = async () => {
+    const label = input.value.trim();
+    if (!label) { toast('이름을 적어 주세요'); return; }
+    if (['codex', 'claude', 'gpt', 'llm', 'ai'].includes(label.toLowerCase())) { toast('사람 이름을 적어 주세요'); return; }
+    try { await S.db.doc('reviewers/' + S.uid).set({ label }); S.renaming = false; toast('검수자 이름을 저장했어요'); }
+    catch (e) { fail(e); }
+  };
+  row.append(input, save);
+  n.append(row);
+  box.replaceChildren(n);
+}
+
+async function renderMe() {
+  if (!S.user) return;
+  const me = await S.user.me();
+  const label = S.reviewers.get(S.uid);
+  const parts = [];
+  if (me.id) {
+    const img = el('img'); img.src = me.avatarUrl; img.alt = '';
+    parts.push(img, el('span', null, label ? '검수자 ' + label : (me.name || '나')));
+    if (label && S.canWrite) {
+      const change = el('button', 'ghost', '이름 바꾸기');
+      change.onclick = () => { S.renaming = true; askName(); };
+      parts.push(change);
+    }
+  }
+  $('me').replaceChildren(...parts);
+}
+
+async function download() {
+  const out = [];
+  for (const it of S.items) {
+    const d = S.decisions.get(it.id);
+    if (!d) continue;
+    out.push({ senseKey: it.key, inputHash: d.inputHash, decision: d.decision, note: d.note || '',
+      reviewer: S.reviewers.get(d.reviewerId) || '', reviewerId: d.reviewerId, decidedAt: d.decidedAt });
+  }
+  if (!out.length) { toast('아직 내보낼 결정이 없어요'); return; }
+  const downloads = await use('downloads');
+  if (!downloads) { toast('이 화면에서는 파일을 받을 수 없어요'); return; }
+  const stamp = new Date().toISOString().slice(0, 16).replace(/[-:T]/g, '');
+  try {
+    await downloads.save({ filename: `revoca-decisions-${stamp}.json`, data: JSON.stringify({ exportedAt: new Date().toISOString(), decisions: out }, null, 1) });
+    toast(`결정 ${out.length}개를 내보냈어요`);
+  } catch (e) {
+    if (e?.code !== 'declined') toast('파일을 저장하지 못했어요');
+  }
+}
+
+for (const id of ['fState', 'fTier', 'fCodex']) $(id).addEventListener('change', () => { S.page = 0; renderList(); });
+let qTimer;
+$('q').addEventListener('input', () => { clearTimeout(qTimer); qTimer = setTimeout(() => { S.page = 0; renderList(); }, 200); });
+$('dl').addEventListener('click', download);
+
+async function loadItems() {
+  try {
+    const res = await fetch('senses.json');
+    const data = await res.json();
+    S.items = data.items;
+    for (const it of S.items) S.byId.set(it.id, it);
+    $('genAt').textContent = '원고 기준 ' + new Date(data.generatedAt).toLocaleString('ko-KR') + ' · 뜻 ' + S.items.length.toLocaleString('ko-KR') + '개';
+  } catch (e) {
+    $('list').replaceChildren(el('div', 'empty', '뜻 목록을 불러오지 못했어요. 새로고침해 주세요.'));
+    return false;
+  }
+  return true;
+}
+
+function subscribe() {
+  const parts = [...new Set(S.items.map(it => it.part))];
+  for (const part of parts) {
+    S.db.collection('review/' + part + '/decisions').onSnapshot((snap) => {
+      for (const ch of snap.docChanges()) {
+        if (ch.type === 'removed') S.decisions.delete(ch.doc.id);
+        else S.decisions.set(ch.doc.id, ch.doc.data());
+      }
+      rerender();
+    }, (e) => { if (e.code === 'revoked') { S.db = null; renderStatus(); rerender(); } });
+  }
+  S.db.collection('reviewers').onSnapshot((snap) => {
+    for (const ch of snap.docChanges()) {
+      if (ch.type === 'removed') S.reviewers.delete(ch.doc.id);
+      else S.reviewers.set(ch.doc.id, String(ch.doc.data().label || ''));
+    }
+    renderStatus(); renderMe(); rerender();
+  });
+}
+
+(async () => {
+  const ok = await loadItems();
+  renderCounts(); renderList();
+  if (!ok) return;
+  [S.db, S.user] = await Promise.all([use('db'), use('user')]);
+  if (S.user) {
+    S.uid = await S.user.id();
+    const can = await S.user.can('data.write');
+    if (can === false) S.canWrite = false;
+  }
+  if (S.db) subscribe();
+  renderStatus(); renderMe();
+  $('dl').disabled = !S.db;
+  rerender();
+})();
+</script>
