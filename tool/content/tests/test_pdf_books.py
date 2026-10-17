@@ -13,6 +13,9 @@ class PdfBooksTest(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         path = Path(__file__).parent/'fixtures/pdf-books-layout.json.gz'
+        if not path.exists():
+            # 교재 페이지가 담긴 고정 데이터는 공개 저장소에 올리지 않는다.
+            raise unittest.SkipTest('local-only PDF layout fixture is missing')
         with gzip.open(path,'rt',encoding='utf-8') as stream:
             cls.pages = json.load(stream)
 

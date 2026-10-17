@@ -1,0 +1,35 @@
+name: test
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  content:
+    name: 콘텐츠 파이프라인 (Python)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: tool/content/requirements.txt
+      - run: pip install -r tool/content/requirements.txt
+      # 교재 PDF·추출본에 기대는 테스트는 파일이 없으면 스스로 건너뛴다.
+      - run: python -m unittest discover -s tool/content/tests -p 'test_*.py' -t .
+
+  app:
+    name: 앱 (Flutter)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: subosito/flutter-action@v2
+        with:
+          flutter-version: '3.41.6'
+          channel: stable
+          cache: true
+      - run: flutter pub get
+      - run: flutter analyze
+      - run: flutter test

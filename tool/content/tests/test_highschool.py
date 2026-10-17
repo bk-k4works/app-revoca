@@ -32,8 +32,9 @@ class HighSchoolTest(unittest.TestCase):
         self.assertEqual(ranks, list(range(1, 2001)))
         order = list(highschool.TIERS)
         self.assertEqual([r['tier'] for r in rows], sorted((r['tier'] for r in rows), key=order.index))
-        provenance = read_json(highschool.HS_PROVENANCE)
-        self.assertEqual(set(provenance['headwords']), {r['headword'] for r in rows})
+        if highschool.HS_PROVENANCE.exists():  # 교재 대조 파일은 로컬에만 둔다
+            provenance = read_json(highschool.HS_PROVENANCE)
+            self.assertEqual(set(provenance['headwords']), {r['headword'] for r in rows})
 
     def test_short_trailing_chunk_joins_previous_deck(self):
         rows = {f'w{i}': {'tier': 'basic', 'rank': str(i)} for i in range(23)}
