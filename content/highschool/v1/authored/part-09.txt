@@ -1,6 +1,6 @@
 # 고교 기본 412–481위. 표제어 목록만 참고하여 독자 작성.
 relax|v|rest|휴식을 취하다; 긴장을 풀다|일을 멈추고 마음과 몸을 편하게 할 때 써요.|relax at home|집에서 쉬다|I like to relax by listening to music.|나는 음악을 들으며 쉬는 것을 좋아한다.|Take a deep breath and try to relax.|심호흡을 하고 긴장을 풀어 보아라.|rest
-relax|v|loosen|(규칙을) 완화하다|규칙이나 힘을 느슨하게 할 때 써요.|relax the rules|규칙을 완화하다|The school relaxed its rules on hair color.|학교는 머리 색깔에 관한 규칙을 완화했다.|Relax your grip on the bat a little.|방망이를 쥔 손의 힘을 조금 빼라.
+relax|v|loosen|느슨하게 하다; 완화하다|규칙을 덜 엄격하게 하거나 쥔 힘을 풀 때 써요.|relax the rules|규칙을 완화하다|The school relaxed its rules on hair color.|학교는 머리 색깔에 관한 규칙을 완화했다.|Relax your grip on the bat a little.|방망이를 쥔 손의 힘을 조금 빼라.
 rely|v|depend|의지하다; 믿다|rely on으로 무엇에 기대거나 믿을 때 써요.|rely on|~에 의지하다|Many students rely on their phones for information.|많은 학생이 정보를 얻으려고 휴대전화에 의존한다.|You can always rely on me.|너는 언제나 나를 믿어도 된다.|depend
 tale|n|story|설화; (지어낸) 이야기|흔히 지어낸 옛이야기예요.|a fairy tale|동화|My grandmother told us old tales from her village.|할머니는 고향 마을의 옛이야기를 들려주셨다.|The movie is based on a famous fairy tale.|그 영화는 유명한 동화를 바탕으로 한다.|story
 involve|v|include|수반하다; 포함하다|어떤 일에 무엇이 필요하거나 들어 있을 때 써요.|involve risk|위험이 따르다|The job involves a lot of travel.|그 일은 출장이 많다.|Learning a language involves a lot of practice.|언어를 배우는 데는 많은 연습이 필요하다.|include
@@ -11,7 +11,7 @@ slip|v|slide|미끄러지다|발이 미끄러져 넘어질 때 써요.|slip on i
 slip|v|move-quietly|살짝 넣다; 빠져나가다|조용하고 재빠르게 움직일 때 써요.|slip out|살짝 빠져나가다|He slipped a note into my pocket.|그는 내 주머니에 쪽지를 슬쩍 넣었다.|She slipped out of the room during the speech.|그녀는 연설 도중 방을 살짝 빠져나갔다.
 slip|n|small-paper|쪽지; 전표|작은 종잇조각이에요.|a slip of paper|종잇조각|Write your name on a slip of paper.|종잇조각에 이름을 써라.|Keep the payment slip as proof.|증거로 지불 전표를 보관해라.
 spare|adj|extra|여분의; 남는|당장 쓰지 않고 남아 있는 것이에요.|spare time|여가 시간|What do you do in your spare time?|너는 여가 시간에 무엇을 하니?|Always carry a spare key.|항상 여분의 열쇠를 가지고 다녀라.|extra
-spare|v|give|(시간·돈을) 내주다; 아끼다|자기에게 필요한 것을 남에게 나누어 줄 때 써요.|spare time for|~에 시간을 내다|Can you spare a few minutes to help me?|나를 도와줄 시간을 몇 분 낼 수 있니?|No effort was spared to save the forest.|숲을 지키기 위해 모든 노력을 아끼지 않았다.
+spare|v|give|(시간·돈을) 내주다; 아끼다|시간·돈을 내주거나 노력을 아끼지 않을 때 써요.|spare time for|~에 시간을 내다|Can you spare a few minutes to help me?|나를 도와줄 시간을 몇 분 낼 수 있니?|No effort was spared to save the forest.|숲을 지키기 위해 모든 노력을 아끼지 않았다.
 tap|v|knock-lightly|가볍게 두드리다|손가락으로 톡톡 칠 때 써요.|tap on the shoulder|어깨를 톡톡 치다|Someone tapped me on the shoulder.|누군가 내 어깨를 톡톡 쳤다.|Tap the screen twice to open the app.|앱을 열려면 화면을 두 번 두드려라.
 tap|n|faucet|수도꼭지|물을 틀고 잠그는 장치예요.|turn off the tap|수도꼭지를 잠그다|Turn off the tap while you brush your teeth.|양치하는 동안에는 수도꼭지를 잠가라.|The water from the tap is safe to drink.|수돗물은 마셔도 안전하다.
 tap|v|use|(자원을) 활용하다|tap into로 숨은 능력이나 자원을 끌어 쓸 때 써요.|tap into|~을 활용하다|The program helps students tap into their creativity.|그 프로그램은 학생들이 창의력을 끌어내도록 돕는다.|The country plans to tap its solar energy resources.|그 나라는 태양 에너지 자원을 활용할 계획이다.|use
@@ -20,7 +20,7 @@ volunteer|v|offer-help|자원하다; 자원봉사하다|시키지 않아도 스�
 dawn|n|sunrise|새벽; 시작|해가 뜰 무렵이나 어떤 일의 시작이에요.|at dawn|새벽에|The farmers start work at dawn.|농부들은 새벽에 일을 시작한다.|The invention marked the dawn of a new age.|그 발명은 새로운 시대의 시작을 알렸다.
 dawn|v|realize|(사실이) 분명해지다; 문득 깨닫게 되다|dawn on으로 어떤 사실을 문득 깨달을 때 써요.|it dawned on me|문득 깨달았다|It suddenly dawned on me that I had left my keys at home.|열쇠를 집에 두고 왔다는 것을 문득 깨달았다.|It finally dawned on him that she was right.|그는 마침내 그녀가 옳았다는 것을 깨달았다.
 announce|v|make-known|발표하다; 알리다|공식적으로 사람들에게 알릴 때 써요.|announce the winner|우승자를 발표하다|The principal announced the results of the contest.|교장 선생님이 대회 결과를 발표하셨다.|They announced that the flight was cancelled.|그들은 비행기가 결항되었다고 알렸다.
-breathe|v|take-air|숨 쉬다; 호흡하다|공기를 들이마시고 내쉴 때 써요.|breathe deeply|깊이 숨 쉬다|Breathe slowly through your nose.|코로 천천히 숨을 쉬어라.|Fish breathe through their gills.|물고기는 아가미로 호흡한다.
+breathe|v|take-air|숨 쉬다; 호흡하다|공기를 들이마시고 내쉴 때 써요.|breathe deeply|깊이 숨 쉬다|Breathe slowly through your nose while counting to five.|다섯까지 세며 코로 천천히 숨을 쉬어라.|Fish breathe through their gills.|물고기는 아가미로 호흡한다.
 convince|v|persuade|확신시키다; 설득하다|다른 사람이 믿거나 행동하도록 할 때 써요.|be convinced that|~을 확신하다|She convinced her parents to buy a dog.|그녀는 부모님을 설득해서 개를 사게 했다.|I am convinced that we can win.|나는 우리가 이길 수 있다고 확신한다.|persuade
 instrument|n|music-device|악기|음악을 연주하는 도구예요.|play an instrument|악기를 연주하다|Can you play any musical instruments?|너는 연주할 수 있는 악기가 있니?|The violin is a difficult instrument to learn.|바이올린은 배우기 어려운 악기이다.
 instrument|n|tool|기구; 도구|정밀한 일을 하는 데 쓰는 도구예요.|medical instruments|의료 기구|Doctors must clean their instruments carefully.|의사들은 기구를 꼼꼼히 소독해야 한다.|The ship uses instruments to measure wind speed.|그 배는 풍속을 재는 기구를 쓴다.|tool
@@ -28,7 +28,7 @@ panic|n|sudden-fear|극심한 공포; 공황|갑자기 몹시 두려워 어쩔 �
 panic|v|lose-control|당황하다; 겁에 질리다|너무 놀라서 침착함을 잃을 때 써요.|do not panic|당황하지 마라|Do not panic if you forget a word during the speech.|연설 중에 단어를 잊어버려도 당황하지 마라.|People started to panic when the ground shook.|땅이 흔들리자 사람들이 겁에 질리기 시작했다.
 enormous|adj|huge|거대한; 막대한|크기나 양이 아주 큰 것이에요.|an enormous amount|막대한 양|An enormous ship came into the port.|거대한 배가 항구로 들어왔다.|The project needs an enormous amount of money.|그 프로젝트에는 막대한 돈이 필요하다.|huge
 forgive|v|pardon|용서하다|잘못한 사람을 탓하지 않기로 할 때 써요.|forgive a mistake|실수를 용서하다|Please forgive me for being late.|늦은 것을 용서해 달라.|She forgave her brother for breaking her phone.|그녀는 자기 휴대전화를 망가뜨린 남동생을 용서했다.|pardon
-shelter|n|safe-place|피난처; 보호소|위험이나 날씨를 피하는 곳이에요.|an animal shelter|동물 보호소|We found shelter from the rain under a bridge.|우리는 다리 밑에서 비를 피했다.|Food and shelter are basic human needs.|음식과 집은 인간의 기본적인 필요이다.
+shelter|n|safe-place|피난처; 보호소|위험이나 날씨를 피하는 곳이에요.|an animal shelter|동물 보호소|We found shelter from the rain under a bridge.|우리는 다리 밑에서 비를 피했다.|Food and shelter are basic human needs.|음식과 거처는 인간의 기본적인 필요다.
 shelter|v|protect|보호하다; 피하다|위험이나 날씨로부터 막아 줄 때 써요.|shelter from|~을 피하다|The trees sheltered the house from the wind.|나무들이 바람으로부터 집을 막아 주었다.|We sheltered in a cave during the storm.|폭풍 동안 우리는 동굴에서 피했다.|protect
 vary|v|differ|다양하다; 다르다|조건에 따라 서로 다를 때 써요.|vary from A to B|A에서 B까지 다양하다|Prices vary from store to store.|가격은 가게마다 다르다.|The weather here varies a lot during the day.|이곳 날씨는 하루 중에도 많이 변한다.|differ
 dirt|n|soil-or-mess|흙; 먼지|흙이나 더러운 것이에요.|a dirt road|비포장도로|The children were covered in dirt after playing.|아이들은 놀고 나서 흙투성이가 되었다.|Wipe the dirt off your shoes.|신발에 묻은 흙을 닦아라.
@@ -39,14 +39,14 @@ wound|v|injure|부상을 입히다; 상처를 주다|몸이나 마음을 다치�
 expense|n|cost|(드는) 비용; 지출|무엇에 드는 돈이에요.|at the expense of|~을 희생하여|Living expenses in the city are high.|도시의 생활비는 비싸다.|He built the house at his own expense.|그는 자기 돈으로 그 집을 지었다.|cost
 recipe|n|cooking-steps|조리법; 비결|음식을 만드는 방법이나 무엇을 이루는 방법이에요.|a recipe for|~의 비결|Can you share your recipe for this soup?|이 수프의 조리법을 알려 줄 수 있니?|Hard work is the recipe for success.|노력은 성공의 비결이다.
 dig|v|make-hole|파다|땅에 구멍을 낼 때 써요.|dig a hole|구멍을 파다|The dog dug a hole in the garden.|개가 정원에 구멍을 팠다.|Workers are digging a tunnel under the river.|노동자들이 강 밑에 터널을 파고 있다.
-fever|n|high-temperature|열; 열기|아플 때 몸의 온도가 올라가는 것이에요.|have a fever|열이 나다|She stayed home because she had a fever.|그녀는 열이 나서 집에 있었다.|World Cup fever swept the country.|월드컵 열기가 온 나라를 휩쓸었다.
+fever|n|high-temperature|열; 열기|아플 때 체온이 오르는 상태나 어떤 일에 대한 뜨거운 열기를 뜻해요.|have a fever|열이 나다|She stayed home because she had a fever.|그녀는 열이 나서 집에 있었다.|World Cup fever swept the country.|월드컵 열기가 온 나라를 휩쓸었다.
 twist|v|turn|비틀다; 삐다|돌려서 꼬거나 발목을 삘 때 써요.|twist your ankle|발목을 삐다|I twisted my ankle while playing soccer.|나는 축구를 하다가 발목을 삐었다.|Twist the lid to open the jar.|병을 열려면 뚜껑을 돌려라.
 twist|n|change|반전; 뜻밖의 전개|이야기나 상황이 갑자기 바뀌는 것이에요.|a surprising twist|놀라운 반전|The movie has an amazing twist at the end.|그 영화는 마지막에 놀라운 반전이 있다.|In a strange twist, the loser became the hero.|기묘하게도 패자가 영웅이 되었다.
 poet|n|writer-of-poems|시인|시를 쓰는 사람이에요.|a famous poet|유명한 시인|The poet wrote about nature and love.|그 시인은 자연과 사랑에 대해 썼다.|She became a poet at a young age.|그녀는 어린 나이에 시인이 되었다.
-sink|v|go-down|가라앉다|물속으로 내려갈 때 써요.|sink to the bottom|바닥으로 가라앉다|The ship sank in the storm.|그 배는 폭풍 속에서 가라앉았다.|Stones sink but wood floats.|돌은 가라앉지만 나무는 뜬다.
+sink|v|go-down|가라앉다|물속으로 내려갈 때 써요.|sink to the bottom|바닥으로 가라앉다|The ship sank in the storm.|그 배는 폭풍 속에서 가라앉았다.|Stones sink to the bottom, but pieces of wood float.|돌은 바닥으로 가라앉지만 나무 조각은 뜬다.
 sink|n|basin|싱크대; 세면대|물을 받아 설거지하거나 씻는 곳이에요.|the kitchen sink|부엌 싱크대|Put the dirty dishes in the sink.|더러운 접시를 싱크대에 넣어라.|She washed her hands in the sink.|그녀는 세면대에서 손을 씻었다.
-attract|v|draw|끌어들이다; 끌다|관심이나 사람을 끌어당길 때 써요.|attract tourists|관광객을 끌다|The beautiful beaches attract many tourists.|아름다운 해변은 많은 관광객을 끌어들인다.|Bright flowers attract bees.|화려한 꽃은 벌을 끌어들인다.|draw
-demonstrate|v|show|보여 주다; 증명하다|직접 해 보이거나 증거로 보여 줄 때 써요.|demonstrate how to|~하는 법을 보여 주다|The teacher demonstrated how to use the machine.|선생님이 그 기계 사용법을 직접 보여 주셨다.|The study demonstrates the value of sleep.|그 연구는 수면의 가치를 증명한다.|show
+attract|v|draw|끌어들이다; 끌다|관심이나 사람을 끌어당길 때 써요.|attract tourists|관광객을 끌다|The beautiful beaches attract many tourists.|아름다운 해변은 많은 관광객을 끌어들인다.|Bright flowers attract many bees to the garden.|화려한 꽃은 많은 벌을 정원으로 끌어들인다.|draw
+demonstrate|v|show|보여 주다; 증명하다|직접 해 보이거나 증거로 보여 줄 때 써요.|demonstrate how to|~하는 법을 보여 주다|The teacher demonstrated how to use the machine.|선생님이 그 기계 사용법을 직접 보여 주셨다.|The study demonstrates the value of sleep.|그 연구는 수면의 가치를 보여 준다.|show
 demonstrate|v|protest|시위하다|공개적으로 모여 반대 의견을 나타낼 때 써요.|demonstrate against|~에 반대하는 시위를 하다|Thousands demonstrated against the new tax.|수천 명이 새 세금에 반대하는 시위를 했다.|Students demonstrated in front of the city hall.|학생들이 시청 앞에서 시위했다.|protest
 depend|v|rely|(상황에) 달려 있다; 좌우되다|'It depends.'처럼 상황에 따라 달라질 때 써요.|it depends|상황에 따라 다르다|Can you come tomorrow? It depends.|내일 올 수 있니? 상황에 따라 다르다.|Depending on the weather, we will go to the beach or the museum.|날씨에 따라 우리는 해변이나 박물관에 갈 것이다.|rely
 resist|v|fight-against|저항하다; 참다|힘에 맞서거나 하고 싶은 것을 참을 때 써요.|resist change|변화에 저항하다|I could not resist eating another cookie.|나는 쿠키를 하나 더 먹고 싶은 마음을 참을 수 없었다.|The people resisted the enemy army.|사람들은 적군에 맞서 저항했다.
@@ -54,11 +54,11 @@ wrap|v|cover|싸다; 포장하다|종이나 천으로 둘러쌀 때 써요.|wrap
 adopt|v|take-child|입양하다|남의 아이나 동물을 가족으로 맞을 때 써요.|adopt a child|아이를 입양하다|They adopted a baby girl last year.|그들은 작년에 여자아이를 입양했다.|We adopted a dog from the shelter.|우리는 보호소에서 개를 입양했다.
 adopt|v|accept|채택하다; 받아들이다|새 방법이나 생각을 쓰기로 할 때 써요.|adopt a plan|계획을 채택하다|The school adopted a new uniform policy.|학교는 새 교복 방침을 채택했다.|Many countries adopted the new technology.|많은 나라가 그 새 기술을 받아들였다.|accept
 nerve|n|body-fiber|신경|몸의 느낌을 뇌로 전하는 조직이에요.|nerve cells|신경 세포|The nerves carry messages to the brain.|신경은 뇌로 신호를 전달한다.|The injury damaged a nerve in his hand.|그 부상으로 그의 손 신경이 손상되었다.
-nerve|n|courage|용기; 긴장|대담한 마음이나 긴장된 상태예요.|lose your nerve|용기를 잃다|It took a lot of nerve to speak in front of everyone.|모두 앞에서 말하는 데는 큰 용기가 필요했다.|He was suffering from nerves before the exam.|그는 시험 전에 긴장해서 힘들어했다.|courage
+nerve|n|courage|용기; (복수형 nerves) 긴장|단수형은 대담함을, 복수형 nerves는 긴장 상태를 뜻해요.|lose your nerve|용기를 잃다|It took a lot of nerve to speak in front of everyone.|모두 앞에서 말하는 데는 큰 용기가 필요했다.|He was suffering from nerves before the exam.|그는 시험 전에 긴장해서 힘들어했다.|courage
 trace|v|track|추적하다; 거슬러 올라가다|흔적을 따라 찾거나 기원을 밝힐 때 써요.|trace back to|~까지 거슬러 올라가다|The police traced the call to a public phone.|경찰은 그 전화를 공중전화까지 추적했다.|The tradition can be traced back to the 1800s.|그 전통은 1800년대까지 거슬러 올라간다.
-trace|n|mark|흔적; 자취|남아 있는 아주 작은 표시나 양이에요.|without a trace|흔적도 없이|The thief disappeared without a trace.|도둑은 흔적도 없이 사라졌다.|Tests found traces of poison in the water.|검사에서 물속에 독의 흔적이 발견되었다.|mark
+trace|n|mark|흔적; 자취; 극소량|남아 있는 아주 작은 표시나 양이에요.|without a trace|흔적도 없이|The thief disappeared without a trace.|도둑은 흔적도 없이 사라졌다.|Tests found traces of poison in the water.|검사에서 물속에 극소량의 독이 발견되었다.|mark
 examine|v|inspect|검사하다; 살펴보다|자세히 들여다보며 조사할 때 써요.|examine a patient|환자를 진찰하다|The doctor examined my throat.|의사가 내 목을 진찰했다.|The report examines the causes of the problem.|그 보고서는 그 문제의 원인을 살펴본다.|inspect
-moreover|adv|furthermore|게다가; 더욱이|앞 내용에 더 중요한 내용을 덧붙일 때 써요.|moreover, ...|게다가|The hotel is cheap. Moreover, it is near the beach.|그 호텔은 싸다. 게다가 해변과 가깝다.|Exercise is fun; moreover, it keeps you healthy.|운동은 재미있다. 더욱이 건강도 지켜 준다.|furthermore
+moreover|adv|furthermore|게다가; 더욱이|앞의 내용에 정보를 더 덧붙일 때 써요.|moreover, ...|게다가|The hotel is cheap. Moreover, it is near the beach.|그 호텔은 싸다. 게다가 해변과 가깝다.|Exercise is fun; moreover, it keeps you healthy.|운동은 재미있다. 더욱이 건강도 지켜 준다.|furthermore
 react|v|respond|반응하다|어떤 일에 대해 행동이나 감정을 보일 때 써요.|react to|~에 반응하다|How did your parents react to the news?|부모님은 그 소식에 어떻게 반응하셨니?|Some people react badly to certain foods.|어떤 사람들은 특정 음식에 나쁜 반응을 보인다.|respond
 scratch|v|rub-with-nails|긁다; 할퀴다|손톱이나 날카로운 것으로 문지를 때 써요.|scratch an itch|가려운 데를 긁다|Try not to scratch the mosquito bite.|모기 물린 곳을 긁지 않도록 해라.|The cat scratched my hand.|고양이가 내 손을 할퀴었다.
 scratch|n|from-zero|처음; 출발점|from scratch로 아무것도 없는 상태를 말해요.|from scratch|처음부터|She made the cake from scratch.|그녀는 그 케이크를 처음부터 직접 만들었다.|We had to start the project again from scratch.|우리는 그 프로젝트를 처음부터 다시 시작해야 했다.
@@ -74,7 +74,7 @@ scream|v|shout|비명을 지르다; 소리치다|무섭거나 아파서 크게 �
 bend|v|curve|구부리다; 굽히다|곧은 것을 휘거나 몸을 숙일 때 써요.|bend your knees|무릎을 굽히다|Bend your knees when you lift heavy things.|무거운 것을 들 때는 무릎을 굽혀라.|He bent down to pick up the coin.|그는 동전을 주우려고 몸을 굽혔다.
 bend|n|curve|굽은 곳; 커브|길이나 강이 휜 곳이에요.|a sharp bend|급커브|There is a sharp bend in the road ahead.|앞쪽 길에 급커브가 있다.|The house stands at a bend in the river.|그 집은 강이 굽어 도는 곳에 있다.|curve
 mud|n|wet-earth|진흙|물과 섞여 질척한 흙이에요.|covered in mud|진흙투성이인|The car got stuck in the mud.|차가 진흙에 빠졌다.|The children came home covered in mud.|아이들은 진흙투성이가 되어 집에 왔다.
-profession|n|career|전문직; 직업|전문 지식이 필요한 일이에요.|the teaching profession|교직|Nursing is a demanding profession.|간호는 힘든 직업이다.|What profession do you want to choose?|너는 어떤 직업을 택하고 싶니?|career
+profession|n|career|전문직; 직업|전문 지식이 필요한 일이에요.|the teaching profession|교직|Nursing is a demanding profession.|간호는 힘든 직업이다.|What profession would you like to pursue?|너는 어떤 직업을 갖고 싶니?
 charm|n|appeal|매력|사람을 끄는 좋은 점이에요.|the charm of|~의 매력|The small town has a special charm.|그 작은 마을에는 특별한 매력이 있다.|He won everyone over with his charm.|그는 매력으로 모두의 마음을 사로잡았다.|appeal
 charm|v|delight|매혹하다; 사로잡다|마음을 끌어 즐겁게 할 때 써요.|be charmed by|~에 매료되다|The singer charmed the audience with her voice.|그 가수는 목소리로 청중을 사로잡았다.|We were charmed by the old village.|우리는 그 오래된 마을에 매료되었다.
 cruel|adj|harsh|잔인한; 가혹한|남을 고통스럽게 하는 것이에요.|cruel to animals|동물에게 잔인한|It is cruel to keep a dog in a small cage.|개를 작은 우리에 가두는 것은 잔인하다.|Life can be cruel sometimes.|삶은 때때로 가혹할 수 있다.
@@ -83,16 +83,16 @@ freeze|v|become-ice|얼다; 얼리다|아주 차가워서 얼음이 될 때 써�
 freeze|v|stop-moving|얼어붙다; 멈추다|놀라서 꼼짝하지 못하거나 동결할 때 써요.|freeze prices|가격을 동결하다|She froze when she heard a strange noise.|그녀는 이상한 소리를 듣고 얼어붙었다.|The company froze hiring for a year.|그 회사는 1년 동안 채용을 동결했다.
 nowadays|adv|these-days|요즘에는|과거와 비교해 지금을 말할 때 써요.|nowadays, ...|요즘은|Nowadays, most people pay with their phones.|요즘은 대부분의 사람이 휴대전화로 결제한다.|Children nowadays spend less time outside.|요즘 아이들은 밖에서 보내는 시간이 적다.
 cliff|n|steep-rock|절벽|아주 가파르게 솟은 바위나 땅이에요.|the edge of a cliff|절벽 끝|The house stands on top of a cliff.|그 집은 절벽 꼭대기에 서 있다.|Waves crashed against the cliffs.|파도가 절벽에 부딪쳤다.
-hunger|n|need-for-food|배고픔; 굶주림|먹을 것이 필요한 느낌이나 상태예요.|die of hunger|굶어 죽다|Millions of people suffer from hunger.|수백만 명이 굶주림에 시달린다.|She has a hunger for knowledge.|그녀는 지식에 대한 갈망이 있다.
+hunger|n|need-for-food|배고픔; 굶주림; 갈망|먹을 것이 필요한 상태나 무언가를 강하게 바라는 마음이에요.|die of hunger|굶어 죽다|Millions of people suffer from hunger.|수백만 명이 굶주림에 시달린다.|She has a hunger for knowledge.|그녀는 지식에 대한 갈망이 있다.
 advise|v|give-advice|조언하다; 충고하다|어떻게 하면 좋을지 알려 줄 때 써요.|advise someone to|~에게 ~하라고 조언하다|The doctor advised me to get more sleep.|의사는 나에게 잠을 더 자라고 조언했다.|I would advise against swimming here.|이곳에서 수영하지 말라고 권하고 싶다.|suggest
 hug|v|embrace|껴안다|팔로 꼭 안아 줄 때 써요.|hug a friend|친구를 껴안다|She hugged her mother at the airport.|그녀는 공항에서 엄마를 껴안았다.|The children hugged their teacher goodbye.|아이들은 선생님을 껴안으며 작별 인사를 했다.|embrace
-intend|v|plan|의도하다; ~할 작정이다|intend to로 하려고 마음먹을 때 써요.|intend to|~할 작정이다|I intend to finish my homework tonight.|나는 오늘 밤 숙제를 끝낼 작정이다.|The book is intended for young readers.|그 책은 어린 독자를 위한 것이다.|plan
+intend|v|plan|의도하다; ~할 작정이다|intend to로 하려고 마음먹을 때 써요.|intend to|~할 작정이다|I intend to finish my homework tonight.|나는 오늘 밤 숙제를 끝낼 작정이다.|The school intends to build a new library next year.|학교는 내년에 새 도서관을 지을 작정이다.|plan
 fold|v|bend-over|접다; 개다|종이나 옷을 겹쳐 접을 때 써요.|fold your arms|팔짱을 끼다|Fold the paper in half.|종이를 반으로 접어라.|She folded the clothes and put them away.|그녀는 옷을 개서 치웠다.
 assess|v|evaluate|(가치·상황을) 판단하다; 평가하다|가치나 수준을 판단할 때 써요.|assess the damage|피해를 평가하다|Teachers assess students in many different ways.|교사들은 여러 가지 방식으로 학생을 평가한다.|Experts came to assess the damage after the storm.|폭풍 후 전문가들이 피해를 평가하러 왔다.|evaluate
 concentrate|v|focus|집중하다|한 가지에 정신을 모을 때 써요.|concentrate on|~에 집중하다|I cannot concentrate with all this noise.|이렇게 시끄러우면 나는 집중할 수 없다.|Concentrate on one task at a time.|한 번에 한 가지 일에 집중해라.|focus
 scare|v|frighten|겁주다; 놀라게 하다|무섭게 해서 놀라게 할 때 써요.|scare away|겁주어 쫓아 버리다|The loud thunder scared the children.|큰 천둥소리가 아이들을 겁먹게 했다.|The sudden noise scared the birds away.|갑작스러운 소리에 새들이 놀라 달아났다.|frighten
-toe|n|foot-part|발가락|발 끝에 있는 다섯 개의 가지예요.|stand on your toes|발끝으로 서다|I hurt my toe on the table leg.|나는 탁자 다리에 발가락을 다쳤다.|She stood on her toes to reach the shelf.|그녀는 선반에 닿으려고 발끝으로 섰다.
-observe|v|watch|관찰하다; 보다|주의 깊게 살펴볼 때 써요.|observe birds|새를 관찰하다|Scientists observed the stars all night.|과학자들은 밤새 별을 관찰했다.|I observed that she looked tired.|나는 그녀가 피곤해 보인다는 것을 알아차렸다.|watch
+toe|n|foot-part|발가락|발 앞부분에 있는 다섯 개의 발가락 중 하나예요.|stand on your toes|발끝으로 서다|I hurt my toe on the table leg.|나는 탁자 다리에 발가락을 다쳤다.|She stood on her toes to reach the shelf.|그녀는 선반에 닿으려고 발끝으로 섰다.
+observe|v|watch|관찰하다; 보다|주의 깊게 살펴볼 때 써요.|observe birds|새를 관찰하다|Scientists observed the stars all night.|과학자들은 밤새 별을 관찰했다.|I observed the birds building a nest.|나는 새들이 둥지를 짓는 모습을 관찰했다.|watch
 observe|v|obey|(규칙을) 지키다|법이나 규칙을 따를 때 써요.|observe the rules|규칙을 지키다|All drivers must observe the speed limit.|모든 운전자는 제한 속도를 지켜야 한다.|Students are expected to observe school rules.|학생들은 교칙을 지켜야 한다.|obey
 alter|v|change|고치다; 바꾸다|일부를 달라지게 할 때 써요.|alter a plan|계획을 바꾸다|We had to alter our plans because of the rain.|비 때문에 우리는 계획을 바꿔야 했다.|The tailor altered my pants to fit me.|재단사가 내 바지를 몸에 맞게 고쳐 주었다.|change
 beg|v|ask-earnestly|간청하다; 구걸하다|몹시 간절하게 부탁할 때 써요.|beg for|~을 간청하다|The child begged his parents for a puppy.|아이는 부모님께 강아지를 사 달라고 졸랐다.|I beg you to listen to me.|제발 내 말을 들어 달라.

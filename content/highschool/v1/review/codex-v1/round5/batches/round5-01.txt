@@ -1,0 +1,13 @@
+[keenly|adv|intensely] hash=8267ee64e56dcc16
+  뜻: 예리하게; 강하게
+  설명: 감정이나 인식이 매우 강하거나 예민함을 나타내요.
+  연어: keenly aware = 분명히 인식하고 있는
+  예문1: She is keenly aware of the risks. / 그녀는 위험을 뚜렷이 인식하고 있다.
+  예문2: The students listened keenly to the speaker. / 학생들은 연사의 말을 집중해서 들었다.
+  유의어(오답 제외): intensely
+[nonprofitable|adj|unprofitable] hash=640e6f75a73d5a00
+  뜻: 이익이 나지 않는
+  설명: 비용을 제하고 남는 이익이 없는 것이에요.
+  연어: a nonprofitable business = 이익이 나지 않는 사업
+  예문1: The company closed its nonprofitable stores. / 그 회사는 이익이 나지 않는 매장을 닫았다.
+  예문2: The project was nonprofitable but useful to the community. / 그 사업은 이익이 나지 않았지만 지역 사회에 유익했다.

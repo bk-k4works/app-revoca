@@ -4,25 +4,25 @@ donate|v|give|기부하다; 기증하다|돈이나 물건을 대가 없이 줄 �
 sponsor|v|support-financially|후원하다|행사나 사람에게 돈을 대어 줄 때 써요.|sponsor an event|행사를 후원하다|A local bank sponsored the school concert.|지역 은행이 학교 음악회를 후원했다.|The company sponsors young athletes.|그 회사는 젊은 운동선수들을 후원한다.
 sponsor|n|supporter|후원자; 광고주|행사나 사람에게 돈을 대는 사람이나 회사예요.|a main sponsor|주요 후원사|The team is looking for a new sponsor.|그 팀은 새 후원사를 찾고 있다.|Sponsors paid for the festival.|후원자들이 축제 비용을 냈다.
 insist|v|demand|고집하다; (강하게) 주장하다|insist on으로 강하게 요구하거나 우길 때 써요.|insist on|~을 고집하다|He insisted on paying for dinner.|그는 저녁값을 자기가 내겠다고 고집했다.|She insisted that she was right.|그녀는 자기가 옳다고 주장했다.
-shelf|n|board-for-storage|선반|물건을 올려놓는 판이에요.|a book shelf|책 선반|Put the books back on the shelf.|책을 선반에 다시 꽂아라.|The top shelf is too high for me.|맨 위 선반은 나에게 너무 높다.
+shelf|n|board-for-storage|선반|물건을 올려놓는 판이에요.|the top shelf|맨 위 선반|Put the books back on the shelf.|책을 선반에 다시 꽂아라.|The top shelf is too high for me.|맨 위 선반은 나에게 너무 높다.
 wipe|v|clean|닦다|천이나 손으로 문질러 깨끗하게 할 때 써요.|wipe the table|탁자를 닦다|Please wipe the table after dinner.|저녁 식사 후에 탁자를 닦아라.|She wiped the tears from her eyes.|그녀는 눈물을 닦았다.
 arrange|v|organize|마련하다; 정하다|계획을 세우고 일정을 맞출 때 써요.|arrange a meeting|만남을 주선하다|We arranged to meet at the station.|우리는 역에서 만나기로 했다.|The school arranged a trip to the museum.|학교는 박물관 견학을 준비했다.|organize
 arrange|v|put-in-order|배열하다; 정리하다|물건을 보기 좋게 놓을 때 써요.|arrange flowers|꽃꽂이를 하다|She arranged the books by size.|그녀는 책을 크기별로 정리했다.|The chairs were arranged in a circle.|의자들이 둥글게 놓여 있었다.
 pause|v|stop-briefly|잠시 멈추다|잠깐 쉬었다가 다시 할 때 써요.|pause for a moment|잠시 멈추다|He paused to catch his breath.|그는 숨을 고르려고 잠시 멈췄다.|You can pause the video at any time.|언제든 영상을 일시 정지할 수 있다.
-pause|n|short-stop|멈춤; 휴지|잠깐 멈추는 시간이에요.|after a pause|잠시 후|After a short pause, she continued her speech.|잠깐 멈춘 뒤 그녀는 연설을 이어 갔다.|There was a long pause before he answered.|그가 대답하기 전에 긴 침묵이 흘렀다.
+pause|n|short-stop|멈춤; 잠시 멈춤; 침묵|잠깐 멈추는 시간이에요.|after a pause|잠시 멈춘 뒤|After a short pause, she continued her speech.|잠깐 멈춘 뒤 그녀는 연설을 이어 갔다.|There was a long pause before he answered.|그가 대답하기 전에 긴 침묵이 흘렀다.
 weigh|v|have-weight|무게가 ~이다; 무게를 달다|무게를 재거나 무게가 얼마인지 말할 때 써요.|weigh ten kilograms|무게가 10킬로그램이다|The baby weighs about four kilograms.|아기는 몸무게가 약 4킬로그램이다.|Weigh the flour before you add it.|넣기 전에 밀가루 무게를 재라.
 weigh|v|consider|따져 보다|weigh up처럼 장단점을 신중히 생각할 때 써요.|weigh the options|선택지를 따져 보다|You should weigh the risks and benefits carefully.|위험과 이점을 신중하게 따져 보아야 한다.|She weighed her words before she spoke.|그녀는 말하기 전에 할 말을 신중히 골랐다.|consider
 adapt|v|adjust|적응하다; 맞추다|새 환경에 맞게 바뀔 때 써요.|adapt to|~에 적응하다|Animals must adapt to changes in their environment.|동물은 환경 변화에 적응해야 한다.|It took me a month to adapt to the new school.|새 학교에 적응하는 데 한 달이 걸렸다.|adjust
-adapt|v|modify|각색하다; 개작하다|원래 작품을 다른 형태로 바꿀 때 써요.|be adapted from|~을 각색하다|The movie was adapted from a popular novel.|그 영화는 인기 소설을 각색한 것이다.|The teacher adapted the story for young readers.|선생님은 어린 독자에 맞게 그 이야기를 고쳐 썼다.
+adapt|v|modify|각색하다; 개작하다|원래 작품을 다른 형태로 바꿀 때 써요.|be adapted from|~을 각색해 만들다|The movie was adapted from a popular novel.|그 영화는 인기 소설을 각색한 것이다.|The teacher adapted the story for young readers.|선생님은 어린 독자에 맞게 그 이야기를 고쳐 썼다.
 expose|v|show|노출시키다; 드러내다|숨겨진 것을 보이게 하거나 위험에 닿게 할 때 써요.|be exposed to|~에 노출되다|Do not expose your skin to the sun for too long.|피부를 너무 오래 햇빛에 노출시키지 마라.|The reporter exposed the company's lies.|그 기자는 회사의 거짓말을 폭로했다.|reveal
 satisfy|v|please|만족시키다; 충족시키다|원하는 것을 채워 줄 때 써요.|be satisfied with|~에 만족하다|Are you satisfied with your test results?|너는 시험 결과에 만족하니?|The meal was enough to satisfy our hunger.|그 식사는 배고픔을 채우기에 충분했다.|please
 admire|v|respect|감탄하다; 존경하다|훌륭하다고 생각하며 우러러볼 때 써요.|admire someone for|~을 이유로 존경하다|I admire my mother for her patience.|나는 어머니의 인내심을 존경한다.|We stopped to admire the beautiful view.|우리는 아름다운 경치에 감탄하려고 멈췄다.|respect
 characteristic|n|feature|특성; 특징|어떤 것을 다른 것과 구별하게 하는 성질이에요.|a common characteristic|공통된 특징|Honesty is one of his best characteristics.|정직은 그의 가장 좋은 특성 중 하나이다.|Each animal has its own characteristics.|동물마다 고유한 특징이 있다.|feature
-characteristic|adj|typical|특유의; 독특한|그 사람이나 사물에 원래 있는 것이에요.|characteristic of|~에 특유한|She answered with her characteristic smile.|그녀는 특유의 미소를 지으며 대답했다.|Spicy food is characteristic of this region.|매운 음식은 이 지역의 특색이다.|typical
+characteristic|adj|typical|특유의; 전형적인|그 사람이나 사물에서 전형적으로 나타나는 특성이에요.|characteristic of|~에 특유한|She answered with her characteristic smile.|그녀는 특유의 미소를 지으며 대답했다.|Spicy food is characteristic of this region.|매운 음식은 이 지역의 특색이다.|typical
 delight|n|joy|기쁨; 즐거움|아주 큰 기쁨이에요.|to my delight|기쁘게도|The children screamed with delight.|아이들은 기뻐서 소리를 질렀다.|To our delight, the sun came out.|기쁘게도 해가 났다.|joy
 delight|v|please|기쁘게 하다|사람을 매우 즐겁게 할 때 써요.|be delighted to|~하게 되어 기쁘다|The show delighted children and adults alike.|그 공연은 아이와 어른 모두를 기쁘게 했다.|I am delighted to hear your good news.|네 좋은 소식을 들어서 정말 기쁘다.
 sweep|v|clean-with-broom|쓸다|빗자루로 먼지나 쓰레기를 치울 때 써요.|sweep the floor|바닥을 쓸다|He swept the leaves from the path.|그는 길에 떨어진 나뭇잎을 쓸었다.|Please sweep the classroom floor after school.|방과 후에 교실 바닥을 쓸어라.
-sweep|v|spread-quickly|휩쓸다|넓은 지역에 빠르게 퍼질 때 써요.|sweep the country|전국을 휩쓸다|A new dance craze is sweeping the country.|새로운 춤 열풍이 전국을 휩쓸고 있다.|Strong winds swept across the island.|강한 바람이 섬을 휩쓸었다.
+sweep|v|spread-quickly|휩쓸다|넓은 지역을 빠르게 지나가거나 퍼질 때 써요.|sweep the country|전국을 휩쓸다|A new dance craze is sweeping the country.|새로운 춤 열풍이 전국을 휩쓸고 있다.|Strong winds swept across the island.|강한 바람이 섬을 휩쓸었다.
 employ|v|hire|고용하다|사람에게 돈을 주고 일을 시킬 때 써요.|be employed by|~에 고용되다|The factory employs over five hundred workers.|그 공장은 500명이 넘는 노동자를 고용한다.|She is employed by a large bank.|그녀는 큰 은행에 고용되어 있다.|hire
 employ|v|use|쓰다; 이용하다|방법이나 도구를 사용할 때 써요.|employ a method|방법을 쓰다|The writer employs simple language to explain ideas.|그 작가는 생각을 설명하려고 쉬운 말을 쓴다.|Farmers employ new methods to save water.|농부들은 물을 아끼려고 새로운 방법을 쓴다.|use
 melt|v|turn-liquid|녹다; 녹이다|열 때문에 고체가 액체로 될 때 써요.|melt in the sun|햇볕에 녹다|The ice cream melted quickly in the sun.|아이스크림이 햇볕에 빨리 녹았다.|Rising temperatures are melting the ice at the poles.|기온 상승이 극지방의 얼음을 녹이고 있다.
@@ -35,10 +35,10 @@ float|v|stay-on-surface|뜨다; 떠다니다|물 위나 공중에 떠 있을 때
 locate|v|find|위치를 찾아내다|정확한 장소를 알아낼 때 써요.|locate a file|파일을 찾다|Can you locate the city on this map?|이 지도에서 그 도시를 찾을 수 있니?|Rescue teams located the missing hikers.|구조대가 실종된 등산객들의 위치를 찾아냈다.|find
 locate|v|be-placed|(be located) ~에 위치하다|건물이나 장소가 어디에 있는지 말할 때 써요.|be located in|~에 위치하다|The school is located near the river.|그 학교는 강 근처에 있다.|The museum is located in the center of the city.|박물관은 도시 중심부에 있다.
 oppose|v|be-against|반대하다|어떤 계획이나 생각에 맞설 때 써요.|be opposed to|~에 반대하다|Many people oppose the new airport plan.|많은 사람이 새 공항 계획에 반대한다.|I am strongly opposed to animal testing.|나는 동물 실험에 강하게 반대한다.|object
-bloom|v|flower|꽃이 피다|식물이 꽃을 피울 때 써요.|bloom in spring|봄에 꽃이 피다|Cherry trees bloom in early April.|벚나무는 4월 초에 꽃이 핀다.|Her talent bloomed when she joined the art club.|그녀의 재능은 미술 동아리에 들어가면서 꽃피었다.
+bloom|v|flower|꽃이 피다; (재능 등이) 꽃피다|식물에 꽃이 피거나 재능 등이 발전할 때 써요.|bloom in spring|봄에 꽃이 피다|Cherry trees bloom in early April.|벚나무는 4월 초에 꽃이 핀다.|Her talent bloomed when she joined the art club.|그녀의 재능은 미술 동아리에 들어가면서 꽃피었다.
 bloom|n|flower|꽃; 개화|피어 있는 꽃이나 꽃이 핀 상태예요.|in full bloom|만개한|The roses are in full bloom.|장미가 활짝 피었다.|The garden is full of colorful blooms.|정원은 형형색색의 꽃으로 가득하다.
 impress|v|affect-deeply|깊은 인상을 주다; 감명을 주다|좋은 쪽으로 마음에 강하게 남을 때 써요.|be impressed by|~에 감명받다|Her speech impressed everyone in the room.|그녀의 연설은 방 안의 모든 사람에게 감명을 주었다.|I was impressed by his kindness.|나는 그의 친절함에 감명받았다.
-educate|v|teach|교육하다; 가르치다|지식이나 기술을 가르칠 때 써요.|educate the public|대중을 교육하다|Schools should educate students about money.|학교는 학생들에게 돈에 관해 교육해야 한다.|The campaign aims to educate people about recycling.|그 캠페인은 사람들에게 재활용에 대해 알리는 것을 목표로 한다.|teach
+educate|v|teach|교육하다; 가르치다|지식이나 기술을 가르칠 때 써요.|educate the public|대중을 교육하다|Schools should educate students about money.|학교는 학생들에게 돈에 관해 교육해야 한다.|The campaign aims to educate people about recycling.|그 캠페인은 사람들에게 재활용에 대한 인식을 높이는 것을 목표로 한다.|teach
 polite|adj|courteous|예의 바른; 공손한|다른 사람을 존중하며 바르게 대하는 것이에요.|be polite to|~에게 예의 바르다|It is polite to say thank you.|고맙다고 말하는 것이 예의이다.|The staff were polite and helpful.|직원들은 공손하고 친절했다.|courteous
 glance|v|look-quickly|흘끗 보다|짧게 잠깐 볼 때 써요.|glance at|~을 흘끗 보다|She glanced at her watch during the meeting.|그녀는 회의 중에 손목시계를 흘끗 보았다.|He glanced around the room before he sat down.|그는 앉기 전에 방 안을 흘끗 둘러보았다.
 glance|n|quick-look|흘끗 봄|짧게 한 번 보는 것이에요.|at a glance|한눈에|I could tell at a glance that he was tired.|나는 그가 피곤하다는 것을 한눈에 알 수 있었다.|She gave me a quick glance and smiled.|그녀는 나를 흘끗 보더니 미소 지었다.
@@ -55,12 +55,12 @@ entertain|v|amuse|즐겁게 하다|사람들을 재미있게 해 줄 때 써요.
 spoil|v|ruin|망치다; 상하다|좋은 것을 엉망으로 만들거나 음식이 상할 때 써요.|spoil the fun|흥을 깨다|The rain spoiled our day at the beach.|비 때문에 해변에서 보낸 하루를 망쳤다.|Milk spoils quickly in hot weather.|우유는 더운 날씨에 빨리 상한다.|ruin
 spoil|v|indulge|버릇없게 기르다|아이를 너무 받아 주어 버릇없게 할 때 써요.|spoil a child|아이를 버릇없게 만들다|Giving children everything they want can spoil them.|아이들이 원하는 것을 다 주면 버릇이 나빠질 수 있다.|Grandparents often spoil their grandchildren.|조부모는 흔히 손주들을 오냐오냐한다.
 glue|n|adhesive|풀; 접착제|물건을 붙이는 끈적한 물질이에요.|a bottle of glue|접착제 한 병|Use glue to stick the pictures on the paper.|풀로 그림을 종이에 붙여라.|The glue dries in five minutes.|그 접착제는 5분이면 마른다.
-glue|v|stick|(풀로) 붙이다|접착제로 붙일 때 써요.|glue A to B|A를 B에 붙이다|He glued the broken pieces together.|그는 깨진 조각들을 붙였다.|Her eyes were glued to the TV screen.|그녀의 눈은 텔레비전 화면에 고정되어 있었다.|stick
+glue|v|stick|(풀로) 붙이다|접착제로 붙일 때 써요.|glue A to B|A를 B에 붙이다|He glued the broken pieces together.|그는 깨진 조각들을 붙였다.|She glued the label to the box.|그녀는 상자에 라벨을 붙였다.|stick
 hesitate|v|pause|망설이다; 주저하다|결정하지 못하고 머뭇거릴 때 써요.|hesitate to|~하기를 주저하다|Do not hesitate to ask if you need help.|도움이 필요하면 주저하지 말고 물어보아라.|She hesitated before answering the question.|그녀는 질문에 답하기 전에 망설였다.
 surround|v|encircle|둘러싸다|주위를 빙 둘러 감쌀 때 써요.|be surrounded by|~에 둘러싸이다|The village is surrounded by mountains.|그 마을은 산으로 둘러싸여 있다.|Fans surrounded the singer at the airport.|팬들이 공항에서 그 가수를 둘러쌌다.|encircle
 faint|v|pass-out|기절하다|잠깐 정신을 잃고 쓰러질 때 써요.|faint from heat|더위로 기절하다|She fainted because of the heat.|그녀는 더위 때문에 기절했다.|He almost fainted when he heard the news.|그는 그 소식을 듣고 거의 기절할 뻔했다.
 faint|adj|weak|희미한; 약한|소리·빛·가능성이 아주 약한 것이에요.|a faint sound|희미한 소리|I heard a faint sound from the next room.|옆방에서 희미한 소리가 들렸다.|There is only a faint hope of finding the ring.|반지를 찾을 희망은 희박하다.|weak
-crawl|v|creep|기어가다|손과 무릎을 바닥에 대고 움직일 때 써요.|crawl on the floor|바닥을 기어가다|The baby is learning to crawl.|아기는 기는 법을 배우고 있다.|Traffic crawled along the highway.|차들이 고속도로를 따라 거북이걸음을 했다.|creep
+crawl|v|creep|기어가다; 느릿느릿 움직이다|몸을 낮춰 기어가거나 차량 등이 아주 느리게 움직일 때 써요.|crawl on the floor|바닥을 기어가다|The baby is learning to crawl.|아기는 기는 법을 배우고 있다.|Traffic crawled along the highway.|차들이 고속도로를 따라 거북이걸음을 했다.|creep
 attach|v|fasten|첨부하다; 붙이다|무엇에 연결하거나 파일을 덧붙일 때 써요.|attach a file|파일을 첨부하다|Please attach a photo to your application.|지원서에 사진을 붙여라.|I attached the report to my email.|나는 이메일에 보고서를 첨부했다.|fix
 attach|v|feel-close|애착을 갖다|be attached to로 정이 들었을 때 써요.|be attached to|~에 애착을 갖다|The child is very attached to her teddy bear.|그 아이는 곰 인형에 무척 애착을 가지고 있다.|We became attached to the old house.|우리는 그 오래된 집에 정이 들었다.
 tray|n|flat-carrier|쟁반|음식이나 물건을 나르는 납작한 판이에요.|a tea tray|찻쟁반|She carried the drinks on a tray.|그녀는 음료를 쟁반에 담아 날랐다.|Put your tray back after lunch.|점심을 먹은 뒤 쟁반을 제자리에 갖다 놓아라.

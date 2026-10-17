@@ -1,6 +1,6 @@
 # 고교 기본 51–100. 표제어 목록만 참고하여 독자 작성.
 cost|n|price|비용; 값|무엇을 얻거나 하는 데 드는 돈이에요.|the cost of living|생활비|The cost of the trip was higher than we expected.|여행 비용은 우리가 예상한 것보다 많이 들었다.|We must reduce the cost of energy at school.|우리는 학교의 에너지 비용을 줄여야 한다.|price
-cost|v|require-payment|(비용이) 들다|어떤 일에 돈·시간·노력이 들 때 써요.|cost a lot|비용이 많이 들다|The new bike cost me two hundred dollars.|새 자전거를 사는 데 200달러가 들었다.|One careless mistake can cost you the game.|부주의한 실수 하나로 경기에서 질 수 있다.
+cost|v|require-payment|(비용이) 들다; (대가로) 잃게 하다|돈이 들거나 실수 등으로 무언가를 잃게 될 때 써요.|cost a lot|비용이 많이 들다|The new bike cost me two hundred dollars.|새 자전거를 사는 데 200달러가 들었다.|One careless mistake can cost you the game.|부주의한 실수 하나로 경기에서 질 수 있다.
 moment|n|instant|순간; 잠깐|아주 짧은 시간이나 특정한 때를 말해요.|at the moment|지금은|Please wait a moment while I find the file.|내가 파일을 찾는 동안 잠깐 기다려 달라.|At the moment, she is too busy to talk.|지금 그녀는 너무 바빠서 이야기할 수 없다.|instant
 force|n|power|힘; 폭력|물리적인 힘이나 강제로 누르는 힘이에요.|by force|강제로|The strong force of the wind broke the window.|강한 바람의 힘에 창문이 깨졌다.|The police had to use force to open the door.|경찰은 문을 열기 위해 힘을 써야 했다.|power
 force|v|compel|억지로 ~하게 하다|원하지 않는 일을 하도록 강요할 때 써요.|be forced to|어쩔 수 없이 ~하다|Heavy rain forced us to cancel the picnic.|폭우 때문에 우리는 소풍을 취소할 수밖에 없었다.|Nobody can force you to change your opinion.|아무도 너에게 의견을 바꾸라고 강요할 수 없다.
@@ -31,7 +31,7 @@ sense|n|meaning|의미; 분별|말의 뜻이나 이치에 맞는 판단이에요
 sense|v|feel|감지하다; 느끼다|직접 듣지 않아도 상황을 알아챌 때 써요.|sense danger|위험을 감지하다|Animals can often sense danger before people do.|동물은 흔히 사람보다 먼저 위험을 감지한다.|She sensed that something was wrong.|그녀는 무언가 잘못되었다는 것을 느꼈다.
 view|n|opinion|견해; 관점|어떤 일에 대한 생각이나 태도예요.|in my view|내 생각에는|In my view, the plan is too risky.|내 생각에 그 계획은 너무 위험하다.|People have different views on this issue.|이 문제에 대한 사람들의 견해는 저마다 다르다.|opinion
 view|n|scene|경치; 시야|눈에 보이는 풍경이나 보이는 범위예요.|a beautiful view|아름다운 경치|Our room had a great view of the sea.|우리 방에서는 바다가 멋지게 보였다.|A tall tree blocked the view from the window.|키 큰 나무가 창문의 시야를 가렸다.|scene
-view|v|regard|(~으로) 보다; 여기다|view A as B처럼 어떻게 생각하는지 말해요.|view A as B|A를 B로 여기다|Many people view failure as a chance to learn.|많은 사람은 실패를 배울 기회로 여긴다.|The movie was viewed by millions of people.|그 영화는 수백만 명이 보았다.|regard
+view|v|regard|(~으로) 보다; 여기다|view A as B처럼 어떻게 생각하는지 말해요.|view A as B|A를 B로 여기다|Many people view failure as a chance to learn.|많은 사람은 실패를 배울 기회로 여긴다.|Many people view exercise as an important part of a healthy life.|많은 사람은 운동을 건강한 삶의 중요한 부분으로 여긴다.|regard
 present|adj|current|참석한; 현재의|지금의 것이거나 그 자리에 있음을 말해요.|the present time|현재|All the members were present at the meeting.|모든 회원이 회의에 참석했다.|The present system has many problems.|현재의 제도에는 많은 문제가 있다.|current
 present|v|show|제시하다; 발표하다|보여 주거나 공식적으로 내놓을 때 써요.|present a plan|계획을 제시하다|Each group will present its research in class.|각 모둠은 수업 시간에 연구 내용을 발표할 것이다.|The report presents several solutions to the problem.|그 보고서는 그 문제에 대한 몇 가지 해결책을 제시한다.
 policy|n|plan-of-action|정책; 방침|정부나 단체가 정한 행동 원칙이에요.|government policy|정부 정책|The new policy aims to reduce plastic waste.|새 정책은 플라스틱 쓰레기를 줄이는 것을 목표로 한다.|Our school has a strict policy on phones.|우리 학교에는 휴대전화에 관한 엄격한 방침이 있다.
@@ -52,14 +52,15 @@ evidence|n|proof|증거; 근거|사실임을 보여 주는 자료나 흔적이�
 rate|n|speed-or-ratio|비율; 속도|일정한 기준에 대한 양이나 빠르기예요.|the birth rate|출생률|The birth rate has fallen in recent years.|최근 몇 년 동안 출생률이 떨어졌다.|Prices are rising at a fast rate.|물가가 빠른 속도로 오르고 있다.
 rate|v|judge|(등급·점수로) 평가하다|점수나 등급을 매기며 판단할 때 써요.|rate highly|높이 평가하다|Users rated the app five stars.|사용자들은 그 앱에 별 다섯 개를 주었다.|Critics rated the film as one of the best.|비평가들은 그 영화를 최고 중 하나로 평가했다.|judge
 round|adj|circular|둥근|원이나 공처럼 생긴 모양이에요.|a round table|원탁|We sat around a round table for dinner.|우리는 저녁을 먹으려고 둥근 탁자에 둘러앉았다.|The earth is round like a ball.|지구는 공처럼 둥글다.
-round|n|stage|(경기의) 회; 한 차례|경기나 활동이 진행되는 한 단계예요.|the first round|1회전|Our team won the first round of the contest.|우리 팀은 대회 1차전에서 이겼다.|The next round of talks will begin tomorrow.|다음 차례의 회담은 내일 시작된다.
+round|n|stage|(경기의) 회; 한 차례|경기나 활동이 진행되는 한 단계예요.|the first round|1회전|Our team won the first round of the contest.|우리 팀은 대회 1차전에서 이겼다.|The next round of talks will begin tomorrow.|다음 회차 회담은 내일 시작된다.
 stand|v|tolerate|참다; 견디다|'서다' 외에 주로 부정문에서 견딜 때 써요.|cannot stand|참을 수 없다|I cannot stand the noise from the street.|나는 거리의 소음을 참을 수 없다.|She could not stand waiting in long lines.|그녀는 긴 줄에서 기다리는 것을 견딜 수 없었다.|bear
 stand|n|position|입장; 태도|어떤 문제에 대한 의견이나 태도예요.|take a stand|입장을 취하다|The mayor took a strong stand against the plan.|시장은 그 계획에 강하게 반대하는 입장을 취했다.|What is your stand on this issue?|이 문제에 대한 네 입장은 무엇이니?
+stand|v|represent|(약자·기호가) 나타내다; 의미하다|stand for로 약자나 기호가 무엇을 뜻하는지 말할 때 써요.|stand for|~을 나타내다|What does the letter "B" stand for?|글자 'B'는 무엇을 나타내니?|In the story, the old tree stands for hope.|그 이야기에서 오래된 나무는 희망을 상징한다.
 stuff|n|things|물건; 것|이름을 굳이 말하지 않는 물건이나 일들이에요.|a lot of stuff|많은 물건|I need to clean the stuff on my desk.|나는 책상 위 물건들을 치워야 한다.|There is a lot of interesting stuff on this website.|이 웹사이트에는 흥미로운 것이 많다.
 stuff|v|fill|채워 넣다|어떤 공간에 무언가를 가득 넣을 때 써요.|stuff a bag|가방에 쑤셔 넣다|He stuffed his clothes into a small bag.|그는 작은 가방에 옷을 쑤셔 넣었다.|The toy bear is stuffed with soft cotton.|그 곰 인형은 부드러운 솜으로 채워져 있다.|fill
 tax|n|money-to-government|세금|정부가 국민에게서 거두는 돈이에요.|pay taxes|세금을 내다|Everyone who works must pay taxes.|일하는 모든 사람은 세금을 내야 한다.|The government plans to raise the tax on sugar.|정부는 설탕에 대한 세금을 올릴 계획이다.
 amount|n|quantity|양; 액수|수나 양이 얼마인지 나타내요.|a large amount of|많은 양의|A large amount of food is wasted every day.|매일 많은 양의 음식이 버려진다.|She paid the full amount at once.|그녀는 전액을 한 번에 지불했다.|quantity
-amount|v|total|(합계가) ~에 달하다|amount to로 전체 양이나 결과를 말해요.|amount to|~에 달하다|The cost of repairs amounted to one thousand dollars.|수리 비용이 1,000달러에 달했다.|His excuses amount to nothing.|그의 변명은 아무 의미가 없다.
+amount|v|total|(합계가) ~에 달하다; 결국 ~이 되다|합계가 얼마인지나 결국 어떤 결과가 되는지 나타내요.|amount to|~에 달하다|The cost of repairs amounted to one thousand dollars.|수리 비용이 1,000달러에 달했다.|His excuses amount to nothing.|그의 변명은 아무 의미가 없다.
 drive|v|push-to-act|몰아가다; ~하게 만들다|'운전하다' 외에 어떤 상태로 몰아갈 때 써요.|drive someone crazy|~을 미치게 하다|The loud music almost drove me crazy.|시끄러운 음악 때문에 나는 거의 미칠 뻔했다.|Curiosity drives scientists to ask new questions.|호기심은 과학자들이 새로운 질문을 하게 만든다.
 drive|n|desire|의욕; 욕구|무언가를 하려는 강한 마음이에요.|a strong drive|강한 의욕|Her drive to succeed made her work very hard.|성공하려는 욕구 때문에 그녀는 매우 열심히 일했다.|Hunger is a basic human drive.|배고픔은 인간의 기본적인 욕구이다.
 fall|v|decrease|(수량이) 줄다|'떨어지다' 중에서도 가격·수치가 내려갈 때 써요.|fall sharply|급격히 떨어지다|The price of oil fell by ten percent.|석유 가격이 10퍼센트 떨어졌다.|Temperatures will fall below zero tonight.|오늘 밤 기온이 영하로 떨어질 것이다.|drop
@@ -72,7 +73,7 @@ range|n|scope|범위; 다양성|일정한 한계 안의 폭이나 여러 종류�
 range|v|vary|(범위가) ~에 이르다|range from A to B처럼 폭을 나타내요.|range from A to B|A에서 B에 이르다|The students' ages range from ten to fifteen.|학생들의 나이는 열 살에서 열다섯 살에 이른다.|Prices range from five to twenty dollars.|가격은 5달러에서 20달러까지 다양하다.|vary
 trade|n|commerce|무역; 거래|나라나 사람 사이에 물건을 사고파는 일이에요.|free trade|자유 무역|Trade between the two countries has increased.|두 나라 사이의 무역이 늘어났다.|The city grew rich through trade with other ports.|그 도시는 다른 항구들과의 무역으로 부유해졌다.|commerce
 trade|v|exchange|교환하다; 거래하다|물건을 서로 바꾸거나 사고팔 때 써요.|trade A for B|A를 B와 바꾸다|I traded my sandwich for his apple.|나는 내 샌드위치를 그의 사과와 바꾸었다.|The two countries trade oil and cars.|두 나라는 석유와 자동차를 거래한다.|exchange
-chief|adj|main|최고의; 주요한|가장 중요하거나 높은 자리에 있는 것이에요.|the chief reason|주된 이유|The chief reason for the delay was bad weather.|지연의 주된 이유는 나쁜 날씨였다.|Rice is the chief food in many Asian countries.|쌀은 많은 아시아 국가의 주식이다.|major
+chief|adj|main|가장 중요한; 주된|가장 중요하거나 높은 자리에 있는 것이에요.|the chief reason|주된 이유|The chief reason for the delay was bad weather.|지연의 주된 이유는 나쁜 날씨였다.|Rice is the chief food in many Asian countries.|쌀은 많은 아시아 국가의 주식이다.|major
 chief|n|leader|우두머리; 장|단체를 이끄는 가장 높은 사람이에요.|the police chief|경찰서장|The chief of the village welcomed the guests.|마을의 우두머리가 손님들을 맞이했다.|She was named chief of the hospital.|그녀는 그 병원의 원장으로 임명되었다.|head
 hate|v|dislike-strongly|몹시 싫어하다|무언가를 아주 싫어할 때 써요.|hate waiting|기다리는 것을 싫어하다|I hate getting up early on weekends.|나는 주말에 일찍 일어나는 것을 몹시 싫어한다.|Many students hate taking tests.|많은 학생이 시험 보는 것을 싫어한다.
 hate|n|hatred|증오|누군가를 몹시 미워하는 감정이에요.|love and hate|사랑과 증오|Hate can destroy a friendship.|증오는 우정을 파괴할 수 있다.|The story shows how love can defeat hate.|그 이야기는 사랑이 어떻게 증오를 이길 수 있는지 보여 준다.

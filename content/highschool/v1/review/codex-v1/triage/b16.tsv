@@ -1,0 +1,26 @@
+EDIT	right away	immediately	expl	지체하지 않고 곧바로 할 때 써요.	Codex fix 수용	‘말이 끝나자마자’는 right away의 뜻에 포함되지 않아 설명이 부정확해요.
+EDIT	right away	immediately	en2	The doctor came right away after we called for help.	Codex fix 수용	예문이 5단어로 최소 6단어 규칙에 미달해요.
+EDIT	right away	immediately	ko2	우리가 도움을 요청하자 의사가 곧바로 왔다.	Codex fix 수용	수정 예문의 뜻을 반영해야 해요.
+EDIT	thanks to	because-of	expl	어떤 결과를 가져온 원인을 말할 때 써요.	Codex fix 수용	thanks to는 부정적인 결과의 원인에도 쓰일 수 있어 ‘좋은 결과’로 한정하면 뜻이 좁아요.
+EDIT	a series of	sequence	expl	관련된 여러 개가 차례로 이어지는 것을 말해요.	Codex minor 수용	일련의 항목은 서로 비슷하지 않아도 되므로 ‘비슷한 일’로 한정하면 좁아요.
+EDIT	rather than	instead-of	expl	두 대상을 대조하거나 하나를 다른 것 대신 선택할 때 써요.	Codex minor 수용	rather than은 선호뿐 아니라 두 대상을 대조하거나 선택을 나타낼 때도 쓰여요.
+EDIT	make sense	be-logical	ko1	네 생각은 내게도 일리가 있다.	Codex minor 수용	‘네 생각은 나에게 이해가 된다’는 번역투라 어색해요.
+EDIT	heart attack	cardiac-arrest	expl	심장에 혈액을 공급하는 혈관이 막혀 심장 근육이 손상되는 병이에요.	Codex fix 수용	심장이 제대로 뛰지 못하는 상태는 심정지에 가까운 설명이라 heart attack의 뜻과 달라요.
+EDIT	carry out	perform	ko1	학생들은 식물을 대상으로 실험을 했다.	Codex fix 수용	‘실험에 관한’은 실험 대상이 식물이라는 원문의 뜻을 충분히 전달하지 않아요.
+EDIT	in advance	beforehand	ko2	도움에 미리 감사드린다.	Codex minor 수용	‘도와주시는 데 미리 감사드린다’는 다소 어색한 번역이에요.
+EDIT	depend on	rely-on	ko1	많은 동물은 먹이를 얻기 위해 숲에 의존한다.	Codex fix 수용	‘먹이를 숲에 의존한다’는 어색하고, 숲을 먹이에 의존하는 것으로 읽힐 수 있어요.
+EDIT	per capita	per-person	en2	The city uses more water per capita than any other city.	Codex fix 수용	도시와 사람을 같은 단위로 비교해 비교 대상이 맞지 않아요.
+EDIT	per capita	per-person	ko2	그 도시는 1인당 물 사용량이 다른 어떤 도시보다 많다.	Codex fix 수용	영어 예문의 비교 구조를 정확히 옮기지 않았어요.
+EDIT	accurately	precisely	en1	Please measure the length accurately with this ruler.	Codex fix 수용	예문이 5단어로 최소 6단어 규칙에 미달해요.
+EDIT	accurately	precisely	ko1	이 자로 길이를 정확하게 재라.	Codex fix 수용	수정 예문의 뜻을 반영해야 해요.
+EDIT	resistant	unaffected	ko2	어떤 사람들은 변화에 저항감을 보인다.	Codex fix 수용	‘변화를 거부한다’는 원문보다 단정적이고 강한 표현이에요.
+EDIT	explosive	likely-to-explode	en1	Gas is highly explosive, so keep it away from flames.	Codex fix 수용	예문이 4단어로 최소 6단어 규칙에 미달해요.
+EDIT	explosive	likely-to-explode	ko1	가스는 폭발성이 매우 크므로 불꽃에서 멀리 두어라.	Codex fix 수용	수정 예문의 뜻을 반영해야 해요.
+EDIT	circulation	flow	meaning	순환; 유통; (신문의) 발행 부수	Codex fix 수용	신문의 circulation은 유통 자체뿐 아니라 발행 부수를 가리키는데 뜻풀이에서 빠져 있어요.
+EDIT	circulation	flow	expl	피나 물자의 흐름, 신문의 발행 부수를 말해요.	Codex fix 수용	현재 설명은 신문의 발행 부수라는 뜻을 설명하지 않아요.
+EDIT	circulation	flow	en1	Regular exercise improves blood circulation throughout the body.	Codex fix 수용	예문이 4단어로 최소 6단어 규칙에 미달해요.
+EDIT	circulation	flow	ko1	규칙적인 운동은 몸 전체의 혈액 순환을 개선한다.	Codex fix 수용	수정 예문의 뜻을 반영해야 해요.
+EDIT	preview	advance-look	meaning	미리 보기; 예고편; 시사회	Codex fix 수용	첫 예문에서 preview는 시사회가 아니라 영화의 예고편을 뜻해요.
+EDIT	tendency	inclination	ko2	사람에게는 위험을 피하려는 자연스러운 경향이 있다.	Codex minor 수용	natural은 여기서 ‘본능적인’보다 ‘자연스러운’이라는 뜻이에요.
+EDIT	collision	crash	en1	The collision damaged both cars and blocked the road.	Codex fix 수용	예문이 5단어로 최소 6단어 규칙에 미달해요.
+EDIT	collision	crash	ko1	충돌로 두 차가 모두 파손되고 도로가 막혔다.	Codex fix 수용	수정 예문의 뜻을 반영해야 해요.

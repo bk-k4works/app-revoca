@@ -1,0 +1,74 @@
+{"senseKey": "version|n|side-of-story", "inputHash": "7f52465eadefc32f", "verdict": "minor", "issues": [{"field": "collocationKo", "problem": "‘네 쪽의 이야기’는 이 문맥에서 다소 어색해요.", "suggestion": "your version of events = 네가 기억하는 사건 경위"}], "batch": "round3-01", "stale": true}
+{"senseKey": "nature|n|character", "inputHash": "bc03261b8d71ba9b", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "subject|n|topic", "inputHash": "3dc98c5a7841eb33", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "apply|v|use", "inputHash": "953f9b0a79d439ff", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "supply|n|stock", "inputHash": "52bcba4e1e4ced07", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "desire|v|want-strongly", "inputHash": "781c95855f74d12d", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "guarantee|n|warranty", "inputHash": "943954ba40de1c53", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "desert|v|abandon", "inputHash": "1c2443956f3b03d3", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "profession|n|career", "inputHash": "3fdf21f35096da2c", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "pause|n|short-stop", "inputHash": "f04a27da2885917a", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "natural|adj|normal", "inputHash": "2d51295a59aecc63", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "highly|adv|very", "inputHash": "1fc3814072296572", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "minimum|adj|lowest", "inputHash": "beb545a384e01ebf", "verdict": "minor", "issues": [{"field": "ko1", "problem": "‘최소 나이’는 다소 직역투예요.", "suggestion": "이 일을 하려면 최소 18세여야 한다."}], "batch": "round3-01", "stale": true}
+{"senseKey": "universal|adj|general", "inputHash": "8a6ee2da6a724e12", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "vast|adj|huge", "inputHash": "f1bd15c7dabbc68a", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "impressive|adj|remarkable", "inputHash": "867a2821c60023c9", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "angle|n|viewpoint", "inputHash": "a71229927a4ab77a", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "contribution|n|donation", "inputHash": "cee68fef4d9b82df", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "pursue|v|chase-goal", "inputHash": "65a0b5017413e522", "verdict": "fix", "issues": [{"field": "explanation", "problem": "설명이 목표를 추구하는 뜻만 풀이해 ‘뒤쫓다’라는 뜻을 담지 못해요.", "suggestion": "목표를 이루려 노력하거나 사람·동물을 뒤쫓을 때 써요."}], "batch": "round3-01", "stale": true}
+{"senseKey": "neutral|adj|impartial", "inputHash": "01141f26b479e511", "verdict": "fix", "issues": [{"field": "explanation", "problem": "설명이 편을 들지 않는다는 뜻만 담아 화학에서 ‘중성의’라는 뜻을 풀이하지 못해요.", "suggestion": "어느 편에도 치우치지 않거나 산성·염기성이 아닌 것이에요."}], "batch": "round3-01", "stale": true}
+{"senseKey": "identical|adj|same", "inputHash": "2934485a9dd73ba0", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "import|n|imported-goods", "inputHash": "1f76901b548d920a", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "breed|n|type", "inputHash": "e18e2e277441cca9", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "horizon|n|skyline", "inputHash": "4c9195e2baa6e22d", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "mobility|n|movement", "inputHash": "00e9158972af0096", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "slim|adj|thin", "inputHash": "a50799d17170e2ad", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "nonetheless|adv|nevertheless", "inputHash": "459afec4e175eec0", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "modest|adj|humble", "inputHash": "5480e4995a25acfe", "verdict": "fix", "issues": [{"field": "explanation", "problem": "‘크지 않은 것’만으로는 modest house처럼 소박하고 검소하다는 뜻이 충분히 설명되지 않아요.", "suggestion": "자신을 내세우지 않거나 규모가 크지 않고 소박한 것이에요."}], "batch": "round3-01", "stale": true}
+{"senseKey": "uncertainty|n|doubt", "inputHash": "d14c96ea6defc4a0", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "convenience|n|ease", "inputHash": "5077c14cc2eb16e3", "verdict": "minor", "issues": [{"field": "ko1", "problem": "‘큰 편리함을 제공한다’는 표현이 다소 어색해요.", "suggestion": "온라인 쇼핑은 바쁜 사람들에게 큰 편의를 제공한다."}], "batch": "round3-01", "stale": true}
+{"senseKey": "equation|n|math-statement", "inputHash": "2beb046f201527da", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "flexibility|n|adaptability", "inputHash": "4f4c441a245696ff", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "delicate|adj|fragile", "inputHash": "ce4577467153a0cd", "verdict": "fix", "issues": [{"field": "explanation", "problem": "설명이 잘 손상되는 뜻에 치우쳐 delicate situation의 ‘미묘한’ 뜻을 설명하지 못해요.", "suggestion": "쉽게 손상되거나 조심스럽게 다뤄야 하고, 미묘해 신중한 접근이 필요한 것이에요."}], "batch": "round3-01", "stale": true}
+{"senseKey": "grasp|v|grip", "inputHash": "45bb97405deb5459", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "ambition|n|goal", "inputHash": "f045614ec7f4a6c9", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "instinct|n|natural-sense", "inputHash": "546f48584d4b5a39", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "envy|n|jealousy", "inputHash": "660ae36f9239b9cc", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "accompany|v|go-with", "inputHash": "60ed273f3070abff", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "addict|n|dependent-person", "inputHash": "a336a83f666f174a", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "peasant|n|poor-farmer", "inputHash": "8178bbc659c76749", "verdict": "minor", "issues": [{"field": "ko1", "problem": "‘peasant’를 ‘농부’로 옮기면 계층적 의미가 약해져요.", "suggestion": "그 이야기는 왕이 된 농민에 관한 것이다."}], "batch": "round3-01", "stale": true}
+{"senseKey": "factual|adj|based-on-facts", "inputHash": "e29e412a3a55c8d7", "verdict": "fix", "issues": [{"field": "ko1", "problem": "‘사실에 관한 정보’는 factual information의 ‘사실에 근거한 정보’라는 뜻과 달라요.", "suggestion": "그 보고서에는 사실에 근거한 정보만 담겨 있다."}], "batch": "round3-01", "stale": true}
+{"senseKey": "dedicate|v|devote", "inputHash": "89fe01679b0b2a6e", "verdict": "fix", "issues": [{"field": "explanation", "problem": "설명이 시간이나 삶을 쏟는 뜻만 담아 책을 누구에게 헌정하는 용법을 설명하지 못해요.", "suggestion": "시간이나 노력을 쏟거나 작품을 누구에게 헌정할 때 써요."}], "batch": "round3-01", "stale": true}
+{"senseKey": "astonish|v|amaze", "inputHash": "5b21181af4e292c4", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "get to|phrase|have-chance", "inputHash": "1575947c62e8ebaf", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "heart attack|phrase|cardiac-arrest", "inputHash": "6c5907e719959d62", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "accurately|adv|precisely", "inputHash": "1dfac557aaff9512", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "sharply|adv|suddenly", "inputHash": "56c0135a6b0863a6", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "applause|n|clapping", "inputHash": "6b6be718d6f92bb2", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "temper|n|mood", "inputHash": "eb58388f89b9eddb", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "immortal|adj|eternal", "inputHash": "91cc027e79acc85b", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "vein|n|blood-tube", "inputHash": "eb3a08725bdc1832", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "volcano|n|mountain", "inputHash": "c33166d3a961dd7e", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "glowing|adj|shining", "inputHash": "252f60fbca7341fc", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "hopeless|adj|desperate", "inputHash": "36ce37e7997943fe", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "erosion|n|wearing-away", "inputHash": "20432c319b14cde0", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "reproduce|v|breed", "inputHash": "39bcb2880ab4e196", "verdict": "fix", "issues": [{"field": "explanation", "problem": "생물이 번식하는 방식이 새끼를 낳는 경우로만 한정돼 있어요.", "suggestion": "생물이 번식하거나 원본과 똑같이 만들어 낼 때 써요."}], "batch": "round3-01", "stale": true}
+{"senseKey": "periodically|adv|regularly", "inputHash": "8ceb4cac5da7ee79", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "ancestor|n|forebear", "inputHash": "c44b5f0f63cecc86", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "imitation|n|copy", "inputHash": "5c242ff59e1bdc8f", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "digestion|n|digesting", "inputHash": "a978bb723d4d0f53", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "recite|v|repeat-aloud", "inputHash": "e0820f56062488fe", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "fad|n|craze", "inputHash": "127405f42f6cd70a", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "aroma|n|scent", "inputHash": "509ca269801dcaac", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "mislead|v|deceive", "inputHash": "cc805d03d6593110", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "uniformly|adv|evenly", "inputHash": "7095d11cf378bd4a", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "burnout|n|exhaustion", "inputHash": "1e80de1470f8e742", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "keenly|adv|intensely", "inputHash": "26788b01232ac809", "verdict": "minor", "issues": [{"field": "collocationKo", "problem": "‘뼈저리게 알고 있는’은 keenly aware의 번역으로 지나치게 강하고 어색해요.", "suggestion": "keenly aware = 분명히 인식하고 있는"}], "batch": "round3-01", "stale": true}
+{"senseKey": "inconsiderate|adj|thoughtless", "inputHash": "7d5955e7d04a4419", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "unselfish|adj|selfless", "inputHash": "27931e598174416e", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "whiten|v|make-white", "inputHash": "4778818872b13b48", "verdict": "ok", "issues": [], "batch": "round3-01", "stale": false}
+{"senseKey": "nonprofitable|adj|unprofitable", "inputHash": "91054431472ac04c", "verdict": "minor", "issues": [{"field": "collocation", "problem": "‘nonprofitable business’는 통하지만 ‘unprofitable business’가 더 흔한 조합이에요.", "suggestion": "an unprofitable business = 수익이 나지 않는 사업"}], "batch": "round3-01", "stale": true}
+{"senseKey": "nature", "verdict": "missing_sense", "batch": "round3-01", "issues": [{"field": "sense", "problem": "명사 nature의 ‘자연, 자연계’는 수능·내신 지문에서 자주 나오는 기본 의미예요.", "suggestion": "자연; 자연계"}], "stale": false}
+{"senseKey": "apply", "verdict": "missing_sense", "batch": "round3-01", "issues": [{"field": "sense", "problem": "동사 apply의 ‘지원하다, 신청하다’는 apply for a job/admission 등으로 자주 쓰이는 의미예요.", "suggestion": "지원하다; 신청하다"}], "stale": false}
+{"senseKey": "angle", "verdict": "missing_sense", "batch": "round3-01", "issues": [{"field": "sense", "problem": "명사 angle의 ‘각도’는 수학·과학 및 일반 지문에서 자주 쓰이는 기본 의미예요.", "suggestion": "각도"}], "stale": false}

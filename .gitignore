@@ -50,9 +50,9 @@ content/imports/
 content/sources/highschool_v1.provenance.json
 tool/content/tests/fixtures/pdf-books-layout.json.gz
 
-# 지난 개발용 미리보기 패키지 (현재 설치본 high-v12와 중학 파일럿 pilot-v2만 보관)
+# 지난 개발용 미리보기 패키지 (현재 설치본 high-v13과 중학 파일럿 pilot-v2만 보관)
 content/previews/*
-!content/previews/high-v12/
+!content/previews/high-v13/
 !content/previews/pilot-v2/
 
 # Symbolication related
@@ -65,3 +65,7 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Codex 실행 로그(프롬프트·원고 사본)는 결과 JSON으로 충분해 올리지 않는다
+content/highschool/v1/review/**/logs/
+content/highschool/v1/review/**/run.log

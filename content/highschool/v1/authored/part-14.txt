@@ -6,20 +6,20 @@ latter|n|second-of-two|후자|둘 중 뒤에 말한 것이에요.|the latter|후
 latter|adj|later|후반의; 나중의|기간의 뒷부분인 것이에요.|the latter half|후반부|The latter part of the movie was exciting.|영화의 후반부는 흥미진진했다.|He moved to the city in the latter half of the year.|그는 그해 하반기에 도시로 이사했다.
 revolution|n|great-change|혁명; 대변혁|사회나 기술의 큰 변화예요.|the Industrial Revolution|산업 혁명|The Industrial Revolution changed the way people worked.|산업 혁명은 사람들이 일하는 방식을 바꾸었다.|The internet started a revolution in communication.|인터넷은 의사소통에 대변혁을 일으켰다.
 revolution|n|rotation|공전; 회전|한 점을 중심으로 도는 것이에요.|one revolution|한 바퀴|The earth makes one revolution around the sun each year.|지구는 매년 태양 주위를 한 바퀴 돈다.|The wheel makes a hundred revolutions a minute.|그 바퀴는 1분에 100바퀴를 돈다.
-severe|adj|serious|극심한; 심각한|병이나 피해가 매우 심각한 것이에요.|severe pain|극심한 통증|Some children suffer from severe allergies to nuts.|어떤 아이들은 견과류에 심한 알레르기가 있다.|She has a severe headache.|그녀는 두통이 심하다.|serious
-severe|adj|strict|엄한; 가혹한|규칙이나 벌이 엄격한 것이에요.|a severe punishment|가혹한 처벌|The teacher was severe but fair.|그 선생님은 엄했지만 공정했다.|Cheating leads to severe punishment.|부정행위는 엄한 처벌을 받는다.|strict
+severe|adj|serious|극심한; 심각한|정도나 결과가 매우 심각하거나 극단적인 것이에요.|severe pain|극심한 통증|Some children suffer from severe allergies to nuts.|어떤 아이들은 견과류에 심한 알레르기가 있다.|She has a severe headache after school today.|그녀는 오늘 방과 후에 두통이 심하다.|serious
+severe|adj|strict|엄한; 가혹한|규칙이나 벌이 엄격한 것이에요.|a severe punishment|가혹한 처벌|The teacher was severe but fair.|그 선생님은 엄했지만 공정했다.|Cheating leads to severe punishment.|부정행위에는 엄한 처벌이 따른다.|strict
 ban|v|forbid|금지하다|법이나 규칙으로 못 하게 할 때 써요.|ban smoking|흡연을 금지하다|The city banned plastic bags in stores.|그 도시는 상점에서 비닐봉지 사용을 금지했다.|Phones are banned during the exam.|시험 중에는 휴대전화가 금지된다.|prohibit
 ban|n|prohibition|금지(령)|무엇을 못 하게 하는 공식 결정이에요.|a ban on|~에 대한 금지|There is a ban on fishing in this lake.|이 호수에서는 낚시가 금지되어 있다.|The government lifted the ban last year.|정부는 작년에 금지령을 해제했다.
 error|n|mistake|오류; 실수|틀린 것이나 잘못이에요.|make an error|실수하다|There are a few spelling errors in your essay.|네 에세이에 철자 오류가 몇 개 있다.|The computer showed an error message.|컴퓨터에 오류 메시지가 떴다.|mistake
 existence|n|being|존재; 생존|실제로 있거나 살아 있는 것이에요.|come into existence|생겨나다|Scientists debate the existence of life on Mars.|과학자들은 화성에 생명체가 존재하는지 논쟁한다.|The company has been in existence for fifty years.|그 회사는 50년 동안 존속해 왔다.
 maintenance|n|upkeep|유지; 관리|좋은 상태로 계속 지키는 일이에요.|car maintenance|자동차 정비|The building needs regular maintenance.|그 건물은 정기적인 관리가 필요하다.|The pool is closed for maintenance today.|수영장은 오늘 정비로 문을 닫는다.
 nearby|adj|close|근처의; 가까운|가까운 곳에 있는 것이에요.|a nearby town|근처 마을|We had lunch at a nearby restaurant.|우리는 근처 식당에서 점심을 먹었다.|The nearby hospital is open all night.|가까운 병원은 밤새 문을 연다.
-origin|n|beginning|기원; 출신|무엇이 시작된 곳이나 사람이 태어난 곳이에요.|the origin of|~의 기원|The origin of the word is unclear.|그 단어의 기원은 분명하지 않다.|People of different origins live in this city.|이 도시에는 출신이 다양한 사람들이 산다.|source
+origin|n|beginning|기원; 출신|무엇이 시작된 곳이나 사람의 근본·출신을 말해요.|the origin of|~의 기원|The origin of the word is unclear.|그 단어의 기원은 분명하지 않다.|People of different origins live in this city.|이 도시에는 출신이 다양한 사람들이 산다.|source
 personality|n|character|성격; 개성|사람이 가진 독특한 성질이에요.|a strong personality|강한 개성|She has a warm and friendly personality.|그녀는 따뜻하고 다정한 성격이다.|Each dog has its own personality.|개마다 저마다의 성격이 있다.|character
 resistance|n|opposition|저항; 반대|힘이나 변화에 맞서는 것이에요.|resistance to|~에 대한 저항|There was strong resistance to the new rules.|새 규칙에 대한 강한 반발이 있었다.|Exercise builds resistance to disease.|운동은 질병에 대한 저항력을 길러 준다.|opposition
 retail|n|selling|소매|가게에서 손님에게 직접 물건을 파는 일이에요.|retail stores|소매점|She works in retail at a clothing store.|그녀는 옷가게에서 판매 일을 한다.|Online shopping has changed retail.|온라인 쇼핑은 소매업을 바꾸어 놓았다.
 dumb|adj|stupid|멍청한; 바보 같은|생각 없이 어리석은 것이에요.|a dumb mistake|바보 같은 실수|It was a dumb idea to go out in the storm.|폭풍 속에 나간 것은 바보 같은 생각이었다.|I felt dumb when I forgot my own password.|내 비밀번호를 잊어버렸을 때 나 자신이 멍청하게 느껴졌다.|stupid
-significantly|adv|considerably|상당히; 크게|정도나 양이 눈에 띄게 많음을 말해요.|significantly increase|크게 증가하다|Prices have risen significantly this year.|올해 물가가 크게 올랐다.|Her English has improved significantly.|그녀의 영어 실력이 크게 늘었다.
+significantly|adv|considerably|상당히; 크게|정도나 양에 눈에 띄게 큰 차이가 있음을 말해요.|significantly increase|크게 증가하다|Prices have risen significantly this year.|올해 물가가 크게 올랐다.|Her English has improved significantly since last year.|그녀의 영어 실력은 작년보다 크게 늘었다.
 anniversary|n|yearly-date|기념일|해마다 돌아오는 특별한 날이에요.|a wedding anniversary|결혼기념일|My parents celebrated their wedding anniversary.|부모님은 결혼기념일을 축하하셨다.|The school is planning a party for its anniversary.|그 학교는 개교기념일 파티를 준비하고 있다.
 closely|adv|carefully|자세히; 밀접하게|주의 깊게 보거나 아주 가깝게 관련됨을 말해요.|closely related|밀접하게 관련된|Watch closely and do what I do.|자세히 보고 내가 하는 대로 따라 해라.|The two problems are closely related.|두 문제는 밀접하게 관련되어 있다.
 constantly|adv|always|끊임없이; 계속|쉬지 않고 계속을 뜻해요.|constantly change|계속 변하다|The weather here changes constantly.|이곳 날씨는 끊임없이 변한다.|He is constantly checking his phone.|그는 계속 휴대전화를 확인한다.
@@ -27,9 +27,9 @@ hardly|adv|barely|거의 ~ 않다|부정의 뜻으로 아주 조금임을 나타
 peak|n|top|정상; 절정|산의 꼭대기나 가장 높은 수준이에요.|at its peak|절정에 달한|Snow covered the peak all year round.|일 년 내내 눈이 산 정상을 덮고 있었다.|Traffic is at its peak in the morning.|아침에 교통량이 가장 많다.|top
 protein|n|nutrient|단백질|고기·콩·달걀에 많은 영양소예요.|rich in protein|단백질이 풍부한|Eggs and beans are rich in protein.|달걀과 콩에는 단백질이 풍부하다.|Our muscles need protein to grow.|근육이 자라려면 단백질이 필요하다.
 raw|adj|uncooked|날것의; 가공하지 않은|익히거나 다듬지 않은 것이에요.|raw materials|원자재|Do not eat raw chicken.|닭고기를 날것으로 먹지 마라.|The factory turns raw materials into products.|그 공장은 원자재를 제품으로 만든다.
-reform|n|improvement|개혁; 개선|제도를 더 좋게 바꾸는 것이에요.|education reform|교육 개혁|The government promised tax reform.|정부는 세제 개혁을 약속했다.|Many people support the school reform.|많은 사람이 학교 개혁을 지지한다.
+reform|n|improvement|개혁; 개선|제도를 더 좋게 바꾸는 것이에요.|education reform|교육 개혁|The government promised tax reform.|정부는 세제 개혁을 약속했다.|Many people support school reform.|많은 사람이 학교 개혁을 지지한다.
 reform|v|improve|개혁하다|제도나 조직을 더 좋게 바꿀 때 써요.|reform the system|제도를 개혁하다|They want to reform the health system.|그들은 의료 제도를 개혁하고 싶어 한다.|The new leader promised to reform the police.|새 지도자는 경찰을 개혁하겠다고 약속했다.
-retirement|n|stopping-work|은퇴|나이가 들어 일을 그만두는 것이에요.|after retirement|은퇴 후에|My grandfather enjoys gardening in his retirement.|할아버지는 은퇴 후 정원 가꾸기를 즐기신다.|She is saving money for retirement.|그녀는 은퇴에 대비해 돈을 모으고 있다.
+retirement|n|stopping-work|은퇴|직장이나 일을 그만두고 은퇴하는 일이에요.|after retirement|은퇴 후에|My grandfather enjoys gardening in his retirement.|할아버지는 은퇴 후 정원 가꾸기를 즐기신다.|She is saving money for retirement.|그녀는 은퇴에 대비해 돈을 모으고 있다.
 solar|adj|of-the-sun|태양의|해와 관련된 것이에요.|solar energy|태양 에너지|Solar panels turn sunlight into electricity.|태양광 패널은 햇빛을 전기로 바꾼다.|There are eight planets in our solar system.|우리 태양계에는 행성이 여덟 개 있다.
 ultimate|adj|final|궁극적인; 최고의|가장 마지막이거나 가장 좋은 것이에요.|the ultimate goal|궁극적인 목표|Our ultimate goal is to help every student succeed.|우리의 궁극적인 목표는 모든 학생이 성공하도록 돕는 것이다.|This is the ultimate guide to camping.|이것이 캠핑에 관한 최고의 안내서이다.|final
 conduct|v|carry-out|실시하다; 수행하다|조사나 실험을 할 때 써요.|conduct a survey|설문 조사를 하다|Scientists conducted an experiment on sleep.|과학자들은 수면에 관한 실험을 했다.|The school conducted a survey of students.|학교는 학생들을 대상으로 설문 조사를 실시했다.|carry out
@@ -39,7 +39,7 @@ engaged|adj|to-marry|약혼한|결혼하기로 약속한 것이에요.|get engag
 engaged|adj|involved|몰두한; 참여하는|be engaged in으로 어떤 일에 열중할 때 써요.|be engaged in|~에 종사하다|Students were engaged in a lively discussion.|학생들은 활발한 토론에 몰두해 있었다.|He is engaged in research on climate change.|그는 기후 변화 연구에 종사하고 있다.
 external|adj|outside|외부의|바깥쪽에 있거나 바깥에서 오는 것이에요.|external factors|외부 요인|The success of the plan depends on external factors.|그 계획의 성공은 외부 요인에 달려 있다.|This cream is for external use only.|이 크림은 외용으로만 써야 한다.
 fantasy|n|imagination|공상; 판타지|현실에 없는 상상의 세계예요.|a fantasy novel|판타지 소설|She loves reading fantasy novels with dragons.|그녀는 용이 나오는 판타지 소설을 좋아한다.|Becoming rich overnight is just a fantasy.|하룻밤에 부자가 되는 것은 그저 공상일 뿐이다.|imagination
-regularly|adv|often|정기적으로; 규칙적으로|일정한 간격으로 자주를 뜻해요.|exercise regularly|규칙적으로 운동하다|You should exercise regularly to stay healthy.|건강을 유지하려면 규칙적으로 운동해야 한다.|The bus comes regularly every ten minutes.|버스는 10분마다 정기적으로 온다.
+regularly|adv|often|정기적으로; 규칙적으로|일정한 간격으로 자주를 뜻해요.|exercise regularly|규칙적으로 운동하다|You should exercise regularly to stay healthy.|건강을 유지하려면 규칙적으로 운동해야 한다.|The bus comes regularly throughout the day.|버스는 하루 종일 규칙적으로 온다.
 defeat|v|beat|패배시키다; 물리치다|경쟁이나 싸움에서 상대를 이길 때 써요.|defeat an enemy|적을 물리치다|Our team defeated the champions last night.|우리 팀은 어젯밤 우승 팀을 꺾었다.|The army defeated the enemy in a long battle.|그 군대는 긴 전투 끝에 적을 물리쳤다.|beat
 defeat|n|loss|패배|경쟁이나 싸움에서 지는 것이에요.|suffer a defeat|패배하다|The team accepted its defeat calmly.|그 팀은 패배를 담담하게 받아들였다.|It was their first defeat of the season.|그 경기는 그들의 시즌 첫 패배였다.|loss
 trend|n|tendency|추세; 유행|변화가 나아가는 방향이나 인기 있는 흐름이에요.|a new trend|새로운 유행|There is a growing trend toward online learning.|온라인 학습으로 가는 경향이 커지고 있다.|Short videos are the latest trend.|짧은 동영상이 최신 유행이다.
@@ -48,7 +48,7 @@ employee|n|worker|직원; 종업원|회사에 고용되어 일하는 사람이�
 equivalent|n|equal-thing|같은 것; 상당하는 것|가치나 뜻이 같은 것이에요.|the equivalent of|~에 상당하는 것|There is no English equivalent for this Korean word.|이 한국어 단어에 딱 맞는 영어 단어가 없다.|He earns the equivalent of ten dollars an hour.|그는 시간당 10달러에 해당하는 돈을 번다.
 equivalent|adj|equal|동등한; 상응하는|가치나 양이 같은 것이에요.|be equivalent to|~과 같다|One meter is equivalent to one hundred centimeters.|1미터는 100센티미터와 같다.|The two plans have equivalent costs.|두 계획은 비용이 같다.|equal
 fairly|adv|quite|어느 정도; 꽤|정도가 어느 정도 높을 때 써요.|fairly easy|꽤 쉬운|The test was fairly easy.|그 시험은 꽤 쉬웠다.|I know him fairly well.|나는 그를 꽤 잘 안다.|quite
-fairly|adv|justly|공정하게|모두에게 똑같이 대할 때 써요.|treat fairly|공정하게 대하다|The teacher treats all students fairly.|그 선생님은 모든 학생을 공정하게 대한다.|The prize money was shared fairly.|상금은 공평하게 나누어졌다.
+fairly|adv|justly|공정하게|치우치지 않고 공정한 기준에 따라 대할 때 써요.|treat fairly|공정하게 대하다|The teacher treats all students fairly.|그 선생님은 모든 학생을 공정하게 대한다.|The prize money was shared fairly.|상금은 공평하게 나누어졌다.
 graduate|v|finish-school|졸업하다|학교 과정을 마칠 때 써요.|graduate from|~을 졸업하다|She graduated from university last year.|그녀는 작년에 대학을 졸업했다.|He wants to be a nurse after he graduates.|그는 졸업 후 간호사가 되고 싶어 한다.
 graduate|n|person-who-finished|졸업생|학교를 마친 사람이에요.|a college graduate|대학 졸업생|Many graduates find it hard to get a job.|많은 졸업생이 일자리를 구하는 데 어려움을 겪는다.|She is a graduate of this school.|그녀는 이 학교 졸업생이다.
 inner|adj|inside|마음속의; 내부의|안쪽에 있거나 마음 깊은 곳의 것이에요.|inner peace|마음의 평화|The inner rooms of the castle were dark.|성의 안쪽 방들은 어두웠다.|Meditation can help you find inner peace.|명상은 마음의 평화를 찾는 데 도움이 될 수 있다.
@@ -66,21 +66,21 @@ improvement|n|progress|향상; 개선|더 좋아지는 것이에요.|a big impro
 initially|adv|at-first|처음에는|시작할 때를 말해요.|initially planned|처음에 계획된|Initially, I did not like the city.|처음에 나는 그 도시가 마음에 들지 않았다.|The trip was initially planned for May.|그 여행은 처음에 5월로 계획되었다.
 philosophy|n|study-of-ideas|철학; 인생관|삶과 세상에 대한 근본적인 생각이에요.|a philosophy of life|인생 철학|He studied philosophy at university.|그는 대학에서 철학을 공부했다.|Her philosophy is to enjoy every day.|그녀의 인생관은 매일을 즐기는 것이다.
 surrounding|adj|nearby|주위의; 인근의|둘레에 있는 것이에요.|the surrounding area|주변 지역|The fire spread to the surrounding forest.|불이 주변 숲으로 번졌다.|People from the surrounding villages came to the market.|인근 마을 사람들이 시장에 왔다.|nearby
-universal|adj|general|보편적인; 전 세계의|모든 사람이나 모든 경우에 해당하는 것이에요.|a universal language|세계 공통어|Music is a universal language.|음악은 세계 공통어이다.|The desire to be loved is universal.|사랑받고 싶은 욕구는 보편적이다.|general
-vast|adj|huge|광대한; 막대한|크기나 양이 엄청나게 큰 것이에요.|a vast area|광대한 지역|The vast desert stretched for miles.|광대한 사막이 끝없이 펼쳐져 있었다.|The vast majority of people agreed.|대다수의 사람이 동의했다.|enormous
+universal|adj|general|보편적인; 전 세계의|모든 사람이나 모든 경우에 해당하는 것이에요.|a universal language|세계 공통어|Music is a universal language that connects people around the world.|음악은 전 세계 사람들을 이어 주는 보편적인 언어다.|The desire to be loved is universal.|사랑받고 싶은 욕구는 보편적이다.|general
+vast|adj|huge|광대한; 막대한|크기나 양이 엄청나게 큰 것이에요.|a vast area|광대한 지역|The vast desert stretched for miles.|광대한 사막이 수 마일에 걸쳐 펼쳐져 있었다.|The vast majority of people agreed.|압도적 다수의 사람이 동의했다.|enormous
 consistent|adj|steady|일관된; 꾸준한|변하지 않고 늘 같은 것이에요.|consistent effort|꾸준한 노력|Consistent practice is the key to improvement.|꾸준한 연습은 실력 향상의 비결이다.|His story was not consistent with the facts.|그의 이야기는 사실과 맞지 않았다.|steady
 meanwhile|adv|at-the-same-time|그동안; 한편|다른 일이 일어나는 같은 시간을 말해요.|in the meanwhile|그동안에|Dinner will be ready soon. Meanwhile, set the table.|저녁이 곧 준비될 것이다. 그동안 상을 차려라.|She studied hard; meanwhile, her brother played games.|그녀는 열심히 공부했고, 그동안 남동생은 게임을 했다.
-relative|n|family-member|친척|가족과 핏줄로 이어진 사람이에요.|a close relative|가까운 친척|We visit our relatives during the holidays.|우리는 명절에 친척들을 방문한다.|She stayed with a relative in the city.|그녀는 도시에 사는 친척 집에 머물렀다.
-relative|adj|comparative|상대적인|다른 것과 비교한 것이에요.|relative to|~에 비해|The house was cheap relative to others in the area.|그 집은 그 지역의 다른 집들에 비해 쌌다.|Beauty is relative.|아름다움은 상대적이다.
+relative|n|family-member|친척|가족 관계로 이어진 사람이에요.|a close relative|가까운 친척|We visit our relatives during the holidays.|우리는 명절에 친척들을 방문한다.|She stayed with a relative in the city.|그녀는 도시에 사는 친척 집에 머물렀다.
+relative|adj|comparative|상대적인|다른 것과 비교한 것이에요.|relative to|~에 비해|The house was cheap relative to others in the area.|그 집은 그 지역의 다른 집들에 비해 쌌다.|Beauty is relative to each person's culture and experience.|아름다움은 사람마다의 문화와 경험에 따라 상대적이다.
 rescue|v|save|구조하다|위험에서 사람을 구해 낼 때 써요.|rescue a child|아이를 구조하다|Firefighters rescued three people from the building.|소방관들이 건물에서 세 사람을 구조했다.|The boat was rescued after two days at sea.|그 배는 바다에서 이틀을 보낸 뒤 구조되었다.|save
 rescue|n|saving|구조; 구출|위험에서 구해 내는 일이에요.|a rescue team|구조대|A rescue team searched for the missing hikers.|구조대가 실종된 등산객들을 찾았다.|The dog came to my rescue.|그 개가 나를 구해 주었다.
-temporary|adj|short-term|일시적인; 임시의|잠깐 동안만 계속되는 것이에요.|a temporary job|임시직|She found a temporary job for the summer.|그녀는 여름 동안 할 임시직을 구했다.|The pain is only temporary.|그 통증은 일시적일 뿐이다.
-complicated|adj|complex|(얽혀서) 복잡한; 까다로운|얽혀서 이해하거나 다루기 까다로운 것이에요.|a complicated problem|복잡한 문제|The instructions are too complicated.|설명서가 너무 복잡하다.|The situation became more complicated after the storm.|폭풍이 지나간 뒤 상황은 더 복잡해졌다.|complex
+temporary|adj|short-term|일시적인; 임시의|잠깐 동안만 계속되는 것이에요.|a temporary job|임시직|She found a temporary job for the summer.|그녀는 여름 동안 할 임시직을 구했다.|The pain is only temporary, so it should fade soon.|그 통증은 일시적이라 곧 사라질 것이다.
+complicated|adj|complex|(얽혀서) 복잡한; 까다로운|얽혀서 이해하거나 다루기 까다로운 것이에요.|a complicated problem|복잡한 문제|The instructions are too complicated for most students to follow.|그 설명서는 대부분의 학생이 따라 하기에 너무 복잡하다.|The situation became more complicated after the storm.|폭풍이 지나간 뒤 상황은 더 복잡해졌다.|complex
 format|n|layout|형식; 구성|무엇이 짜여 있는 방식이에요.|file format|파일 형식|The test has a new format this year.|올해 시험은 새로운 형식이다.|Save the document in a different format.|문서를 다른 형식으로 저장해라.
 gap|n|space|틈; 격차|사이에 벌어진 공간이나 차이예요.|the gap between|~ 사이의 격차|The cat got through a small gap in the fence.|고양이가 울타리의 작은 틈으로 빠져나갔다.|The gap between rich and poor is growing.|빈부 격차가 커지고 있다.|difference
-impressive|adj|remarkable|인상적인; 훌륭한|감탄할 만큼 대단한 것이에요.|an impressive result|인상적인 결과|Her speech was very impressive.|그녀의 연설은 매우 인상적이었다.|The building has an impressive design.|그 건물은 인상적인 디자인을 하고 있다.|remarkable
-proposal|n|plan|제안; 청혼|계획이나 생각을 내놓는 것이에요.|a marriage proposal|청혼|The committee accepted our proposal.|위원회는 우리 제안을 받아들였다.|He made a proposal of marriage on the beach.|그는 해변에서 청혼했다.|suggestion
-recognition|n|acknowledgment|인정; 인식|가치나 사실을 알아주는 것이에요.|in recognition of|~을 인정하여|She received an award in recognition of her work.|그녀는 업적을 인정받아 상을 받았다.|Face recognition software can unlock your phone.|얼굴 인식 소프트웨어로 휴대전화 잠금을 풀 수 있다.
+impressive|adj|remarkable|인상적인; 훌륭한|감탄할 만큼 대단한 것이에요.|an impressive result|인상적인 결과|Her speech was very impressive and inspired the whole audience.|그녀의 연설은 매우 인상적이었고 청중 모두에게 영감을 주었다.|The building has an impressive design.|그 건물의 디자인은 인상적이다.|remarkable
+proposal|n|plan|제안; 청혼|계획이나 생각을 제안하거나 결혼을 청하는 일이에요.|a marriage proposal|청혼|The committee accepted our proposal.|위원회는 우리 제안을 받아들였다.|He made a proposal of marriage on the beach.|그는 해변에서 청혼했다.|suggestion
+recognition|n|acknowledgment|인정; 인식|사람이나 사실을 알아보거나 가치를 인정하는 것이에요.|in recognition of|~을 인정하여|She received an award in recognition of her work.|그녀는 업적을 인정받아 상을 받았다.|Face recognition software can unlock your phone.|얼굴 인식 소프트웨어로 휴대전화 잠금을 풀 수 있다.
 reputation|n|good-name|평판; 명성|사람이나 단체에 대한 사람들의 평가예요.|a good reputation|좋은 평판|The restaurant has a good reputation.|그 식당은 평판이 좋다.|He built his reputation as a fair judge.|그는 공정한 판사로 명성을 쌓았다.
 awful|adj|terrible|지독한; 끔찍한|아주 나쁘거나 불쾌한 것이에요.|an awful smell|지독한 냄새|The food at that restaurant was awful.|그 식당의 음식은 끔찍했다.|I feel awful about missing your party.|네 파티에 못 가서 정말 미안하다.|terrible
 bound|adj|certain|~할 것이 확실한|be bound to로 반드시 그렇게 될 때 써요.|be bound to|반드시 ~하다|If you keep practicing, you are bound to improve.|계속 연습하면 반드시 실력이 늘 것이다.|It was bound to happen sooner or later.|그런 일은 조만간 일어날 수밖에 없었다.|certain

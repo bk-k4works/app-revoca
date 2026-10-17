@@ -1,0 +1,291 @@
+[
+ {
+  "batch": "round3-01",
+  "senses": [
+   {
+    "key": "version|n|side-of-story",
+    "inputHash": "7f52465eadefc32f"
+   },
+   {
+    "key": "nature|n|character",
+    "inputHash": "bc03261b8d71ba9b"
+   },
+   {
+    "key": "subject|n|topic",
+    "inputHash": "3dc98c5a7841eb33"
+   },
+   {
+    "key": "apply|v|use",
+    "inputHash": "953f9b0a79d439ff"
+   },
+   {
+    "key": "supply|n|stock",
+    "inputHash": "52bcba4e1e4ced07"
+   },
+   {
+    "key": "desire|v|want-strongly",
+    "inputHash": "781c95855f74d12d"
+   },
+   {
+    "key": "guarantee|n|warranty",
+    "inputHash": "943954ba40de1c53"
+   },
+   {
+    "key": "desert|v|abandon",
+    "inputHash": "1c2443956f3b03d3"
+   },
+   {
+    "key": "profession|n|career",
+    "inputHash": "3fdf21f35096da2c"
+   },
+   {
+    "key": "pause|n|short-stop",
+    "inputHash": "f04a27da2885917a"
+   },
+   {
+    "key": "natural|adj|normal",
+    "inputHash": "2d51295a59aecc63"
+   },
+   {
+    "key": "highly|adv|very",
+    "inputHash": "1fc3814072296572"
+   },
+   {
+    "key": "minimum|adj|lowest",
+    "inputHash": "beb545a384e01ebf"
+   },
+   {
+    "key": "universal|adj|general",
+    "inputHash": "8a6ee2da6a724e12"
+   },
+   {
+    "key": "vast|adj|huge",
+    "inputHash": "f1bd15c7dabbc68a"
+   },
+   {
+    "key": "impressive|adj|remarkable",
+    "inputHash": "867a2821c60023c9"
+   },
+   {
+    "key": "angle|n|viewpoint",
+    "inputHash": "a71229927a4ab77a"
+   },
+   {
+    "key": "contribution|n|donation",
+    "inputHash": "cee68fef4d9b82df"
+   },
+   {
+    "key": "pursue|v|chase-goal",
+    "inputHash": "65a0b5017413e522"
+   },
+   {
+    "key": "neutral|adj|impartial",
+    "inputHash": "01141f26b479e511"
+   },
+   {
+    "key": "identical|adj|same",
+    "inputHash": "2934485a9dd73ba0"
+   },
+   {
+    "key": "import|n|imported-goods",
+    "inputHash": "1f76901b548d920a"
+   },
+   {
+    "key": "breed|n|type",
+    "inputHash": "e18e2e277441cca9"
+   },
+   {
+    "key": "horizon|n|skyline",
+    "inputHash": "4c9195e2baa6e22d"
+   },
+   {
+    "key": "mobility|n|movement",
+    "inputHash": "00e9158972af0096"
+   },
+   {
+    "key": "slim|adj|thin",
+    "inputHash": "a50799d17170e2ad"
+   },
+   {
+    "key": "nonetheless|adv|nevertheless",
+    "inputHash": "459afec4e175eec0"
+   },
+   {
+    "key": "modest|adj|humble",
+    "inputHash": "5480e4995a25acfe"
+   },
+   {
+    "key": "uncertainty|n|doubt",
+    "inputHash": "d14c96ea6defc4a0"
+   },
+   {
+    "key": "convenience|n|ease",
+    "inputHash": "5077c14cc2eb16e3"
+   },
+   {
+    "key": "equation|n|math-statement",
+    "inputHash": "2beb046f201527da"
+   },
+   {
+    "key": "flexibility|n|adaptability",
+    "inputHash": "4f4c441a245696ff"
+   },
+   {
+    "key": "delicate|adj|fragile",
+    "inputHash": "ce4577467153a0cd"
+   },
+   {
+    "key": "grasp|v|grip",
+    "inputHash": "45bb97405deb5459"
+   },
+   {
+    "key": "ambition|n|goal",
+    "inputHash": "f045614ec7f4a6c9"
+   },
+   {
+    "key": "instinct|n|natural-sense",
+    "inputHash": "546f48584d4b5a39"
+   },
+   {
+    "key": "envy|n|jealousy",
+    "inputHash": "660ae36f9239b9cc"
+   },
+   {
+    "key": "accompany|v|go-with",
+    "inputHash": "60ed273f3070abff"
+   },
+   {
+    "key": "addict|n|dependent-person",
+    "inputHash": "a336a83f666f174a"
+   },
+   {
+    "key": "peasant|n|poor-farmer",
+    "inputHash": "8178bbc659c76749"
+   },
+   {
+    "key": "factual|adj|based-on-facts",
+    "inputHash": "e29e412a3a55c8d7"
+   },
+   {
+    "key": "dedicate|v|devote",
+    "inputHash": "89fe01679b0b2a6e"
+   },
+   {
+    "key": "astonish|v|amaze",
+    "inputHash": "5b21181af4e292c4"
+   },
+   {
+    "key": "get to|phrase|have-chance",
+    "inputHash": "1575947c62e8ebaf"
+   },
+   {
+    "key": "heart attack|phrase|cardiac-arrest",
+    "inputHash": "6c5907e719959d62"
+   },
+   {
+    "key": "accurately|adv|precisely",
+    "inputHash": "1dfac557aaff9512"
+   },
+   {
+    "key": "sharply|adv|suddenly",
+    "inputHash": "56c0135a6b0863a6"
+   },
+   {
+    "key": "applause|n|clapping",
+    "inputHash": "6b6be718d6f92bb2"
+   },
+   {
+    "key": "temper|n|mood",
+    "inputHash": "eb58388f89b9eddb"
+   },
+   {
+    "key": "immortal|adj|eternal",
+    "inputHash": "91cc027e79acc85b"
+   },
+   {
+    "key": "vein|n|blood-tube",
+    "inputHash": "eb3a08725bdc1832"
+   },
+   {
+    "key": "volcano|n|mountain",
+    "inputHash": "c33166d3a961dd7e"
+   },
+   {
+    "key": "glowing|adj|shining",
+    "inputHash": "252f60fbca7341fc"
+   },
+   {
+    "key": "hopeless|adj|desperate",
+    "inputHash": "36ce37e7997943fe"
+   },
+   {
+    "key": "erosion|n|wearing-away",
+    "inputHash": "20432c319b14cde0"
+   },
+   {
+    "key": "reproduce|v|breed",
+    "inputHash": "39bcb2880ab4e196"
+   },
+   {
+    "key": "periodically|adv|regularly",
+    "inputHash": "8ceb4cac5da7ee79"
+   },
+   {
+    "key": "ancestor|n|forebear",
+    "inputHash": "c44b5f0f63cecc86"
+   },
+   {
+    "key": "imitation|n|copy",
+    "inputHash": "5c242ff59e1bdc8f"
+   },
+   {
+    "key": "digestion|n|digesting",
+    "inputHash": "a978bb723d4d0f53"
+   },
+   {
+    "key": "recite|v|repeat-aloud",
+    "inputHash": "e0820f56062488fe"
+   },
+   {
+    "key": "fad|n|craze",
+    "inputHash": "127405f42f6cd70a"
+   },
+   {
+    "key": "aroma|n|scent",
+    "inputHash": "509ca269801dcaac"
+   },
+   {
+    "key": "mislead|v|deceive",
+    "inputHash": "cc805d03d6593110"
+   },
+   {
+    "key": "uniformly|adv|evenly",
+    "inputHash": "7095d11cf378bd4a"
+   },
+   {
+    "key": "burnout|n|exhaustion",
+    "inputHash": "1e80de1470f8e742"
+   },
+   {
+    "key": "keenly|adv|intensely",
+    "inputHash": "26788b01232ac809"
+   },
+   {
+    "key": "inconsiderate|adj|thoughtless",
+    "inputHash": "7d5955e7d04a4419"
+   },
+   {
+    "key": "unselfish|adj|selfless",
+    "inputHash": "27931e598174416e"
+   },
+   {
+    "key": "whiten|v|make-white",
+    "inputHash": "4778818872b13b48"
+   },
+   {
+    "key": "nonprofitable|adj|unprofitable",
+    "inputHash": "91054431472ac04c"
+   }
+  ]
+ }
+]

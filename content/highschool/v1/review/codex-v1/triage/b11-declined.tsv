@@ -1,0 +1,7 @@
+tissue|n|paper	meaning	'화장지'도 tissue의 자연스러운 번역이라 유지했다.
+phrase|v|express	colko	'질문을 표현하다'로도 뜻이 정확해 유지했다.
+excess|n|too-much	en2	제안 예문이 맥락 없이 모호해 다른 명사 용법 예문으로 바꿨다.
+announcement, stability, controversy, artificial, productive	synonyms	뜻이 겹치는 낱말을 객관식 오답에서 빼 두는 안전장치라 연결을 유지했다.
+craft	missing_sense	동사 '정성 들여 만들다'는 빈도가 낮아 제외했다.
+concentration	missing_sense	과학 용어 '농도'는 이번 범위에서 제외했다.
+submit	missing_sense	'굴복하다'는 빈도가 낮아 제외했다.

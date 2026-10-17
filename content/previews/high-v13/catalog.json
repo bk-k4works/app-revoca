@@ -1,5 +1,5 @@
 {
-  "contentVersion": "dev-high-4c1fc4a36e28",
+  "contentVersion": "dev-high-cbb730c7ed77",
   "developmentOnly": true,
   "track": "high",
   "courses": [
@@ -55,10 +55,10 @@
   "idMigrations": {},
   "audioPacks": [],
   "headwordCount": 2000,
-  "senseCount": 2587,
-  "exampleCount": 5174,
+  "senseCount": 2594,
+  "exampleCount": 5188,
   "humanApproved": 0,
-  "inputSha256": "85bf238a09b3d9aa1f4f7c1abccd2821bad519c4f89a27a479de6864a97e95c1",
+  "inputSha256": "34d3e508f6d1c6970ca3a511d1edb9657082ecb5021705d5bd28ac09626bacde",
   "sparseChoiceSenseIds": [
     "hs.any.det.whatever",
     "hs.any.det.some",
@@ -68,7 +68,7 @@
   ],
   "reviewMethod": "auto-check-only",
   "independentModel": false,
-  "buildHash": "4c1fc4a36e28ba1f59f1aeca6fd3edfd125d035c55a5a9128af2930db831b8fb",
+  "buildHash": "cbb730c7ed7706b07fbd9a63523649bd4100a60cddf2b0d2db71a6e82c025e37",
   "deckCount": 101,
-  "databaseSha256": "275413e356e65c4039d10ea44933277c3a960267492b654cc6a757ad65b265e7"
+  "databaseSha256": "3fe4b67d9866b772877de8f40b634de943529758a1493d0459424f333cbb4c59"
 }

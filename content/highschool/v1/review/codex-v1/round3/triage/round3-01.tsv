@@ -1,0 +1,16 @@
+EDIT	version	side-of-story	col	your version of events	Codex minor 수용	‘네 쪽의 이야기’는 이 문맥에서 다소 어색해요.
+EDIT	version	side-of-story	colko	네가 기억하는 사건 경위	Codex minor 수용	연어 교체에 맞춘 번역
+EDIT	minimum	lowest	ko1	이 일을 하려면 최소 18세여야 한다.	Codex minor 수용	‘최소 나이’는 다소 직역투예요.
+EDIT	pursue	chase-goal	expl	목표를 이루려 노력하거나 사람·동물을 뒤쫓을 때 써요.	Codex fix 수용	설명이 목표를 추구하는 뜻만 풀이해 ‘뒤쫓다’라는 뜻을 담지 못해요.
+EDIT	neutral	impartial	expl	어느 편에도 치우치지 않거나 산성·염기성이 아닌 것이에요.	Codex fix 수용	설명이 편을 들지 않는다는 뜻만 담아 화학에서 ‘중성의’라는 뜻을 풀이하지 못해요.
+EDIT	modest	humble	expl	자신을 내세우지 않거나 규모가 크지 않고 소박한 것이에요.	Codex fix 수용	‘크지 않은 것’만으로는 modest house처럼 소박하고 검소하다는 뜻이 충분히 설명되지 않아요.
+EDIT	convenience	ease	ko1	온라인 쇼핑은 바쁜 사람들에게 큰 편의를 제공한다.	Codex minor 수용	‘큰 편리함을 제공한다’는 표현이 다소 어색해요.
+EDIT	delicate	fragile	expl	쉽게 손상되거나 미묘해서 조심히 다뤄야 하는 것이에요.	Codex fix 일부 수용	설명이 잘 손상되는 뜻에 치우쳐 delicate situation의 ‘미묘한’ 뜻을 설명하지 못해요.
+EDIT	peasant	poor-farmer	ko1	그 이야기는 왕이 된 농민에 관한 것이다.	Codex minor 수용	‘peasant’를 ‘농부’로 옮기면 계층적 의미가 약해져요.
+EDIT	factual	based-on-facts	ko1	그 보고서에는 사실에 근거한 정보만 담겨 있다.	Codex fix 수용	‘사실에 관한 정보’는 factual information의 ‘사실에 근거한 정보’라는 뜻과 달라요.
+EDIT	dedicate	devote	expl	시간이나 노력을 쏟거나 작품을 누구에게 헌정할 때 써요.	Codex fix 수용	설명이 시간이나 삶을 쏟는 뜻만 담아 책을 누구에게 헌정하는 용법을 설명하지 못해요.
+EDIT	reproduce	breed	expl	생물이 번식하거나 원본과 똑같이 만들어 낼 때 써요.	Codex fix 수용	생물이 번식하는 방식이 새끼를 낳는 경우로만 한정돼 있어요.
+EDIT	keenly	intensely	col	keenly aware	Codex minor 수용	‘뼈저리게 알고 있는’은 keenly aware의 번역으로 지나치게 강하고 어색해요.
+EDIT	keenly	intensely	colko	분명히 인식하고 있는	Codex minor 수용	연어 교체에 맞춘 번역
+EDIT	nonprofitable	unprofitable	col	an unprofitable business	Codex minor 수용	‘nonprofitable business’는 통하지만 ‘unprofitable business’가 더 흔한 조합이에요.
+EDIT	nonprofitable	unprofitable	colko	수익이 나지 않는 사업	Codex minor 수용	연어 교체에 맞춘 번역

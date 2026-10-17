@@ -1,0 +1,48 @@
+EDIT	wage	pay	meaning	(일한 만큼 받는) 임금; 급료	Codex fix 일부 수용	‘임금; 급료’는 salary의 ‘급여; 월급’과 구별하기 어렵습니다.
+EDIT	wage	pay	expl	일한 시간이나 양에 따라 받는 급료를 말해요.	Codex fix 수용	정기적으로 받는 돈이라는 설명은 salary에도 그대로 적용됩니다.
+EDIT	wage	carry-on	expl	전쟁이나 운동을 벌일 때 써요.	Codex fix 수용	‘계속해 나가다’는 뜻은 wage의 핵심인 전쟁·운동 등을 벌이는 의미와 다릅니다.
+EDIT	plain	simple	meaning	수수한; 꾸밈없는	Codex fix 일부 수용	‘평범한’이 ordinary의 뜻과 겹쳐 철자 문제에서 혼동될 수 있습니다.
+EDIT	soil	earth	expl	식물이 자라는 땅의 흙이에요.	Codex fix 수용	‘겉흙’은 soil 전체보다 좁은 뜻인 표토를 가리킵니다.
+EDIT	delay	wait	en2	We began the meeting without delay after everyone arrived.	Codex fix 수용	예문이 4단어라 6~20단어 규칙을 어깁니다.
+EDIT	delay	wait	ko2	모두 도착한 뒤 우리는 지체 없이 회의를 시작했다.	Codex fix 수용	영어 예문을 바꾸면 번역도 함께 맞춰야 합니다.
+EDIT	desert	abandon	ko2	홍수 후 사람들은 그 마을을 버리고 떠났다.	Codex fix 수용	‘텅 비었다’는 마을에 사람이 없다는 결과만 옮겨, 버려졌다는 의미가 약해졌습니다.
+EDIT	bother	make-effort	meaning	굳이 ~하다; 수고를 들여 ~하다	Codex fix 수용	‘일부러 ~하다’는 의도적으로 한다는 뜻으로 읽혀 bother to의 ‘수고를 들이다’ 의미를 정확히 나타내지 않습니다.
+EDIT	reflect	mirror	en2	White surfaces reflect much of the sunlight that reaches them.	Codex fix 수용	예문이 4단어라 6~20단어 규칙을 어깁니다.
+EDIT	reflect	mirror	ko2	흰 표면은 닿는 햇빛을 많이 반사한다.	Codex fix 일부 수용	영어 예문을 바꾸면 번역도 함께 맞춰야 합니다.
+EDIT	reflect	show	col	reflect public opinion	Codex minor 수용	‘reflect the opinion’은 단독으로는 덜 자연스럽고 무엇의 의견인지 구체화하는 경우가 많습니다.
+EDIT	reflect	show	colko	여론을 반영하다	Codex minor 수용	연어 교체에 맞춘 번역
+EDIT	experiment	test	en2	The experiment produced surprising results after several weeks.	Codex fix 수용	예문이 5단어라 6~20단어 규칙을 어깁니다.
+EDIT	experiment	test	ko2	그 실험은 몇 주 뒤 놀라운 결과를 낳았다.	Codex fix 수용	영어 예문을 바꾸면 번역도 함께 맞춰야 합니다.
+EDIT	remind	cause-to-remember	expl	잊은 사실이나 해야 할 일을 떠올리게 할 때 써요.	Codex fix 수용	설명이 remind A of B 구문만 안내해, 예문에 쓰인 remind A to do 구문을 포함하지 않습니다.
+EDIT	settle	resolve	expl	문제를 해결하거나 날짜·방식 등을 정해 마무리할 때 써요.	Codex fix 수용	설명이 다툼이나 문제를 해결하는 경우만 다뤄, 날짜를 정하는 예문을 설명하지 못합니다.
+EDIT	regard	respect	meaning	고려; 존중	Codex fix 일부 수용	‘관심; 존중’은 예문의 ‘안전을 고려하지 않다’와 ‘with regard to’의 측면·고려 의미를 충분히 담지 않습니다.
+EDIT	regard	respect	expl	사람에 대한 존중이나 일에 대한 고려를 뜻해요.	Codex fix 수용	측면이나 고려의 뜻이 설명에서 빠져 있습니다.
+EDIT	salary	monthly-pay	meaning	고정 급여; 월급	Codex fix 일부 수용	‘급여; 월급’은 wage의 ‘임금; 급료’와 겹쳐 두 카드가 구별되지 않습니다.
+EDIT	salary	monthly-pay	expl	보통 연 단위로 정해져 정기적으로 받는 급여예요.	Codex fix 수용	정기적으로 받는 돈이라는 설명은 wage에도 적용됩니다.
+EDIT	exit	way-out	en1	Please use the nearest exit when the alarm sounds.	Codex fix 수용	예문이 5단어라 6~20단어 규칙을 어깁니다.
+EDIT	exit	way-out	ko1	경보가 울리면 가장 가까운 출구를 이용해라.	Codex fix 수용	영어 예문을 바꾸면 번역도 함께 맞춰야 합니다.
+EDIT	exit	leave	en1	Please exit the room quietly after the meeting.	Codex fix 수용	예문이 5단어라 6~20단어 규칙을 어깁니다.
+EDIT	exit	leave	ko1	회의가 끝난 뒤 조용히 방에서 나가라.	Codex fix 수용	영어 예문을 바꾸면 번역도 함께 맞춰야 합니다.
+EDIT	rob	steal-from	expl	rob A of B로 물건이나 소중한 것을 빼앗을 때 써요.	Codex fix 수용	‘강제로 빼앗다’라는 설명은 소음이 잠을 빼앗는 비유적 용법을 포괄하지 못합니다.
+EDIT	tear	rip	col	tear a piece of paper	Codex fix 수용	‘tear a paper’는 종이 한 장을 찢는다는 뜻으로는 어색한 조합입니다.
+EDIT	tear	rip	colko	종이 한 장을 찢다	Codex fix 수용	연어 교체에 맞춘 번역
+EDIT	tear	teardrop	en1	Tears slowly filled her eyes as she read the letter.	Codex fix 수용	예문이 5단어라 6~20단어 규칙을 어깁니다.
+EDIT	tear	teardrop	ko1	편지를 읽으며 그녀의 눈에 눈물이 천천히 고였다.	Codex fix 수용	영어 예문을 바꾸면 번역도 함께 맞춰야 합니다.
+EDIT	flood	overflow@n	en1	The flood destroyed many homes along the river.	Codex fix 수용	예문이 5단어라 6~20단어 규칙을 어깁니다.
+EDIT	flood	overflow@n	ko1	홍수로 강가의 많은 집이 파괴되었다.	Codex fix 수용	영어 예문을 바꾸면 번역도 함께 맞춰야 합니다.
+EDIT	flood	overflow@n	col	a major flood	Codex fix 수용	‘heavy flood’는 자연스러운 연어가 아닙니다.
+EDIT	flood	overflow@n	colko	큰 홍수	Codex fix 수용	연어 교체에 맞춘 번역
+EDIT	cure	treatment	expl	병을 낫게 하거나 문제를 해결하는 방법이에요.	Codex fix 수용	설명이 병의 치료법만 다뤄, 뜻에 포함된 ‘해결책’과 슬픔을 치료한다는 예문을 포괄하지 못합니다.
+EDIT	estimate	guess@n	ko1	한 추산에 따르면 만 명이 왔다.	Codex minor 수용	‘한 추정에 따르면’은 다소 번역투로 들립니다.
+EDIT	relax	loosen	meaning	느슨하게 하다; 완화하다	Codex fix 일부 수용	뜻이 규칙을 완화하는 경우로만 한정되어, ‘grip’을 느슨하게 한다는 예문과 맞지 않습니다.
+EDIT	relax	loosen	expl	규칙을 덜 엄격하게 하거나 쥔 힘을 풀 때 써요.	Codex fix 수용	설명이 규칙이나 힘을 느슨하게 한다고만 해, 힘을 푸는 용법이 불분명합니다.
+EDIT	spare	give	expl	시간·돈을 내주거나 노력을 아끼지 않을 때 써요.	Codex fix 수용	설명이 필요한 것을 나누어 주는 의미에 치우쳐 ‘노력을 아끼지 않다’라는 예문을 설명하지 못합니다.
+EDIT	breathe	take-air	en1	Breathe slowly through your nose while counting to five.	Codex fix 수용	예문이 5단어라 6~20단어 규칙을 어깁니다.
+EDIT	breathe	take-air	ko1	다섯까지 세며 코로 천천히 숨을 쉬어라.	Codex fix 수용	영어 예문을 바꾸면 번역도 함께 맞춰야 합니다.
+EDIT	shelter	safe-place	ko2	음식과 거처는 인간의 기본적인 필요다.	Codex fix 수용	‘집’은 shelter의 보호받을 곳·거처라는 의미보다 구체적인 주거 건물을 가리킵니다.
+EDIT	fever	high-temperature	expl	아플 때 체온이 오르는 상태나 어떤 일에 대한 뜨거운 열기를 뜻해요.	Codex fix 수용	설명이 질병으로 인한 체온 상승만 다뤄 ‘World Cup fever’의 열기 의미를 설명하지 못합니다.
+EDIT	sink	go-down	en2	Stones sink to the bottom, but pieces of wood float.	Codex fix 수용	예문이 5단어라 6~20단어 규칙을 어깁니다.
+EDIT	sink	go-down	ko2	돌은 바닥으로 가라앉지만 나무 조각은 뜬다.	Codex fix 수용	영어 예문을 바꾸면 번역도 함께 맞춰야 합니다.
+EDIT	attract	draw	en2	Bright flowers attract many bees to the garden.	Codex fix 수용	예문이 4단어라 6~20단어 규칙을 어깁니다.
+EDIT	attract	draw	ko2	화려한 꽃은 많은 벌을 정원으로 끌어들인다.	Codex fix 수용	영어 예문을 바꾸면 번역도 함께 맞춰야 합니다.
+EDIT	confirm	verify	ko1	이메일로 좌석 예약을 확인해라.	Codex minor 일부 수용	'좌석을 확정하다'는 새로 정한다는 뜻으로 읽힐 수 있음

@@ -1,0 +1,766 @@
+[accordingly|adv|appropriately] hash=7b0210478c6f1d05
+  뜻: 그에 맞게; 따라서
+  설명: 상황에 맞추어 또는 그 결과로를 뜻해요.
+  연어: act accordingly = 그에 맞게 행동하다
+  예문1: The weather will change, so dress accordingly. / 날씨가 바뀔 테니 그에 맞게 옷을 입어라.
+  예문2: He was late; accordingly, he missed the bus. / 그는 늦었고 따라서 버스를 놓쳤다.
+[aesthetic|adj|artistic] hash=cb26d47c7cbe97e5
+  뜻: 미적인; 심미적인
+  설명: 아름다움과 관련된 것이에요.
+  연어: aesthetic value = 미적 가치
+  예문1: The building has great aesthetic value. / 그 건물은 미적 가치가 크다.
+  예문2: She chose the colors for aesthetic reasons. / 그녀는 미적인 이유로 그 색들을 골랐다.
+[complexity|n|complication] hash=04bdbce3a5ab43c0
+  뜻: 복잡성
+  설명: 여러 부분이 얽혀 어려운 정도예요.
+  연어: the complexity of = ~의 복잡성
+  예문1: The complexity of the problem surprised everyone. / 그 문제의 복잡성에 모두가 놀랐다.
+  예문2: Scientists study the complexity of the human brain. / 과학자들은 인간 뇌의 복잡성을 연구한다.
+[convenience|n|ease] hash=99a33fe03ee22805
+  뜻: 편리함; 편의
+  설명: 쓰기 쉽고 편한 것이에요.
+  연어: for convenience = 편의를 위해
+  예문1: Online shopping offers great convenience. / 온라인 쇼핑은 큰 편리함을 준다.
+  예문2: There is a convenience store on every corner. / 길모퉁이마다 편의점이 있다.
+[dignity|n|self-respect] hash=7ef1833619b84258
+  뜻: 존엄성; 위엄
+  설명: 사람으로서 존중받을 가치나 품위예요.
+  연어: human dignity = 인간의 존엄성
+  예문1: Every person should be treated with dignity. / 모든 사람은 존엄하게 대우받아야 한다.
+  예문2: She accepted her defeat with dignity. / 그녀는 품위 있게 패배를 받아들였다.
+  유의어(오답 제외): respect
+[enthusiasm|n|eagerness] hash=c6d781ccaa1b3187
+  뜻: 열정; 열의
+  설명: 무엇을 아주 좋아하고 열심히 하려는 마음이에요.
+  연어: with enthusiasm = 열정적으로
+  예문1: The students welcomed the idea with enthusiasm. / 학생들은 그 생각을 열렬히 환영했다.
+  예문2: His enthusiasm for science is impressive. / 과학에 대한 그의 열정은 인상적이다.
+  유의어(오답 제외): passion
+[equation|n|math-statement] hash=f91166f22b8925f8
+  뜻: 방정식; 등식
+  설명: 두 식이 같음을 나타내는 수학식이에요.
+  연어: solve an equation = 방정식을 풀다
+  예문1: Can you solve this equation? / 이 방정식을 풀 수 있니?
+  예문2: Money is only one part of the equation. / 돈은 그 문제의 일부일 뿐이다.
+[extract|v|take-out] hash=9953afadfd423fa9
+  뜻: 뽑아내다; 추출하다
+  설명: 안에 있는 것을 빼낼 때 써요.
+  연어: extract oil = 기름을 추출하다
+  예문1: Oil is extracted from olives. / 기름은 올리브에서 추출된다.
+  예문2: The dentist extracted my bad tooth. / 치과 의사가 내 썩은 이를 뽑았다.
+[extract|n|passage] hash=968adf402efdc614
+  뜻: 발췌; 추출물
+  설명: 글에서 뽑은 부분이나 짜낸 물질이에요.
+  연어: an extract from = ~에서 발췌한 부분
+  예문1: Read this extract from the novel. / 그 소설에서 발췌한 이 부분을 읽어라.
+  예문2: The cream contains plant extracts. / 그 크림에는 식물 추출물이 들어 있다.
+[ferry|n|boat] hash=2f1383d961eba5e8
+  뜻: 여객선; 연락선
+  설명: 사람과 차를 실어 나르는 배예요.
+  연어: take a ferry = 배를 타다
+  예문1: We took a ferry to the island. / 우리는 배를 타고 섬에 갔다.
+  예문2: The ferry leaves every hour. / 그 여객선은 매시간 출발한다.
+  유의어(오답 제외): boat
+[flexibility|n|adaptability] hash=21e08bb810fbb734
+  뜻: 유연성; 융통성
+  설명: 쉽게 구부러지거나 상황에 맞춰 바뀌는 능력이에요.
+  연어: flexibility in = ~의 유연성
+  예문1: Yoga improves flexibility. / 요가는 유연성을 높여 준다.
+  예문2: The job offers flexibility in working hours. / 그 일은 근무 시간이 유연하다.
+[instructor|n|teacher] hash=6030c66e6a8a5193
+  뜻: 강사; 교사
+  설명: 기술이나 운동을 가르치는 사람이에요.
+  연어: a driving instructor = 운전 강사
+  예문1: My swimming instructor is very patient. / 내 수영 강사는 매우 참을성이 있다.
+  예문2: She works as a yoga instructor. / 그녀는 요가 강사로 일한다.
+  유의어(오답 제외): teacher
+[slam|v|shut-hard] hash=fb71359538c258f5
+  뜻: 쾅 닫다; 세게 놓다
+  설명: 문 따위를 세게 닫거나 놓을 때 써요.
+  연어: slam the door = 문을 쾅 닫다
+  예문1: He slammed the door and left the room. / 그는 문을 쾅 닫고 방을 나갔다.
+  예문2: She slammed her book on the desk. / 그녀는 책을 책상 위에 탁 내려놓았다.
+[width|n|breadth] hash=2a264b9f2eb8b2d1
+  뜻: 폭; 너비
+  설명: 옆으로 잰 길이예요.
+  연어: in width = 폭이
+  예문1: The road is ten meters in width. / 그 도로는 폭이 10미터이다.
+  예문2: Measure the width of the window. / 창문의 너비를 재라.
+  유의어(오답 제외): breadth
+[creativity|n|imagination] hash=04b8d076a36e4fd1
+  뜻: 창의성; 창의력
+  설명: 새로운 것을 생각해 내는 능력이에요.
+  연어: encourage creativity = 창의성을 북돋우다
+  예문1: Art classes help develop creativity. / 미술 수업은 창의력을 기르는 데 도움이 된다.
+  예문2: Children show great creativity when they play. / 아이들은 놀 때 대단한 창의력을 보여 준다.
+  유의어(오답 제외): imagination
+[delicate|adj|fragile] hash=09ac216d6a9a856a
+  뜻: 섬세한; 연약한
+  설명: 쉽게 다치거나 깨지는 것이에요.
+  연어: a delicate matter = 미묘한 문제
+  예문1: Be careful with that delicate glass. / 그 깨지기 쉬운 유리컵을 조심해라.
+  예문2: This is a delicate situation. / 이것은 미묘한 상황이다.
+  유의어(오답 제외): fragile
+[evaluate|v|assess] hash=7f169739323c4791
+  뜻: (꼼꼼히) 평가하다
+  설명: 가치나 결과를 판단할 때 써요.
+  연어: evaluate performance = 성과를 평가하다
+  예문1: Teachers evaluate students' progress every term. / 교사들은 매 학기 학생들의 발전 정도를 평가한다.
+  예문2: We need to evaluate the results carefully. / 우리는 결과를 신중하게 평가해야 한다.
+  유의어(오답 제외): assess
+[insert|v|put-in] hash=80089c6de1bc431e
+  뜻: 넣다; 삽입하다
+  설명: 안으로 끼워 넣을 때 써요.
+  연어: insert a coin = 동전을 넣다
+  예문1: Insert your card into the machine. / 기계에 카드를 넣어라.
+  예문2: Please insert a picture into your report. / 보고서에 그림을 넣어라.
+[relaxed|adj|calm] hash=f93a10b9b6aa4743
+  뜻: 편안한; 느긋한
+  설명: 긴장하지 않고 마음이 편한 것이에요.
+  연어: feel relaxed = 편안하다
+  예문1: I feel relaxed after a hot bath. / 따뜻한 목욕을 하고 나니 마음이 편안하다.
+  예문2: The cafe has a relaxed atmosphere. / 그 카페는 편안한 분위기이다.
+  유의어(오답 제외): calm
+[sympathy|n|compassion] hash=208dda2b1e053d4f
+  뜻: 동정; 공감
+  설명: 다른 사람의 슬픔을 함께 느끼는 마음이에요.
+  연어: feel sympathy for = ~을 동정하다
+  예문1: I feel great sympathy for the victims. / 나는 피해자들을 깊이 동정한다.
+  예문2: She showed no sympathy for his problem. / 그녀는 그의 문제에 아무런 동정심도 보이지 않았다.
+  유의어(오답 제외): compassion
+[voluntary|adj|optional] hash=a7cf5d90eba6aae3
+  뜻: 자발적인; 자원봉사의
+  설명: 강요받지 않고 스스로 하는 것이에요.
+  연어: voluntary work = 자원봉사
+  예문1: Joining the club is voluntary. / 그 동아리 가입은 자율이다.
+  예문2: She does voluntary work at a hospital. / 그녀는 병원에서 자원봉사를 한다.
+  유의어(오답 제외): optional
+[acute|adj|severe] hash=fdaac5a38e4a11cf
+  뜻: 급성의; 극심한
+  설명: 아주 심하거나 갑자기 시작된 것이에요.
+  연어: acute pain = 급성 통증
+  예문1: He felt an acute pain in his stomach. / 그는 배에 극심한 통증을 느꼈다.
+  예문2: There is an acute shortage of nurses. / 간호사가 심각하게 부족하다.
+  유의어(오답 제외): severe
+[acute|adj|sharp] hash=6eedf00c64c81ed9
+  뜻: 예리한; 예민한
+  설명: 감각이나 생각이 날카로운 것이에요.
+  연어: an acute sense of smell = 예민한 후각
+  예문1: Dogs have an acute sense of smell. / 개는 후각이 예민하다.
+  예문2: She has an acute mind. / 그녀는 예리한 지성을 지녔다.
+  유의어(오답 제외): sharp
+[behave|v|act] hash=75e7a243a4d6b44e
+  뜻: 행동하다; 예의 바르게 굴다
+  설명: 어떤 방식으로 행동하거나 얌전히 굴 때 써요.
+  연어: behave well = 예의 바르게 행동하다
+  예문1: The children behaved well at the restaurant. / 아이들은 식당에서 얌전하게 행동했다.
+  예문2: He behaves strangely when he is nervous. / 그는 긴장하면 이상하게 행동한다.
+  유의어(오답 제외): act
+[distinctive|adj|unique] hash=90fbd3a80b76e97a
+  뜻: 뚜렷이 구별되는; 독특한
+  설명: 다른 것과 쉽게 구별되는 것이에요.
+  연어: a distinctive style = 독특한 스타일
+  예문1: The singer has a distinctive voice. / 그 가수는 독특한 목소리를 가졌다.
+  예문2: The bird has distinctive red feathers. / 그 새는 특유의 빨간 깃털이 있다.
+  유의어(오답 제외): unique
+[donation|n|gift] hash=fedd5bb805d6165e
+  뜻: 기부; 기증
+  설명: 대가 없이 주는 돈이나 물건이에요.
+  연어: make a donation = 기부하다
+  예문1: She made a donation to the children's hospital. / 그녀는 어린이 병원에 기부했다.
+  예문2: Blood donations save many lives. / 헌혈은 많은 생명을 구한다.
+  유의어(오답 제외): contribution
+[firmly|adv|strongly] hash=390ddb4da3248ee2
+  뜻: 단호하게; 단단히
+  설명: 흔들림 없이 강하게를 뜻해요.
+  연어: firmly believe = 굳게 믿다
+  예문1: I firmly believe that hard work pays off. / 나는 노력이 보답받는다고 굳게 믿는다.
+  예문2: Hold the rope firmly. / 밧줄을 단단히 잡아라.
+[inspire|v|motivate] hash=f9cd8112652f1bbf
+  뜻: 영감을 주다; 고무하다
+  설명: 좋은 생각이나 의욕이 생기게 할 때 써요.
+  연어: inspire someone to = ~가 ~하도록 고무하다
+  예문1: Her story inspired me to study harder. / 그녀의 이야기는 내가 더 열심히 공부하도록 동기를 주었다.
+  예문2: The painting was inspired by the sea. / 그 그림은 바다에서 영감을 받았다.
+  유의어(오답 제외): motivate
+[lottery|n|draw] hash=5cad4ed6999d7fb4
+  뜻: 복권; 추첨
+  설명: 번호를 뽑아 상금을 주는 제도예요.
+  연어: win the lottery = 복권에 당첨되다
+  예문1: He dreams of winning the lottery. / 그는 복권에 당첨되는 꿈을 꾼다.
+  예문2: Tickets were given out by lottery. / 표는 추첨으로 나누어 주었다.
+[outlet|n|shop-or-socket] hash=6f7f3292aca92cf7
+  뜻: 직판점; 콘센트
+  설명: 싸게 파는 가게나 전기를 꽂는 곳이에요.
+  연어: an electrical outlet = 전기 콘센트
+  예문1: Plug the charger into the outlet. / 충전기를 콘센트에 꽂아라.
+  예문2: We bought shoes at an outlet store. / 우리는 아웃렛 매장에서 신발을 샀다.
+[outlet|n|means-of-release] hash=12f81ed071098d5e
+  뜻: 배출구; 표현 수단
+  설명: 감정이나 에너지를 풀 수 있는 방법이에요.
+  연어: an outlet for = ~의 배출구
+  예문1: Sports are a good outlet for stress. / 운동은 스트레스를 푸는 좋은 방법이다.
+  예문2: Writing is an outlet for her feelings. / 글쓰기는 그녀의 감정 표현 수단이다.
+[infant|n|baby] hash=d7089c4649c79f0c
+  뜻: 유아; 아기
+  설명: 아주 어린 아이예요.
+  연어: infant care = 유아 보육
+  예문1: The nurse took care of the newborn infant. / 간호사가 갓 태어난 아기를 돌보았다.
+  예문2: Infants need a lot of sleep. / 아기는 잠을 많이 자야 한다.
+  유의어(오답 제외): baby
+[insult|v|offend] hash=a01d1da6eb742a76
+  뜻: 모욕하다
+  설명: 무례한 말로 기분을 상하게 할 때 써요.
+  연어: feel insulted = 모욕감을 느끼다
+  예문1: He insulted me in front of my friends. / 그는 친구들 앞에서 나를 모욕했다.
+  예문2: I did not mean to insult you. / 너를 모욕하려던 것은 아니었다.
+  유의어(오답 제외): offend
+[insult|n|offense] hash=6ab6282b203aa032
+  뜻: 모욕
+  설명: 기분을 상하게 하는 무례한 말이나 행동이에요.
+  연어: a personal insult = 인신공격
+  예문1: His comment was an insult to all teachers. / 그의 말은 모든 교사에 대한 모욕이었다.
+  예문2: They shouted insults at each other. / 그들은 서로에게 모욕적인 말을 외쳤다.
+[spark|n|tiny-fire] hash=796fef7fde0680ca
+  뜻: 불꽃; 계기
+  설명: 작은 불티나 무엇이 시작되는 계기예요.
+  연어: a spark of = ~의 불씨
+  예문1: A spark from the fire landed on the carpet. / 불에서 튄 불꽃이 카펫에 떨어졌다.
+  예문2: Her speech was the spark that started the movement. / 그녀의 연설이 그 운동을 시작하게 한 계기였다.
+[spark|v|trigger] hash=f224a559d376df79
+  뜻: 촉발하다; 불러일으키다
+  설명: 어떤 일이 일어나게 할 때 써요.
+  연어: spark interest = 관심을 불러일으키다
+  예문1: The news sparked a heated debate. / 그 소식은 열띤 논쟁을 촉발했다.
+  예문2: The trip sparked her interest in history. / 그 여행이 그녀에게 역사에 대한 관심을 불러일으켰다.
+  유의어(오답 제외): trigger
+[steep|adj|sharply-sloped] hash=a0c737898966bb7a
+  뜻: 가파른; 급격한
+  설명: 경사가 심하거나 변화가 큰 것이에요.
+  연어: a steep hill = 가파른 언덕
+  예문1: We climbed a steep hill to reach the temple. / 우리는 사원에 가려고 가파른 언덕을 올랐다.
+  예문2: The cost of housing has seen a steep increase this year. / 올해 주거비가 가파르게 올랐다.
+[absent|adj|not-present] hash=33ded1f54f37f5fb
+  뜻: 결석한; 없는
+  설명: 학교나 모임에 나오지 않은 상태예요.
+  연어: be absent from = ~에 결석하다
+  예문1: She was absent from school because of a cold. / 그녀는 감기 때문에 학교에 결석했다.
+  예문2: Fear was absent from his face. / 그의 얼굴에는 두려움이 없었다.
+[colleague|n|coworker] hash=6a3151ed47931be7
+  뜻: 동료
+  설명: 같은 곳에서 함께 일하는 사람이에요.
+  연어: a close colleague = 가까운 동료
+  예문1: My mother had lunch with her colleagues. / 어머니는 동료들과 점심을 드셨다.
+  예문2: He discussed the problem with a colleague. / 그는 동료와 그 문제를 의논했다.
+  유의어(오답 제외): coworker
+[dense|adj|thick] hash=9d0bbda526ae04fe
+  뜻: 빽빽한; 짙은
+  설명: 사이가 촘촘하거나 농도가 높은 것이에요.
+  연어: a dense forest = 울창한 숲
+  예문1: We got lost in the dense forest. / 우리는 울창한 숲에서 길을 잃었다.
+  예문2: A dense fog covered the city. / 짙은 안개가 도시를 뒤덮었다.
+  유의어(오답 제외): thick
+[habitat|n|home-environment] hash=79df95341324b3ea
+  뜻: 서식지
+  설명: 동식물이 자연스럽게 사는 곳이에요.
+  연어: natural habitat = 자연 서식지
+  예문1: Many animals are losing their habitats. / 많은 동물이 서식지를 잃고 있다.
+  예문2: The zoo recreates the natural habitat of each animal. / 그 동물원은 동물마다 자연 서식지를 재현한다.
+[needle|n|sewing-tool] hash=e22e82543160865f
+  뜻: 바늘; 주삿바늘
+  설명: 바느질하거나 주사를 놓는 가늘고 뾰족한 도구예요.
+  연어: a needle and thread = 바늘과 실
+  예문1: Can you put the thread through the needle for me? / 바늘에 실을 꿰어 줄 수 있니?
+  예문2: Some people are afraid of needles. / 어떤 사람들은 주삿바늘을 무서워한다.
+[organize|v|arrange] hash=9000b1e61b0d7200
+  뜻: 조직하다; 준비하다
+  설명: 행사를 계획하거나 물건을 정리할 때 써요.
+  연어: organize an event = 행사를 준비하다
+  예문1: The students organized a charity concert. / 학생들은 자선 음악회를 준비했다.
+  예문2: I need to organize my desk. / 나는 책상을 정리해야 한다.
+  유의어(오답 제외): arrange
+[grasp|v|grip] hash=86de4facdcc1a6e3
+  뜻: 파악하다; 꽉 잡다
+  설명: 단단히 쥐거나 뜻을 알아들을 때 써요.
+  연어: grasp an idea = 생각을 이해하다
+  예문1: She grasped my hand tightly. / 그녀는 내 손을 꽉 잡았다.
+  예문2: Some students could not grasp the main idea. / 몇몇 학생은 요점을 이해하지 못했다.
+  유의어(오답 제외): grip
+[grasp|n|understanding] hash=d1d7e059b6e30b89
+  뜻: 파악; 움켜쥠
+  설명: 무엇을 이해하는 정도나 손으로 잡는 것이에요.
+  연어: a good grasp of = ~을 잘 이해함
+  예문1: She has a good grasp of grammar. / 그녀는 문법을 잘 이해하고 있다.
+  예문2: The rope slipped from his grasp. / 밧줄이 그의 손에서 미끄러져 빠졌다.
+  유의어(오답 제외): understanding
+[headache|n|head-pain] hash=44a50991e0203246
+  뜻: 두통; 골칫거리
+  설명: 머리가 아픈 것이나 귀찮은 문제예요.
+  연어: have a headache = 두통이 있다
+  예문1: I have a terrible headache today. / 나는 오늘 두통이 심하다.
+  예문2: Finding a parking space is always a headache. / 주차 공간을 찾는 것은 늘 골칫거리이다.
+[incentive|n|motivation] hash=41647582c6def317
+  뜻: 장려책; 동기
+  설명: 무엇을 하게 만드는 보상이나 이유예요.
+  연어: an incentive to = ~할 동기
+  예문1: The company offers incentives to its best workers. / 그 회사는 우수한 직원에게 장려금을 준다.
+  예문2: Lower taxes give people an incentive to save. / 세금이 낮아지면 사람들이 저축할 동기가 생긴다.
+  유의어(오답 제외): motivation
+[scholar|n|academic] hash=8b1ee91b7bce6e78
+  뜻: 학자
+  설명: 어떤 분야를 깊이 연구하는 사람이에요.
+  연어: a famous scholar = 유명한 학자
+  예문1: He is a scholar of ancient history. / 그는 고대사를 연구하는 학자이다.
+  예문2: Scholars from many countries attended the meeting. / 여러 나라의 학자들이 그 회의에 참석했다.
+[absurd|adj|ridiculous] hash=23e8461a94b97d77
+  뜻: 터무니없는; 불합리한
+  설명: 말이 안 될 만큼 어리석은 것이에요.
+  연어: an absurd idea = 터무니없는 생각
+  예문1: It is absurd to wear a coat in summer. / 여름에 코트를 입는 것은 터무니없다.
+  예문2: The idea sounded absurd at first, but it worked. / 그 생각은 처음엔 터무니없게 들렸지만 효과가 있었다.
+  유의어(오답 제외): ridiculous
+[ambitious|adj|determined] hash=f99d2754721923f0
+  뜻: 야심 있는; 야심 찬
+  설명: 크게 성공하려는 마음이 강한 것이에요.
+  연어: an ambitious plan = 야심 찬 계획
+  예문1: She is an ambitious young scientist. / 그녀는 야심 있는 젊은 과학자이다.
+  예문2: The city has ambitious plans for a new park. / 그 도시는 새 공원을 짓는 야심 찬 계획을 세웠다.
+[critic|n|reviewer] hash=1a2f9676c9016d14
+  뜻: 비평가; 비판하는 사람
+  설명: 작품을 평가하거나 무엇을 비판하는 사람이에요.
+  연어: a film critic = 영화 평론가
+  예문1: The critic gave the movie five stars. / 그 평론가는 영화에 별 다섯 개를 주었다.
+  예문2: Critics of the plan say it is too expensive. / 그 계획을 비판하는 사람들은 너무 비싸다고 말한다.
+[sigh|v|breathe-out] hash=1fc0ff7e07734eb6
+  뜻: 한숨 쉬다
+  설명: 지치거나 실망해서 숨을 길게 내쉴 때 써요.
+  연어: sigh deeply = 깊이 한숨 쉬다
+  예문1: She sighed when she saw the long line. / 그녀는 긴 줄을 보고 한숨을 쉬었다.
+  예문2: He sighed with relief after the exam. / 그는 시험이 끝나자 안도의 한숨을 쉬었다.
+[sigh|n|deep-breath] hash=84e00c6d8a033b81
+  뜻: 한숨
+  설명: 길게 내쉬는 숨이에요.
+  연어: a sigh of relief = 안도의 한숨
+  예문1: She let out a long sigh. / 그녀는 긴 한숨을 내쉬었다.
+  예문2: We all breathed a sigh of relief. / 우리는 모두 안도의 한숨을 쉬었다.
+[spouse|n|husband-or-wife] hash=63aa036f6548bf6e
+  뜻: 배우자
+  설명: 결혼한 상대인 남편이나 아내예요.
+  연어: your spouse = 당신의 배우자
+  예문1: Employees can bring their spouses to the party. / 직원들은 배우자를 파티에 데려올 수 있다.
+  예문2: Please write your spouse's name on the form. / 양식에 배우자의 이름을 적어라.
+[consist|v|be-made-up] hash=ac143d2f9d7e2504
+  뜻: 이루어져 있다
+  설명: consist of로 무엇으로 구성되어 있음을 말해요.
+  연어: consist of = ~으로 구성되다
+  예문1: The team consists of ten players. / 그 팀은 선수 열 명으로 구성되어 있다.
+  예문2: A healthy breakfast consists of fruit, eggs, and bread. / 건강한 아침 식사는 과일, 달걀, 빵으로 이루어진다.
+[illusion|n|false-idea] hash=e3a26d7623d276ed
+  뜻: 환상; 착각
+  설명: 사실이 아닌 생각이나 눈의 착각이에요.
+  연어: an optical illusion = 착시
+  예문1: The mirror creates the illusion of a bigger room. / 거울은 방이 더 넓어 보이는 착각을 일으킨다.
+  예문2: She has no illusions about how hard the job is. / 그녀는 그 일이 얼마나 힘든지에 대해 환상을 갖고 있지 않다.
+[profound|adj|deep] hash=5bd0b498c0414765
+  뜻: 깊은; 심오한
+  설명: 영향이나 생각이 아주 깊은 것이에요.
+  연어: a profound effect = 깊은 영향
+  예문1: The book had a profound effect on me. / 그 책은 나에게 깊은 영향을 미쳤다.
+  예문2: He asked a profound question about life. / 그는 삶에 관한 심오한 질문을 했다.
+  유의어(오답 제외): deep
+[squeeze|v|press] hash=1b650d3936487aad
+  뜻: 짜다; 꽉 쥐다
+  설명: 세게 눌러 짜거나 좁은 곳에 밀어 넣을 때 써요.
+  연어: squeeze a lemon = 레몬을 짜다
+  예문1: Squeeze the juice from two oranges. / 오렌지 두 개에서 즙을 짜라.
+  예문2: We squeezed five people into the small car. / 우리는 작은 차에 다섯 명이 꽉 끼어 탔다.
+  유의어(오답 제외): press
+[arise|v|occur] hash=d75aa63eb9fb6760
+  뜻: 생기다; 발생하다
+  설명: 문제나 상황이 나타날 때 써요.
+  연어: problems arise = 문제가 생기다
+  예문1: Call me if any problems arise. / 문제가 생기면 나에게 전화해라.
+  예문2: A new question arose during the meeting. / 회의 중에 새로운 질문이 생겼다.
+  유의어(오답 제외): occur
+[bundle|n|bunch] hash=c6778fddc08c5c0c
+  뜻: 묶음; 꾸러미
+  설명: 여러 개를 함께 묶은 것이에요.
+  연어: a bundle of = 한 묶음의
+  예문1: She carried a bundle of old letters. / 그녀는 오래된 편지 한 묶음을 들고 있었다.
+  예문2: He tied the sticks into a bundle. / 그는 나뭇가지들을 한 다발로 묶었다.
+  유의어(오답 제외): bunch
+[discharge|v|release] hash=281eb72fb847a0c3
+  뜻: 퇴원시키다; 배출하다
+  설명: 병원에서 내보내거나 밖으로 흘려보낼 때 써요.
+  연어: be discharged from hospital = 퇴원하다
+  예문1: She was discharged from the hospital yesterday. / 그녀는 어제 퇴원했다.
+  예문2: The factory discharged waste into the river. / 그 공장은 강으로 폐수를 배출했다.
+  유의어(오답 제외): release
+[occupy|v|take-up] hash=1a45ae63fff03d4c
+  뜻: 차지하다; 점령하다
+  설명: 공간이나 시간을 쓰거나 장소를 장악할 때 써요.
+  연어: occupy a seat = 자리를 차지하다
+  예문1: The big sofa occupies most of the room. / 큰 소파가 방의 대부분을 차지한다.
+  예문2: Enemy soldiers occupied the city. / 적군이 그 도시를 점령했다.
+[affection|n|love] hash=74d91e90e906f2b3
+  뜻: 애정; 호감
+  설명: 누군가를 좋아하고 아끼는 마음이에요.
+  연어: show affection = 애정을 표현하다
+  예문1: She looked at her baby with great affection. / 그녀는 깊은 애정을 담아 아기를 바라보았다.
+  예문2: Dogs show affection by wagging their tails. / 개는 꼬리를 흔들어 애정을 표현한다.
+  유의어(오답 제외): love
+[exceed|v|go-beyond] hash=c69de9badcd58d92
+  뜻: 넘다; 초과하다
+  설명: 정해진 양이나 기대를 넘어설 때 써요.
+  연어: exceed the speed limit = 제한 속도를 넘다
+  예문1: Do not exceed the speed limit. / 제한 속도를 넘지 마라.
+  예문2: The results exceeded our expectations. / 결과는 우리의 기대를 넘어섰다.
+[outline|n|summary] hash=b6337d69d9abe28b
+  뜻: 개요; 윤곽
+  설명: 중요한 내용만 간단히 정리한 것이나 겉모양의 선이에요.
+  연어: a brief outline = 간단한 개요
+  예문1: Write an outline before you start your essay. / 에세이를 쓰기 전에 개요를 작성해라.
+  예문2: We could see the outline of the mountains in the fog. / 안개 속에서 산의 윤곽이 보였다.
+  유의어(오답 제외): summary
+[outline|v|summarize] hash=3c89a2d5cd409d5e
+  뜻: 개요를 설명하다
+  설명: 핵심을 간단히 말할 때 써요.
+  연어: outline a plan = 계획을 간략히 설명하다
+  예문1: The manager outlined the plan for next year. / 관리자는 내년 계획을 간략히 설명했다.
+  예문2: The report outlines the main problems. / 그 보고서는 주요 문제들을 개괄한다.
+[receipt|n|proof-of-payment] hash=fa5a1413abb00e83
+  뜻: 영수증; 수령
+  설명: 물건을 산 것을 증명하는 종이예요.
+  연어: keep the receipt = 영수증을 보관하다
+  예문1: Keep the receipt in case you want to return it. / 반품할 경우를 대비해 영수증을 보관해라.
+  예문2: Please sign to confirm receipt of the package. / 소포를 받았음을 확인하려면 서명해라.
+[ambition|n|goal] hash=9f2ba546ff51e234
+  뜻: 야망; 포부
+  설명: 크게 이루고 싶은 목표예요.
+  연어: achieve an ambition = 야망을 이루다
+  예문1: Her ambition is to become a pilot. / 그녀의 포부는 조종사가 되는 것이다.
+  예문2: He lacks ambition. / 그는 야망이 부족하다.
+  유의어(오답 제외): goal
+[toss|v|throw] hash=4983a2192d6d1429
+  뜻: 던지다; 뒤척이다
+  설명: 가볍게 던지거나 이리저리 움직일 때 써요.
+  연어: toss a coin = 동전을 던지다
+  예문1: She tossed the ball to her brother. / 그녀는 동생에게 공을 던졌다.
+  예문2: I tossed and turned all night. / 나는 밤새 뒤척였다.
+  유의어(오답 제외): throw
+[conclude|v|decide] hash=645f3f2f8cd79cfc
+  뜻: 결론짓다
+  설명: 생각한 끝에 판단을 내릴 때 써요.
+  연어: conclude that = ~라고 결론짓다
+  예문1: The scientists concluded that the water was safe. / 과학자들은 그 물이 안전하다고 결론지었다.
+  예문2: What can you conclude from this data? / 이 자료에서 어떤 결론을 내릴 수 있니?
+  유의어(오답 제외): decide
+[conclude|v|end] hash=21294ccaecd5c7ce
+  뜻: 끝내다; 마치다
+  설명: 말이나 행사를 끝낼 때 써요.
+  연어: conclude a speech = 연설을 마치다
+  예문1: She concluded her speech with a short poem. / 그녀는 짧은 시로 연설을 마무리했다.
+  예문2: The meeting concluded at five o'clock. / 회의는 다섯 시에 끝났다.
+  유의어(오답 제외): end
+[sensation|n|feeling] hash=285a74b8c05148ac
+  뜻: 느낌; 감각
+  설명: 몸으로 느끼는 것이에요.
+  연어: a burning sensation = 타는 듯한 느낌
+  예문1: I had a strange sensation in my fingers. / 손가락에 이상한 느낌이 들었다.
+  예문2: There was no sensation in his left leg. / 그의 왼쪽 다리에는 감각이 없었다.
+  유의어(오답 제외): feeling
+[sensation|n|big-excitement] hash=6a389b63c179adf5
+  뜻: 센세이션; 돌풍
+  설명: 많은 사람을 흥분시키는 일이나 사람이에요.
+  연어: cause a sensation = 센세이션을 일으키다
+  예문1: The new singer became an overnight sensation. / 그 신인 가수는 하룻밤 사이에 돌풍을 일으켰다.
+  예문2: The news caused a sensation around the world. / 그 소식은 전 세계에 큰 반향을 일으켰다.
+[stiff|adj|rigid] hash=63ad7071101d7ae3
+  뜻: 뻣뻣한; 결리는
+  설명: 잘 구부러지지 않거나 근육이 굳은 것이에요.
+  연어: a stiff neck = 뻐근한 목
+  예문1: My neck is stiff from sleeping badly. / 잠을 잘못 자서 목이 뻐근하다.
+  예문2: The new shoes feel stiff. / 새 신발이 뻣뻣하게 느껴진다.
+  유의어(오답 제외): rigid
+[terrific|adj|great] hash=0450bc2558d98fff
+  뜻: 아주 좋은; 굉장한
+  설명: 매우 훌륭하거나 엄청난 것이에요.
+  연어: a terrific idea = 아주 좋은 생각
+  예문1: That is a terrific idea! / 그거 정말 좋은 생각이다!
+  예문2: We had a terrific time at the beach. / 우리는 해변에서 아주 즐거운 시간을 보냈다.
+  유의어(오답 제외): fantastic
+[emerge|v|appear] hash=1243dc0cf38db579
+  뜻: 드러나다; 나타나다
+  설명: 안에서 밖으로 나오거나 사실이 알려질 때 써요.
+  연어: emerge from = ~에서 나오다
+  예문1: The sun emerged from behind the clouds. / 해가 구름 뒤에서 나타났다.
+  예문2: New facts emerged during the investigation. / 조사 중에 새로운 사실이 드러났다.
+  유의어(오답 제외): appear
+[interfere|v|get-in-the-way] hash=b430ced1e93a5eb6
+  뜻: 간섭하다; 방해하다
+  설명: 남의 일에 끼어들거나 방해할 때 써요.
+  연어: interfere with = ~을 방해하다
+  예문1: Do not let games interfere with your studies. / 게임이 공부를 방해하지 않도록 해라.
+  예문2: My parents never interfere in my decisions. / 부모님은 내 결정에 절대 간섭하지 않으신다.
+[consult|v|ask-advice] hash=a05e9d26313fe5c7
+  뜻: 상담하다; 참고하다
+  설명: 전문가에게 묻거나 자료를 찾아볼 때 써요.
+  연어: consult a doctor = 의사와 상담하다
+  예문1: You should consult a doctor if the pain continues. / 통증이 계속되면 의사와 상담해야 한다.
+  예문2: I consulted a dictionary to check the meaning. / 나는 뜻을 확인하려고 사전을 찾아보았다.
+[distinguish|v|differentiate] hash=1b13bfec45547a31
+  뜻: 식별하다; 구별하다
+  설명: 차이를 알아보고 나눌 때 써요.
+  연어: distinguish A from B = A를 B와 구별하다
+  예문1: Some people cannot distinguish red from green. / 어떤 사람들은 빨간색과 초록색을 구별하지 못한다.
+  예문2: It is important to distinguish facts from opinions. / 사실과 의견을 구별하는 것이 중요하다.
+  유의어(오답 제외): tell
+[fade|v|disappear-slowly] hash=0e2fed46a7de42ad
+  뜻: 희미해지다; 바래다
+  설명: 색이나 소리, 기억이 점점 약해질 때 써요.
+  연어: fade away = 사라지다
+  예문1: The colors of the old photo have faded. / 오래된 사진의 색이 바랬다.
+  예문2: The sound of the music slowly faded. / 음악 소리가 서서히 희미해졌다.
+[instinct|n|natural-sense] hash=32ddc82b17c9bfe9
+  뜻: 본능; 직감
+  설명: 배우지 않아도 타고난 행동이나 느낌이에요.
+  연어: by instinct = 본능적으로
+  예문1: Birds build nests by instinct. / 새는 본능적으로 둥지를 짓는다.
+  예문2: Trust your instincts. / 네 직감을 믿어라.
+[prompt|adj|quick] hash=ad01d2c0237360d0
+  뜻: 신속한; 즉각적인
+  설명: 기다리지 않고 바로 하는 것이에요.
+  연어: a prompt reply = 신속한 답장
+  예문1: Thank you for your prompt reply. / 빨리 답장해 주어 고맙다.
+  예문2: The illness needs prompt treatment. / 그 병은 즉각적인 치료가 필요하다.
+  유의어(오답 제외): quick
+[prompt|v|cause] hash=c69e4c06397d445f
+  뜻: 유도하다; 촉발하다
+  설명: 어떤 행동을 하게 만들 때 써요.
+  연어: prompt someone to = ~가 ~하도록 하다
+  예문1: The accident prompted the city to build a new road. / 그 사고를 계기로 시는 새 도로를 건설했다.
+  예문2: What prompted you to change schools? / 무엇 때문에 학교를 옮기게 되었니?
+  유의어(오답 제외): cause
+[clarify|v|explain] hash=022ab7cec08c206f
+  뜻: 분명히 하다; 명확하게 설명하다
+  설명: 헷갈리는 것을 분명하게 할 때 써요.
+  연어: clarify a point = 요점을 분명히 하다
+  예문1: Could you clarify what you mean? / 무슨 뜻인지 분명히 말해 줄 수 있니?
+  예문2: The teacher clarified the rules of the game. / 선생님은 게임 규칙을 명확하게 설명하셨다.
+  유의어(오답 제외): explain
+[dismiss|v|reject] hash=dc78795165dfe9e5
+  뜻: 묵살하다; 일축하다
+  설명: 생각이나 말을 중요하지 않다고 무시할 때 써요.
+  연어: dismiss an idea = 생각을 일축하다
+  예문1: She dismissed the rumor as nonsense. / 그녀는 그 소문을 터무니없다며 일축했다.
+  예문2: Do not dismiss his advice so quickly. / 그의 충고를 그렇게 성급히 무시하지 마라.
+  유의어(오답 제외): reject
+[dismiss|v|let-go] hash=e1748532e6b04a9a
+  뜻: 해산시키다; 해고하다
+  설명: 모인 사람을 보내거나 일에서 내보낼 때 써요.
+  연어: dismiss a class = 수업을 끝내다
+  예문1: The teacher dismissed the class early. / 선생님은 수업을 일찍 끝내 주셨다.
+  예문2: He was dismissed for being late too often. / 그는 너무 자주 지각해서 해고되었다.
+  유의어(오답 제외): fire
+[analyze|v|examine] hash=2521c7a550d4895c
+  뜻: 분석하다
+  설명: 자세히 나누어 살펴볼 때 써요.
+  연어: analyze data = 자료를 분석하다
+  예문1: Scientists analyzed the samples in the lab. / 과학자들은 실험실에서 표본을 분석했다.
+  예문2: Let us analyze why the plan failed. / 그 계획이 왜 실패했는지 분석해 보자.
+  유의어(오답 제외): examine
+[enthusiastic|adj|eager] hash=b6bcda8f8f144dd3
+  뜻: 열렬한; 열정적인
+  설명: 매우 신이 나서 적극적인 것이에요.
+  연어: be enthusiastic about = ~에 열성적이다
+  예문1: The students were enthusiastic about the trip. / 학생들은 그 여행에 큰 기대를 보였다.
+  예문2: The crowd gave the band an enthusiastic welcome. / 관중은 밴드를 열렬히 환영했다.
+  유의어(오답 제외): eager
+[envy|n|jealousy] hash=1e594c4d200a215d
+  뜻: 부러움; 질투
+  설명: 남이 가진 것을 갖고 싶은 마음이에요.
+  연어: feel envy = 부러워하다
+  예문1: She felt a little envy when her friend won the prize. / 친구가 상을 받자 그녀는 조금 부러웠다.
+  예문2: His new car is the envy of his neighbors. / 그의 새 차는 이웃들의 부러움을 산다.
+  유의어(오답 제외): jealousy
+[envy|v|be-jealous] hash=8b67a1c97b65c4c5
+  뜻: 부러워하다
+  설명: 남이 가진 것을 탐낼 때 써요.
+  연어: envy someone = ~을 부러워하다
+  예문1: I envy people who can speak many languages. / 나는 여러 언어를 할 줄 아는 사람들이 부럽다.
+  예문2: Many people envied her success. / 많은 사람이 그녀의 성공을 부러워했다.
+[convey|v|communicate] hash=8a135d782071e606
+  뜻: 전달하다; 운반하다
+  설명: 생각이나 물건을 다른 곳에 전할 때 써요.
+  연어: convey a message = 메시지를 전달하다
+  예문1: The painting conveys a feeling of peace. / 그 그림은 평화로운 느낌을 전한다.
+  예문2: Pipes convey water to the city. / 관이 도시로 물을 운반한다.
+  유의어(오답 제외): communicate
+[decay|v|rot] hash=96c854c5e388e889
+  뜻: 썩다; 쇠퇴하다
+  설명: 시간이 지나며 상하거나 약해질 때 써요.
+  연어: tooth decay = 충치
+  예문1: Sugar can cause your teeth to decay. / 설탕은 이를 썩게 할 수 있다.
+  예문2: The old building has started to decay. / 그 오래된 건물이 허물어지기 시작했다.
+  유의어(오답 제외): rot
+[decay|n|rotting] hash=b05beceaf3c9aea5
+  뜻: 부패; 쇠퇴
+  설명: 썩거나 약해지는 것이에요.
+  연어: in decay = 쇠퇴하는
+  예문1: Brushing your teeth prevents decay. / 이를 닦으면 충치를 막을 수 있다.
+  예문2: The town fell into decay after the factory closed. / 공장이 문을 닫은 뒤 그 마을은 쇠퇴했다.
+[imply|v|suggest] hash=35c6518d10c867c8
+  뜻: 넌지시 말하다; 암시하다
+  설명: 직접 말하지 않고 뜻을 드러낼 때 써요.
+  연어: imply that = ~을 암시하다
+  예문1: Are you implying that I am lazy? / 내가 게으르다고 말하고 싶은 거니?
+  예문2: His silence implied that he agreed. / 그의 침묵은 그가 동의한다는 것을 암시했다.
+  유의어(오답 제외): suggest
+[obey|v|follow] hash=a01ef02b879ebcff
+  뜻: 따르다; 복종하다
+  설명: 규칙이나 명령대로 할 때 써요.
+  연어: obey the rules = 규칙을 따르다
+  예문1: Drivers must obey traffic laws. / 운전자는 교통 법규를 지켜야 한다.
+  예문2: The dog obeyed every command. / 그 개는 모든 명령에 따랐다.
+  유의어(오답 제외): follow
+[confess|v|admit] hash=97bf2e273f009416
+  뜻: 고백하다; 자백하다
+  설명: 잘못이나 숨긴 것을 털어놓을 때 써요.
+  연어: confess to a crime = 범죄를 자백하다
+  예문1: He confessed that he had broken the vase. / 그는 꽃병을 깨뜨렸다고 고백했다.
+  예문2: I must confess I was a little nervous. / 솔직히 나는 조금 긴장했다.
+  유의어(오답 제외): admit
+[despair|n|hopelessness] hash=c4cd20e1c94958bc
+  뜻: 절망
+  설명: 희망이 전혀 없는 상태예요.
+  연어: in despair = 절망하여
+  예문1: He shook his head in despair. / 그는 절망하며 고개를 저었다.
+  예문2: The news filled her with despair. / 그 소식은 그녀를 절망에 빠뜨렸다.
+  유의어(오답 제외): hopelessness
+[endure|v|tolerate] hash=22cc3661c55ba1cf
+  뜻: 견디다; 참다
+  설명: 힘든 상황을 오래 참아 낼 때 써요.
+  연어: endure pain = 고통을 견디다
+  예문1: They had to endure a long, cold winter. / 그들은 길고 추운 겨울을 견뎌야 했다.
+  예문2: I cannot endure this noise any longer. / 나는 이 소음을 더 이상 참을 수 없다.
+  유의어(오답 제외): bear
+[persuade|v|convince] hash=1b141cc3c377d530
+  뜻: 설득하다
+  설명: 이유를 들어 생각이나 행동을 바꾸게 할 때 써요.
+  연어: persuade someone to = ~가 ~하도록 설득하다
+  예문1: She persuaded her parents to let her go camping. / 그녀는 부모님을 설득해 캠핑을 허락받았다.
+  예문2: It is hard to persuade him to change his mind. / 그의 마음을 바꾸도록 설득하기는 어렵다.
+  유의어(오답 제외): convince
+[vocabulary|n|words] hash=c03366ea73db64ab
+  뜻: 어휘
+  설명: 알고 쓰는 단어들이에요.
+  연어: expand your vocabulary = 어휘를 늘리다
+  예문1: Reading helps you expand your vocabulary. / 독서는 어휘를 늘리는 데 도움이 된다.
+  예문2: The book uses simple vocabulary for children. / 그 책은 아이들을 위해 쉬운 어휘를 쓴다.
+[absorb|v|soak-up] hash=a312b41943655b0e
+  뜻: 흡수하다; 받아들이다
+  설명: 액체나 정보를 빨아들일 때 써요.
+  연어: absorb water = 물을 흡수하다
+  예문1: Plants absorb water through their roots. / 식물은 뿌리로 물을 흡수한다.
+  예문2: Children absorb new information quickly. / 아이들은 새로운 정보를 빨리 받아들인다.
+  유의어(오답 제외): soak up
+[accompany|v|go-with] hash=52ad30eb9da058c3
+  뜻: 동행하다; 동반하다
+  설명: 함께 가거나 함께 일어날 때 써요.
+  연어: accompany someone = ~와 동행하다
+  예문1: Children must be accompanied by an adult. / 아이들은 어른과 함께 와야 한다.
+  예문2: Thunder often accompanies heavy rain. / 천둥은 흔히 폭우를 동반한다.
+[flee|v|escape] hash=06aea5f23fb548d4
+  뜻: 달아나다; 피하다
+  설명: 위험을 피해 급히 떠날 때 써요.
+  연어: flee the country = 나라를 떠나 피신하다
+  예문1: Thousands of people fled the war. / 수천 명이 전쟁을 피해 달아났다.
+  예문2: The thief fled when he heard the alarm. / 도둑은 경보 소리를 듣고 달아났다.
+  유의어(오답 제외): escape
+[pupil|n|student] hash=53f7da70397beb35
+  뜻: 학생; 제자
+  설명: 선생님에게 배우는 사람이에요.
+  연어: a former pupil = 옛 제자
+  예문1: The school has about five hundred pupils. / 그 학교에는 학생이 약 500명 있다.
+  예문2: She was a pupil of a famous painter. / 그녀는 유명한 화가의 제자였다.
+  유의어(오답 제외): student
+[pupil|n|eye-part] hash=512ee1a7afb49b0a
+  뜻: 눈동자; 동공
+  설명: 눈 가운데의 검은 부분이에요.
+  연어: dilated pupils = 확대된 동공
+  예문1: Your pupils get bigger in the dark. / 어두운 곳에서는 동공이 커진다.
+  예문2: The doctor shined a light into my pupils. / 의사가 내 동공에 빛을 비췄다.
+[reluctant|adj|unwilling] hash=f5768f47351501d7
+  뜻: 꺼리는; 마지못한
+  설명: 하고 싶지 않아 망설이는 것이에요.
+  연어: be reluctant to = ~하기를 꺼리다
+  예문1: He was reluctant to talk about his past. / 그는 자신의 과거에 대해 이야기하기를 꺼렸다.
+  예문2: She gave a reluctant smile. / 그녀는 마지못해 미소를 지었다.
+  유의어(오답 제외): unwilling
+[undergo|v|go-through] hash=a04ba8f1340841be
+  뜻: 겪다; 받다
+  설명: 변화나 치료, 시험 등을 거칠 때 써요.
+  연어: undergo surgery = 수술을 받다
+  예문1: He underwent surgery on his knee. / 그는 무릎 수술을 받았다.
+  예문2: The city is undergoing big changes. / 그 도시는 큰 변화를 겪고 있다.
+  유의어(오답 제외): experience
+[evolve|v|develop] hash=7e408301e2703e84
+  뜻: 진화하다; 발전하다
+  설명: 오랜 시간에 걸쳐 조금씩 변할 때 써요.
+  연어: evolve over time = 시간이 지나며 발전하다
+  예문1: Humans evolved over millions of years. / 인간은 수백만 년에 걸쳐 진화했다.
+  예문2: The company has evolved into a global business. / 그 회사는 세계적인 기업으로 발전했다.
+  유의어(오답 제외): develop
+[explode|v|blow-up] hash=742d9b83695266e6
+  뜻: 폭발하다; 급증하다
+  설명: 갑자기 터지거나 수가 크게 늘 때 써요.
+  연어: explode suddenly = 갑자기 폭발하다
+  예문1: The firework exploded in the night sky. / 불꽃이 밤하늘에서 터졌다.
+  예문2: The number of online users exploded last year. / 작년에 온라인 사용자 수가 폭증했다.
+  유의어(오답 제외): burst
+[peel|v|remove-skin] hash=ecdac25e18ad3108
+  뜻: 껍질을 벗기다
+  설명: 과일이나 채소의 껍질을 벗길 때 써요.
+  연어: peel an orange = 오렌지 껍질을 벗기다
+  예문1: Peel the potatoes before you cook them. / 요리하기 전에 감자 껍질을 벗겨라.
+  예문2: The paint is peeling off the wall. / 벽의 페인트가 벗겨지고 있다.
+[peel|n|skin] hash=347a2fd83f11e07b
+  뜻: 껍질
+  설명: 과일이나 채소의 겉껍질이에요.
+  연어: orange peel = 오렌지 껍질
+  예문1: Throw the banana peel in the trash. / 바나나 껍질을 쓰레기통에 버려라.
+  예문2: Lemon peel gives the cake a nice smell. / 레몬 껍질은 케이크에 좋은 향을 낸다.
+  유의어(오답 제외): skin
+[restrict|v|limit] hash=f96f985aff5d5438
+  뜻: 제약하다; 제한하다
+  설명: 양이나 범위를 정해 넘지 못하게 할 때 써요.
+  연어: restrict access = 접근을 제한하다
+  예문1: The school restricts phone use during class. / 학교는 수업 중 휴대전화 사용을 제한한다.
+  예문2: Access to the area is restricted. / 그 지역은 출입이 제한된다.
+  유의어(오답 제외): limit
+[cooperate|v|work-together] hash=9a1f326e267afa71
+  뜻: 협력하다; 협조하다
+  설명: 함께 힘을 모아 일할 때 써요.
+  연어: cooperate with = ~와 협력하다
+  예문1: The two schools cooperated on the project. / 두 학교는 그 프로젝트에 협력했다.
+  예문2: Please cooperate with the police. / 경찰에 협조해 달라.
+[distribute|v|hand-out] hash=5500e86aa46827a4
+  뜻: 나누어 주다; 분배하다
+  설명: 여러 사람에게 나누어 줄 때 써요.
+  연어: distribute food = 음식을 나누어 주다
+  예문1: Volunteers distributed food to the homeless. / 자원봉사자들이 노숙인들에게 음식을 나누어 주었다.
+  예문2: The teacher distributed the test papers. / 선생님이 시험지를 나누어 주셨다.
+  유의어(오답 제외): hand out
+[mechanic|n|repair-worker] hash=624d0ef85228c7c5
+  뜻: 정비공; 기계공
+  설명: 자동차나 기계를 고치는 사람이에요.
+  연어: a car mechanic = 자동차 정비공
+  예문1: The mechanic fixed the engine in an hour. / 정비공이 한 시간 만에 엔진을 고쳤다.
+  예문2: My uncle works as a mechanic. / 삼촌은 정비공으로 일하신다.
+[modify|v|change] hash=3c8738180aa14e37
+  뜻: 수정하다; 변경하다
+  설명: 일부를 조금 바꿀 때 써요.
+  연어: modify a plan = 계획을 수정하다
+  예문1: We modified the plan after the meeting. / 우리는 회의 후 계획을 수정했다.
+  예문2: The car was modified to run on electricity. / 그 차는 전기로 달리도록 개조되었다.
+  유의어(오답 제외): change

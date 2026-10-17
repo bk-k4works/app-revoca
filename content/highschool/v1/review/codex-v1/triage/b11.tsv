@@ -1,0 +1,23 @@
+EDIT	innovation	new-idea	ko1	스마트폰은 획기적인 혁신이었다.	Codex minor 수용	위대한 혁신은 한국어에서 다소 어색한 표현이에요.
+EDIT	registration	signing-up	expl	사람이나 물건을 공식적으로 등록하는 일이에요.	Codex fix 수용	이름을 명단에 올리는 뜻으로만 설명해 차량 등록 같은 용례를 포괄하지 못해요.
+EDIT	partly	partially	ko2	하루 종일 구름이 조금 끼었다.	Codex fix 수용	부분적으로 흐렸다는 번역은 날씨 표현으로 부자연스러워요.
+EDIT	intelligent	smart	ko2	그녀는 통찰력 있는 질문을 했다.	Codex minor 수용	똑똑한 질문은 한국어에서 다소 어색한 표현이에요.
+EDIT	overseas	foreign	ko1	그 대학에는 외국에서 온 학생이 많다.	Codex fix 수용	overseas students는 여기서 외국에서 온 학생을 뜻하며, 해외 유학생은 한국 학생이 외국에서 공부하는 뜻으로 읽힐 수 있어요.
+EDIT	frequent	happening-often	ko2	공항행 버스가 자주 다닌다.	Codex minor 수용	버스가 자주 있다는 표현은 한국어에서 다소 어색해요.
+EDIT	encounter	meet	ko1	우리는 가는 길에 심한 교통 체증을 겪었다.	Codex fix 수용	교통 체증을 만났다는 표현은 한국어에서 부자연스러워요.
+EDIT	pursue	chase-goal	colko	꿈을 좇다	Codex minor 수용	꿈을 추구하다는 의미는 통하지만, 한국어에서는 꿈을 좇다가 더 자연스러워요.
+EDIT	venture	risky-project	colko	모험적인 사업	Codex fix 수용	사업 모험은 한국어 어순과 표현으로 부자연스러워요.
+EDIT	conventional	traditional	ko2	그녀는 변호사라는 일반적인 진로를 택했다.	Codex minor 수용	conventional career는 전통적인 직업이라기보다 일반적이고 관습적인 진로라는 뜻이에요.
+EDIT	nevertheless	however	col	nevertheless, ...	Codex minor 수용	but nevertheless는 접속 의미가 겹쳐 일반적인 연어로는 다소 중복돼요.
+EDIT	nevertheless	however	colko	그럼에도	Codex minor 수용	연어 교체에 맞춘 번역
+EDIT	neutral	impartial	meaning	중립의; 중성의	Codex fix 수용	중간의는 neutral color의 의미와 맞지 않아 중간색과 혼동될 수 있어요.
+EDIT	neutral	impartial	ko2	회색은 무채색이다.	Codex fix 수용	neutral color는 중간색이 아니라 무채색 또는 중성색을 뜻해요.
+EDIT	pat	tap-gently	ko2	그녀는 개의 머리를 부드럽게 토닥였다.	Codex fix 수용	pat은 머리를 쓰다듬는 동작보다 가볍게 토닥이는 동작이에요.
+EDIT	popularity	being-liked	ko2	그 가수의 인기는 전 세계적으로 높아졌다.	Codex fix 수용	인기가 전 세계로 커졌다는 표현은 한국어에서 부자연스러워요.
+EDIT	substance	meaning	expl	겉모습이 아닌 실제 내용이나 핵심을 가리켜요.	Codex fix 수용	설명이 요지만 다뤄 말이나 주장의 실체라는 뜻을 충분히 설명하지 못해요.
+EDIT	pension	retirement-money	colko	매달 받는 연금	Codex minor 수용	월 연금은 다소 번역투로 들려요.
+EDIT	permit	allow	expl	규칙이나 사람이 어떤 일을 하도록 허락할 때 써요.	Codex fix 수용	규칙이나 법이 공식적으로 허락하는 경우로만 설명해 사람의 허락을 포함한 예문과 맞지 않아요.
+EDIT	unemployment	joblessness	expl	일자리가 없는 상태나 그 비율을 말해요.	Codex fix 수용	실업률이 오른다는 예문도 있으므로 설명에 실업 상태의 비율이 빠져 있어요.
+EDIT	excess	too-much	en2	Too much of anything is bad, so avoid excess.	Codex fix 일부 수용	excess paper에서 excess는 명사보다 형용사로 쓰였어요.
+EDIT	excess	too-much	ko2	무엇이든 지나치면 해로우니 과도함을 피해라.	Codex fix 일부 수용	원문을 바꾸면 초과분을 제거했다는 뜻으로 번역해야 해요.
+ADD	shed|v|reveal|(빛을) 비추다; 밝히다|shed light on으로 어떤 사실을 밝혀 이해를 도울 때 써요.|shed light on|~을 밝히다|The new study sheds light on how memory works.|새 연구는 기억이 어떻게 작동하는지 밝혀 준다.|The letters shed light on her early life.|그 편지들은 그녀의 어린 시절을 밝혀 준다.	Codex 빠진 뜻 수용	독해 지문에 자주 나오는 'shed light on(~을 밝히다)' 뜻 추가

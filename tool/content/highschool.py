@@ -180,7 +180,33 @@ def make_tier_decks(senses, rows, size=DECK_SIZE):
     return decks
 
 
-def build_preview(drafts, output, source_path=HS_SOURCE):
+def approved_only(senses, version):
+    """Keep human-approved senses whose text matches the Codex-reviewed and approved hash."""
+    from .hs_review import current_verdicts, ledger, senses as authored
+    require(all(c.isalnum() or c in '.-_' for c in version) and not version.startswith('dev'),
+            'Invalid release version')
+    rows = {f"hs.{slug(r['headword'])}.{r['pos']}.{r['senseSlug']}": r for r in authored()}
+    verdicts, decided = current_verdicts(), ledger()
+    kept, pending, unreviewed = [], [], []
+    for sense in senses:
+        row = rows[sense['id']]
+        decision = decided.get(row['key'])
+        if row['key'] not in verdicts:
+            unreviewed.append(sense['id'])
+        if not decision or decision['inputHash'] != row['inputHash'] or decision['decision'] == 'needs_fix':
+            pending.append(sense['id'])
+        elif decision['decision'] == 'human_approved':
+            kept.append({**sense, 'status': 'human_approved',
+                         'review': {k: decision[k] for k in ('reviewer', 'decidedAt', 'note')},
+                         'llmReview': {'reviewer': 'codex', 'verdict': verdicts[row['key']]['verdict'],
+                                       'inputHash': row['inputHash']} if row['key'] in verdicts else None})
+    require(not unreviewed, f'Codex 독립 검토가 없는 뜻 {len(unreviewed)}개: {unreviewed[:5]}')
+    require(not pending, f'사람 결정이 없거나 수정 대기인 뜻 {len(pending)}개: {pending[:5]}')
+    require(kept, 'No approved senses')
+    return kept
+
+
+def build_preview(drafts, output, source_path=HS_SOURCE, release_version=None):
     rows = sources(source_path)
     records = read_jsonl(drafts)
     require(records, 'No drafts')
@@ -198,6 +224,9 @@ def build_preview(drafts, output, source_path=HS_SOURCE):
                            'contentHash': digest(candidate), 'draftInputHash': record['contentHash'],
                            'selectedExampleIndex': 0, 'flags': record['data']['flags'], 'distractorExclusions': []})
     require(len({s['id'] for s in senses}) == len(senses), 'Duplicate sense IDs')
+    if release_version:
+        senses = approved_only(senses, release_version)
+        records = [r for r in records if any(s['headword'] == r['headword'] for s in senses)]
     blocked = exclusions(senses)
     short = []
     for sense in senses:
@@ -212,11 +241,14 @@ def build_preview(drafts, output, source_path=HS_SOURCE):
                                 'authored': sum(rows[r['headword']]['tier'] == t['id'] for r in records)}
                                for t in c['tiers']]} for c in COURSES]
     fingerprint = digest({'senses': senses, 'decks': decks, 'courses': courses})
-    metadata = {'contentVersion': 'dev-high-' + fingerprint[:12], 'developmentOnly': True, 'track': 'high',
+    metadata = {'contentVersion': release_version or 'dev-high-' + fingerprint[:12],
+                'developmentOnly': not release_version, 'track': 'high',
                 'courses': courses, 'idMigrations': {}, 'audioPacks': [], 'headwordCount': len(records),
                 'senseCount': len(senses), 'exampleCount': sum(len(s['examples']) for s in senses),
-                'humanApproved': 0, 'inputSha256': file_hash(drafts), 'sparseChoiceSenseIds': short,
-                'reviewMethod': 'auto-check-only', 'independentModel': False}
+                'humanApproved': sum(s['status'] == 'human_approved' for s in senses),
+                'inputSha256': file_hash(drafts), 'sparseChoiceSenseIds': short,
+                'reviewMethod': 'codex-independent+human' if release_version else 'auto-check-only',
+                'independentModel': bool(release_version)}
     output = Path(output)
     require(not output.exists(), 'Use a new preview output directory')
     output.parent.mkdir(parents=True, exist_ok=True)

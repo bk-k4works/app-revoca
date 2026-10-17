@@ -1,0 +1,649 @@
+[the number of|phrase|count] hash=b66053aa9f5c5e96
+  뜻: ~의 수
+  설명: 개수를 말할 때 써요. 단수 동사와 함께 써요.
+  연어: the number of visitors = 방문객 수
+  예문1: The number of tourists has doubled. / 관광객 수가 두 배가 되었다.
+  예문2: The number of students in each class is twenty. / 각 반의 학생 수는 스무 명이다.
+[a set of|phrase|group] hash=4a81484e70480657
+  뜻: 한 벌의; 일련의
+  설명: 함께 쓰는 한 묶음을 말해요.
+  연어: a set of rules = 일련의 규칙
+  예문1: She bought a set of colored pencils. / 그녀는 색연필 한 세트를 샀다.
+  예문2: Every game has a set of rules. / 모든 게임에는 일련의 규칙이 있다.
+[put up with|phrase|tolerate] hash=fbee3ca1e2240216
+  뜻: (불쾌한 것을) 참고 견디다
+  설명: 싫은 것을 불평 없이 견딜 때 써요.
+  연어: put up with noise = 소음을 참다
+  예문1: I cannot put up with his rude behavior any longer. / 나는 그의 무례한 행동을 더 이상 참을 수 없다.
+  예문2: We had to put up with the heat all summer. / 우리는 여름 내내 더위를 견뎌야 했다.
+  유의어(오답 제외): endure
+[call for|phrase|require] hash=884275a16e8e2d2b
+  뜻: 요구하다; 필요로 하다
+  설명: 무엇이 필요하거나 공식적으로 요구할 때 써요.
+  연어: call for action = 행동을 요구하다
+  예문1: The situation calls for quick action. / 그 상황은 빠른 조치를 필요로 한다.
+  예문2: Protesters called for lower taxes. / 시위대는 세금 인하를 요구했다.
+  유의어(오답 제외): require
+[care about|phrase|be-concerned] hash=1e965f24fc71ea91
+  뜻: ~에 관심을 갖다; 신경 쓰다
+  설명: 중요하게 여기고 마음을 쓸 때 써요.
+  연어: care about others = 다른 사람을 생각하다
+  예문1: Young people care about the environment. / 젊은이들은 환경에 관심이 많다.
+  예문2: I do not care about what others say. / 나는 남들이 뭐라고 하든 신경 쓰지 않는다.
+[in order to|phrase|for-the-purpose] hash=3cffe3e9522fd26a
+  뜻: ~하기 위해
+  설명: 목적을 분명히 나타낼 때 써요.
+  연어: in order to win = 이기기 위해
+  예문1: She studied hard in order to pass the exam. / 그녀는 시험에 합격하기 위해 열심히 공부했다.
+  예문2: We left early in order to avoid traffic. / 우리는 교통 체증을 피하기 위해 일찍 떠났다.
+[right away|phrase|immediately] hash=393da1c8a0d9e621
+  뜻: 즉시; 곧바로
+  설명: 말이 끝나자마자 지금 당장 할 때 써요.
+  연어: start right away = 곧바로 시작하다
+  예문1: Call me right away if anything happens. / 무슨 일이 생기면 바로 전화해라.
+  예문2: The doctor came right away. / 의사가 곧바로 왔다.
+  유의어(오답 제외): immediately
+[so far|phrase|until-now] hash=43b12a362ad9a474
+  뜻: 지금까지
+  설명: 현재까지의 상황을 말해요.
+  연어: so far so good = 지금까지는 좋다
+  예문1: So far, we have collected two hundred books. / 지금까지 우리는 책 200권을 모았다.
+  예문2: The trip has been great so far. / 지금까지 여행은 아주 좋았다.
+[as a whole|phrase|overall] hash=6d23481810fec9c8
+  뜻: 전체로서; 전반적으로
+  설명: 부분이 아니라 전체를 볼 때 써요.
+  연어: the country as a whole = 나라 전체
+  예문1: The plan will benefit the community as a whole. / 그 계획은 지역 사회 전체에 도움이 될 것이다.
+  예문2: As a whole, the students did well on the test. / 전반적으로 학생들은 시험을 잘 보았다.
+[run out of|phrase|use-up] hash=ad061d6e64a2d094
+  뜻: ~이 다 떨어지다
+  설명: 가지고 있던 것을 다 써 버릴 때 써요.
+  연어: run out of time = 시간이 다 되다
+  예문1: We ran out of milk this morning. / 오늘 아침 우유가 다 떨어졌다.
+  예문2: I ran out of time before I finished the test. / 나는 시험을 다 풀기 전에 시간이 다 되었다.
+[at least|phrase|minimum] hash=db5cec046d4f78fb
+  뜻: 적어도; 최소한
+  설명: 최소의 양이나 그나마 좋은 점을 말해요.
+  연어: at least once = 적어도 한 번
+  예문1: You should drink at least six glasses of water a day. / 하루에 적어도 물 여섯 잔은 마셔야 한다.
+  예문2: We lost, but at least we tried our best. / 우리는 졌지만 적어도 최선을 다했다.
+[thanks to|phrase|because-of] hash=0a40e8254d1a2c96
+  뜻: ~ 덕분에
+  설명: 좋은 결과의 원인을 말할 때 써요.
+  연어: thanks to you = 네 덕분에
+  예문1: Thanks to your help, I finished on time. / 네 도움 덕분에 나는 제시간에 끝냈다.
+  예문2: The town became famous thanks to the festival. / 그 마을은 축제 덕분에 유명해졌다.
+[in fact|phrase|actually] hash=0608b145c32a1535
+  뜻: 사실; 실제로
+  설명: 앞의 말을 강조하거나 바로잡을 때 써요.
+  연어: in fact = 사실은
+  예문1: I thought the test would be hard; in fact, it was easy. / 나는 시험이 어려울 거라고 생각했는데 사실은 쉬웠다.
+  예문2: He is not lazy; in fact, he works very hard. / 그는 게으르지 않다. 사실 아주 열심히 일한다.
+  유의어(오답 제외): actually
+[even though|phrase|although] hash=d46e37e44a69226c
+  뜻: 비록 ~이지만
+  설명: 사실인데도 예상과 다른 결과를 말할 때 써요.
+  연어: even though it was late = 늦었지만
+  예문1: Even though it was raining, we went for a walk. / 비가 오고 있었지만 우리는 산책을 나갔다.
+  예문2: She came to school even though she felt sick. / 그녀는 몸이 아팠지만 학교에 왔다.
+  유의어(오답 제외): although
+[due to|phrase|because-of] hash=96448d595ca6e0df
+  뜻: ~ 때문에
+  설명: 원인을 공식적으로 말할 때 써요.
+  연어: due to bad weather = 악천후 때문에
+  예문1: The flight was cancelled due to heavy snow. / 폭설 때문에 항공편이 취소되었다.
+  예문2: The road is closed due to repairs. / 도로가 보수 공사 때문에 폐쇄되어 있다.
+[a series of|phrase|sequence] hash=40481a7050103e2d
+  뜻: 일련의
+  설명: 비슷한 일이 연달아 이어지는 것이에요.
+  연어: a series of events = 일련의 사건
+  예문1: The town was hit by a series of storms. / 그 마을은 잇따른 폭풍의 피해를 입었다.
+  예문2: She wrote a series of books about a young detective. / 그녀는 어린 탐정에 관한 책을 시리즈로 썼다.
+  유의어(오답 제외): string
+[get along with|phrase|be-friendly] hash=ddff50a9b9613984
+  뜻: ~와 잘 지내다
+  설명: 사이좋게 지낼 때 써요.
+  연어: get along with others = 다른 사람과 잘 지내다
+  예문1: Do you get along with your classmates? / 너는 반 친구들과 잘 지내니?
+  예문2: She gets along with her new neighbors very well. / 그녀는 새 이웃들과 아주 잘 지낸다.
+[in short|phrase|briefly] hash=83f2ca6d22ad63a8
+  뜻: 요컨대; 간단히 말해
+  설명: 긴 내용을 짧게 정리할 때 써요.
+  연어: in short = 요컨대
+  예문1: In short, the plan costs too much. / 요컨대 그 계획은 비용이 너무 많이 든다.
+  예문2: The hotel was dirty and noisy; in short, it was terrible. / 그 호텔은 더럽고 시끄러웠다. 간단히 말해 끔찍했다.
+  유의어(오답 제외): basically
+[when it comes to|phrase|regarding] hash=0a20932447931b37
+  뜻: ~에 관한 한
+  설명: 어떤 분야라면 ~라고 말할 때 써요.
+  연어: when it comes to math = 수학에 관한 한
+  예문1: When it comes to cooking, my father is the best. / 요리에 관한 한 우리 아버지가 최고이다.
+  예문2: She is very careful when it comes to money. / 그녀는 돈 문제라면 매우 신중하다.
+  유의어(오답 제외): regarding
+[as soon as|phrase|immediately-after] hash=b69a03e250ef0bbe
+  뜻: ~하자마자
+  설명: 어떤 일이 일어난 바로 뒤를 말해요.
+  연어: as soon as possible = 가능한 한 빨리
+  예문1: Call me as soon as you arrive. / 도착하자마자 나에게 전화해라.
+  예문2: As soon as the bell rang, the students ran outside. / 종이 울리자마자 학생들은 밖으로 뛰어나갔다.
+[no matter how|phrase|however] hash=fdee2ee55b56add7
+  뜻: 아무리 ~해도
+  설명: 정도에 상관없이 결과가 같을 때 써요.
+  연어: no matter how hard = 아무리 열심히 해도
+  예문1: No matter how hard I try, I cannot sing well. / 아무리 애써도 나는 노래를 잘 부를 수 없다.
+  예문2: Do not give up, no matter how difficult it is. / 아무리 어려워도 포기하지 마라.
+  유의어(오답 제외): however
+[according to|phrase|as-stated-by] hash=a211a84e1b0c46b5
+  뜻: ~에 따르면
+  설명: 정보의 출처를 말할 때 써요.
+  연어: according to the report = 보고서에 따르면
+  예문1: According to the weather report, it will snow tonight. / 일기 예보에 따르면 오늘 밤 눈이 온다.
+  예문2: According to scientists, the ice is melting faster. / 과학자들에 따르면 얼음이 더 빨리 녹고 있다.
+[rather than|phrase|instead-of] hash=3c0c90814e4614bb
+  뜻: ~보다는; ~ 대신에
+  설명: 둘 중 하나를 고르며 다른 것을 원하지 않을 때 써요.
+  연어: rather than wait = 기다리기보다는
+  예문1: I prefer to walk rather than take the bus. / 나는 버스를 타기보다는 걷는 것을 좋아한다.
+  예문2: He chose to study rather than watch TV. / 그는 텔레비전을 보는 대신 공부하기로 했다.
+  유의어(오답 제외): instead of
+[human being|phrase|person] hash=a11ae186a999faed
+  뜻: 인간; 사람
+  설명: 동물과 구별하여 사람을 말해요.
+  연어: as a human being = 한 인간으로서
+  예문1: Every human being needs love and respect. / 모든 인간은 사랑과 존중이 필요하다.
+  예문2: Human beings have lived on Earth for a long time. / 인간은 오랫동안 지구에서 살아왔다.
+  유의어(오답 제외): person
+[instead of|phrase|in-place-of] hash=231ec1f2ef4accca
+  뜻: ~ 대신에
+  설명: 다른 것을 하지 않고 이것을 할 때 써요.
+  연어: instead of driving = 운전하는 대신
+  예문1: Let us walk instead of taking a taxi. / 택시를 타는 대신 걸어가자.
+  예문2: She drank water instead of soda. / 그녀는 탄산음료 대신 물을 마셨다.
+  유의어(오답 제외): rather than
+[at the cost of|phrase|sacrificing] hash=d605850cc701ab7b
+  뜻: ~을 희생하여
+  설명: 무엇을 잃는 대가로 얻을 때 써요.
+  연어: at the cost of health = 건강을 희생하여
+  예문1: He finished the project at the cost of his health. / 그는 건강을 희생하며 그 프로젝트를 끝냈다.
+  예문2: Do not win at the cost of your friendships. / 우정을 희생하면서까지 이기려 하지 마라.
+[account for|phrase|explain] hash=fefe088b52f07254
+  뜻: 설명하다; 차지하다
+  설명: 이유를 밝히거나 비율을 차지할 때 써요.
+  연어: account for the difference = 차이를 설명하다
+  예문1: Can you account for the missing money? / 사라진 돈에 대해 설명할 수 있니?
+  예문2: Rice accounts for most of the farm's income. / 쌀이 그 농장 수입의 대부분을 차지한다.
+  유의어(오답 제외): explain
+[in return|phrase|in-exchange] hash=522ef92c47dcc496
+  뜻: 보답으로; 그 대가로
+  설명: 받은 것에 대해 무엇을 돌려줄 때 써요.
+  연어: in return for = ~의 보답으로
+  예문1: She helped me with math, and in return I taught her English. / 그녀가 수학을 도와주어서 보답으로 나는 그녀에게 영어를 가르쳐 주었다.
+  예문2: What do you want in return for your help? / 도와준 대가로 무엇을 원하니?
+[above all|phrase|most-importantly] hash=90a076d1a94cd2a2
+  뜻: 무엇보다도
+  설명: 가장 중요한 것을 강조할 때 써요.
+  연어: above all else = 무엇보다도
+  예문1: Above all, be kind to others. / 무엇보다도 다른 사람에게 친절해라.
+  예문2: A good leader is honest and, above all, fair. / 좋은 지도자는 정직하고 무엇보다 공정하다.
+  유의어(오답 제외): first of all
+[as a result|phrase|consequently] hash=bf696b71d7ffc314
+  뜻: 그 결과
+  설명: 앞의 일 때문에 생긴 결과를 말할 때 써요.
+  연어: as a result of = ~의 결과로
+  예문1: He did not study. As a result, he failed the test. / 그는 공부하지 않았다. 그 결과 시험에 떨어졌다.
+  예문2: Many trees died as a result of the dry summer. / 건조한 여름 때문에 많은 나무가 죽었다.
+  유의어(오답 제외): therefore
+[make sense|phrase|be-logical] hash=6dec973dcc969fd9
+  뜻: 이해가 되다; 말이 되다
+  설명: 이치에 맞거나 뜻이 통할 때 써요.
+  연어: it makes sense = 말이 된다
+  예문1: Your idea makes sense to me. / 네 생각은 나에게 이해가 된다.
+  예문2: It makes sense to leave early to avoid traffic. / 교통 체증을 피하려고 일찍 떠나는 것은 합리적이다.
+[no longer|phrase|not-anymore] hash=1fa8ec69f4e12a3d
+  뜻: 더 이상 ~ 않다
+  설명: 예전과 달리 지금은 아닐 때 써요.
+  연어: no longer used = 더 이상 쓰지 않는
+  예문1: He no longer lives in this town. / 그는 더 이상 이 마을에 살지 않는다.
+  예문2: This old phone is no longer useful. / 이 오래된 휴대전화는 더 이상 쓸모가 없다.
+[a range of|phrase|variety] hash=1816e69f46391d84
+  뜻: 여러 가지의; 다양한
+  설명: 여러 종류를 말할 때 써요.
+  연어: a range of options = 다양한 선택지
+  예문1: The store offers a range of products for children. / 그 가게는 어린이를 위한 다양한 제품을 판다.
+  예문2: We discussed a range of topics in class. / 우리는 수업 시간에 여러 주제를 토론했다.
+  유의어(오답 제외): variety
+[in terms of|phrase|regarding] hash=79f75e68f33f3057
+  뜻: ~의 면에서; ~에 관하여
+  설명: 어떤 기준이나 관점에서 말할 때 써요.
+  연어: in terms of cost = 비용 면에서
+  예문1: In terms of size, this room is perfect. / 크기 면에서 이 방은 완벽하다.
+  예문2: The plan is good in terms of safety. / 그 계획은 안전 면에서 좋다.
+  유의어(오답 제외): regarding
+[figure out|phrase|work-out] hash=d4b8d29b6df33e60
+  뜻: (궁리해서) 알아내다; 이해하다
+  설명: 생각해서 답이나 방법을 찾아낼 때 써요.
+  연어: figure out the answer = 답을 알아내다
+  예문1: I cannot figure out how to use this machine. / 나는 이 기계를 어떻게 쓰는지 알아낼 수 없다.
+  예문2: She finally figured out the answer to the puzzle. / 그녀는 마침내 퍼즐의 답을 알아냈다.
+[in respect to|phrase|concerning] hash=7dd54cd449c4cf02
+  뜻: ~에 관하여
+  설명: 어떤 주제에 대해 격식 있게 말할 때 써요.
+  연어: in respect to = ~에 관해서는
+  예문1: In respect to your question, I will answer tomorrow. / 네 질문에 관해서는 내일 답하겠다.
+  예문2: The two plans differ in respect to cost. / 두 계획은 비용 면에서 다르다.
+  유의어(오답 제외): concerning
+[point of view|phrase|perspective] hash=73820b40d852bc17
+  뜻: 관점; 견해
+  설명: 어떤 일을 보는 입장이에요.
+  연어: from my point of view = 내 관점에서는
+  예문1: From my point of view, the rule is unfair. / 내 관점에서 그 규칙은 불공평하다.
+  예문2: The story is told from a child's point of view. / 그 이야기는 아이의 관점에서 전개된다.
+  유의어(오답 제외): view
+[in charge of|phrase|responsible-for] hash=42655a018d1b193e
+  뜻: ~을 맡은; ~의 책임을 지는
+  설명: 일이나 사람을 관리할 때 써요.
+  연어: be in charge of = ~을 담당하다
+  예문1: Our science teacher is in charge of the robot club. / 우리 과학 선생님이 로봇 동아리를 맡고 계신다.
+  예문2: Who is in charge of cleaning today? / 오늘 청소는 누가 맡았니?
+[in addition|phrase|also] hash=1c2adcbc20772156
+  뜻: 게다가; 또한
+  설명: 앞의 내용에 다른 사실을 덧붙일 때 써요.
+  연어: in addition to = ~에 더하여
+  예문1: The hotel has a pool. In addition, it has a gym. / 그 호텔에는 수영장이 있다. 게다가 헬스장도 있다.
+  예문2: In addition to English, she studies Chinese. / 그녀는 영어 외에 중국어도 공부한다.
+  유의어(오답 제외): moreover
+[be supposed to|phrase|should] hash=f1566389462efb3a
+  뜻: ~하기로 되어 있다; ~해야 한다
+  설명: 예정이나 의무를 말할 때 써요.
+  연어: be supposed to arrive = 도착하기로 되어 있다
+  예문1: The train is supposed to arrive at noon. / 기차는 정오에 도착하기로 되어 있다.
+  예문2: Students are supposed to wear uniforms at school. / 학생들은 학교에서 교복을 입어야 한다.
+[heart attack|phrase|cardiac-arrest] hash=ed8bb02594df85d7
+  뜻: 심장 마비; 심근 경색
+  설명: 심장이 갑자기 제대로 뛰지 못하는 병이에요.
+  연어: have a heart attack = 심장 마비가 오다
+  예문1: My uncle had a heart attack last year. / 삼촌은 작년에 심장 마비를 겪으셨다.
+  예문2: Exercise lowers the risk of a heart attack. / 운동은 심장 마비의 위험을 낮춘다.
+[carry out|phrase|perform] hash=f834207220f9e098
+  뜻: 수행하다; 실행하다
+  설명: 계획이나 실험, 명령을 실제로 할 때 써요.
+  연어: carry out a plan = 계획을 실행하다
+  예문1: The students carried out an experiment on plants. / 학생들은 식물에 관한 실험을 했다.
+  예문2: The soldiers carried out their orders. / 병사들은 명령을 수행했다.
+  유의어(오답 제외): conduct
+[on purpose|phrase|deliberately] hash=9eb6dbfd1679ebee
+  뜻: 일부러; 고의로
+  설명: 실수가 아니라 의도해서 했을 때 써요.
+  연어: do it on purpose = 일부러 하다
+  예문1: I did not break the vase on purpose. / 나는 일부러 꽃병을 깬 것이 아니다.
+  예문2: She left the door open on purpose. / 그녀는 일부러 문을 열어 두었다.
+[side effects|phrase|unwanted-results] hash=ccce5687829d4f12
+  뜻: 부작용
+  설명: 약이나 일의 원하지 않은 결과예요.
+  연어: serious side effects = 심각한 부작용
+  예문1: This medicine may have side effects such as sleepiness. / 이 약은 졸음 같은 부작용이 있을 수 있다.
+  예문2: The new law had some unexpected side effects. / 새 법은 예상치 못한 부작용을 낳았다.
+[a variety of|phrase|many-kinds] hash=69c10373e9b7ac6f
+  뜻: 다양한
+  설명: 종류가 서로 다른 여러 가지를 말해요.
+  연어: a variety of food = 다양한 음식
+  예문1: The market sells a variety of fruits and vegetables. / 그 시장은 다양한 과일과 채소를 판다.
+  예문2: People visit the city for a variety of reasons. / 사람들은 여러 이유로 그 도시를 방문한다.
+  유의어(오답 제외): a range of
+[real estate|phrase|property] hash=6940339b71fa3448
+  뜻: 부동산
+  설명: 땅과 건물을 말해요.
+  연어: real estate agent = 부동산 중개인
+  예문1: Real estate prices are very high in the capital. / 수도의 부동산 가격은 매우 높다.
+  예문2: She works as a real estate agent. / 그녀는 부동산 중개인으로 일한다.
+  유의어(오답 제외): property
+[in advance|phrase|beforehand] hash=2ec08c1f8b1c4452
+  뜻: 미리; 사전에
+  설명: 일이 일어나기 전에를 뜻해요.
+  연어: book in advance = 미리 예약하다
+  예문1: You should buy tickets in advance. / 표는 미리 사야 한다.
+  예문2: Thank you in advance for your help. / 도와주시는 데 미리 감사드린다.
+  유의어(오답 제외): beforehand
+[fill out|phrase|complete-form] hash=2717cc926a26ddae
+  뜻: (서류를) 작성하다
+  설명: 빈칸에 필요한 내용을 써 넣을 때 써요.
+  연어: fill out a form = 서류를 작성하다
+  예문1: Please fill out this form before you see the doctor. / 진료 전에 이 서류를 작성해라.
+  예문2: I filled out an application for the summer camp. / 나는 여름 캠프 신청서를 작성했다.
+  유의어(오답 제외): complete
+[fail to|phrase|not-manage] hash=6d7c026e6a733a97
+  뜻: ~하지 못하다
+  설명: 해야 할 일이나 하려던 일을 해내지 못할 때 써요.
+  연어: fail to understand = 이해하지 못하다
+  예문1: He failed to arrive on time. / 그는 제시간에 도착하지 못했다.
+  예문2: Many people fail to get enough sleep. / 많은 사람이 충분히 자지 못한다.
+[hang out with|phrase|spend-time] hash=49123d0ebcd97c0e
+  뜻: ~와 어울려 놀다
+  설명: 친구와 함께 시간을 보낼 때 써요.
+  연어: hang out with friends = 친구들과 어울리다
+  예문1: I like to hang out with my friends on weekends. / 나는 주말에 친구들과 어울려 노는 것을 좋아한다.
+  예문2: She hung out with her cousins during the holiday. / 그녀는 방학 동안 사촌들과 어울려 지냈다.
+[hang up|phrase|end-call] hash=8fe4e3e8fa525d94
+  뜻: 전화를 끊다
+  설명: 통화를 마치고 전화를 끊을 때 써요.
+  연어: hang up the phone = 전화를 끊다
+  예문1: Do not hang up; I have one more question. / 끊지 마라. 질문이 하나 더 있다.
+  예문2: He said goodbye and hung up. / 그는 작별 인사를 하고 전화를 끊었다.
+[take for granted|phrase|assume] hash=0b0f1393a23231c3
+  뜻: 당연하게 여기다
+  설명: 고마움을 모르고 늘 있는 것으로 생각할 때 써요.
+  연어: take something for granted = ~을 당연하게 여기다
+  예문1: Clean water is something many people take for granted. / 깨끗한 물은 많은 사람이 당연하게 여기는 것이다.
+  예문2: Health is one of the things we take for granted. / 건강은 우리가 당연하게 여기는 것 중 하나이다.
+[get rid of|phrase|remove] hash=cbd35dfdcc323481
+  뜻: ~을 없애다; 처리하다
+  설명: 필요 없는 것을 버리거나 없앨 때 써요.
+  연어: get rid of old clothes = 헌 옷을 처분하다
+  예문1: We need to get rid of these old boxes. / 우리는 이 낡은 상자들을 치워야 한다.
+  예문2: It is hard to get rid of a bad habit. / 나쁜 습관을 없애기는 어렵다.
+  유의어(오답 제외): remove
+[regardless of|phrase|despite] hash=bf42ddfb7bceab47
+  뜻: ~에 상관없이
+  설명: 어떤 조건과 관계없이를 뜻해요.
+  연어: regardless of age = 나이에 상관없이
+  예문1: Everyone can join the club regardless of age. / 나이에 상관없이 누구나 그 동아리에 가입할 수 있다.
+  예문2: We will go regardless of the weather. / 날씨에 상관없이 우리는 갈 것이다.
+[in contrast|phrase|on-the-other-hand] hash=7d43c508621f5225
+  뜻: 대조적으로; 반면에
+  설명: 앞의 것과 차이를 보여 줄 때 써요.
+  연어: in contrast to = ~와 대조적으로
+  예문1: The north is cold. In contrast, the south is warm. / 북부는 춥다. 반면에 남부는 따뜻하다.
+  예문2: In contrast to his brother, he loves reading. / 형과 대조적으로 그는 독서를 좋아한다.
+  유의어(오답 제외): whereas
+[all of a sudden|phrase|suddenly] hash=0509424d271d7d88
+  뜻: 갑자기
+  설명: 예상하지 못하게 일이 일어날 때 써요.
+  연어: all of a sudden = 갑자기
+  예문1: All of a sudden, the lights went out. / 갑자기 불이 꺼졌다.
+  예문2: It started to rain all of a sudden. / 갑자기 비가 내리기 시작했다.
+[back and forth|phrase|to-and-fro] hash=5ccee80995a976f9
+  뜻: 앞뒤로; 이리저리
+  설명: 같은 곳을 왔다 갔다 할 때 써요.
+  연어: walk back and forth = 왔다 갔다 하다
+  예문1: He walked back and forth while waiting for the news. / 그는 소식을 기다리며 왔다 갔다 했다.
+  예문2: The boat moved back and forth on the waves. / 배가 파도 위에서 앞뒤로 흔들렸다.
+[plastic bag|phrase|carrier-bag] hash=98948c53b9930706
+  뜻: 비닐봉지
+  설명: 물건을 담는 얇은 비닐 주머니예요.
+  연어: reuse plastic bags = 비닐봉지를 재사용하다
+  예문1: Many stores no longer give out free plastic bags. / 많은 가게가 더 이상 무료 비닐봉지를 주지 않는다.
+  예문2: Bring your own bag instead of using a plastic bag. / 비닐봉지를 쓰는 대신 장바구니를 가져와라.
+[nursing home|phrase|care-home] hash=ef8761dc18c035f6
+  뜻: 요양원
+  설명: 노인을 돌보는 시설이에요.
+  연어: live in a nursing home = 요양원에 살다
+  예문1: My great-grandmother lives in a nursing home. / 우리 증조할머니는 요양원에 사신다.
+  예문2: Students visited a nursing home to sing for the elderly. / 학생들은 노인들에게 노래를 불러 드리러 요양원을 방문했다.
+[depend on|phrase|rely-on] hash=6538d216db79e218
+  뜻: ~에 의지하다; ~에 달려 있다
+  설명: 무엇에 기대거나 조건에 따라 결과가 바뀔 때 써요.
+  연어: depend on the weather = 날씨에 달려 있다
+  예문1: Many animals depend on the forest for food. / 많은 동물이 먹이를 숲에 의존한다.
+  예문2: The price depends on the size of the room. / 가격은 방 크기에 따라 다르다.
+  유의어(오답 제외): rely
+[contrary to|phrase|opposite-to] hash=316b5016ff57d463
+  뜻: ~와는 반대로
+  설명: 예상이나 믿음과 다를 때 써요.
+  연어: contrary to popular belief = 일반적인 믿음과 달리
+  예문1: Contrary to popular belief, bats are not blind. / 일반적인 믿음과 달리 박쥐는 눈이 멀지 않았다.
+  예문2: Contrary to what I expected, the test was easy. / 내 예상과는 반대로 시험은 쉬웠다.
+[on the contrary|phrase|quite-the-opposite] hash=081ae4724dadd356
+  뜻: 오히려; 그와는 반대로
+  설명: 앞의 말을 부정하고 반대 내용을 말할 때 써요.
+  연어: on the contrary = 오히려
+  예문1: The movie was not boring. On the contrary, it was exciting. / 그 영화는 지루하지 않았다. 오히려 흥미진진했다.
+  예문2: I am not tired; on the contrary, I feel great. / 나는 피곤하지 않다. 오히려 기분이 아주 좋다.
+[in accordance with|phrase|following] hash=838dfb2af3e0c329
+  뜻: ~에 따라
+  설명: 규칙이나 바람대로를 뜻해요.
+  연어: in accordance with the law = 법에 따라
+  예문1: The building was built in accordance with safety rules. / 그 건물은 안전 규정에 따라 지어졌다.
+  예문2: We acted in accordance with your wishes. / 우리는 네 바람대로 행동했다.
+  유의어(오답 제외): according to
+[in spite of|phrase|despite] hash=ba0844d62dbbdf7d
+  뜻: ~에도 불구하고
+  설명: 예상과 반대되는 결과를 말할 때 써요.
+  연어: in spite of the cold = 추위에도 불구하고
+  예문1: In spite of his injury, he finished the race. / 부상에도 불구하고 그는 경주를 끝까지 마쳤다.
+  예문2: They went camping in spite of the cold weather. / 그들은 추운 날씨에도 불구하고 캠핑을 갔다.
+  유의어(오답 제외): despite
+[upside down|phrase|inverted] hash=2fc9be57f7fbb1a6
+  뜻: 거꾸로; 뒤집혀
+  설명: 위아래가 바뀐 상태예요.
+  연어: turn upside down = 뒤집다
+  예문1: The picture on the wall is upside down. / 벽에 걸린 그림이 거꾸로 되어 있다.
+  예문2: The news turned her life upside down. / 그 소식은 그녀의 삶을 송두리째 뒤흔들었다.
+[per capita|phrase|per-person] hash=b15cb4d6779a7a2e
+  뜻: 1인당
+  설명: 사람 한 명당을 뜻해요.
+  연어: income per capita = 1인당 소득
+  예문1: The country has a high income per capita. / 그 나라는 1인당 소득이 높다.
+  예문2: Per capita, they use more water than any other city. / 1인당으로 보면 그들은 다른 어떤 도시보다 물을 많이 쓴다.
+[greenhouse effect|phrase|global-warming-process] hash=f86ae84451c0b112
+  뜻: 온실 효과
+  설명: 가스가 열을 가두어 지구가 따뜻해지는 현상이에요.
+  연어: reduce the greenhouse effect = 온실 효과를 줄이다
+  예문1: The greenhouse effect is making the earth warmer. / 온실 효과가 지구를 더 따뜻하게 만들고 있다.
+  예문2: Burning coal adds to the greenhouse effect. / 석탄을 태우면 온실 효과가 심해진다.
+[carbon dioxide|phrase|gas] hash=9d96edb33ed310bd
+  뜻: 이산화탄소
+  설명: 숨을 내쉬거나 연료를 태울 때 나오는 기체예요.
+  연어: carbon dioxide emissions = 이산화탄소 배출
+  예문1: Trees take in carbon dioxide and release oxygen. / 나무는 이산화탄소를 흡수하고 산소를 내보낸다.
+  예문2: Cars produce a lot of carbon dioxide. / 자동차는 이산화탄소를 많이 배출한다.
+[vice versa|phrase|the-other-way] hash=6567a29f31def90c
+  뜻: 반대로도 마찬가지로
+  설명: 앞의 관계가 거꾸로도 성립할 때 써요.
+  연어: and vice versa = 그 반대도 마찬가지
+  예문1: Parents learn from their children, and vice versa. / 부모는 자녀에게서 배우고, 그 반대도 마찬가지이다.
+  예문2: I help my brother, and vice versa. / 내가 형을 돕고 형도 나를 돕는다.
+[accurately|adv|precisely] hash=4789e69f9d87c7dc
+  뜻: 정확하게
+  설명: 틀림없이 바르게를 뜻해요.
+  연어: measure accurately = 정확하게 재다
+  예문1: Please measure the length accurately. / 길이를 정확하게 재라.
+  예문2: The report accurately describes what happened. / 그 보고서는 일어난 일을 정확하게 서술한다.
+  유의어(오답 제외): precisely
+[barn|n|farm-building] hash=4a88d9ad9ea2edcf
+  뜻: 헛간; 외양간
+  설명: 농장에서 곡식이나 가축을 두는 건물이에요.
+  연어: a red barn = 빨간 헛간
+  예문1: The farmer keeps hay in the barn. / 농부는 헛간에 건초를 보관한다.
+  예문2: The cows sleep in the barn at night. / 소들은 밤에 외양간에서 잔다.
+[expedition|n|journey] hash=6b36c50b018b23a0
+  뜻: 원정; 탐험
+  설명: 특별한 목적을 가진 먼 여행이에요.
+  연어: go on an expedition = 탐험을 떠나다
+  예문1: The team went on an expedition to the South Pole. / 그 팀은 남극으로 탐험을 떠났다.
+  예문2: The expedition to the mountain took three weeks. / 그 산으로의 원정은 3주가 걸렸다.
+  유의어(오답 제외): journey
+[fossil|n|ancient-remains] hash=9594f37b04abafc5
+  뜻: 화석
+  설명: 아주 오래전 생물의 흔적이 돌에 남은 것이에요.
+  연어: fossil fuels = 화석 연료
+  예문1: Scientists found dinosaur fossils in the desert. / 과학자들은 사막에서 공룡 화석을 발견했다.
+  예문2: The museum has a large collection of fish fossils. / 그 박물관은 물고기 화석을 많이 소장하고 있다.
+[honesty|n|truthfulness] hash=704dec81c7df80ff
+  뜻: 정직
+  설명: 거짓 없이 바른 태도예요.
+  연어: honesty is the best policy = 정직이 최선의 방책이다
+  예문1: I respect him for his honesty. / 나는 그의 정직함을 존경한다.
+  예문2: Honesty is important in any friendship. / 정직은 어떤 우정에서나 중요하다.
+[inappropriate|adj|unsuitable] hash=fe8cb1333fc6f9a2
+  뜻: 부적절한
+  설명: 상황에 맞지 않는 것이에요.
+  연어: inappropriate behavior = 부적절한 행동
+  예문1: His joke was inappropriate for the occasion. / 그의 농담은 그 자리에 어울리지 않았다.
+  예문2: Using your phone during a funeral is inappropriate. / 장례식 중에 휴대전화를 쓰는 것은 부적절하다.
+  유의어(오답 제외): unsuitable
+[resistant|adj|unaffected] hash=1ab29aa77b615c2d
+  뜻: 저항력 있는; ~에 강한
+  설명: 쉽게 영향을 받거나 상하지 않는 것이에요.
+  연어: water-resistant = 방수의
+  예문1: This watch is resistant to water. / 이 시계는 물에 강하다.
+  예문2: Some people are resistant to change. / 어떤 사람들은 변화를 거부한다.
+[skinny|adj|very-thin] hash=dabbb054fdf8d4cc
+  뜻: 깡마른
+  설명: 몸이 지나치게 마른 것이에요.
+  연어: skinny jeans = 몸에 딱 붙는 청바지
+  예문1: The skinny cat looked hungry. / 그 깡마른 고양이는 배고파 보였다.
+  예문2: He was skinny as a child but grew strong later. / 그는 어렸을 때 말랐지만 나중에 튼튼해졌다.
+  유의어(오답 제외): thin
+[desperately|adv|urgently] hash=01050781a53ed11b
+  뜻: 필사적으로; 몹시
+  설명: 매우 간절하거나 절박하게를 뜻해요.
+  연어: desperately need = 몹시 필요하다
+  예문1: The village desperately needs clean water. / 그 마을은 깨끗한 물이 몹시 필요하다.
+  예문2: She tried desperately to catch the bus. / 그녀는 버스를 잡으려고 필사적으로 애썼다.
+[financially|adv|money-wise] hash=a5f2dc0d70180fec
+  뜻: 재정적으로
+  설명: 돈과 관련해서를 뜻해요.
+  연어: financially independent = 경제적으로 독립한
+  예문1: He wants to be financially independent. / 그는 경제적으로 독립하고 싶어 한다.
+  예문2: The project was not financially successful. / 그 프로젝트는 재정적으로 성공하지 못했다.
+[intake|n|consumption] hash=5143d2cf53fee939
+  뜻: 섭취(량)
+  설명: 몸에 받아들이는 음식이나 물의 양이에요.
+  연어: sugar intake = 설탕 섭취량
+  예문1: Doctors advise us to reduce our salt intake. / 의사들은 소금 섭취량을 줄이라고 권한다.
+  예문2: Your daily water intake should be about two liters. / 하루 물 섭취량은 약 2리터여야 한다.
+  유의어(오답 제외): consumption
+[ankle|n|joint] hash=5075406c90f727c5
+  뜻: 발목
+  설명: 발과 다리를 잇는 관절이에요.
+  연어: a sprained ankle = 삔 발목
+  예문1: She hurt her ankle while running. / 그녀는 달리다가 발목을 다쳤다.
+  예문2: The water came up to my ankles. / 물이 발목까지 차올랐다.
+[explosive|adj|likely-to-explode] hash=fbb92f026403d3c1
+  뜻: 폭발성의; 폭발적인
+  설명: 터질 위험이 있거나 갑자기 크게 늘어나는 것이에요.
+  연어: explosive growth = 폭발적인 성장
+  예문1: Gas is highly explosive. / 가스는 폭발성이 매우 크다.
+  예문2: The city saw explosive growth in population. / 그 도시는 인구가 폭발적으로 늘었다.
+[explosive|n|bomb-material] hash=152e34877273891a
+  뜻: 폭발물
+  설명: 터뜨리는 물질이에요.
+  연어: use explosives = 폭발물을 쓰다
+  예문1: Workers used explosives to build the tunnel. / 노동자들은 터널을 만들려고 폭발물을 사용했다.
+  예문2: Dogs are trained to find explosives at airports. / 개들은 공항에서 폭발물을 찾도록 훈련받는다.
+[frontier|n|border] hash=c0abb0985fd4bdb6
+  뜻: 국경; 미개척 분야
+  설명: 나라의 경계나 아직 잘 모르는 영역이에요.
+  연어: the frontier of science = 과학의 최전선
+  예문1: Soldiers guard the frontier between the two countries. / 군인들이 두 나라 사이의 국경을 지킨다.
+  예문2: Space is the final frontier of exploration. / 우주는 탐험의 마지막 미개척지이다.
+  유의어(오답 제외): border
+[frustration|n|annoyance] hash=dd7a25513100423b
+  뜻: 좌절감; 불만
+  설명: 뜻대로 되지 않아 답답한 마음이에요.
+  연어: feel frustration = 좌절감을 느끼다
+  예문1: He shouted in frustration when the computer crashed. / 컴퓨터가 멈추자 그는 답답해서 소리를 질렀다.
+  예문2: Many students feel frustration with the new system. / 많은 학생이 새 제도에 불만을 느낀다.
+[portable|adj|movable] hash=af1a59e02ea7b094
+  뜻: 휴대용의
+  설명: 쉽게 들고 다닐 수 있는 것이에요.
+  연어: a portable speaker = 휴대용 스피커
+  예문1: I bought a portable charger for my phone. / 나는 휴대전화용 휴대 충전기를 샀다.
+  예문2: This small table is light and portable. / 이 작은 탁자는 가벼워서 들고 다니기 쉽다.
+[therapist|n|counselor] hash=fe9c87ef073a2f5a
+  뜻: 치료사; 상담사
+  설명: 치료나 상담을 하는 전문가예요.
+  연어: a speech therapist = 언어 치료사
+  예문1: She talks to a therapist about her stress. / 그녀는 스트레스에 대해 상담사와 이야기한다.
+  예문2: The therapist helped him walk again. / 치료사가 그가 다시 걷도록 도왔다.
+[tuition|n|school-fees] hash=209ca4d7fca707da
+  뜻: 수업료; 교습
+  설명: 학교나 학원에 내는 돈이나 가르침이에요.
+  연어: college tuition = 대학 등록금
+  예문1: College tuition has become very expensive. / 대학 등록금이 매우 비싸졌다.
+  예문2: She works part-time to pay her tuition. / 그녀는 수업료를 내려고 시간제로 일한다.
+[circulation|n|flow] hash=4497a604335a3683
+  뜻: 순환; 유통
+  설명: 피나 돈, 신문 등이 돌고 퍼지는 것이에요.
+  연어: blood circulation = 혈액 순환
+  예문1: Exercise improves blood circulation. / 운동은 혈액 순환을 좋게 한다.
+  예문2: The newspaper has a circulation of one million. / 그 신문의 발행 부수는 백만 부이다.
+[countless|adj|innumerable] hash=daffc0e308aba941
+  뜻: 셀 수 없이 많은
+  설명: 너무 많아서 셀 수 없는 것이에요.
+  연어: countless times = 수없이
+  예문1: I have read that book countless times. / 나는 그 책을 셀 수 없이 많이 읽었다.
+  예문2: Countless stars filled the night sky. / 셀 수 없이 많은 별이 밤하늘을 채웠다.
+  유의어(오답 제외): numerous
+[deceased|adj|dead] hash=9db4713e366af3a8
+  뜻: 사망한; 고인이 된
+  설명: 이미 세상을 떠난 것이에요.
+  연어: the deceased = 고인
+  예문1: The house belonged to her deceased grandfather. / 그 집은 돌아가신 그녀의 할아버지 것이었다.
+  예문2: They held a ceremony to remember the deceased. / 그들은 고인을 기리는 의식을 열었다.
+[prediction|n|forecast] hash=97ff9b8b79e7e1a1
+  뜻: 예측; 예언
+  설명: 앞으로 일어날 일을 미리 말하는 것이에요.
+  연어: make a prediction = 예측하다
+  예문1: The weather prediction was wrong again. / 날씨 예측이 또 틀렸다.
+  예문2: Experts made predictions about the election. / 전문가들은 선거에 대해 예측을 내놓았다.
+  유의어(오답 제외): forecast
+[preview|n|advance-look] hash=6380e4ea5214337e
+  뜻: 미리 보기; 시사회
+  설명: 정식으로 보기 전에 먼저 보는 것이에요.
+  연어: a movie preview = 영화 예고편
+  예문1: We watched a preview of the new movie. / 우리는 새 영화의 예고편을 보았다.
+  예문2: The app shows a preview of each photo. / 그 앱은 각 사진의 미리 보기를 보여 준다.
+[tendency|n|inclination] hash=f9cffe2e11b1910f
+  뜻: 경향; 성향
+  설명: 어떤 쪽으로 자주 그렇게 되는 성질이에요.
+  연어: have a tendency to = ~하는 경향이 있다
+  예문1: He has a tendency to talk too much. / 그는 말을 너무 많이 하는 경향이 있다.
+  예문2: People have a natural tendency to avoid risk. / 사람에게는 위험을 피하려는 본능적인 경향이 있다.
+  유의어(오답 제외): trend
+[annoyed|adj|irritated] hash=694e9bd25ee4e50c
+  뜻: 짜증 난
+  설명: 귀찮거나 불쾌해서 화가 조금 난 것이에요.
+  연어: get annoyed = 짜증이 나다
+  예문1: She was annoyed by the loud music next door. / 그녀는 옆집의 시끄러운 음악 때문에 짜증이 났다.
+  예문2: I get annoyed when people are late. / 나는 사람들이 늦으면 짜증이 난다.
+[appealing|adj|attractive] hash=0b6389aa3e5b221f
+  뜻: 매력적인; 끌리는
+  설명: 마음을 끄는 것이에요.
+  연어: an appealing idea = 매력적인 생각
+  예문1: The idea of a long holiday is very appealing. / 긴 휴가라는 생각은 정말 끌린다.
+  예문2: The cake looked very appealing. / 그 케이크는 아주 먹음직스러워 보였다.
+  유의어(오답 제외): attractive
+[collision|n|crash] hash=a8c3a18c05e45c5e
+  뜻: 충돌
+  설명: 두 물체가 세게 부딪치는 것이에요.
+  연어: a head-on collision = 정면충돌
+  예문1: The collision damaged both cars. / 그 충돌로 두 차가 모두 부서졌다.
+  예문2: There was a collision between a bus and a truck. / 버스와 트럭이 충돌했다.
+  유의어(오답 제외): crash
+[compassion|n|sympathy] hash=8d6f65c237e664b9
+  뜻: 연민; 동정심
+  설명: 다른 사람의 고통을 이해하고 돕고 싶은 마음이에요.
+  연어: show compassion = 연민을 보이다
+  예문1: The nurse treated the patients with compassion. / 간호사는 환자들을 따뜻한 마음으로 대했다.
+  예문2: We should show compassion for people in need. / 우리는 어려운 사람들에게 연민을 가져야 한다.
+  유의어(오답 제외): sympathy
+[relieved|adj|reassured] hash=647c690da6a7165e
+  뜻: 안도하는
+  설명: 걱정이 사라져 마음이 놓인 것이에요.
+  연어: feel relieved = 안도하다
+  예문1: I was relieved to hear that she was safe. / 그녀가 무사하다는 소식에 안도했다.
+  예문2: He looked relieved after the test was over. / 시험이 끝나자 그는 안도한 표정이었다.
+[sensitivity|n|delicacy] hash=1e5544f84e53ee69
+  뜻: 민감성; 세심함
+  설명: 쉽게 느끼거나 다른 사람의 감정을 헤아리는 능력이에요.
+  연어: sensitivity to = ~에 대한 민감성
+  예문1: Some people have a sensitivity to bright light. / 어떤 사람들은 밝은 빛에 민감하다.
+  예문2: The teacher handled the problem with great sensitivity. / 선생님은 그 문제를 아주 세심하게 다루셨다.
+[supervisor|n|manager] hash=eb0ab43a1c5185f6
+  뜻: 감독관; 관리자
+  설명: 일하는 사람들을 지켜보고 이끄는 사람이에요.
+  연어: report to a supervisor = 관리자에게 보고하다
+  예문1: Ask your supervisor if you can leave early. / 일찍 퇴근해도 되는지 관리자에게 물어보아라.
+  예문2: The supervisor checked our work every hour. / 감독관은 매시간 우리 작업을 확인했다.
+  유의어(오답 제외): manager

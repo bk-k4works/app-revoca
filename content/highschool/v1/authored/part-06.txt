@@ -7,11 +7,11 @@ mix|n|combination|혼합; 조합|여러 가지가 한데 어우러진 것이에�
 purchase|v|buy|구입하다|돈을 내고 물건을 살 때 써요.|purchase a ticket|표를 구입하다|You can purchase tickets at the door.|입구에서 표를 구입할 수 있다.|The museum purchased a famous painting last year.|그 박물관은 작년에 유명한 그림을 구입했다.|buy
 purchase|n|buying|구입; 구입품|물건을 사는 일이나 산 물건이에요.|make a purchase|구입하다|Keep the receipt for your purchase.|구입한 물건의 영수증을 보관해라.|The new car was a big purchase for our family.|새 차는 우리 가족에게 큰 지출이었다.
 remove|v|take-away|제거하다; 없애다|있던 것을 치우거나 없앨 때 써요.|remove a stain|얼룩을 없애다|Please remove your shoes before entering.|들어오기 전에 신발을 벗어라.|This soap removes stains easily.|이 비누는 얼룩을 쉽게 없앤다.
-steel|n|metal|강철|철을 단단하게 만든 금속이에요.|a steel bridge|강철 다리|The tower is made of steel and glass.|그 탑은 강철과 유리로 만들어졌다.|Steel is stronger than iron.|강철은 철보다 단단하다.
+steel|n|metal|강철|철에 탄소 등을 섞어 더 단단하게 만든 합금이에요.|a steel bridge|강철 다리|The tower is made of steel and glass.|그 탑은 강철과 유리로 만들어졌다.|Steel is stronger than iron.|강철은 철보다 단단하다.
 terrible|adj|very-bad|끔찍한; 심한|아주 나쁘거나 정도가 심한 것이에요.|a terrible mistake|끔찍한 실수|I made a terrible mistake on the test.|나는 시험에서 끔찍한 실수를 했다.|She has a terrible headache today.|그녀는 오늘 두통이 심하다.|awful
 command|n|order|지휘; 명령|무엇을 하라고 지시하는 말이에요.|under the command of|~의 지휘 아래|The soldiers waited for the command to move.|병사들은 이동하라는 명령을 기다렸다.|The army was under the command of a young general.|그 군대는 젊은 장군의 지휘 아래 있었다.|order
 command|n|mastery|(언어) 구사력; 능력|지식이나 언어를 잘 다루는 능력이에요.|a good command of|~을 잘 구사함|She has a good command of English.|그녀는 영어를 잘 구사한다.|A good command of math helps in science classes.|수학을 잘 다루면 과학 수업에 도움이 된다.
-command|v|order|명령하다; 지휘하다|지위가 있는 사람이 지시할 때 써요.|command an army|군대를 지휘하다|The captain commanded the crew to stop the ship.|선장은 선원들에게 배를 멈추라고 명령했다.|He commanded the team for ten years.|그는 10년 동안 그 팀을 지휘했다.
+command|v|order|명령하다; 지휘하다|지위가 있는 사람이 지시할 때 써요.|command an army|군대를 지휘하다|The captain commanded the crew to stop the ship.|선장은 선원들에게 배를 멈추라고 명령했다.|He commanded a small unit during the war.|그는 전쟁 중에 작은 부대를 지휘했다.
 limit|n|boundary|한계; 제한|넘을 수 없거나 넘으면 안 되는 선이에요.|a speed limit|제한 속도|The speed limit here is fifty kilometers per hour.|이곳의 제한 속도는 시속 50킬로미터이다.|There is a limit to how much I can help.|내가 도울 수 있는 데에는 한계가 있다.
 limit|v|restrict|제한하다|양이나 범위를 정해 넘지 않게 할 때 써요.|limit the number|수를 제한하다|Parents should limit the time children spend online.|부모는 아이들이 온라인에서 보내는 시간을 제한해야 한다.|The class is limited to twenty students.|그 수업은 학생 스무 명으로 제한된다.|restrict
 profit|n|gain|이익; 수익|장사에서 쓴 돈보다 더 번 돈이에요.|make a profit|이익을 내다|The shop made a small profit last month.|그 가게는 지난달 약간의 이익을 냈다.|The company shares its profits with workers.|그 회사는 이익을 직원들과 나눈다.|gain
@@ -29,12 +29,12 @@ survey|v|examine|(설문으로) 조사하다; 둘러보다|전체를 살펴보�
 transport|n|transportation|교통; 운송|사람이나 물건을 실어 나르는 수단이에요.|public transport|대중교통|Public transport in this city is cheap and fast.|이 도시의 대중교통은 싸고 빠르다.|The transport of goods by sea takes weeks.|바닷길로 물건을 운송하는 데 몇 주가 걸린다.
 transport|v|carry|수송하다; 운반하다|차량 등으로 사람·물건을 실어 나를 때 써요.|transport goods|물건을 운반하다|Trucks transport fresh vegetables to the market.|트럭이 신선한 채소를 시장으로 운반한다.|The injured man was transported to the hospital.|부상자는 병원으로 옮겨졌다.|carry
 appeal|n|request|호소; 간청|도움이나 지지를 간절히 요청하는 것이에요.|make an appeal|호소하다|The police made an appeal for information.|경찰은 정보 제공을 호소했다.|The charity's appeal raised a lot of money.|그 자선 단체의 호소로 많은 돈이 모였다.
-appeal|n|attraction|호감; 매력|사람의 마음을 끄는 힘이에요.|wide appeal|폭넓은 인기|The movie has wide appeal for all ages.|그 영화는 모든 나이대에게 폭넓은 인기를 끈다.|I do not understand the appeal of horror movies.|나는 공포 영화의 매력을 이해하지 못한다.|attraction
+appeal|n|attraction|호감; 매력|사람의 마음을 끄는 힘이에요.|wide appeal|폭넓은 인기|The movie has wide appeal among viewers of all ages.|그 영화는 모든 나이대에게 폭넓은 인기를 끈다.|I do not understand the appeal of horror movies.|나는 공포 영화의 매력을 이해하지 못한다.|attraction
 appeal|v|attract|마음을 끌다; 호소하다|appeal to로 관심을 끌거나 간청할 때 써요.|appeal to|~의 마음을 끌다|The game appeals to young children.|그 게임은 어린아이들의 마음을 끈다.|The mayor appealed to citizens to save water.|시장은 시민들에게 물을 아껴 달라고 호소했다.
 appropriate|adj|suitable|적절한|상황이나 목적에 알맞은 것이에요.|appropriate for|~에 적절한|This movie is not appropriate for young children.|이 영화는 어린아이들에게 적절하지 않다.|Please wear appropriate clothes for the ceremony.|행사에 알맞은 옷을 입어라.|proper
 factor|n|cause|요인; 요소|어떤 결과에 영향을 주는 것이에요.|an important factor|중요한 요인|Price is an important factor when buying a phone.|휴대전화를 살 때 가격은 중요한 요인이다.|Many factors affect our health.|많은 요소가 우리 건강에 영향을 미친다.|element
 feed|v|give-food|먹이를 주다; 먹여 살리다|사람이나 동물에게 먹을 것을 줄 때 써요.|feed a dog|개에게 먹이를 주다|Please feed the cat twice a day.|하루에 두 번 고양이에게 먹이를 주어라.|The farm produces enough food to feed the whole town.|그 농장은 마을 전체를 먹여 살릴 만큼의 식량을 생산한다.
-feed|v|supply|(계속) 대 주다; 공급하다|기계나 대상에 계속 넣어 줄 때 써요.|feed data|데이터를 입력하다|We fed the data into the computer.|우리는 자료를 컴퓨터에 입력했다.|Rivers feed water into the lake.|강물이 호수로 물을 공급한다.|supply
+feed|v|supply|(계속) 대 주다; 공급하다|기계나 대상에 계속 넣어 줄 때 써요.|feed data|데이터를 입력하다|We fed the data into the computer.|우리는 자료를 컴퓨터에 입력했다.|The machine feeds paper into the printer.|그 기계는 프린터에 종이를 넣어 준다.|supply
 lawyer|n|attorney|변호사|법률 문제를 도와주는 일을 하는 사람이에요.|hire a lawyer|변호사를 고용하다|She wants to become a lawyer someday.|그녀는 언젠가 변호사가 되고 싶어 한다.|You should talk to a lawyer before signing.|서명하기 전에 변호사와 상의해야 한다.
 internal|adj|inside|내부의; 국내의|안쪽에 있거나 조직·나라 안의 것이에요.|internal organs|내장 기관|The heart and lungs are internal organs.|심장과 폐는 내장 기관이다.|The company had an internal meeting about safety.|그 회사는 안전에 관한 내부 회의를 했다.
 pack|v|put-in-bag|(짐을) 싸다; 꾸리다|여행이나 이동을 위해 물건을 넣을 때 써요.|pack a bag|가방을 싸다|Have you packed your bag for the trip?|여행 가방은 다 쌌니?|She packed some sandwiches for lunch.|그녀는 점심으로 샌드위치를 챙겼다.
@@ -76,10 +76,10 @@ minor|adj|small|작은; 사소한|크기나 중요성이 크지 않은 것이에
 minor|n|child|미성년자|법적으로 아직 어른이 아닌 사람이에요.|sell to minors|미성년자에게 팔다|Minors are not allowed to buy alcohol.|미성년자는 술을 살 수 없다.|A parent must sign the form for a minor.|미성년자의 경우 부모가 양식에 서명해야 한다.
 struggle|v|try-hard|애쓰다; 몸부림치다|어려움을 이기려고 힘들게 노력할 때 써요.|struggle to|~하려고 애쓰다|Many students struggle to wake up early.|많은 학생이 일찍 일어나려고 애쓴다.|The small business struggled to survive.|그 작은 가게는 살아남으려고 몸부림쳤다.
 struggle|n|fight|투쟁; 힘든 일|어려움에 맞서는 힘든 노력이에요.|a struggle for|~을 위한 투쟁|Learning to walk again was a long struggle.|다시 걷는 법을 배우는 것은 길고 힘든 일이었다.|The struggle for freedom lasted many years.|자유를 위한 투쟁은 여러 해 동안 계속되었다.
-tiny|adj|very-small|아주 작은|크기가 매우 작은 것이에요.|a tiny insect|아주 작은 곤충|The baby has tiny fingers.|아기는 손가락이 아주 작다.|A tiny mistake can cause a big problem.|아주 작은 실수가 큰 문제를 일으킬 수 있다.
+tiny|adj|very-small|아주 작은|크기가 매우 작은 것이에요.|a tiny insect|아주 작은 곤충|The baby has tiny fingers and small toes.|아기는 손가락이 아주 작고 발가락도 작다.|A tiny mistake can cause a big problem.|아주 작은 실수가 큰 문제를 일으킬 수 있다.
 capable|adj|able|~할 수 있는; 유능한|be capable of로 능력이 있을 때 써요.|be capable of|~할 수 있다|She is capable of solving hard problems.|그녀는 어려운 문제를 풀 능력이 있다.|He is a very capable leader.|그는 매우 유능한 지도자이다.|able
-desire|n|wish|욕구; 바람|무엇을 몹시 원하는 마음이에요.|a strong desire|강한 욕구|He has a strong desire to travel the world.|그는 세계를 여행하고 싶은 강한 욕구가 있다.|Her desire to help others led her to medicine.|다른 사람을 돕고 싶은 바람이 그녀를 의학으로 이끌었다.|wish
-desire|v|want-strongly|바라다; 원하다|무엇을 몹시 갖거나 하고 싶어 할 때 써요.|the desired result|원하던 결과|The plan did not produce the desired result.|그 계획은 원하던 결과를 내지 못했다.|Many people desire a peaceful life in the country.|많은 사람이 시골에서의 평화로운 삶을 바란다.
+desire|n|wish|욕구; 바람|무엇을 몹시 원하는 마음이에요.|a strong desire|강한 욕구|He has a strong desire to travel the world.|그는 세계를 여행하고 싶은 강한 욕구가 있다.|Her desire to help others led her to medicine.|다른 사람을 돕고 싶은 마음이 그녀를 의학의 길로 이끌었다.|wish
+desire|v|want-strongly|바라다; 원하다|무엇을 몹시 갖거나 하고 싶어 할 때 써요.|desire a peaceful life|평화로운 삶을 바라다|The students desired more time to finish the project.|학생들은 과제를 끝낼 시간이 더 있기를 바랐다.|Many people desire a peaceful life in the country.|많은 사람이 시골에서의 평화로운 삶을 바란다.
 recommend|v|advise|추천하다; 권하다|좋다고 여겨 다른 사람에게 권할 때 써요.|recommend a book|책을 추천하다|Can you recommend a good restaurant near here?|이 근처의 좋은 식당을 추천해 줄 수 있니?|Doctors recommend drinking eight glasses of water a day.|의사들은 하루에 물 여덟 잔을 마시라고 권한다.|suggest
 seek|v|look-for|구하다; 찾다|필요한 것을 찾거나 얻으려 할 때 써요.|seek advice|조언을 구하다|You should seek help if you feel sad for a long time.|오랫동안 슬프다면 도움을 구해야 한다.|Many young people move to cities to seek jobs.|많은 젊은이가 일자리를 찾아 도시로 이주한다.|search
 extreme|adj|very-great|극도의; 극단적인|정도가 아주 심한 것이에요.|extreme heat|극심한 더위|The area suffers from extreme heat in summer.|그 지역은 여름에 극심한 더위를 겪는다.|His views are too extreme for most people.|그의 견해는 대부분의 사람에게 너무 극단적이다.
@@ -93,8 +93,8 @@ affect|v|influence|영향을 미치다|어떤 것에 변화를 일으킬 때 써
 bond|n|connection|유대; 결속|사람 사이의 끈끈한 관계예요.|a strong bond|강한 유대|There is a strong bond between the twins.|그 쌍둥이 사이에는 강한 유대가 있다.|Sports can build bonds between people.|스포츠는 사람 사이의 유대를 쌓을 수 있다.|connection
 bond|v|connect|유대를 맺다; 붙다|가까워지거나 서로 붙을 때 써요.|bond with|~와 친해지다|The new students bonded quickly during the camp.|신입생들은 캠프 동안 빨리 친해졌다.|This glue bonds wood and metal.|이 접착제는 나무와 금속을 붙인다.|connect
 deserve|v|be-worthy|~을 받을 만하다|행동이나 자질에 맞는 대가를 받을 자격이 있을 때 써요.|deserve a rest|쉴 자격이 있다|You worked hard, so you deserve a break.|너는 열심히 일했으니 쉴 자격이 있다.|The team deserved to win the game.|그 팀은 경기에서 이길 만했다.
-empty|adj|with-nothing|비어 있는|안에 아무것도 없는 것이에요.|an empty room|빈 방|The bottle is empty.|병이 비어 있다.|The streets were empty early in the morning.|이른 아침에 거리는 텅 비어 있었다.
-empty|v|make-empty|비우다|안에 든 것을 모두 꺼낼 때 써요.|empty a bag|가방을 비우다|Please empty your pockets before washing the jeans.|청바지를 빨기 전에 주머니를 비워라.|He emptied the trash can.|그는 쓰레기통을 비웠다.
+empty|adj|with-nothing|비어 있는|안에 아무것도 없는 것이에요.|an empty room|빈 방|The bottle is completely empty now.|그 병은 지금 완전히 비어 있다.|The streets were empty early in the morning.|이른 아침에 거리는 텅 비어 있었다.
+empty|v|make-empty|비우다|안에 든 것을 모두 꺼낼 때 써요.|empty a bag|가방을 비우다|Please empty your pockets before washing the jeans.|청바지를 빨기 전에 주머니를 비워라.|He emptied the trash can before dinner.|그는 저녁 식사 전에 쓰레기통을 비웠다.
 register|v|sign-up|등록하다; 신고하다|이름을 공식 명단에 올릴 때 써요.|register for|~에 등록하다|You must register for the class by Friday.|금요일까지 그 수업에 등록해야 한다.|All new cars must be registered.|모든 새 차는 등록해야 한다.
 register|n|record|명부; 기록부|이름이나 사실을 적는 공식 목록이에요.|a class register|출석부|The teacher checked the class register.|선생님은 출석부를 확인했다.|Sign the visitor register at the front desk.|안내 데스크에서 방문자 명부에 서명해라.
 admit|v|confess|(잘못을) 인정하다; 시인하다|잘못이나 사실을 마지못해 받아들일 때 써요.|admit a mistake|실수를 인정하다|He admitted that he had broken the window.|그는 자신이 창문을 깼다고 인정했다.|I must admit that you were right.|네가 옳았다는 것을 인정해야겠다.|accept
@@ -106,8 +106,8 @@ favor|n|kind-act|호의; 부탁|남을 위해 해 주는 친절한 일이에요.
 favor|n|support|찬성; 지지|in favor of로 어떤 쪽을 지지할 때 써요.|in favor of|~에 찬성하여|Most students are in favor of the new rule.|대부분의 학생이 새 규칙에 찬성한다.|The vote was ten to two in favor of the plan.|투표는 10대 2로 그 계획에 찬성이 많았다.|support
 rent|n|payment|집세; 임대료|집이나 물건을 빌려 쓰는 대가로 내는 돈이에요.|pay the rent|집세를 내다|Rent in the city center is very high.|도심의 집세는 매우 비싸다.|We pay the rent on the first day of every month.|우리는 매달 1일에 집세를 낸다.
 rent|v|hire|빌리다; 세놓다|돈을 내고 빌리거나 빌려줄 때 써요.|rent a car|차를 빌리다|We rented bikes to ride along the river.|우리는 강을 따라 타려고 자전거를 빌렸다.|They rent their spare room to students.|그들은 남는 방을 학생들에게 세놓는다.
-replace|v|substitute|교체하다; 대신하다|원래 것을 다른 것으로 바꿀 때 써요.|replace A with B|A를 B로 교체하다|Robots may replace some human workers.|로봇이 일부 사람 노동자를 대신할 수도 있다.|We replaced the old light bulbs with new ones.|우리는 오래된 전구를 새것으로 교체했다.|substitute
-represent|v|act-for|대표하다|단체나 사람을 대신해 나설 때 써요.|represent a country|나라를 대표하다|She will represent our school in the contest.|그녀는 대회에서 우리 학교를 대표할 것이다.|Each class chose a student to represent them.|각 반은 자신들을 대표할 학생을 뽑았다.
+replace|v|substitute|교체하다; 대신하다|원래 것을 다른 것으로 바꿀 때 써요.|replace A with B|A를 B로 교체하다|Robots may replace some human workers.|로봇이 일부 노동자를 대신할 수도 있다.|We replaced the old light bulbs with new ones.|우리는 오래된 전구를 새것으로 교체했다.|substitute
+represent|v|act-for|대표하다|단체나 사람을 대신해 나설 때 써요.|represent a country|나라를 대표하다|She will represent our school in the contest.|그녀는 대회에서 우리 학교를 대표할 것이다.|Each class chose a student to represent it.|각 반은 그 반을 대표할 학생을 뽑았다.
 represent|v|stand-for|상징하다; 나타내다|기호나 그림이 어떤 뜻을 나타낼 때 써요.|represent peace|평화를 상징하다|The dove represents peace.|비둘기는 평화를 상징한다.|Each dot on the map represents a city.|지도의 각 점은 도시를 나타낸다.|symbolize
 sentence|n|group-of-words|문장|생각을 완전하게 나타낸 말의 단위예요.|a short sentence|짧은 문장|Write a sentence using the new word.|새 단어를 사용해 문장을 하나 써라.|Each sentence should start with a capital letter.|모든 문장은 대문자로 시작해야 한다.
 sentence|n|punishment|형벌; 선고|법원이 내리는 처벌이에요.|a prison sentence|징역형|He received a five-year prison sentence.|그는 징역 5년을 선고받았다.|The judge gave him a light sentence.|판사는 그에게 가벼운 형을 내렸다.

@@ -1,0 +1,16 @@
+{"senseKey": "version|n|side-of-story", "inputHash": "32ae755be53d0c40", "verdict": "minor", "issues": [{"field": "collocationKo", "problem": "“네가 기억하는”은 기억에 초점을 더해 원문의 사건 설명·관점이라는 뜻보다 좁아요.", "suggestion": "“your version of events = 네가 설명하는 사건 경위”로 바꿔요."}], "batch": "round4-01", "stale": false}
+{"senseKey": "minimum|adj|lowest", "inputHash": "f1f526f4a971a933", "verdict": "ok", "issues": [], "batch": "round4-01", "stale": false}
+{"senseKey": "pursue|v|chase-goal", "inputHash": "2624eb4583e51605", "verdict": "minor", "issues": [{"field": "ko2", "problem": "“거리를 지나며”는 거리를 통과해 뒤쫓았다는 뜻을 자연스럽게 살리지 못해요.", "suggestion": "“경찰은 거리를 누비며 도둑을 뒤쫓았다.”로 바꿔요."}], "batch": "round4-01", "stale": false}
+{"senseKey": "neutral|adj|impartial", "inputHash": "30a5eeaf0d0c6ab6", "verdict": "ok", "issues": [], "batch": "round4-01", "stale": false}
+{"senseKey": "modest|adj|humble", "inputHash": "119aa8050fc5eeaf", "verdict": "ok", "issues": [], "batch": "round4-01", "stale": false}
+{"senseKey": "convenience|n|ease", "inputHash": "13a30b9d5b6a0cf6", "verdict": "minor", "issues": [{"field": "ko1", "problem": "“큰 편의를 제공한다”는 번역투로 다소 어색해요.", "suggestion": "“온라인 쇼핑은 바쁜 일정을 소화하는 사람들에게 편리함을 더해 준다.”로 바꿔요."}], "batch": "round4-01", "stale": false}
+{"senseKey": "delicate|adj|fragile", "inputHash": "bc499e6fef116cc2", "verdict": "ok", "issues": [], "batch": "round4-01", "stale": false}
+{"senseKey": "peasant|n|poor-farmer", "inputHash": "79dbd8456eeb1ac8", "verdict": "ok", "issues": [], "batch": "round4-01", "stale": false}
+{"senseKey": "factual|adj|based-on-facts", "inputHash": "504a0cc7924c6c15", "verdict": "ok", "issues": [], "batch": "round4-01", "stale": false}
+{"senseKey": "dedicate|v|devote", "inputHash": "5106393399eb609f", "verdict": "ok", "issues": [], "batch": "round4-01", "stale": false}
+{"senseKey": "reproduce|v|breed", "inputHash": "18c5079fbc5689d4", "verdict": "minor", "issues": [{"field": "ko2", "problem": "“복제되어 실렸다”는 사진이 여러 신문에 게재됐다는 의미에 다소 어색해요.", "suggestion": "“그 사진은 여러 신문에 전재되었다.”로 바꿔요."}], "batch": "round4-01", "stale": false}
+{"senseKey": "keenly|adv|intensely", "inputHash": "70fa50b3f75b9882", "verdict": "fix", "issues": [{"field": "explanation", "problem": "“아주 깊고 강하게”는 어색하고, 인식이 예리하거나 뚜렷하다는 뜻을 설명하지 못해요.", "suggestion": "“감정이나 인식이 매우 강하거나 예민함을 나타내요.”로 바꿔요."}], "batch": "round4-01", "stale": false}
+{"senseKey": "nonprofitable|adj|unprofitable", "inputHash": "6f5befe16f937285", "verdict": "fix", "issues": [{"field": "collocation", "problem": "연어가 표제어 nonprofitable이 아니라 동의어 unprofitable을 사용해요.", "suggestion": "“a nonprofitable business = 이익이 나지 않는 사업”으로 바꿔요."}], "batch": "round4-01", "stale": false}
+{"senseKey": "version", "verdict": "missing_sense", "batch": "round4-01", "issues": [{"field": "sense", "problem": "현재는 사건에 대한 설명 의미만 있어, 책·소프트웨어 등의 판본이나 버전 의미가 빠졌어요.", "suggestion": "(책·소프트웨어 등의) 판본; 버전"}], "stale": false}
+{"senseKey": "minimum", "verdict": "missing_sense", "batch": "round4-01", "issues": [{"field": "sense", "problem": "형용사 의미만 있으며, 지문에서 자주 쓰이는 명사 ‘최소량·최저치’ 의미가 빠졌어요.", "suggestion": "최소량; 최저치"}], "stale": false}
+{"senseKey": "pursue", "verdict": "missing_sense", "batch": "round4-01", "issues": [{"field": "sense", "problem": "목표 추구와 뒤쫓기 외에 활동·조사·정책 등을 계속하거나 추진한다는 의미도 자주 쓰여요.", "suggestion": "(활동·조사·정책 등을) 계속하다; 추진하다"}], "stale": false}

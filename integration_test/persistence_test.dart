@@ -16,7 +16,7 @@ void main() {
     (tester) async {
       final content = await ContentRepository.openBundled();
       final bundled = await content.loadVocabulary();
-      expect(bundled.words, hasLength(2587));
+      expect(bundled.words, hasLength(2594));
       expect(bundled.words.map((w) => w.headword.id).toSet(), hasLength(2000));
       expect(bundled.provenance['track'], 'high');
       final phrase = bundled.byId['hs.in-order-to.phrase.for-the-purpose']!;
@@ -44,7 +44,7 @@ void main() {
           0,
           (n, w) => n + 1 + w.additionalExamples.length,
         ),
-        5174,
+        5188,
       );
       expect((await content.search('analysis')).single.example, isNotEmpty);
       expect(

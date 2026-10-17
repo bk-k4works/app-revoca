@@ -1,0 +1,1083 @@
+[minor|adj|small] hash=1d4c64c203d41125
+  뜻: 작은; 사소한
+  설명: 크기나 중요성이 크지 않은 것이에요.
+  연어: a minor problem = 사소한 문제
+  예문1: He had a minor injury during the game. / 그는 경기 중에 가벼운 부상을 입었다.
+  예문2: We made a few minor changes to the plan. / 우리는 계획을 약간 수정했다.
+[minor|n|child] hash=1c111d48ccbe3597
+  뜻: 미성년자
+  설명: 법적으로 아직 어른이 아닌 사람이에요.
+  연어: sell to minors = 미성년자에게 팔다
+  예문1: Minors are not allowed to buy alcohol. / 미성년자는 술을 살 수 없다.
+  예문2: A parent must sign the form for a minor. / 미성년자의 경우 부모가 양식에 서명해야 한다.
+[struggle|v|try-hard] hash=f16dff3522506c9d
+  뜻: 애쓰다; 몸부림치다
+  설명: 어려움을 이기려고 힘들게 노력할 때 써요.
+  연어: struggle to = ~하려고 애쓰다
+  예문1: Many students struggle to wake up early. / 많은 학생이 일찍 일어나려고 애쓴다.
+  예문2: The small business struggled to survive. / 그 작은 가게는 살아남으려고 몸부림쳤다.
+[struggle|n|fight] hash=2b65ce9ea5a5881f
+  뜻: 투쟁; 힘든 일
+  설명: 어려움에 맞서는 힘든 노력이에요.
+  연어: a struggle for = ~을 위한 투쟁
+  예문1: Learning to walk again was a long struggle. / 다시 걷는 법을 배우는 것은 길고 힘든 일이었다.
+  예문2: The struggle for freedom lasted many years. / 자유를 위한 투쟁은 여러 해 동안 계속되었다.
+[tiny|adj|very-small] hash=fe5224df22a8d6be
+  뜻: 아주 작은
+  설명: 크기가 매우 작은 것이에요.
+  연어: a tiny insect = 아주 작은 곤충
+  예문1: The baby has tiny fingers. / 아기는 손가락이 아주 작다.
+  예문2: A tiny mistake can cause a big problem. / 아주 작은 실수가 큰 문제를 일으킬 수 있다.
+[capable|adj|able] hash=590210f5ba6c1931
+  뜻: ~할 수 있는; 유능한
+  설명: be capable of로 능력이 있을 때 써요.
+  연어: be capable of = ~할 수 있다
+  예문1: She is capable of solving hard problems. / 그녀는 어려운 문제를 풀 능력이 있다.
+  예문2: He is a very capable leader. / 그는 매우 유능한 지도자이다.
+  유의어(오답 제외): able
+[desire|n|wish] hash=783b58c10f780ce7
+  뜻: 욕구; 바람
+  설명: 무엇을 몹시 원하는 마음이에요.
+  연어: a strong desire = 강한 욕구
+  예문1: He has a strong desire to travel the world. / 그는 세계를 여행하고 싶은 강한 욕구가 있다.
+  예문2: Her desire to help others led her to medicine. / 다른 사람을 돕고 싶은 바람이 그녀를 의학으로 이끌었다.
+  유의어(오답 제외): wish
+[desire|v|want-strongly] hash=83ef10c26fce0ba6
+  뜻: 바라다; 원하다
+  설명: 무엇을 몹시 갖거나 하고 싶어 할 때 써요.
+  연어: the desired result = 원하던 결과
+  예문1: The plan did not produce the desired result. / 그 계획은 원하던 결과를 내지 못했다.
+  예문2: Many people desire a peaceful life in the country. / 많은 사람이 시골에서의 평화로운 삶을 바란다.
+[recommend|v|advise] hash=9b97a5fe5a7b96ce
+  뜻: 추천하다; 권하다
+  설명: 좋다고 여겨 다른 사람에게 권할 때 써요.
+  연어: recommend a book = 책을 추천하다
+  예문1: Can you recommend a good restaurant near here? / 이 근처의 좋은 식당을 추천해 줄 수 있니?
+  예문2: Doctors recommend drinking eight glasses of water a day. / 의사들은 하루에 물 여덟 잔을 마시라고 권한다.
+  유의어(오답 제외): suggest
+[seek|v|look-for] hash=a526adc705a28d1b
+  뜻: 구하다; 찾다
+  설명: 필요한 것을 찾거나 얻으려 할 때 써요.
+  연어: seek advice = 조언을 구하다
+  예문1: You should seek help if you feel sad for a long time. / 오랫동안 슬프다면 도움을 구해야 한다.
+  예문2: Many young people move to cities to seek jobs. / 많은 젊은이가 일자리를 찾아 도시로 이주한다.
+  유의어(오답 제외): search
+[extreme|adj|very-great] hash=fb47a4f8718ec4ff
+  뜻: 극도의; 극단적인
+  설명: 정도가 아주 심한 것이에요.
+  연어: extreme heat = 극심한 더위
+  예문1: The area suffers from extreme heat in summer. / 그 지역은 여름에 극심한 더위를 겪는다.
+  예문2: His views are too extreme for most people. / 그의 견해는 대부분의 사람에게 너무 극단적이다.
+[reserve|v|book] hash=54a7bb4c32239299
+  뜻: (자리를) 잡아 두다; 예약하다
+  설명: 자리를 미리 잡거나 나중을 위해 남길 때 써요.
+  연어: reserve a seat = 자리를 예약하다
+  예문1: I reserved two seats for the concert. / 나는 콘서트 좌석 두 개를 예약했다.
+  예문2: These seats are reserved for older people. / 이 좌석은 노인을 위한 지정석이다.
+  유의어(오답 제외): book
+[reserve|n|supply] hash=e71e8c9b409c30bd
+  뜻: 비축; 보호 구역
+  설명: 나중을 위해 모아 둔 것이나 보호 지역이에요.
+  연어: a nature reserve = 자연 보호 구역
+  예문1: The country has large oil reserves. / 그 나라는 석유 매장량이 많다.
+  예문2: Rare birds live in the nature reserve. / 희귀한 새들이 자연 보호 구역에 산다.
+[row|n|line] hash=a1e53a86d204609f
+  뜻: 줄; 열
+  설명: 사람이나 물건이 나란히 늘어선 줄이에요.
+  연어: in a row = 연달아
+  예문1: We sat in the front row of the theater. / 우리는 극장 맨 앞줄에 앉았다.
+  예문2: Our team won five games in a row. / 우리 팀은 다섯 경기를 연달아 이겼다.
+  유의어(오답 제외): line
+[row|v|paddle] hash=6f8165d1c94d5db5
+  뜻: 노를 젓다
+  설명: 노를 이용해 배를 움직일 때 써요.
+  연어: row a boat = 배를 젓다
+  예문1: They rowed the boat across the lake. / 그들은 노를 저어 호수를 건넜다.
+  예문2: It is hard to row against the wind. / 바람을 거슬러 노를 젓기는 어렵다.
+[switch|v|change] hash=88fabcf365ae3ad4
+  뜻: 전환하다; 바꾸다
+  설명: 하나에서 다른 것으로 바꿀 때 써요.
+  연어: switch to = ~로 바꾸다
+  예문1: Many drivers are switching to electric cars. / 많은 운전자가 전기 자동차로 바꾸고 있다.
+  예문2: Can we switch seats with each other? / 우리 서로 자리를 바꿀 수 있을까?
+  유의어(오답 제외): change
+[switch|n|button] hash=bc4d324d0c44bbb3
+  뜻: 스위치
+  설명: 전기를 켜고 끄는 장치예요.
+  연어: a light switch = 전등 스위치
+  예문1: The light switch is next to the door. / 전등 스위치는 문 옆에 있다.
+  예문2: Press the switch to turn on the machine. / 기계를 켜려면 스위치를 눌러라.
+[affect|v|influence] hash=73ff7b00556b5ad7
+  뜻: 영향을 미치다
+  설명: 어떤 것에 변화를 일으킬 때 써요.
+  연어: affect health = 건강에 영향을 미치다
+  예문1: Lack of sleep affects your mood. / 수면 부족은 기분에 영향을 미친다.
+  예문2: The storm affected thousands of homes. / 그 폭풍은 수천 가구에 피해를 주었다.
+  유의어(오답 제외): influence
+[bond|n|connection] hash=46df1f3cf02a6b02
+  뜻: 유대; 결속
+  설명: 사람 사이의 끈끈한 관계예요.
+  연어: a strong bond = 강한 유대
+  예문1: There is a strong bond between the twins. / 그 쌍둥이 사이에는 강한 유대가 있다.
+  예문2: Sports can build bonds between people. / 스포츠는 사람 사이의 유대를 쌓을 수 있다.
+  유의어(오답 제외): connection
+[bond|v|connect] hash=dcde462da8527f66
+  뜻: 유대를 맺다; 붙다
+  설명: 가까워지거나 서로 붙을 때 써요.
+  연어: bond with = ~와 친해지다
+  예문1: The new students bonded quickly during the camp. / 신입생들은 캠프 동안 빨리 친해졌다.
+  예문2: This glue bonds wood and metal. / 이 접착제는 나무와 금속을 붙인다.
+  유의어(오답 제외): connect
+[deserve|v|be-worthy] hash=ce575354353f38f5
+  뜻: ~을 받을 만하다
+  설명: 행동이나 자질에 맞는 대가를 받을 자격이 있을 때 써요.
+  연어: deserve a rest = 쉴 자격이 있다
+  예문1: You worked hard, so you deserve a break. / 너는 열심히 일했으니 쉴 자격이 있다.
+  예문2: The team deserved to win the game. / 그 팀은 경기에서 이길 만했다.
+[empty|adj|with-nothing] hash=adf240a0eb497e84
+  뜻: 비어 있는
+  설명: 안에 아무것도 없는 것이에요.
+  연어: an empty room = 빈 방
+  예문1: The bottle is empty. / 병이 비어 있다.
+  예문2: The streets were empty early in the morning. / 이른 아침에 거리는 텅 비어 있었다.
+[empty|v|make-empty] hash=5fdfde65a5ca9aec
+  뜻: 비우다
+  설명: 안에 든 것을 모두 꺼낼 때 써요.
+  연어: empty a bag = 가방을 비우다
+  예문1: Please empty your pockets before washing the jeans. / 청바지를 빨기 전에 주머니를 비워라.
+  예문2: He emptied the trash can. / 그는 쓰레기통을 비웠다.
+[register|v|sign-up] hash=eed3768cd0742237
+  뜻: 등록하다; 신고하다
+  설명: 이름을 공식 명단에 올릴 때 써요.
+  연어: register for = ~에 등록하다
+  예문1: You must register for the class by Friday. / 금요일까지 그 수업에 등록해야 한다.
+  예문2: All new cars must be registered. / 모든 새 차는 등록해야 한다.
+[register|n|record] hash=cf0f4df2f9db10d8
+  뜻: 명부; 기록부
+  설명: 이름이나 사실을 적는 공식 목록이에요.
+  연어: a class register = 출석부
+  예문1: The teacher checked the class register. / 선생님은 출석부를 확인했다.
+  예문2: Sign the visitor register at the front desk. / 안내 데스크에서 방문자 명부에 서명해라.
+[admit|v|confess] hash=1518d8ad79e596ca
+  뜻: (잘못을) 인정하다; 시인하다
+  설명: 잘못이나 사실을 마지못해 받아들일 때 써요.
+  연어: admit a mistake = 실수를 인정하다
+  예문1: He admitted that he had broken the window. / 그는 자신이 창문을 깼다고 인정했다.
+  예문2: I must admit that you were right. / 네가 옳았다는 것을 인정해야겠다.
+  유의어(오답 제외): accept
+[admit|v|let-in] hash=5eebc940a045ab48
+  뜻: 입장을 허락하다; 입학시키다
+  설명: 들어오거나 가입하도록 허락할 때 써요.
+  연어: be admitted to = ~에 입학하다
+  예문1: She was admitted to a famous university. / 그녀는 유명한 대학에 입학 허가를 받았다.
+  예문2: Children under ten are not admitted. / 10세 미만 어린이는 입장할 수 없다.
+[attitude|n|way-of-thinking] hash=0bee92fda028e15e
+  뜻: 태도; 사고방식
+  설명: 어떤 일에 대한 생각이나 마음가짐이에요.
+  연어: a positive attitude = 긍정적인 태도
+  예문1: A positive attitude helps you deal with stress. / 긍정적인 태도는 스트레스를 다루는 데 도움이 된다.
+  예문2: His attitude toward work has changed. / 일에 대한 그의 태도가 바뀌었다.
+[branch|n|part-of-tree] hash=927abeacb0cd9d88
+  뜻: 나뭇가지
+  설명: 나무줄기에서 뻗어 나온 부분이에요.
+  연어: a tree branch = 나뭇가지
+  예문1: A bird is sitting on the branch. / 새 한 마리가 나뭇가지에 앉아 있다.
+  예문2: Strong winds broke many branches. / 강한 바람에 많은 나뭇가지가 부러졌다.
+[branch|n|office] hash=b6b96eefa7a9a73f
+  뜻: 지점; 분야
+  설명: 본사에서 나뉜 곳이나 학문의 한 갈래예요.
+  연어: a local branch = 지역 지점
+  예문1: The bank has a branch near my school. / 그 은행은 우리 학교 근처에 지점이 있다.
+  예문2: Biology is a branch of science. / 생물학은 과학의 한 분야이다.
+[favor|n|kind-act] hash=7f3f630540f1632d
+  뜻: 호의; 부탁
+  설명: 남을 위해 해 주는 친절한 일이에요.
+  연어: do a favor = 부탁을 들어주다
+  예문1: Can you do me a favor and close the window? / 부탁인데 창문 좀 닫아 줄 수 있니?
+  예문2: I owe him a favor for helping me move. / 이사를 도와준 것에 대해 그에게 신세를 졌다.
+[favor|n|support] hash=da00310c368549f1
+  뜻: 찬성; 지지
+  설명: in favor of로 어떤 쪽을 지지할 때 써요.
+  연어: in favor of = ~에 찬성하여
+  예문1: Most students are in favor of the new rule. / 대부분의 학생이 새 규칙에 찬성한다.
+  예문2: The vote was ten to two in favor of the plan. / 투표는 10대 2로 그 계획에 찬성이 많았다.
+  유의어(오답 제외): support
+[rent|n|payment] hash=7a88abf376552f95
+  뜻: 집세; 임대료
+  설명: 집이나 물건을 빌려 쓰는 대가로 내는 돈이에요.
+  연어: pay the rent = 집세를 내다
+  예문1: Rent in the city center is very high. / 도심의 집세는 매우 비싸다.
+  예문2: We pay the rent on the first day of every month. / 우리는 매달 1일에 집세를 낸다.
+[rent|v|hire] hash=d71cecfb39dedd30
+  뜻: 빌리다; 세놓다
+  설명: 돈을 내고 빌리거나 빌려줄 때 써요.
+  연어: rent a car = 차를 빌리다
+  예문1: We rented bikes to ride along the river. / 우리는 강을 따라 타려고 자전거를 빌렸다.
+  예문2: They rent their spare room to students. / 그들은 남는 방을 학생들에게 세놓는다.
+[replace|v|substitute] hash=6f8ee0048b53efea
+  뜻: 교체하다; 대신하다
+  설명: 원래 것을 다른 것으로 바꿀 때 써요.
+  연어: replace A with B = A를 B로 교체하다
+  예문1: Robots may replace some human workers. / 로봇이 일부 사람 노동자를 대신할 수도 있다.
+  예문2: We replaced the old light bulbs with new ones. / 우리는 오래된 전구를 새것으로 교체했다.
+  유의어(오답 제외): substitute
+[represent|v|act-for] hash=ea65987977c894d2
+  뜻: 대표하다
+  설명: 단체나 사람을 대신해 나설 때 써요.
+  연어: represent a country = 나라를 대표하다
+  예문1: She will represent our school in the contest. / 그녀는 대회에서 우리 학교를 대표할 것이다.
+  예문2: Each class chose a student to represent them. / 각 반은 자신들을 대표할 학생을 뽑았다.
+[represent|v|stand-for] hash=cb632db4ec37f0ec
+  뜻: 상징하다; 나타내다
+  설명: 기호나 그림이 어떤 뜻을 나타낼 때 써요.
+  연어: represent peace = 평화를 상징하다
+  예문1: The dove represents peace. / 비둘기는 평화를 상징한다.
+  예문2: Each dot on the map represents a city. / 지도의 각 점은 도시를 나타낸다.
+  유의어(오답 제외): symbolize
+[sentence|n|group-of-words] hash=b7a98541a3690706
+  뜻: 문장
+  설명: 생각을 완전하게 나타낸 말의 단위예요.
+  연어: a short sentence = 짧은 문장
+  예문1: Write a sentence using the new word. / 새 단어를 사용해 문장을 하나 써라.
+  예문2: Each sentence should start with a capital letter. / 모든 문장은 대문자로 시작해야 한다.
+[sentence|n|punishment] hash=782acd7110184a9b
+  뜻: 형벌; 선고
+  설명: 법원이 내리는 처벌이에요.
+  연어: a prison sentence = 징역형
+  예문1: He received a five-year prison sentence. / 그는 징역 5년을 선고받았다.
+  예문2: The judge gave him a light sentence. / 판사는 그에게 가벼운 형을 내렸다.
+[sentence|v|punish] hash=5e581803e8f57650
+  뜻: (형을) 선고하다
+  설명: 법원이 처벌을 정할 때 써요.
+  연어: be sentenced to = ~형을 선고받다
+  예문1: The thief was sentenced to two years in prison. / 그 도둑은 징역 2년을 선고받았다.
+  예문2: The court will sentence the man next week. / 법원은 다음 주에 그 남자에게 형을 선고할 것이다.
+[achieve|v|accomplish] hash=91857311d7090003
+  뜻: 성취하다; 달성하다
+  설명: 노력해서 목표를 이룰 때 써요.
+  연어: achieve a goal = 목표를 달성하다
+  예문1: She achieved her goal of running a marathon. / 그녀는 마라톤을 완주하겠다는 목표를 달성했다.
+  예문2: You can achieve anything if you work hard. / 열심히 노력하면 무엇이든 이룰 수 있다.
+  유의어(오답 제외): accomplish
+[afford|v|have-enough] hash=c109c802a7f34f5c
+  뜻: (~할) 여유가 있다
+  설명: 주로 can과 함께 돈이나 시간의 여유를 말해요.
+  연어: can afford to = ~할 여유가 있다
+  예문1: We cannot afford a new car right now. / 우리는 지금 새 차를 살 여유가 없다.
+  예문2: I cannot afford to waste any more time. / 나는 더 이상 시간을 낭비할 여유가 없다.
+[assume|v|suppose] hash=2997b70128b14d3e
+  뜻: 가정하다; 추정하다
+  설명: 확실하지 않지만 사실이라고 생각할 때 써요.
+  연어: assume that = ~라고 가정하다
+  예문1: I assumed that you already knew the news. / 나는 네가 이미 그 소식을 안다고 생각했다.
+  예문2: Do not assume that everyone agrees with you. / 모두가 너에게 동의한다고 단정하지 마라.
+  유의어(오답 제외): suppose
+[assume|v|take-on] hash=735d985ff0a7ef6c
+  뜻: (책임을) 맡다
+  설명: 역할이나 책임을 떠맡을 때 써요.
+  연어: assume responsibility = 책임을 지다
+  예문1: The new manager will assume control next month. / 새 관리자가 다음 달에 경영을 맡을 것이다.
+  예문2: He assumed responsibility for the mistake. / 그는 그 실수에 대한 책임을 졌다.
+[category|n|class] hash=17a55c17bd5072fd
+  뜻: 범주; 부류
+  설명: 같은 성질을 가진 것끼리 나눈 무리예요.
+  연어: fall into a category = 범주에 속하다
+  예문1: The books are divided into five categories. / 책들은 다섯 범주로 나뉘어 있다.
+  예문2: She won the prize in the young artists category. / 그녀는 신인 예술가 부문에서 상을 받았다.
+[detail|n|small-fact] hash=250df5388a06491c
+  뜻: 세부 사항
+  설명: 작고 자세한 내용이에요.
+  연어: in detail = 자세히
+  예문1: Please explain the plan in detail. / 그 계획을 자세히 설명해 달라.
+  예문2: The painting is full of tiny details. / 그 그림은 아주 작은 세부 묘사로 가득하다.
+[diet|n|food-habits] hash=7ec33ebc7cb060f0
+  뜻: 식단; 식습관
+  설명: 평소에 먹는 음식의 종류와 양이에요.
+  연어: a balanced diet = 균형 잡힌 식단
+  예문1: A healthy diet includes lots of vegetables. / 건강한 식단에는 채소가 많이 들어간다.
+  예문2: Rice is the main part of the Korean diet. / 쌀은 한국인 식단의 주된 부분이다.
+[diet|n|weight-loss] hash=08feee608c39cf4d
+  뜻: 다이어트; 식이 요법
+  설명: 살을 빼거나 건강을 위해 먹는 것을 조절하는 일이에요.
+  연어: go on a diet = 다이어트를 하다
+  예문1: She went on a diet before summer. / 그녀는 여름이 오기 전에 다이어트를 시작했다.
+  예문2: The doctor put him on a low-salt diet. / 의사는 그에게 저염식 식이 요법을 처방했다.
+[item|n|thing] hash=ab27eaacd564ba5b
+  뜻: 항목; 물품
+  설명: 목록에 있는 하나하나의 물건이나 내용이에요.
+  연어: an item on the list = 목록의 항목
+  예문1: Each item in the store is on sale today. / 그 가게의 모든 물품이 오늘 할인 중이다.
+  예문2: The first item on the agenda is the school trip. / 회의의 첫 번째 안건은 수학여행이다.
+  유의어(오답 제외): article
+[mess|n|untidy-state] hash=382ac9529725d6c4
+  뜻: 엉망; 난장판
+  설명: 지저분하거나 어질러진 상태예요.
+  연어: make a mess = 어지르다
+  예문1: Your room is a mess. / 네 방은 엉망이다.
+  예문2: The kids made a mess in the kitchen. / 아이들이 부엌을 어질러 놓았다.
+[mess|v|spoil] hash=07159a99358f370d
+  뜻: 엉망으로 만들다; 망치다
+  설명: mess up으로 일을 그르칠 때 써요.
+  연어: mess up = 망치다
+  예문1: I messed up my presentation because I was nervous. / 나는 긴장해서 발표를 망쳤다.
+  예문2: Do not mess up the plan by being late. / 늦어서 계획을 망치지 마라.
+  유의어(오답 제외): ruin
+[prefer|v|like-better] hash=3f45cbb76e0d9b7d
+  뜻: 더 좋아하다; 선호하다
+  설명: 둘 중 하나를 더 좋아할 때 써요.
+  연어: prefer A to B = B보다 A를 더 좋아하다
+  예문1: I prefer tea to coffee. / 나는 커피보다 차를 더 좋아한다.
+  예문2: Many students prefer studying in the library. / 많은 학생이 도서관에서 공부하는 것을 선호한다.
+[shift|v|move] hash=a49953eeb8092def
+  뜻: 바뀌다; 옮기다
+  설명: 위치나 방향, 생각이 달라질 때 써요.
+  연어: shift the focus = 초점을 옮기다
+  예문1: Public opinion has shifted on this issue. / 이 문제에 대한 여론이 바뀌었다.
+  예문2: He shifted the heavy box to the other side. / 그는 무거운 상자를 다른 쪽으로 옮겼다.
+  유의어(오답 제외): move
+[shift|n|work-period] hash=a0b1520c4cc213c0
+  뜻: 교대 근무
+  설명: 정해진 시간에 돌아가며 하는 일이에요.
+  연어: a night shift = 야간 근무
+  예문1: The nurses work in three shifts. / 간호사들은 3교대로 일한다.
+  예문2: My father works the night shift at the factory. / 아버지는 공장에서 야간 근무를 하신다.
+[shift|n|change] hash=eafe92d4ea5f1143
+  뜻: 전환; 변화
+  설명: 방향이나 상태가 바뀌는 것이에요.
+  연어: a shift in = ~의 변화
+  예문1: There has been a shift in how people shop. / 사람들이 쇼핑하는 방식에 변화가 있었다.
+  예문2: The new law caused a major shift in policy. / 새 법은 정책에 큰 전환을 가져왔다.
+  유의어(오답 제외): change
+[tend|v|be-likely] hash=36fda22cb588a952
+  뜻: ~하는 경향이 있다
+  설명: tend to로 자주 그렇게 되는 성향을 말해요.
+  연어: tend to = ~하는 경향이 있다
+  예문1: People tend to eat more when they are stressed. / 사람들은 스트레스를 받으면 더 많이 먹는 경향이 있다.
+  예문2: Prices tend to rise in winter. / 겨울에는 물가가 오르는 경향이 있다.
+[tend|v|look-after] hash=d1911d38688dca54
+  뜻: 돌보다
+  설명: 사람이나 식물을 보살필 때 써요.
+  연어: tend a garden = 정원을 돌보다
+  예문1: She tends her garden every morning. / 그녀는 매일 아침 정원을 가꾼다.
+  예문2: Nurses tended the wounded soldiers. / 간호사들은 부상당한 군인들을 돌보았다.
+[tight|adj|close-fitting] hash=8ff884df81fa38a1
+  뜻: 꽉 끼는; 단단한
+  설명: 틈이 없이 꼭 맞거나 단단한 것이에요.
+  연어: tight jeans = 꽉 끼는 청바지
+  예문1: These shoes are too tight for me. / 이 신발은 나에게 너무 꽉 낀다.
+  예문2: Hold the rope tight and do not let go. / 밧줄을 꽉 잡고 놓지 마라.
+[tight|adj|limited] hash=37be3e3cfac63bd5
+  뜻: 빠듯한; 엄격한
+  설명: 시간·돈이 부족하거나 규칙이 엄할 때 써요.
+  연어: a tight schedule = 빠듯한 일정
+  예문1: We are on a tight budget this month. / 우리는 이번 달 예산이 빠듯하다.
+  예문2: Security was tight at the airport. / 공항의 보안이 엄격했다.
+[describe|v|explain-in-words] hash=40cf0e564548e882
+  뜻: 묘사하다; 설명하다
+  설명: 어떤 모습이나 일을 말이나 글로 나타낼 때 써요.
+  연어: describe a person = 사람을 묘사하다
+  예문1: Can you describe the man you saw? / 네가 본 남자를 묘사할 수 있니?
+  예문2: The book describes life in a small village. / 그 책은 작은 마을의 삶을 그린다.
+  유의어(오답 제외): explain
+[excuse|n|reason] hash=f3fe99b526f55b63
+  뜻: 변명; 핑계
+  설명: 잘못을 감추거나 피하려고 대는 이유예요.
+  연어: make an excuse = 핑계를 대다
+  예문1: He always has an excuse for being late. / 그는 늦을 때마다 늘 핑계를 댄다.
+  예문2: There is no excuse for being rude. / 무례한 행동에는 어떤 변명도 통하지 않는다.
+[excuse|v|forgive] hash=49cad8e5b4e87722
+  뜻: 너그러이 봐주다; 면제하다
+  설명: 잘못을 너그럽게 봐주거나 의무를 덜어 줄 때 써요.
+  연어: excuse me = 실례합니다
+  예문1: Please excuse my late reply. / 답장이 늦은 것을 용서해 달라.
+  예문2: She was excused from the exam because she was sick. / 그녀는 아파서 시험을 면제받았다.
+  유의어(오답 제외): forgive
+[expert|n|specialist] hash=3266647bddee721f
+  뜻: 전문가
+  설명: 어떤 분야에 대해 많이 아는 사람이에요.
+  연어: an expert on = ~의 전문가
+  예문1: She is an expert on ancient history. / 그녀는 고대사 전문가이다.
+  예문2: Experts say that the economy will improve. / 전문가들은 경제가 나아질 것이라고 말한다.
+  유의어(오답 제외): master
+[object|n|thing] hash=ef02660aba9483c1
+  뜻: 물체; 대상
+  설명: 눈에 보이고 만질 수 있는 것이에요.
+  연어: a small object = 작은 물체
+  예문1: The baby put a small object in her mouth. / 아기가 작은 물건을 입에 넣었다.
+  예문2: He became the object of everyone's attention. / 그는 모든 사람의 관심 대상이 되었다.
+[object|n|goal] hash=9685e3f45ee04705
+  뜻: (이루려는) 목적
+  설명: 이루려고 하는 것이에요.
+  연어: the object of the game = 게임의 목표
+  예문1: The object of the game is to collect all the cards. / 그 게임의 목표는 모든 카드를 모으는 것이다.
+  예문2: Our main object is to help young readers. / 우리의 주된 목적은 어린 독자들을 돕는 것이다.
+  유의어(오답 제외): purpose
+[object|v|oppose] hash=98482af3ce3ccabb
+  뜻: 이의를 제기하다; 반대하다
+  설명: object to로 싫다고 이의를 말할 때 써요.
+  연어: object to = ~에 반대하다
+  예문1: Many residents objected to the new airport. / 많은 주민이 새 공항에 반대했다.
+  예문2: Does anyone object to this plan? / 이 계획에 반대하는 사람이 있니?
+  유의어(오답 제외): oppose
+[pattern|n|regular-way] hash=dd52c290fe15c713
+  뜻: 양식; 패턴
+  설명: 일정하게 되풀이되는 방식이에요.
+  연어: sleep patterns = 수면 양식
+  예문1: Scientists study the sleep patterns of animals. / 과학자들은 동물의 수면 양식을 연구한다.
+  예문2: There is a clear pattern in the data. / 그 자료에는 뚜렷한 패턴이 있다.
+[pattern|n|design] hash=983dad21bd28afd2
+  뜻: 무늬
+  설명: 반복되는 모양이나 장식이에요.
+  연어: a flower pattern = 꽃무늬
+  예문1: She wore a dress with a flower pattern. / 그녀는 꽃무늬 원피스를 입었다.
+  예문2: The floor has a simple square pattern. / 그 바닥에는 단순한 네모 무늬가 있다.
+[promote|v|encourage] hash=7fa69ba0fd20c971
+  뜻: 촉진하다; 홍보하다
+  설명: 어떤 일이 잘 되도록 돕거나 알릴 때 써요.
+  연어: promote health = 건강을 증진하다
+  예문1: The campaign promotes healthy eating. / 그 캠페인은 건강한 식습관을 장려한다.
+  예문2: The band toured to promote its new album. / 그 밴드는 새 앨범을 홍보하려고 순회공연을 했다.
+  유의어(오답 제외): encourage
+[promote|v|raise-rank] hash=daf077c9000a12ec
+  뜻: 승진시키다
+  설명: 더 높은 직위로 올릴 때 써요.
+  연어: be promoted to = ~로 승진하다
+  예문1: She was promoted to manager last year. / 그녀는 작년에 관리자로 승진했다.
+  예문2: The company promotes workers based on their skills. / 그 회사는 실력에 따라 직원을 승진시킨다.
+[suppose|v|assume] hash=03d2f688f616e0e6
+  뜻: 생각하다; 가정하다
+  설명: 아마 그렇다고 여길 때 써요.
+  연어: I suppose = ~인 것 같다
+  예문1: I suppose you are right. / 네 말이 맞는 것 같다.
+  예문2: Suppose you won the lottery. What would you do? / 복권에 당첨되었다고 가정해 봐라. 무엇을 하겠니?
+  유의어(오답 제외): assume
+[victim|n|sufferer] hash=54576ab120740715
+  뜻: 희생자; 피해자
+  설명: 사고나 범죄로 피해를 입은 사람이에요.
+  연어: a victim of = ~의 피해자
+  예문1: The victims of the flood need food and water. / 홍수 피해자들은 음식과 물이 필요하다.
+  예문2: She was a victim of online bullying. / 그녀는 온라인 괴롭힘의 피해자였다.
+[arrest|v|seize] hash=865c9fceaf55c0ad
+  뜻: 체포하다
+  설명: 경찰이 범인을 잡아갈 때 써요.
+  연어: be arrested for = ~로 체포되다
+  예문1: The police arrested two men for stealing. / 경찰은 절도 혐의로 두 남자를 체포했다.
+  예문2: He was arrested at the airport. / 그는 공항에서 체포되었다.
+[arrest|n|seizure] hash=0a7ae4cba4a0ac44
+  뜻: 체포
+  설명: 경찰이 사람을 붙잡는 일이에요.
+  연어: under arrest = 체포된
+  예문1: You are under arrest. / 당신을 체포한다.
+  예문2: The arrest of the leader surprised everyone. / 그 지도자의 체포는 모두를 놀라게 했다.
+[attend|v|go-to] hash=81cae2f563446dee
+  뜻: 참석하다; 다니다
+  설명: 모임에 가거나 학교에 다닐 때 써요.
+  연어: attend a meeting = 회의에 참석하다
+  예문1: Over a hundred people attended the concert. / 백 명이 넘는 사람이 콘서트에 참석했다.
+  예문2: She attends a high school near her home. / 그녀는 집 근처 고등학교에 다닌다.
+[attend|v|take-care] hash=2eadb3f56b0098a9
+  뜻: 보살피다; 처리하다
+  설명: attend to로 일이나 사람을 보살필 때 써요.
+  연어: attend to = ~을 처리하다
+  예문1: I have some business to attend to this afternoon. / 나는 오늘 오후에 처리할 일이 좀 있다.
+  예문2: Nurses attended to the injured. / 간호사들이 부상자들을 돌보았다.
+[brilliant|adj|very-clever] hash=0e72f9c8d895fba7
+  뜻: 뛰어난; 훌륭한
+  설명: 아주 똑똑하거나 솜씨가 뛰어난 것이에요.
+  연어: a brilliant idea = 훌륭한 생각
+  예문1: She is a brilliant scientist. / 그녀는 뛰어난 과학자이다.
+  예문2: What a brilliant idea! / 정말 훌륭한 생각이다!
+  유의어(오답 제외): excellent
+[brilliant|adj|very-bright] hash=01c4e3dba26f561d
+  뜻: 눈부신; 선명한
+  설명: 빛이나 색이 아주 밝은 것이에요.
+  연어: brilliant sunshine = 눈부신 햇살
+  예문1: The sky was a brilliant blue. / 하늘은 눈부시게 파랬다.
+  예문2: The room was full of brilliant light. / 방은 눈부신 빛으로 가득했다.
+  유의어(오답 제외): bright
+[crash|n|accident] hash=e65f65bbdad60dcd
+  뜻: 추락; 충돌
+  설명: 탈것이 부딪치거나 떨어지는 사고예요.
+  연어: a car crash = 자동차 충돌 사고
+  예문1: Nobody was hurt in the crash. / 그 충돌 사고에서 아무도 다치지 않았다.
+  예문2: The plane crash was caused by bad weather. / 비행기 추락은 악천후 때문에 일어났다.
+  유의어(오답 제외): accident
+[crash|v|collide] hash=eee1ca206b75afab
+  뜻: 충돌하다; (컴퓨터가) 멈추다
+  설명: 세게 부딪치거나 기계가 갑자기 멈출 때 써요.
+  연어: crash into = ~에 충돌하다
+  예문1: The truck crashed into a tree. / 트럭이 나무에 충돌했다.
+  예문2: My computer crashed before I saved the file. / 파일을 저장하기 전에 컴퓨터가 멈췄다.
+[deliver|v|bring] hash=dfdceeb54aa42be3
+  뜻: 배달하다; 전달하다
+  설명: 물건이나 소식을 가져다줄 때 써요.
+  연어: deliver a package = 소포를 배달하다
+  예문1: The store delivers food to your door. / 그 가게는 음식을 집 앞까지 배달한다.
+  예문2: She delivered the message to the teacher. / 그녀는 그 메시지를 선생님께 전달했다.
+[deliver|v|give-speech] hash=e0bfce86460f9c19
+  뜻: (연설을) 하다
+  설명: 연설이나 발표를 할 때 써요.
+  연어: deliver a speech = 연설하다
+  예문1: The principal delivered a speech at graduation. / 교장 선생님은 졸업식에서 연설을 하셨다.
+  예문2: He delivered his report clearly and confidently. / 그는 보고를 분명하고 자신 있게 했다.
+[mate|n|friend] hash=9984168190d3847a
+  뜻: 친구; 동료
+  설명: 함께 지내거나 일하는 사람이에요.
+  연어: my mates = 내 친구들
+  예문1: I went to the movies with my mates. / 나는 친구들과 영화를 보러 갔다.
+  예문2: He shares a room with a mate from work. / 그는 직장 동료와 방을 함께 쓴다.
+  유의어(오답 제외): friend
+[mate|n|partner] hash=1aa9bf9255692fec
+  뜻: (동물의) 짝
+  설명: 새끼를 낳으려고 짝을 이룬 상대예요.
+  연어: find a mate = 짝을 찾다
+  예문1: Male birds sing to attract a mate. / 수컷 새는 짝을 끌려고 노래한다.
+  예문2: Some animals stay with one mate for life. / 어떤 동물은 평생 한 짝과 함께 지낸다.
+  유의어(오답 제외): partner
+[prepare|v|get-ready] hash=205dd307fb1b5f1d
+  뜻: 준비하다
+  설명: 어떤 일을 위해 미리 갖출 때 써요.
+  연어: prepare for = ~을 준비하다
+  예문1: We are preparing for the final exam. / 우리는 기말고사를 준비하고 있다.
+  예문2: My father prepared dinner for the whole family. / 아버지는 온 가족을 위해 저녁을 준비하셨다.
+[tip|n|advice] hash=1c3a2dfc04151198
+  뜻: 요령; 조언
+  설명: 도움이 되는 짧은 정보예요.
+  연어: useful tips = 유용한 조언
+  예문1: Here are some tips for better sleep. / 숙면을 위한 몇 가지 조언이 있다.
+  예문2: My teacher gave me a tip for remembering words. / 선생님은 나에게 단어를 기억하는 비결을 알려 주셨다.
+  유의어(오답 제외): advice
+[tip|n|end] hash=db616fedb602818b
+  뜻: (뾰족한) 끝
+  설명: 가늘고 긴 물건의 끝부분이에요.
+  연어: the tip of = ~의 끝
+  예문1: The word is on the tip of my tongue. / 그 단어가 혀끝에서 맴돈다.
+  예문2: He cut the tip of his finger. / 그는 손가락 끝을 베였다.
+[tip|n|extra-money] hash=3b972be01926ac72
+  뜻: 팁; 봉사료
+  설명: 서비스에 고마워서 더 주는 돈이에요.
+  연어: leave a tip = 팁을 남기다
+  예문1: We left a tip for the waiter. / 우리는 웨이터에게 팁을 남겼다.
+  예문2: In some countries, a tip is not expected. / 어떤 나라에서는 팁을 기대하지 않는다.
+[calm|adj|peaceful] hash=b02ae8939764c14a
+  뜻: 침착한; 고요한
+  설명: 마음이 흔들리지 않거나 날씨가 잔잔한 것이에요.
+  연어: stay calm = 침착함을 유지하다
+  예문1: Try to stay calm during the test. / 시험 중에는 침착함을 유지하려고 노력해라.
+  예문2: The sea was calm this morning. / 오늘 아침 바다는 잔잔했다.
+  유의어(오답 제외): peaceful
+[calm|v|make-quiet] hash=cd7c724bb538000b
+  뜻: 진정시키다
+  설명: calm down으로 마음을 가라앉힐 때 써요.
+  연어: calm down = 진정하다
+  예문1: Take a deep breath and calm down. / 심호흡을 하고 진정해라.
+  예문2: The mother calmed her crying baby. / 엄마는 우는 아기를 달랬다.
+[client|n|customer] hash=92f3dd19fc7101a8
+  뜻: 고객; 의뢰인
+  설명: 전문가의 서비스를 받는 사람이에요.
+  연어: meet a client = 고객을 만나다
+  예문1: The lawyer met with her client in the morning. / 그 변호사는 아침에 의뢰인을 만났다.
+  예문2: The designer has many famous clients. / 그 디자이너에게는 유명한 고객이 많다.
+  유의어(오답 제외): customer
+[constant|adj|continuous] hash=126866fb9298189b
+  뜻: 끊임없는; 일정한
+  설명: 계속되거나 변하지 않는 것이에요.
+  연어: constant noise = 끊임없는 소음
+  예문1: The constant noise made it hard to sleep. / 끊임없는 소음 때문에 잠들기 어려웠다.
+  예문2: Keep the room at a constant temperature. / 방을 일정한 온도로 유지해라.
+  유의어(오답 제외): continuous
+[manage|v|succeed] hash=58764b2c7207c031
+  뜻: 그럭저럭 해내다
+  설명: 어렵지만 결국 해낼 때 써요.
+  연어: manage to = 용케 ~하다
+  예문1: We managed to finish the project on time. / 우리는 용케 제시간에 프로젝트를 끝냈다.
+  예문2: How did you manage to carry all those books? / 그 책들을 어떻게 다 들고 왔니?
+[manage|v|control] hash=2d1f0d9cf93ca360
+  뜻: 관리하다; 운영하다
+  설명: 사람·돈·시간을 맡아 다룰 때 써요.
+  연어: manage time = 시간을 관리하다
+  예문1: It is important to manage your time well. / 시간을 잘 관리하는 것이 중요하다.
+  예문2: She manages a team of ten people. / 그녀는 열 명으로 된 팀을 관리한다.
+  유의어(오답 제외): run
+[quit|v|stop] hash=77d64b4c74fdbc99
+  뜻: 그만두다; 끊다
+  설명: 하던 일이나 습관을 멈출 때 써요.
+  연어: quit smoking = 담배를 끊다
+  예문1: My uncle quit smoking last year. / 삼촌은 작년에 담배를 끊으셨다.
+  예문2: She quit her job to start her own business. / 그녀는 자기 사업을 시작하려고 일을 그만두었다.
+[sight|n|vision] hash=1bd0f1a1a9c35a59
+  뜻: 시력; 보기
+  설명: 눈으로 보는 능력이나 보는 일이에요.
+  연어: at first sight = 첫눈에
+  예문1: He lost his sight in an accident. / 그는 사고로 시력을 잃었다.
+  예문2: She fell in love with the city at first sight. / 그녀는 첫눈에 그 도시에 반했다.
+  유의어(오답 제외): vision
+[sight|n|view] hash=5af15c1e7823e5a1
+  뜻: 광경; 명소
+  설명: 눈에 보이는 장면이나 구경할 만한 곳이에요.
+  연어: see the sights = 명소를 구경하다
+  예문1: The sunset over the sea was a beautiful sight. / 바다 위의 노을은 아름다운 광경이었다.
+  예문2: We visited all the famous sights of the city. / 우리는 그 도시의 유명한 명소를 모두 둘러보았다.
+  유의어(오답 제외): view
+[weapon|n|arms] hash=06b4a9b7839f234e
+  뜻: 무기
+  설명: 싸우거나 공격하는 데 쓰는 도구예요.
+  연어: nuclear weapons = 핵무기
+  예문1: The guards carried weapons. / 경비병들은 무기를 지니고 있었다.
+  예문2: Many countries agreed to reduce nuclear weapons. / 많은 나라가 핵무기를 줄이기로 합의했다.
+[broad|adj|wide] hash=d3667d1935a9db22
+  뜻: 넓은; 폭넓은
+  설명: 폭이 넓거나 범위가 큰 것이에요.
+  연어: a broad range = 폭넓은 범위
+  예문1: The river is broad and deep here. / 이곳에서 강은 넓고 깊다.
+  예문2: The book covers a broad range of topics. / 그 책은 폭넓은 주제를 다룬다.
+  유의어(오답 제외): wide
+[respond|v|answer] hash=b36dd5c4de261e7a
+  뜻: 대답하다; 반응하다
+  설명: 질문에 답하거나 어떤 일에 반응할 때 써요.
+  연어: respond to = ~에 반응하다
+  예문1: She did not respond to my message. / 그녀는 내 메시지에 답하지 않았다.
+  예문2: Plants respond to light by growing toward it. / 식물은 빛 쪽으로 자라며 빛에 반응한다.
+  유의어(오답 제외): reply
+[grab|v|seize] hash=05606dee4435637e
+  뜻: 붙잡다; 급히 먹다
+  설명: 재빨리 움켜잡거나 급하게 할 때 써요.
+  연어: grab someone's arm = ~의 팔을 붙잡다
+  예문1: He grabbed my arm to stop me from falling. / 그는 내가 넘어지지 않게 내 팔을 붙잡았다.
+  예문2: Let us grab a sandwich before class. / 수업 전에 샌드위치를 간단히 먹자.
+[immediate|adj|instant] hash=5021c9fab18a4716
+  뜻: 즉각적인
+  설명: 바로 일어나는 것이에요.
+  연어: an immediate answer = 즉각적인 대답
+  예문1: The medicine had an immediate effect. / 그 약은 즉각적인 효과가 있었다.
+  예문2: We need an immediate decision. / 우리는 즉시 결정을 내려야 한다.
+  유의어(오답 제외): instant
+[immediate|adj|nearest] hash=e262b05d7d94567c
+  뜻: 가장 가까운; 직계의
+  설명: 시간·공간·관계가 바로 가까운 것이에요.
+  연어: immediate family = 직계 가족
+  예문1: Only immediate family members came to the wedding. / 직계 가족만 결혼식에 왔다.
+  예문2: There is no hospital in the immediate area. / 바로 인근에는 병원이 없다.
+[license|n|permit] hash=370fdc3a1d99ba29
+  뜻: 면허(증); 허가
+  설명: 어떤 일을 해도 된다는 공식 허가예요.
+  연어: a driver's license = 운전면허증
+  예문1: You need a license to drive a car. / 자동차를 운전하려면 면허가 필요하다.
+  예문2: The restaurant lost its license. / 그 식당은 영업 허가를 잃었다.
+  유의어(오답 제외): permit
+[recognize|v|identify] hash=0a0e6d7cd4d795ee
+  뜻: 알아보다; 인식하다
+  설명: 전에 본 적이 있어 누구인지 알 때 써요.
+  연어: recognize a face = 얼굴을 알아보다
+  예문1: I did not recognize her with short hair. / 머리가 짧아서 나는 그녀를 알아보지 못했다.
+  예문2: Babies can recognize their mother's voice. / 아기들은 엄마의 목소리를 알아들을 수 있다.
+  유의어(오답 제외): identify
+[recognize|v|accept] hash=aac3312b5a8c3cd6
+  뜻: (공식적으로) 인정하다
+  설명: 사실이나 가치를 받아들일 때 써요.
+  연어: recognize the need = 필요성을 인정하다
+  예문1: The school recognized her hard work with an award. / 학교는 그녀의 노력을 인정해 상을 주었다.
+  예문2: We must recognize that the problem is serious. / 우리는 그 문제가 심각하다는 것을 인정해야 한다.
+  유의어(오답 제외): admit
+[survive|v|stay-alive] hash=f7787965c16b4158
+  뜻: 살아남다; 견뎌 내다
+  설명: 위험한 상황에서 죽지 않고 살아남을 때 써요.
+  연어: survive an accident = 사고에서 살아남다
+  예문1: Only three people survived the crash. / 그 충돌 사고에서 세 명만 살아남았다.
+  예문2: Camels can survive for days without water. / 낙타는 물 없이 며칠 동안 살 수 있다.
+[aim|n|goal] hash=140f7e8621ad952b
+  뜻: 목표; 목적
+  설명: 이루려고 하는 일이에요.
+  연어: the aim of = ~의 목표
+  예문1: The aim of this class is to improve your writing. / 이 수업의 목표는 여러분의 글쓰기 실력을 높이는 것이다.
+  예문2: Her aim is to become a doctor. / 그녀의 목표는 의사가 되는 것이다.
+  유의어(오답 제외): goal
+[aim|v|intend] hash=95fc3d2b1c25986e
+  뜻: 목표로 하다; 겨냥하다
+  설명: aim to나 aim at으로 무엇을 노릴 때 써요.
+  연어: aim to = ~하는 것을 목표로 하다
+  예문1: We aim to finish the project by May. / 우리는 5월까지 프로젝트를 끝내는 것을 목표로 한다.
+  예문2: The program is aimed at young children. / 그 프로그램은 어린아이들을 대상으로 한다.
+[fee|n|charge] hash=c0e1f5786c46c3e6
+  뜻: 수수료; 요금
+  설명: 서비스를 받거나 들어갈 때 내는 돈이에요.
+  연어: an entrance fee = 입장료
+  예문1: The museum has no entrance fee. / 그 박물관은 입장료가 없다.
+  예문2: The school fee is due at the end of the month. / 학비는 이달 말까지 내야 한다.
+  유의어(오답 제외): charge
+[quote|v|repeat-words] hash=640da258aa084cc5
+  뜻: 인용하다
+  설명: 다른 사람의 말이나 글을 그대로 옮길 때 써요.
+  연어: quote a writer = 작가의 말을 인용하다
+  예문1: He quoted a famous poet in his speech. / 그는 연설에서 유명한 시인의 말을 인용했다.
+  예문2: Please quote the source of your information. / 정보의 출처를 밝혀라.
+[quote|n|quotation] hash=5404383c4c62c469
+  뜻: 인용구; 견적
+  설명: 옮겨 쓴 말이나 미리 낸 가격이에요.
+  연어: get a quote = 견적을 받다
+  예문1: This book starts with a quote from a famous scientist. / 이 책은 유명한 과학자의 인용구로 시작한다.
+  예문2: We got a quote for fixing the roof. / 우리는 지붕 수리 견적을 받았다.
+[suspect|v|think-likely] hash=e1a28a26871e7918
+  뜻: 의심하다; ~이라고 생각하다
+  설명: 아마 그럴 것이라고 짐작할 때 써요.
+  연어: suspect that = ~이라고 짐작하다
+  예문1: I suspect that he forgot about the meeting. / 나는 그가 회의를 잊었다고 짐작한다.
+  예문2: The police suspect him of stealing the car. / 경찰은 그가 차를 훔쳤다고 의심한다.
+[suspect|n|accused-person] hash=4355b27a3ab7f7b4
+  뜻: 용의자
+  설명: 범죄를 저질렀다고 의심받는 사람이에요.
+  연어: a murder suspect = 살인 용의자
+  예문1: The police caught the suspect near the bank. / 경찰은 은행 근처에서 용의자를 붙잡았다.
+  예문2: There are three suspects in the case. / 그 사건에는 용의자가 세 명 있다.
+[tie|v|fasten] hash=434b5cace49e35ac
+  뜻: 묶다; 매다
+  설명: 끈이나 줄로 묶을 때 써요.
+  연어: tie a knot = 매듭을 묶다
+  예문1: Tie your shoes before you go out. / 나가기 전에 신발 끈을 매라.
+  예문2: He tied the boat to the tree. / 그는 배를 나무에 묶었다.
+[tie|n|connection] hash=336e25c0dd7bc018
+  뜻: 관계; 유대
+  설명: 사람이나 나라 사이의 관계예요.
+  연어: family ties = 가족 간의 유대
+  예문1: The two countries have strong economic ties. / 두 나라는 강한 경제적 유대를 맺고 있다.
+  예문2: She kept close ties with her old friends. / 그녀는 옛 친구들과 가까운 관계를 유지했다.
+  유의어(오답 제외): bond
+[tie|n|draw] hash=4ce0b24a7371ade3
+  뜻: 동점
+  설명: 경기에서 점수가 같은 것이에요.
+  연어: end in a tie = 동점으로 끝나다
+  예문1: The game ended in a tie. / 그 경기는 동점으로 끝났다.
+  예문2: There was a tie for first place. / 1등 자리를 두고 동점이 나왔다.
+  유의어(오답 제외): draw
+[contain|v|hold] hash=4165e20f13adee6d
+  뜻: 들어 있다; 포함하다
+  설명: 안에 무엇을 담고 있을 때 써요.
+  연어: contain sugar = 설탕이 들어 있다
+  예문1: This drink contains a lot of sugar. / 이 음료에는 설탕이 많이 들어 있다.
+  예문2: The box contained old photos and letters. / 그 상자에는 오래된 사진과 편지가 들어 있었다.
+  유의어(오답 제외): include
+[contain|v|control] hash=5c281c4e646187c6
+  뜻: 억제하다; 막다
+  설명: 퍼지거나 커지지 않게 막을 때 써요.
+  연어: contain a fire = 불길을 잡다
+  예문1: Firefighters worked hard to contain the fire. / 소방관들은 불길을 잡으려고 애썼다.
+  예문2: She could not contain her excitement. / 그녀는 흥분을 감출 수 없었다.
+[document|n|paper] hash=8f58859fbe56dee9
+  뜻: 서류; 문서
+  설명: 정보를 담은 공식적인 글이에요.
+  연어: an important document = 중요한 서류
+  예문1: Please sign this document. / 이 서류에 서명해라.
+  예문2: I saved the document on my computer. / 나는 그 문서를 컴퓨터에 저장했다.
+[document|v|record] hash=0806a29ba83c8ab7
+  뜻: (문서로) 기록하다
+  설명: 사실을 자세히 남길 때 써요.
+  연어: document a process = 과정을 기록하다
+  예문1: The scientist documented every step of the experiment. / 그 과학자는 실험의 모든 단계를 기록했다.
+  예문2: The film documents the life of a famous artist. / 그 영화는 유명한 예술가의 삶을 기록한다.
+  유의어(오답 제외): record
+[lift|v|raise] hash=5c7871ffcef5e5f4
+  뜻: 들어 올리다
+  설명: 무엇을 위로 올릴 때 써요.
+  연어: lift a box = 상자를 들어 올리다
+  예문1: He lifted the heavy box onto the table. / 그는 무거운 상자를 탁자 위로 들어 올렸다.
+  예문2: Lift your arms above your head. / 팔을 머리 위로 들어 올려라.
+  유의어(오답 제외): raise
+[lift|n|ride] hash=e8096008fe64c783
+  뜻: 태워 주기
+  설명: 차로 다른 사람을 데려다주는 일이에요.
+  연어: give a lift = 태워 주다
+  예문1: Can you give me a lift to the station? / 나를 역까지 태워 줄 수 있니?
+  예문2: My neighbor offered me a lift home. / 이웃이 집까지 태워 주겠다고 했다.
+  유의어(오답 제외): ride
+[operate|v|work] hash=4e3325c802ddee2e
+  뜻: (기계를) 작동하다; 운영하다
+  설명: 기계를 움직이거나 사업을 할 때 써요.
+  연어: operate a machine = 기계를 작동하다
+  예문1: Do you know how to operate this machine? / 이 기계를 어떻게 작동하는지 아니?
+  예문2: The company operates in thirty countries. / 그 회사는 서른 개 나라에서 사업을 한다.
+  유의어(오답 제외): run
+[operate|v|do-surgery] hash=117de38c84a9d08b
+  뜻: 수술하다
+  설명: operate on으로 환자를 수술할 때 써요.
+  연어: operate on = ~을 수술하다
+  예문1: The doctors operated on her heart. / 의사들은 그녀의 심장을 수술했다.
+  예문2: They had to operate immediately. / 그들은 즉시 수술해야 했다.
+[reply|v|answer] hash=71006b3aac354dee
+  뜻: 답장하다; 대답하다
+  설명: 질문이나 편지에 답할 때 써요.
+  연어: reply to = ~에 답하다
+  예문1: Please reply to my email as soon as possible. / 가능한 한 빨리 내 이메일에 답장해라.
+  예문2: He replied that he was busy. / 그는 바쁘다고 대답했다.
+  유의어(오답 제외): respond
+[reply|n|answer] hash=16e3679516e0a21c
+  뜻: 대답; 답장
+  설명: 질문이나 편지에 대한 답이에요.
+  연어: in reply = 대답으로
+  예문1: I am still waiting for a reply from the school. / 나는 아직 학교의 답장을 기다리고 있다.
+  예문2: Her reply was short and polite. / 그녀의 대답은 짧고 공손했다.
+[coal|n|fuel] hash=8877e322dafb6308
+  뜻: 석탄
+  설명: 땅에서 캐내어 연료로 쓰는 검은 돌이에요.
+  연어: burn coal = 석탄을 태우다
+  예문1: Burning coal pollutes the air. / 석탄을 태우면 공기가 오염된다.
+  예문2: Many workers used to dig coal in this town. / 예전에는 많은 노동자가 이 마을에서 석탄을 캤다.
+[rough|adj|uneven] hash=d4bbd713c02b89db
+  뜻: 거친; 울퉁불퉁한
+  설명: 표면이 고르지 않거나 부드럽지 않은 것이에요.
+  연어: rough skin = 거친 피부
+  예문1: The road was rough and full of holes. / 그 길은 울퉁불퉁하고 구멍투성이였다.
+  예문2: His hands were rough from hard work. / 그의 손은 힘든 일로 거칠었다.
+[rough|adj|approximate] hash=55a65abf4f2b8a3b
+  뜻: 대략적인
+  설명: 정확하지 않고 대강인 것이에요.
+  연어: a rough idea = 대략적인 생각
+  예문1: Give me a rough idea of the cost. / 비용이 대략 얼마인지 알려 달라.
+  예문2: This is only a rough plan. / 이것은 대략적인 계획일 뿐이다.
+[rough|adj|difficult] hash=e394587b751d4ac5
+  뜻: 힘든; (바다가) 사나운
+  설명: 상황이 어렵거나 날씨가 사나울 때 써요.
+  연어: a rough day = 힘든 하루
+  예문1: I had a rough day at school. / 나는 학교에서 힘든 하루를 보냈다.
+  예문2: The sea was too rough for the boats. / 바다가 너무 거칠어서 배가 다닐 수 없었다.
+[tone|n|voice-quality] hash=6e3ce6f926d5ac47
+  뜻: 어조; 말투
+  설명: 말할 때 드러나는 느낌이나 태도예요.
+  연어: tone of voice = 목소리 어조
+  예문1: Her tone was friendly but serious. / 그녀의 말투는 친절하지만 진지했다.
+  예문2: The writer uses a funny tone in this essay. / 글쓴이는 이 수필에서 재미있는 어조를 쓴다.
+[tone|n|shade] hash=e5b5eb99cd6279ac
+  뜻: 색조; 음색
+  설명: 색의 짙고 옅음이나 소리의 느낌이에요.
+  연어: warm tones = 따뜻한 색조
+  예문1: The room is painted in warm tones. / 그 방은 따뜻한 색조로 칠해져 있다.
+  예문2: The old piano has a beautiful tone. / 그 오래된 피아노는 음색이 아름답다.
+[earn|v|get-money] hash=cb25dfa011c6755c
+  뜻: (돈을) 벌다
+  설명: 일한 대가로 돈을 받을 때 써요.
+  연어: earn money = 돈을 벌다
+  예문1: She earns money by teaching piano. / 그녀는 피아노를 가르쳐서 돈을 번다.
+  예문2: How much does a nurse earn a month? / 간호사는 한 달에 얼마를 벌까?
+[earn|v|deserve] hash=485baabf518d2c09
+  뜻: (노력으로) 얻다; 받을 만하다
+  설명: 노력이나 행동으로 무엇을 얻을 때 써요.
+  연어: earn respect = 존경을 얻다
+  예문1: He earned the respect of his classmates. / 그는 반 친구들의 존경을 얻었다.
+  예문2: You have earned a good rest. / 너는 푹 쉴 만한 자격이 있다.
+[ignore|v|pay-no-attention] hash=bec3962a9a450ea4
+  뜻: 무시하다
+  설명: 일부러 신경 쓰지 않을 때 써요.
+  연어: ignore advice = 충고를 무시하다
+  예문1: He ignored my advice and went out in the storm. / 그는 내 충고를 무시하고 폭풍 속에 나갔다.
+  예문2: You cannot ignore the problem forever. / 그 문제를 영원히 외면할 수는 없다.
+[practical|adj|useful] hash=8146ff79c3d60c3c
+  뜻: 실용적인; 현실적인
+  설명: 실제로 쓸모 있거나 현실에 맞는 것이에요.
+  연어: practical advice = 실용적인 조언
+  예문1: These shoes are not pretty, but they are practical. / 이 신발은 예쁘지는 않지만 실용적이다.
+  예문2: We need a practical solution to the problem. / 우리는 그 문제에 대한 현실적인 해결책이 필요하다.
+[sharp|adj|pointed] hash=dff595e66535521b
+  뜻: 날카로운
+  설명: 끝이나 날이 잘 드는 것이에요.
+  연어: a sharp knife = 날카로운 칼
+  예문1: Be careful with that sharp knife. / 그 날카로운 칼을 조심해라.
+  예문2: The cat has sharp claws. / 고양이는 발톱이 날카롭다.
+[sharp|adj|sudden] hash=dab3b5bac38b3003
+  뜻: 급격한; 뚜렷한
+  설명: 변화가 갑작스럽고 큰 것이에요.
+  연어: a sharp rise = 급격한 상승
+  예문1: There was a sharp rise in prices. / 가격이 급격히 올랐다.
+  예문2: The road makes a sharp turn to the left. / 그 길은 왼쪽으로 급하게 꺾인다.
+  유의어(오답 제외): sudden
+[sharp|adv|exactly] hash=18ab67e92dad1421
+  뜻: 정각에
+  설명: 시각 뒤에서 정확히 그 시간을 말해요.
+  연어: at six sharp = 6시 정각에
+  예문1: The class starts at nine sharp. / 수업은 9시 정각에 시작한다.
+  예문2: Please be here at three o'clock sharp. / 3시 정각에 여기에 와라.
+[stable|adj|steady] hash=803306705b0263e9
+  뜻: 안정된
+  설명: 흔들리거나 변하지 않는 것이에요.
+  연어: a stable job = 안정된 직업
+  예문1: The patient is now in stable condition. / 그 환자는 지금 안정된 상태이다.
+  예문2: Prices have remained stable this year. / 올해 물가는 안정세를 유지했다.
+  유의어(오답 제외): steady
+[stable|n|horse-building] hash=a988761e0f6cbe27
+  뜻: 마구간
+  설명: 말을 기르는 건물이에요.
+  연어: clean the stable = 마구간을 청소하다
+  예문1: The horses are in the stable. / 말들은 마구간에 있다.
+  예문2: She helps clean the stable on weekends. / 그녀는 주말마다 마구간 청소를 돕는다.
+[occur|v|happen] hash=4c3decad33616379
+  뜻: 일어나다; 발생하다
+  설명: 사건이나 일이 생길 때 써요.
+  연어: occur suddenly = 갑자기 일어나다
+  예문1: The accident occurred late at night. / 그 사고는 밤늦게 일어났다.
+  예문2: Earthquakes occur often in this area. / 이 지역에서는 지진이 자주 일어난다.
+  유의어(오답 제외): happen
+[occur|v|come-to-mind] hash=eb58daff1978646b
+  뜻: (생각이) 떠오르다
+  설명: occur to로 생각이 갑자기 들 때 써요.
+  연어: occur to = ~에게 생각이 떠오르다
+  예문1: It never occurred to me that she was sad. / 그녀가 슬퍼한다는 생각은 한 번도 해 보지 못했다.
+  예문2: A good idea occurred to him in the shower. / 샤워하다가 그에게 좋은 생각이 떠올랐다.
+[technique|n|method] hash=d4686c2d6877bb87
+  뜻: 기법; 기술
+  설명: 무엇을 하는 특별한 방법이에요.
+  연어: a new technique = 새로운 기법
+  예문1: The artist used a new painting technique. / 그 화가는 새로운 그림 기법을 사용했다.
+  예문2: Good breathing technique helps swimmers. / 좋은 호흡법은 수영 선수에게 도움이 된다.
+  유의어(오답 제외): method
+[adventure|n|exciting-experience] hash=b83a8b156fd707e4
+  뜻: 모험
+  설명: 위험하지만 흥미진진한 경험이에요.
+  연어: an adventure story = 모험 이야기
+  예문1: Our trip to the jungle was a real adventure. / 정글 여행은 진짜 모험이었다.
+  예문2: He loves reading adventure stories. / 그는 모험 이야기를 읽는 것을 좋아한다.
+[argue|v|quarrel] hash=3f28b08a08ac81c8
+  뜻: 말다툼하다
+  설명: 의견이 달라 화내며 다툴 때 써요.
+  연어: argue with = ~와 다투다
+  예문1: My brother and I often argue about small things. / 형과 나는 자주 사소한 일로 다툰다.
+  예문2: They argued about who should pay. / 그들은 누가 돈을 내야 하는지를 두고 다투었다.
+  유의어(오답 제외): quarrel
+[argue|v|claim] hash=21154c1428da861b
+  뜻: 논하다; 주장하다
+  설명: 이유를 들어 생각을 내세울 때 써요.
+  연어: argue that = ~라고 주장하다
+  예문1: Some scientists argue that the earth is warming faster than expected. / 일부 과학자들은 지구가 예상보다 빨리 더워지고 있다고 주장한다.
+  예문2: The writer argues for free public transport. / 글쓴이는 무료 대중교통을 지지하는 주장을 편다.
+  유의어(오답 제외): claim
+[establish|v|set-up] hash=d90bec9d10e95fd8
+  뜻: 설립하다; 세우다
+  설명: 조직이나 제도를 새로 만들 때 써요.
+  연어: establish a company = 회사를 설립하다
+  예문1: The school was established in 1950. / 그 학교는 1950년에 설립되었다.
+  예문2: They established a fund to help poor students. / 그들은 가난한 학생들을 돕는 기금을 만들었다.
+  유의어(오답 제외): found
+[establish|v|prove] hash=3902806b9a8757e1
+  뜻: 확립하다; 밝히다
+  설명: 사실이나 관계를 분명히 할 때 써요.
+  연어: establish the facts = 사실을 밝히다
+  예문1: The police are trying to establish the cause of the fire. / 경찰은 화재 원인을 밝히려 하고 있다.
+  예문2: She quickly established herself as a good leader. / 그녀는 빠르게 좋은 지도자로 자리 잡았다.
+[gear|n|equipment] hash=fd698529f558cf8a
+  뜻: 용품; 장비
+  설명: 어떤 활동에 필요한 도구나 옷이에요.
+  연어: camping gear = 캠핑 장비
+  예문1: We packed all our camping gear into the car. / 우리는 캠핑 장비를 모두 차에 실었다.
+  예문2: Wear the right gear when you ride a bike. / 자전거를 탈 때는 알맞은 보호 장비를 착용해라.
+  유의어(오답 제외): equipment
+[gear|n|machine-part] hash=cea17d7583d3abe7
+  뜻: 기어; 톱니바퀴
+  설명: 기계의 속도를 바꾸는 장치예요.
+  연어: change gear = 기어를 바꾸다
+  예문1: The bike has twenty gears. / 그 자전거에는 기어가 스무 개 있다.
+  예문2: Shift into a lower gear on the hill. / 언덕에서는 낮은 기어로 바꿔라.
+[loose|adj|not-tight] hash=cb2f1c07ee9b4005
+  뜻: 느슨한; 헐렁한
+  설명: 꽉 조이지 않거나 고정되지 않은 것이에요.
+  연어: loose clothes = 헐렁한 옷
+  예문1: Wear loose clothes when you exercise. / 운동할 때는 헐렁한 옷을 입어라.
+  예문2: One of the screws is loose. / 나사 하나가 헐거워졌다.
+[loose|adj|free] hash=d4290eeea87ec01b
+  뜻: 풀려난
+  설명: 묶여 있지 않고 자유롭게 돌아다니는 것이에요.
+  연어: break loose = 풀려나다
+  예문1: The dog got loose and ran into the street. / 개가 풀려나 거리로 뛰어나갔다.
+  예문2: A tiger was loose in the town for an hour. / 호랑이가 한 시간 동안 마을을 돌아다녔다.
+  유의어(오답 제외): free
+[moral|adj|ethical] hash=9af109e6484f5423
+  뜻: 도덕적인
+  설명: 옳고 그름에 관련된 것이에요.
+  연어: a moral choice = 도덕적 선택
+  예문1: Doctors face difficult moral questions. / 의사들은 어려운 도덕적 문제에 부딪힌다.
+  예문2: We have a moral duty to help others. / 우리에게는 다른 사람을 도울 도덕적 의무가 있다.
+[moral|n|lesson] hash=7d180bc706396b59
+  뜻: 교훈
+  설명: 이야기가 알려 주는 가르침이에요.
+  연어: the moral of the story = 이야기의 교훈
+  예문1: The moral of the story is never to give up. / 그 이야기의 교훈은 절대 포기하지 말라는 것이다.
+  예문2: Every fable ends with a simple moral. / 모든 우화는 간단한 교훈으로 끝난다.
+  유의어(오답 제외): lesson
+[violent|adj|using-force] hash=cfa2db4fe18fd2d5
+  뜻: 폭력적인; 격렬한
+  설명: 힘으로 해치거나 매우 거센 것이에요.
+  연어: violent crime = 강력 범죄
+  예문1: Violent movies are not good for young children. / 폭력적인 영화는 어린아이들에게 좋지 않다.
+  예문2: A violent storm hit the coast last night. / 어젯밤 격렬한 폭풍이 해안을 덮쳤다.
+[compare|v|examine-differences] hash=b623bfac37969c65
+  뜻: 비교하다
+  설명: 둘 이상의 같은 점과 다른 점을 볼 때 써요.
+  연어: compare A with B = A를 B와 비교하다
+  예문1: Compare your answers with your partner's. / 짝의 답과 네 답을 비교해 보아라.
+  예문2: Prices here are low compared to the city. / 이곳 물가는 도시에 비해 낮다.
+[compare|v|liken] hash=e3c9aaa1082582e6
+  뜻: 비유하다
+  설명: compare A to B로 닮았다고 말할 때 써요.
+  연어: compare A to B = A를 B에 비유하다
+  예문1: Poets often compare life to a journey. / 시인들은 흔히 인생을 여행에 비유한다.
+  예문2: Her voice has been compared to an angel's. / 그녀의 목소리는 천사의 목소리에 비유되어 왔다.
+[innocent|adj|not-guilty] hash=6eae928d5437abf5
+  뜻: 무죄의; 결백한
+  설명: 죄를 짓지 않은 것이에요.
+  연어: prove someone innocent = 무죄를 증명하다
+  예문1: The court found the man innocent. / 법원은 그 남자에게 무죄를 선고했다.
+  예문2: He kept saying that he was innocent. / 그는 자신이 결백하다고 계속 말했다.
+[innocent|adj|naive] hash=077a2de680f4a557
+  뜻: 순진한; 천진한
+  설명: 세상의 나쁜 일을 잘 모르는 것이에요.
+  연어: an innocent smile = 천진한 미소
+  예문1: The child gave an innocent smile. / 그 아이는 천진한 미소를 지었다.
+  예문2: She asked an innocent question about money. / 그녀는 돈에 관해 순진한 질문을 했다.
+[protest|n|demonstration] hash=83fd7d0eebe06f39
+  뜻: 시위; 항의
+  설명: 반대 의견을 공개적으로 나타내는 일이에요.
+  연어: a peaceful protest = 평화 시위
+  예문1: Thousands joined the protest against the war. / 수천 명이 전쟁 반대 시위에 참여했다.
+  예문2: The students wrote a letter of protest. / 학생들은 항의 편지를 썼다.
+[protest|v|object] hash=fc4a6df997e88bc7
+  뜻: 항의하다; 반대하다
+  설명: 옳지 않다고 공개적으로 말할 때 써요.
+  연어: protest against = ~에 항의하다
+  예문1: Workers protested against the low pay. / 노동자들은 낮은 임금에 항의했다.
+  예문2: Residents protested the plan to close the school. / 주민들은 학교를 닫으려는 계획에 반대했다.
+  유의어(오답 제외): object
+[refer|v|mention] hash=961673105040243a
+  뜻: 지칭하다; 언급하다
+  설명: refer to로 어떤 것을 말하거나 지칭할 때 써요.
+  연어: refer to = ~을 언급하다
+  예문1: The teacher referred to the book several times. / 선생님은 그 책을 여러 번 언급하셨다.
+  예문2: The word refers to a kind of fish. / 그 단어는 물고기의 한 종류를 가리킨다.
+  유의어(오답 제외): mention
+[refer|v|consult] hash=371aebc136d852f5
+  뜻: 참고하다; 보내다
+  설명: 정보를 찾아보거나 다른 곳으로 안내할 때 써요.
+  연어: refer to a dictionary = 사전을 참고하다
+  예문1: Refer to the map if you get lost. / 길을 잃으면 지도를 참고해라.
+  예문2: The doctor referred me to a specialist. / 의사는 나를 전문의에게 보냈다.
+[suffer|v|feel-pain] hash=5b48c13adcd5f140
+  뜻: 고통받다; 겪다
+  설명: 아픔이나 어려움을 겪을 때 써요.
+  연어: suffer from = ~으로 고통받다
+  예문1: Many people suffer from back pain. / 많은 사람이 허리 통증으로 고생한다.
+  예문2: The city suffered heavy damage in the war. / 그 도시는 전쟁에서 큰 피해를 입었다.
+[guarantee|v|promise] hash=333b28b65bb6167c
+  뜻: 보장하다; 장담하다
+  설명: 틀림없이 그렇게 되도록 약속할 때 써요.
+  연어: guarantee success = 성공을 보장하다
+  예문1: Hard work does not always guarantee success. / 노력이 언제나 성공을 보장하지는 않는다.
+  예문2: I guarantee that you will enjoy the movie. / 네가 그 영화를 즐길 거라고 장담한다.
+  유의어(오답 제외): promise
+[guarantee|n|warranty] hash=8a56065c612162a0
+  뜻: 보증; 보증서
+  설명: 품질이나 약속을 책임지겠다는 것이에요.
+  연어: a one-year guarantee = 1년 보증
+  예문1: The phone comes with a two-year guarantee. / 그 휴대전화는 2년 보증이 딸려 있다.
+  예문2: There is no guarantee that it will work. / 그것이 효과가 있으리라는 보장은 없다.
+[mood|n|feeling] hash=a3dcc1b277d4a158
+  뜻: 기분; 분위기
+  설명: 어떤 때의 마음 상태나 주변의 느낌이에요.
+  연어: in a good mood = 기분이 좋은
+  예문1: She is in a good mood today. / 그녀는 오늘 기분이 좋다.
+  예문2: The music changed the mood of the party. / 음악이 파티의 분위기를 바꾸었다.
+  유의어(오답 제외): feeling

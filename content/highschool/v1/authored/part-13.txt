@@ -21,11 +21,11 @@ considering|prep|given|~을 고려하면|어떤 점을 따져 보면 ~라고 말
 determined|adj|resolute|단호한; 굳게 결심한|be determined to로 꼭 하겠다고 마음먹었을 때 써요.|be determined to|~하기로 굳게 결심하다|She is determined to win the race.|그녀는 경주에서 이기기로 굳게 결심했다.|He is a very determined young man.|그는 매우 의지가 굳은 청년이다.
 distribution|n|sharing-out|분배; 유통|나누어 주거나 퍼뜨리는 일이에요.|the distribution of|~의 분배|The distribution of food was fair.|음식 분배는 공정했다.|The company handles the distribution of books to shops.|그 회사는 서점에 책을 유통하는 일을 맡는다.
 friendly|adj|kind|친절한; 다정한|사람을 반갑게 대하는 것이에요.|a friendly smile|다정한 미소|The people in this town are very friendly.|이 마을 사람들은 매우 친절하다.|She greeted me with a friendly smile.|그녀는 다정한 미소로 나를 맞이했다.
-friendly|adj|not-harmful|~에 친화적인|-friendly로 무엇에 해롭지 않음을 나타내요.|environmentally friendly|환경친화적인|These bags are environmentally friendly.|이 가방들은 환경친화적이다.|The hotel is friendly to families with children.|그 호텔은 아이가 있는 가족이 이용하기 좋다.
+friendly|adj|not-harmful|~에 친화적인|특정 대상에 해를 덜 주거나 그 대상에 적합한 것이에요.|environmentally friendly|환경친화적인|These bags are environmentally friendly.|이 가방들은 환경친화적이다.|The hotel is friendly to families with children.|그 호텔은 아이가 있는 가족이 이용하기 좋다.
 phase|n|stage|단계; 시기|변화나 발전 과정의 한 부분이에요.|the first phase|첫 단계|The project is now in its second phase.|그 프로젝트는 이제 두 번째 단계에 있다.|Teenagers go through many phases.|십 대는 여러 시기를 거친다.|stage
 basically|adv|essentially|기본적으로; 요컨대|가장 중요한 점을 간단히 말할 때 써요.|basically the same|기본적으로 같은|The two phones are basically the same.|두 휴대전화는 기본적으로 같다.|Basically, we need more time.|요컨대 우리는 시간이 더 필요하다.
 besides|adv|also|그 밖에; 게다가|앞 내용에 더할 때 써요.|and besides|게다가|I am too tired to go out. Besides, it is raining.|나는 너무 피곤해서 나갈 수 없다. 게다가 비도 온다.|The hotel was expensive, and besides, it was dirty.|그 호텔은 비쌌고 게다가 더러웠다.|moreover
-besides|prep|apart-from|~ 외에|무엇을 빼고 또 다른 것을 말할 때 써요.|besides that|그 외에|Who else came besides you?|너 말고 또 누가 왔니?|Besides English, she speaks French and Spanish.|그녀는 영어 외에 프랑스어와 스페인어도 한다.
+besides|prep|apart-from|~ 외에|이미 말한 것에 더해 다른 것을 포함할 때 써요.|besides that|그 외에|Who else came besides you?|너 말고 또 누가 왔니?|Besides English, she speaks French and Spanish.|그녀는 영어 외에 프랑스어와 스페인어도 한다.
 experienced|adj|skilled|경험이 풍부한; 능숙한|많이 해 봐서 잘하는 것이에요.|an experienced teacher|경험 많은 교사|We need an experienced driver for this trip.|이번 여행에는 경험 많은 운전자가 필요하다.|She is an experienced doctor.|그녀는 경험이 풍부한 의사이다.|skilled
 incredible|adj|amazing|믿을 수 없는; 놀라운|믿기 어려울 만큼 대단한 것이에요.|an incredible story|믿기 어려운 이야기|The view from the mountain was incredible.|산에서 본 경치는 놀라웠다.|She has an incredible memory.|그녀는 기억력이 놀랍다.|amazing
 whenever|conj|every-time|~할 때마다; 언제든지|어떤 때든 상관없음을 나타내요.|whenever you like|원할 때 언제든지|Call me whenever you need help.|도움이 필요할 때면 언제든 전화해라.|Whenever I hear this song, I think of summer.|이 노래를 들을 때마다 나는 여름이 떠오른다.
@@ -33,13 +33,13 @@ editor|n|person-who-edits|편집자|글이나 책, 신문을 다듬어 펴내는
 opposite|adj|facing|맞은편의; 정반대의|마주 보고 있거나 완전히 다른 것이에요.|the opposite side|반대편|The bank is on the opposite side of the street.|은행은 길 맞은편에 있다.|They walked in opposite directions.|그들은 정반대 방향으로 걸어갔다.
 opposite|n|contrary|반대(되는 것)|완전히 다른 것이에요.|the opposite of|~의 반대|Hot is the opposite of cold.|'뜨거운'은 '차가운'의 반대말이다.|She is quiet, but her sister is the opposite.|그녀는 조용하지만 언니는 정반대이다.
 combination|n|mix|조합; 결합|여러 가지를 합친 것이에요.|a combination of|~의 조합|Success is a combination of talent and hard work.|성공은 재능과 노력의 조합이다.|The color is a combination of blue and green.|그 색은 파랑과 초록을 섞은 것이다.|mix
-conservative|adj|traditional|보수적인|변화보다 전통을 지키려는 것이에요.|conservative views|보수적인 견해|My grandparents have very conservative ideas.|우리 조부모님은 생각이 매우 보수적이시다.|He wore a conservative black suit.|그는 수수한 검은 정장을 입었다.|traditional
+conservative|adj|traditional|보수적인|전통을 중시하거나 변화에 신중한 태도·스타일을 말해요.|conservative views|보수적인 견해|My grandparents have very conservative ideas.|우리 조부모님은 생각이 매우 보수적이시다.|He wore a conservative black suit.|그는 수수한 검은 정장을 입었다.|traditional
 essential|adj|necessary|필수적인; 매우 중요한|꼭 있어야 하는 것이에요.|essential for|~에 필수적인|Water is essential for life.|물은 생명에 필수적이다.|Good sleep is essential for learning.|숙면은 학습에 매우 중요하다.|necessary
 guilty|adj|ashamed|죄책감이 드는|잘못을 해서 마음이 불편한 것이에요.|feel guilty|죄책감을 느끼다|I felt guilty about lying to my mother.|나는 엄마에게 거짓말한 것에 죄책감을 느꼈다.|She feels guilty for not calling her friend.|그녀는 친구에게 전화하지 않은 것에 죄책감을 느낀다.
 guilty|adj|responsible-for-crime|유죄의|법적으로 죄를 지은 것이에요.|be found guilty|유죄 판결을 받다|The man was found guilty of stealing.|그 남자는 절도죄로 유죄 판결을 받았다.|The court decided she was not guilty.|법원은 그녀가 무죄라고 판결했다.
 largely|adv|mainly|주로; 대체로|대부분의 경우를 나타내요.|largely because|주로 ~ 때문에|The accident was largely caused by bad weather.|그 사고는 주로 악천후 때문에 일어났다.|The audience was largely made up of students.|청중은 대부분 학생이었다.|mainly
 medium|adj|middle-size|중간의|크기나 정도가 보통인 것이에요.|medium size|중간 크기|I would like a medium coffee, please.|중간 크기 커피 한 잔 부탁한다.|Cook the vegetables over medium heat.|채소를 중간 불에서 익혀라.
-medium|n|means|매체; 수단|정보를 전하는 방법이에요.|a medium of|~의 매체|Television is a powerful medium.|텔레비전은 강력한 매체이다.|English is the medium of teaching at this school.|이 학교에서는 영어로 수업한다.|means
+medium|n|means|매체; 수단|정보를 전하는 방법이에요.|a medium of|~의 매체|Television is a powerful medium.|텔레비전은 강력한 매체이다.|English is the medium of instruction at this school.|이 학교에서는 영어가 수업 언어이다.|means
 unable|adj|not-able|~할 수 없는|be unable to로 할 수 없음을 나타내요.|be unable to|~할 수 없다|I was unable to sleep because of the noise.|나는 소음 때문에 잠을 잘 수 없었다.|She was unable to attend the meeting.|그녀는 회의에 참석할 수 없었다.
 creative|adj|imaginative|창의적인|새로운 생각을 잘 해내는 것이에요.|creative thinking|창의적 사고|She is a very creative designer.|그녀는 매우 창의적인 디자이너이다.|Art helps children become more creative.|미술은 아이들이 더 창의적이 되도록 돕는다.|original
 entertainment|n|amusement|오락; 연예|사람들을 즐겁게 하는 것이에요.|the entertainment industry|연예 산업|The hotel offers live music for entertainment.|그 호텔은 오락으로 라이브 음악을 제공한다.|He wants to work in the entertainment industry.|그는 연예 산업에서 일하고 싶어 한다.
@@ -48,26 +48,26 @@ non-profit|adj|charitable|비영리의|돈을 벌기 위한 것이 아닌 것이
 scared|adj|afraid|무서워하는; 겁먹은|무섭거나 두려운 상태예요.|be scared of|~을 무서워하다|My little sister is scared of dogs.|내 여동생은 개를 무서워한다.|I was scared that I would fail the test.|나는 시험에 떨어질까 봐 겁이 났다.|afraid
 statistics|n|data|통계; 통계학|숫자로 모은 자료나 그것을 다루는 학문이에요.|official statistics|공식 통계|Statistics show that more people are cycling to work.|통계에 따르면 자전거로 출근하는 사람이 늘고 있다.|She is studying statistics at university.|그녀는 대학에서 통계학을 공부하고 있다.|data
 territory|n|land|영토; 영역|나라나 동물이 차지한 땅이에요.|enemy territory|적의 영토|The island is part of the country's territory.|그 섬은 그 나라 영토의 일부이다.|Wolves mark their territory.|늑대는 자기 영역을 표시한다.|land
-corporation|n|company|기업; 법인|큰 회사예요.|a large corporation|대기업|He works for a big corporation.|그는 큰 기업에서 일한다.|The corporation has offices in many countries.|그 기업은 여러 나라에 사무실이 있다.|company
-reasonable|adj|sensible|합리적인; 적당한|생각이 바르거나 값이 알맞은 것이에요.|a reasonable price|적당한 가격|The food here is good and the prices are reasonable.|이곳 음식은 맛있고 가격도 적당하다.|That sounds like a reasonable idea.|그건 합리적인 생각 같다.|sensible
+corporation|n|company|기업; 법인|독립된 법적 주체로 사업을 하는 회사예요.|a large corporation|대기업|He works for a big corporation.|그는 큰 기업에서 일한다.|The corporation has offices in many countries.|그 기업은 여러 나라에 사무실이 있다.|company
+reasonable|adj|sensible|합리적인; 적당한|생각이나 요구가 타당하거나 가격이 알맞은 것이에요.|a reasonable price|적당한 가격|The food here is good and the prices are reasonable.|이곳 음식은 맛있고 가격도 적당하다.|That sounds like a reasonable idea.|그건 합리적인 생각 같다.|sensible
 rural|adj|countryside|시골의; 농촌의|도시가 아닌 지역과 관련된 것이에요.|rural areas|농촌 지역|Many young people leave rural areas for the city.|많은 젊은이가 도시로 가려고 농촌 지역을 떠난다.|She grew up in a rural village.|그녀는 시골 마을에서 자랐다.
-typical|adj|usual|전형적인; 보통의|어떤 종류를 잘 보여 주는 흔한 것이에요.|a typical day|평범한 하루|Describe a typical day at your school.|너희 학교에서의 평범한 하루를 묘사해라.|Rice and soup make a typical Korean meal.|밥과 국은 전형적인 한국 식사이다.|usual
+typical|adj|usual|전형적인; 보통의|어떤 종류를 잘 보여 주는 흔한 것이에요.|a typical day|평범한 하루|Describe a typical day at your school.|너희 학교에서의 평범한 하루를 묘사해라.|A typical day includes classes, homework, and a short break.|평범한 하루에는 수업과 숙제, 짧은 휴식이 포함된다.|usual
 dedicated|adj|committed|헌신적인; 전용의|한 가지에 온 힘을 쏟거나 특정 용도로만 쓰는 것이에요.|a dedicated teacher|헌신적인 교사|She is a dedicated nurse who works long hours.|그녀는 오랜 시간 일하는 헌신적인 간호사이다.|The park has a dedicated area for dogs.|그 공원에는 개 전용 구역이 있다.|committed
 definition|n|meaning|정의; 뜻|말의 의미를 정확히 설명한 것이에요.|by definition|정의상|Look up the definition of the word in a dictionary.|사전에서 그 단어의 뜻을 찾아보아라.|There is no simple definition of happiness.|행복에 대한 간단한 정의는 없다.|meaning
 independence|n|freedom|독립; 자립|남의 지배나 도움을 받지 않는 것이에요.|gain independence|독립을 얻다|The country gained independence in 1948.|그 나라는 1948년에 독립했다.|Living alone gave her a sense of independence.|혼자 살면서 그녀는 자립심을 갖게 되었다.|freedom
 plot|n|story|줄거리; 음모|이야기의 흐름이나 몰래 꾸미는 계획이에요.|the plot of a movie|영화의 줄거리|The plot of the novel is very exciting.|그 소설의 줄거리는 매우 흥미진진하다.|The police discovered a plot to rob the bank.|경찰은 은행을 털려는 음모를 알아냈다.|story
 plot|n|piece-of-land|작은 땅; 터|어떤 용도로 쓰는 작은 땅이에요.|a garden plot|텃밭|They grow vegetables on a small plot of land.|그들은 작은 땅에서 채소를 기른다.|We bought a plot to build a house.|우리는 집을 지을 땅을 샀다.
 possibility|n|chance|가능성|어떤 일이 일어날 수 있음이에요.|a strong possibility|높은 가능성|There is a possibility of snow tonight.|오늘 밤 눈이 올 가능성이 있다.|We must consider every possibility.|우리는 모든 가능성을 고려해야 한다.|chance
-random|adj|unplanned|무작위의; 임의의|계획이나 순서 없이 정해지는 것이에요.|at random|무작위로|The winners were chosen at random.|당첨자는 무작위로 뽑혔다.|He asked me a few random questions.|그는 나에게 몇 가지 생뚱맞은 질문을 했다.
+random|adj|unplanned|무작위의; 임의의|계획이나 순서 없이 정해지는 것이에요.|at random|무작위로|The winners were chosen at random.|당첨자는 무작위로 뽑혔다.|He asked me a few random questions.|그는 나에게 별다른 순서 없이 몇 가지 질문을 했다.
 recovery|n|getting-better|회복|병이나 어려움에서 다시 좋아지는 것이에요.|a quick recovery|빠른 회복|We wish you a quick recovery.|빨리 회복하길 바란다.|The economy is showing signs of recovery.|경제가 회복의 조짐을 보이고 있다.
 accurate|adj|correct|정확한|틀린 곳 없이 바른 것이에요.|accurate information|정확한 정보|Make sure the information in your report is accurate.|보고서의 정보가 정확한지 확인해라.|This clock is very accurate.|이 시계는 매우 정확하다.|correct
 chemical|adj|of-chemistry|화학의; 화학적인|화학이나 화학 물질과 관련된 것이에요.|chemical products|화학 제품|Rust is the result of a chemical reaction.|녹은 화학 반응의 결과이다.|The factory produces chemical products.|그 공장은 화학 제품을 생산한다.
-chemical|n|substance|화학 물질|화학적으로 만든 물질이에요.|harmful chemicals|해로운 화학 물질|Some cleaning products contain harmful chemicals.|일부 세제에는 해로운 화학 물질이 들어 있다.|Farmers use fewer chemicals on organic farms.|유기농 농장에서는 농부들이 화학 물질을 덜 쓴다.
+chemical|n|substance|화학 물질|화학적 성질을 지닌 물질이에요.|harmful chemicals|해로운 화학 물질|Some cleaning products contain harmful chemicals.|일부 세제에는 해로운 화학 물질이 들어 있다.|Farmers use fewer chemicals on organic farms.|유기농 농장에서는 농부들이 화학 물질을 덜 쓴다.
 competitive|adj|rivalrous|경쟁의; 경쟁심이 강한|남과 겨루거나 이기려는 마음이 강한 것이에요.|a competitive market|경쟁 시장|She is very competitive in sports.|그녀는 운동할 때 경쟁심이 매우 강하다.|Getting into that school is very competitive.|그 학교에 들어가는 것은 경쟁이 매우 치열하다.
 competitive|adj|good-value|경쟁력 있는|다른 것보다 값이나 품질이 나은 것이에요.|competitive prices|경쟁력 있는 가격|The shop offers competitive prices.|그 가게는 경쟁력 있는 가격을 제시한다.|The company must stay competitive in the global market.|그 회사는 세계 시장에서 경쟁력을 유지해야 한다.
 permanent|adj|lasting|영구적인; 정규의|오랫동안 변하지 않고 계속되는 것이에요.|a permanent job|정규직|Loud music can cause permanent damage to your ears.|큰 음악 소리는 귀에 영구적인 손상을 줄 수 있다.|She finally got a permanent job.|그녀는 마침내 정규직을 얻었다.|lasting
 ultimately|adv|finally|궁극적으로; 결국|여러 일 끝에 마지막으로를 뜻해요.|ultimately decide|결국 결정하다|Ultimately, it is your choice.|결국 선택은 네 몫이다.|The plan ultimately failed.|그 계획은 결국 실패했다.|eventually
 unlike|prep|different-from|~와 달리|서로 다른 점을 말할 때 써요.|unlike others|다른 사람들과 달리|Unlike her sister, she loves sports.|언니와 달리 그녀는 운동을 좋아한다.|This city is unlike any place I have visited.|이 도시는 내가 가 본 어떤 곳과도 다르다.
 consumer|n|buyer|소비자|물건이나 서비스를 사서 쓰는 사람이에요.|consumer rights|소비자 권리|Consumers want cheaper and better products.|소비자는 더 싸고 좋은 제품을 원한다.|The new law protects consumers.|새 법은 소비자를 보호한다.|customer
-depression|n|sadness|우울(증)|오랫동안 슬프고 기운이 없는 상태예요.|suffer from depression|우울증을 앓다|Depression is a common illness that can be treated.|우울증은 치료할 수 있는 흔한 질병이다.|Exercise can help reduce depression.|운동은 우울감을 줄이는 데 도움이 될 수 있다.
-depression|n|economic-slump|불황; 불경기|경제가 오랫동안 나빠진 상태예요.|an economic depression|경제 불황|Many people lost their jobs during the depression.|불황 동안 많은 사람이 일자리를 잃었다.|The country went through a long depression.|그 나라는 긴 불황을 겪었다.
+depression|n|sadness|우울(증)|오랫동안 우울감과 의욕 저하가 이어지는 정신 질환이에요.|suffer from depression|우울증을 앓다|Depression is a common illness that can be treated.|우울증은 치료할 수 있는 흔한 질병이다.|Exercise can help reduce depression.|운동은 우울증을 완화하는 데 도움이 될 수 있다.
+depression|n|economic-slump|불황; 불경기|경제가 오랫동안 나빠진 상태예요.|an economic depression|경제 불황|Many people lost their jobs during the depression.|불황 동안 많은 사람이 일자리를 잃었다.|The country went through a long economic depression.|그 나라는 긴 경제 불황을 겪었다.

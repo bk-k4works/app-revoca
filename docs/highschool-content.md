@@ -51,10 +51,10 @@
 
 | 항목 | 값 |
 | --- | --- |
-| 작성 완료 | **2,000개 전체** (뜻 2,587개, 예문 5,174개). 고교 기본 540, 아는 단어 59, 고교 핵심 881, 핵심 숙어 89, 수능 심화 431 |
+| 작성 완료 | **2,000개 전체** (뜻 2,594개, 예문 5,188개). 고교 기본 540, 아는 단어 59, 고교 핵심 881, 핵심 숙어 89, 수능 심화 431 |
 | 단어장 | 고교 기본 01–27, 아는 단어, 새로운 뜻 01–03, 고교 핵심 01–44, 핵심 숙어 01–05, 수능 심화 01–22 (총 101개) |
 | 자동 검사 | 2,000단어 모두 통과. 범위 밖 단어 1개 등의 경고는 남음. 같은 품사 대표 뜻·연어·설명 중복은 테스트로 막음 |
-| 검토 | 작성자 전체 재검토 1회(2026-10-17, 485건 수정, [수정 목록](highschool-review-2026-10.md)). 독립 검토와 사람 승인은 0건 |
+| 검토 | 작성자 전체 재검토 1회(2026-10-17, [수정 목록](highschool-review-2026-10.md)). Codex 독립 검토 5회차 완료(2026-10-18, 뜻 2,594개 전부, [기록](../content/highschool/v1/review/codex-v1/README.md)). 사람 승인 0건 |
 | 앱 설치 | `assets/content/`에 개발용(`developmentOnly`)으로 설치. release 빌드는 기존처럼 차단됨 |
 
 이전 중학 파일럿(100개 표제어)은 `content/previews/pilot-v2/`와 `content/pilots/pilot-v1/`에 그대로 보존했다.
@@ -75,7 +75,33 @@
 .venv-content/bin/python -m tool.content dev-install content/previews/high-NEXT
 ```
 
+## 검토와 승인
+
+출시 패키지는 아래 세 단계를 모두 거친 뜻만 담는다. 개발용 `hs-preview`와 달리 `hs-release`는 하나라도 빠지면 빌드를 멈춘다.
+
+1. **자동 검사** (`hs-draft`): 예문 길이·표제어 출현·어휘 범위·문체 규칙.
+2. **Codex 독립 검토**: 원고를 쓰지 않은 다른 모델(OpenAI Codex CLI, 읽기 전용)이 뜻마다 `ok`·`minor`·`fix`·`reject`를 판정하고 빠진 중요 뜻을 제안한다. 판정은 뜻 텍스트의 해시(`inputHash`)에 묶여 있어서 원고를 고치면 그 뜻은 다시 검토받아야 한다. 검토 기준은 `content/highschool/v1/review/codex-v1/prompt.md`에 있다.
+3. **사람 승인**: 검수표(CSV)에서 뜻마다 `human_approved`·`needs_fix`·`rejected`를 고르고 실제 검수자 이름을 적는다. 수정·반려에는 이유가 필요하고, 기계 검토자 이름(codex, claude 등)은 받지 않는다. 결정은 `review/human/decisions.jsonl`에 쌓이며, 원고가 바뀐 뒤의 오래된 행은 거절된다.
+
+```sh
+# Codex 검토 묶음 만들기 → 실행 → 판정 합치기
+.venv-content/bin/python -m tool.content hs-review-prepare
+cd content/highschool/v1/review/codex-v1 && cat prompt.md batches/batch-01.txt | \
+  codex exec -s read-only --ephemeral --output-schema schema.json -o results/batch-01.json -
+.venv-content/bin/python -m tool.content hs-review-merge
+
+# 사람 검수표 내보내기 → 채운 뒤 가져오기 → 현황
+.venv-content/bin/python -m tool.content hs-review-export
+.venv-content/bin/python -m tool.content hs-review-import --csv content/highschool/v1/review/human/review.csv
+.venv-content/bin/python -m tool.content hs-review-status
+
+# 모든 뜻의 결정이 끝나면 출시 패키지
+.venv-content/bin/python -m tool.content hs-release --input content/highschool/v1/drafts.jsonl \
+  --output content/releases/high-1.0.0 --version high-1.0.0
+.venv-content/bin/python -m tool.content install content/releases/high-1.0.0
+```
+
 ## 다음 작업
 
-1. 독립 검토(다른 모델 또는 사람)와 사람 승인 절차를 고교 트랙에 연결한다.
+1. 사람 승인: `content/highschool/v1/review/human/review.csv`에서 뜻 2,594개의 결정을 기록한다. 모두 결정되면 `hs-release`로 출시 패키지를 만든다.
 2. 철자 문제에서 뜻이 같은 다른 표제어(예: nevertheless·nonetheless)를 쓰면 오답 대신 안내하는 방식을 검토한다. 원고에서는 같은 품사의 대표 뜻을 모두 구분했지만, 진짜 유의어는 뜻만으로 완전히 가를 수 없다.

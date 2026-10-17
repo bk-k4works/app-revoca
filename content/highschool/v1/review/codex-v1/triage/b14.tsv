@@ -1,0 +1,27 @@
+EDIT	accordingly	appropriately	expl	상황에 맞추거나 그 결과에 따라 행동하는 것을 뜻해요.	Codex fix 수용	“그 결과로를”이 문법적으로 어색해요.
+EDIT	convenience	ease	en2	For convenience, we booked our tickets online.	Codex fix 수용	“convenience store”는 편의점이라는 합성어로 쓰여, ‘편리함’의 뜻을 직접 보여 주지 않아요.
+EDIT	convenience	ease	ko2	편의를 위해 우리는 표를 온라인으로 예매했다.	Codex fix 수용	예문을 바꾸면 번역도 함께 바꿔야 해요.
+EDIT	equation	math-statement	en2	Use the equation to calculate the distance between the two cities.	Codex fix 수용	비유적으로 ‘상황을 이루는 요소’라는 뜻으로 쓰여, 수학식이라는 이 카드의 뜻과 달라요.
+EDIT	equation	math-statement	ko2	두 도시 사이의 거리를 계산하는 데 그 방정식을 사용해라.	Codex fix 수용	예문을 바꾸면 번역도 함께 바꿔야 해요.
+EDIT	flexibility	adaptability	ko2	그 일은 근무 시간을 유연하게 조정할 수 있다.	Codex minor 수용	뜻은 통하지만 ‘근무 시간이 유연하다’보다 조정할 수 있다는 표현이 원문에 더 가까워요.
+EDIT	slam	shut-hard	meaning	쾅 닫다; 탁 내려놓다	Codex minor 수용	‘세게 놓다’는 한국어 표현이 다소 어색해요.
+EDIT	delicate	fragile	meaning	섬세한; 연약한; 미묘한	Codex fix 수용	예문2의 ‘미묘한 상황’이라는 뜻이 뜻풀이에 없어요.
+EDIT	delicate	fragile	expl	쉽게 손상되거나 섬세해서 신중히 다뤄야 하는 것이에요.	Codex fix 수용	현재 설명은 깨지거나 다치기 쉬운 경우만 풀이해요.
+EDIT	inspire	motivate	ko2	그 그림은 바다에서 영감을 얻어 그려졌다.	Codex minor 수용	‘영감을 받았다’는 표현은 수동태 번역으로 조금 어색해요.
+EDIT	steep	sharply-sloped	ko2	올해 주거비가 급격히 상승했다.	Codex minor 수용	‘가파르게 올랐다’는 표현이 주거비 상승을 설명할 때 다소 어색해요.
+EDIT	grasp	grip	expl	단단히 쥐거나 의미를 이해할 때 써요.	Codex minor 수용	‘뜻을 알아들을 때’는 grasp an idea의 쓰임을 설명하기에 어색해요.
+EDIT	squeeze	press	meaning	짜다; 꽉 쥐다; 좁은 곳에 밀어 넣다	Codex fix 수용	예문2는 좁은 곳에 사람을 밀어 넣는 뜻인데 뜻풀이에 그 의미가 없어요.
+EDIT	receipt	proof-of-payment	expl	물건을 산 증빙이나 무언가를 받는 일을 뜻해요.	Codex fix 수용	‘수령’이라는 뜻을 설명하지 않아 두 번째 예문의 뜻과 연결이 약해요.
+EDIT	ambition	goal	expl	크게 이루고자 하는 강한 바람이나 포부예요.	Codex fix 수용	ambition은 단순한 목표라기보다 그것을 이루려는 강한 바람이나 포부예요.
+EDIT	conclude	end	meaning	끝내다; 마치다; 끝나다	Codex fix 수용	예문2의 concluded는 ‘끝났다’라는 자동사 용법인데 뜻풀이에 없어요.
+EDIT	conclude	end	expl	말이나 행사를 끝내거나 어떤 일이 끝날 때 써요.	Codex fix 수용	현재 설명은 타동사 용법만 다뤄요.
+EDIT	terrific	great	en1	That is a terrific idea for our school project!	Codex fix 수용	예문이 5단어라 최소 6단어 규칙에 못 미쳐요.
+EDIT	terrific	great	ko1	그건 우리 학교 프로젝트에 아주 좋은 생각이다.	Codex fix 수용	예문을 바꾸면 번역도 함께 바꿔야 해요.
+EDIT	instinct	natural-sense	en2	You should trust your instincts when something feels wrong.	Codex fix 수용	예문이 3단어라 최소 6단어 규칙에 못 미쳐요.
+EDIT	instinct	natural-sense	ko2	무언가 잘못된 것 같을 때는 네 직감을 믿어야 한다.	Codex fix 수용	예문을 바꾸면 번역도 함께 바꿔야 해요.
+EDIT	enthusiastic	eager	ko1	학생들은 그 여행에 매우 들떠 있었다.	Codex fix 수용	‘큰 기대를 보였다’는 기대감에 치우쳐 열정적이고 들뜬 상태를 충분히 옮기지 못해요.
+EDIT	envy	jealousy	ko1	친구가 상을 받자 그녀는 조금 부러움을 느꼈다.	Codex fix 수용	영어 envy는 명사인데 번역은 ‘부러웠다’라는 형용사적 서술로 바뀌었어요.
+EDIT	accompany	go-with	ko1	아이들은 반드시 어른과 동행해야 한다.	Codex fix 수용	‘함께 와야 한다’는 반드시 함께 도착해야 한다는 뜻으로 원문보다 좁아요.
+EDIT	pupil	eye-part	en1	The doctor checked my pupils with a small flashlight.	Codex minor 수용	‘빛을 동공 안으로 비춘다’는 표현이 눈 검사 상황에서 다소 어색해요.
+EDIT	pupil	eye-part	ko1	의사는 작은 손전등으로 내 동공을 확인했다.	Codex minor 수용	예문을 바꾸면 번역도 함께 바꿔야 해요.
+EDIT	peel	remove-skin	meaning	껍질을 벗기다; (겉면이) 벗겨지다	Codex fix 수용	예문2의 paint is peeling은 ‘겉면이 벗겨지다’라는 용법인데 뜻풀이에 없어요.

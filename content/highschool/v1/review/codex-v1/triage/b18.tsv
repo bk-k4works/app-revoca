@@ -1,0 +1,24 @@
+EDIT	vein	blood-tube	col	a vein in the arm	Codex minor 일부 수용	blood veins는 원어민이 흔히 쓰는 조합이 아니에요.
+EDIT	vein	blood-tube	colko	팔의 정맥	Codex minor 일부 수용	연어 교체에 맞춘 번역
+EDIT	volcano	mountain	expl	마그마나 화산재 등이 분출하는 산이에요.	Codex fix 수용	화산에서 불이 뿜어져 나온다는 설명은 정확하지 않아요.
+EDIT	glowing	shining	expl	은은하게 빛나거나 칭찬이 담긴 것이에요.	Codex minor 수용	칭찬이 대단하다는 표현이 다소 어색해요.
+EDIT	rust	corrode	expl	쇠에 녹이 생길 때 써요.	Codex fix 수용	쇠가 녹이 생긴다는 표현은 문법적으로 어색해요.
+EDIT	whereby	by-which	meaning	그 방법으로; 그에 따라	Codex fix 수용	그것에 의하여만으로는 whereby가 가리키는 방법이나 수단의 의미가 모호해요.
+EDIT	whereby	by-which	expl	앞서 말한 방법이나 제도를 통해서라는 뜻이에요.	Codex fix 일부 수용	제도로라는 말에 조사가 겹쳤고 뜻도 자연스럽지 않아요.
+EDIT	notify	inform	col	notify the police	Codex minor 수용	notify the police는 보통 경찰에 알린다는 뜻으로, 신고하다는 사건을 접수하는 뉘앙스가 더해져요.
+EDIT	notify	inform	colko	경찰에 알리다	Codex minor 수용	연어 교체에 맞춘 번역
+EDIT	disguise	hide-identity	expl	정체를 숨기거나 감정·사실이 드러나지 않게 할 때 써요.	Codex fix 수용	설명은 다른 사람처럼 보이게 꾸미는 뜻만 다뤄서 감정이나 사실을 감추는 용법을 설명하지 못해요.
+EDIT	insecure	unconfident	en2	Many workers feel insecure about their jobs.	Codex minor 일부 수용	다리는 보통 insecure보다 unsafe나 unstable하다고 표현하는 편이 자연스러워요.
+EDIT	hopeless	desperate	meaning	절망적인; ~에 전혀 소질이 없는	Codex fix 수용	hopeless at drawing은 절망적인 상황이 아니라 어떤 일을 아주 못한다는 뜻이에요.
+EDIT	hopeless	desperate	expl	희망이 없거나 어떤 일을 아주 못하는 상태예요.	Codex fix 수용	설명이 hopeless at처럼 능력이 매우 부족하다는 용법을 다루지 않아요.
+EDIT	milestone	important-event	ko2	그 회사는 사용자 수 100만 명이라는 이정표를 세웠다.	Codex minor 수용	중요한 고지에 도달했다는 번역은 한국어에서 어색해요.
+EDIT	casually	informally	ko2	그는 해외로 이사한다는 말을 가볍게 꺼냈다.	Codex minor 수용	무심하게 말했다는 번역은 여기서 casually의 가볍게, 별다른 강조 없이라는 뉘앙스와 조금 달라요.
+EDIT	optimism	hopefulness	ko2	경제에 대한 낙관론이 새롭게 퍼지고 있다.	Codex minor 수용	기대감은 optimism의 낙관적인 전망이라는 뜻을 충분히 살리지 못해요.
+EDIT	erosion	wearing-away	meaning	침식; 점진적 약화	Codex fix 수용	부식은 보통 금속 등이 화학적으로 삭는 corrosion을 뜻해 erosion의 뜻으로는 부정확해요.
+EDIT	erosion	wearing-away	expl	자연 현상이나 시간이 지나며 서서히 깎이거나 약해지는 것이에요.	Codex fix 수용	설명이 땅이 물이나 바람에 깎이는 경우에만 한정돼요.
+EDIT	intimacy	closeness	ko2	작은 방은 친밀한 분위기를 자아냈다.	Codex minor 수용	아늑한 분위기는 편안함을 뜻해 친밀함이라는 의미가 약해져요.
+EDIT	groom	clean-animal	meaning	손질하다; (역할을 맡도록) 육성하다	Codex fix 수용	사람을 역할에 맞게 준비시키는 groom은 길들이다는 뜻이 아니에요.
+EDIT	maximize	increase-fully	ko2	공부 시간을 최대한 활용하도록 시간을 계획해라.	Codex fix 수용	maximize your study hours는 공부 시간을 늘리는 것보다 주어진 시간을 최대한 활용한다는 뜻이에요.
+EDIT	reproduce	breed	ko2	그 사진은 여러 신문에 복제되어 실렸다.	Codex minor 수용	신문에 실렸다는 번역만으로는 reproduce의 복제·재인쇄 의미가 드러나지 않아요.
+EDIT	insecure	unconfident	ko2	많은 노동자가 일자리에 대해 불안해한다.	Codex fix 일부 수용	'다리가 insecure하다'는 어색하다는 지적을 받아들였지만 제안 예문에는 표제어가 없어 직접 고침
+EDIT	navigate	find-the-way	meaning	길을 찾다; 항해하다; (어려움을) 헤쳐 나가다	Codex 빠진 뜻 수용	지문에 자주 나오는 '(어려움을) 헤쳐 나가다' 뜻을 뜻풀이에 넣음

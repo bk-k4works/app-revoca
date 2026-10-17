@@ -1,0 +1,73 @@
+EDIT	breed	type	ko1	작은 아파트에는 어떤 개 품종이 가장 잘 맞을까?	Codex minor 수용	의문문 번역이 문어체 ‘무엇인가?’로 끝나 앱의 의문문 번역 형식과 어감에 덜 맞아요.
+EDIT	tragic	very-sad	ko2	그 가족에게는 비극적인 상실이었다.	Codex minor 수용	‘tragic loss’가 ‘큰 비극’으로 옮겨져 상실의 의미가 조금 흐려져요.
+EDIT	horizon	skyline	expl	하늘과 땅의 경계선이나 시야의 범위를 말해요.	Codex fix 수용	설명이 지평선의 뜻만 풀이해 복수형 horizons의 ‘시야’ 의미를 설명하지 않아요.
+EDIT	horizon	skyline	en2	Traveling abroad can broaden your horizons in many ways.	Codex fix 수용	설명이 지평선의 뜻만 풀이해 복수형 horizons의 ‘시야’ 의미를 설명하지 않아요.
+EDIT	horizon	skyline	ko2	해외여행은 여러 면에서 시야를 넓혀 줄 수 있다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	mobility	movement	en1	The injury reduced his mobility for several months.	Codex fix 수용	설명이 지평선의 뜻만 풀이해 복수형 horizons의 ‘시야’ 의미를 설명하지 않아요.
+EDIT	mobility	movement	ko1	그 부상으로 그는 몇 달 동안 움직이기 어려웠다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	slim	thin	meaning	날씬한; (가능성이) 희박한	Codex fix 수용	‘적은’은 slim chance의 의미를 정확히 나타내지 못하고 가능성이 적다는 뜻을 모호하게 전달해요.
+EDIT	nonetheless	nevertheless	expl	앞의 내용과 반대되는 일이 이어짐을 나타내요.	Codex fix 수용	‘앞 내용에도 상관없이를 뜻해요’는 한국어 표현이 어색하고 뜻풀이도 불완전해요.
+EDIT	modest	humble	meaning	소박한; (수입·규모가) 많지 않은; 겸손한	Codex fix 수용	‘크지 않은’은 modest house나 modest income의 의미를 구체적으로 전달하지 못해요.
+EDIT	modest	humble	col	a modest income	Codex fix 수용	‘modest income’을 ‘적당한 수입’으로 옮기면 알맞거나 충분한 수입이라는 뜻으로 읽힐 수 있어요.
+EDIT	modest	humble	colko	많지 않은 수입	Codex fix 수용	연어 교체에 맞춘 번역
+EDIT	uncertainty	doubt	ko1	미래에 대한 불확실성이 크다.	Codex minor 수용	‘불확실한 것이 많다’는 uncertainty를 불확실한 대상의 수로 옮겨 다소 어색해요.
+EDIT	convenience	ease	en1	Online shopping offers great convenience to people with busy schedules.	Codex fix 수용	‘불확실한 것이 많다’는 uncertainty를 불확실한 대상의 수로 옮겨 다소 어색해요.
+EDIT	convenience	ease	ko1	온라인 쇼핑은 바쁜 사람들에게 큰 편리함을 제공한다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	equation	math-statement	en1	Can you solve this equation before the class ends?	Codex fix 수용	‘불확실한 것이 많다’는 uncertainty를 불확실한 대상의 수로 옮겨 다소 어색해요.
+EDIT	equation	math-statement	ko1	수업이 끝나기 전에 이 방정식을 풀 수 있니?	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	flexibility	adaptability	en1	Regular yoga practice improves flexibility and balance.	Codex fix 수용	‘불확실한 것이 많다’는 uncertainty를 불확실한 대상의 수로 옮겨 다소 어색해요.
+EDIT	flexibility	adaptability	ko1	규칙적인 요가 수련은 유연성과 균형 감각을 높인다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	delicate	fragile	expl	쉽게 손상되거나 조심스럽게 다뤄야 하는 것이에요.	Codex fix 수용	설명이 물리적으로 깨지기 쉬운 경우에 치우쳐 ‘미묘한’ 의미를 충분히 풀이하지 않아요.
+EDIT	delicate	fragile	en2	This is a delicate situation that requires careful discussion.	Codex fix 수용	설명이 물리적으로 깨지기 쉬운 경우에 치우쳐 ‘미묘한’ 의미를 충분히 풀이하지 않아요.
+EDIT	delicate	fragile	ko2	이것은 신중한 논의가 필요한 미묘한 상황이다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	grasp	grip	en1	She grasped my hand tightly before crossing the busy street.	Codex fix 수용	설명이 물리적으로 깨지기 쉬운 경우에 치우쳐 ‘미묘한’ 의미를 충분히 풀이하지 않아요.
+EDIT	grasp	grip	ko1	그녀는 붐비는 길을 건너기 전에 내 손을 꽉 잡았다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	ambition	goal	en2	He lacks ambition and rarely sets goals for himself.	Codex fix 수용	설명이 물리적으로 깨지기 쉬운 경우에 치우쳐 ‘미묘한’ 의미를 충분히 풀이하지 않아요.
+EDIT	ambition	goal	ko2	그는 야망이 부족하고 스스로 목표를 거의 세우지 않는다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	instinct	natural-sense	en1	Many birds build nests by instinct during the spring.	Codex fix 수용	설명이 물리적으로 깨지기 쉬운 경우에 치우쳐 ‘미묘한’ 의미를 충분히 풀이하지 않아요.
+EDIT	instinct	natural-sense	ko1	많은 새는 봄에 본능적으로 둥지를 짓는다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	envy	jealousy	col	feel envy	Codex fix 수용	feel envy는 명사구인데 번역이 동사인 ‘부러워하다’로 되어 있어요.
+EDIT	envy	jealousy	colko	부러움을 느끼다	Codex fix 수용	연어 교체에 맞춘 번역
+EDIT	accompany	go-with	en2	Thunder often accompanies heavy rain during summer storms.	Codex fix 수용	feel envy는 명사구인데 번역이 동사인 ‘부러워하다’로 되어 있어요.
+EDIT	accompany	go-with	ko2	여름 폭풍이 올 때 천둥은 흔히 폭우를 동반한다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	addict	dependent-person	en1	He became a coffee addict during college.	Codex fix 수용	feel envy는 명사구인데 번역이 동사인 ‘부러워하다’로 되어 있어요.
+EDIT	addict	dependent-person	ko1	그는 대학 시절 커피 중독자가 되었다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	peasant	poor-farmer	meaning	농민; 소작농	Codex fix 수용	peasant는 단순히 농사를 짓는 ‘농부’보다 역사적·사회적 계층으로서의 ‘농민’을 뜻해요.
+EDIT	factual	based-on-facts	col	factual information	Codex minor 수용	‘사실 정보’는 다소 중복되고 부자연스러운 번역이에요.
+EDIT	factual	based-on-facts	colko	사실에 근거한 정보	Codex minor 수용	연어 교체에 맞춘 번역
+EDIT	dedicate	devote	en1	She dedicated herself to teaching children in rural schools.	Codex fix 수용	‘사실 정보’는 다소 중복되고 부자연스러운 번역이에요.
+EDIT	dedicate	devote	ko1	그녀는 농촌 학교에서 아이들을 가르치는 일에 헌신했다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	astonish	amaze	ko2	나는 그녀가 얼마나 빨리 달렸는지 보고 깜짝 놀랐다.	Codex fix 수용	영어의 ran은 과거형인데 번역은 현재형 ‘달리는지’로 되어 있어요.
+EDIT	get to	have-chance	ko1	곧 네 가족을 만날 기회가 있으면 좋겠다.	Codex minor 수용	get to meet에는 만날 기회를 얻는다는 의미가 있는데 번역에서 그 뉘앙스가 약해요.
+EDIT	heart attack	cardiac-arrest	meaning	심근 경색; 심장 발작	Codex fix 수용	heart attack는 심장 근육에 혈액 공급이 줄어 손상되는 심근경색을 가리키며, ‘심장 마비’는 심장 정지와 혼동될 수 있어요.
+EDIT	accurately	precisely	expl	틀리지 않게 바르게를 뜻해요.	Codex minor 수용	‘틀림없이 바르게’는 정확하게의 뜻풀이로 어색해요.
+EDIT	resistant	unaffected	col	water-resistant	Codex fix 수용	water-resistant는 완전한 방수를 뜻한다고 단정하기 어려워 ‘방수의’는 의미를 과장할 수 있어요.
+EDIT	resistant	unaffected	colko	방수의	Codex fix 일부 수용	연어 교체에 맞춘 번역
+EDIT	sharply	suddenly	en2	"Stop that now!" she said sharply during the meeting.	Codex fix 일부 수용	따옴표 안의 말을 포함해도 예문이 5단어로, 기준인 6~20단어보다 짧아요.
+EDIT	applause	clapping	en1	The singer received loud applause from the audience after the show.	Codex fix 수용	따옴표 안의 말을 포함해도 예문이 5단어로, 기준인 6~20단어보다 짧아요.
+EDIT	applause	clapping	ko1	그 가수는 공연이 끝난 뒤 관객들의 큰 박수를 받았다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	temper	mood	en2	She has a calm temper and rarely gets angry at others.	Codex fix 수용	따옴표 안의 말을 포함해도 예문이 5단어로, 기준인 6~20단어보다 짧아요.
+EDIT	temper	mood	ko2	그녀는 성미가 차분하고 다른 사람에게 좀처럼 화를 내지 않는다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	immortal	eternal	en2	His music made him immortal in the eyes of later generations.	Codex fix 수용	따옴표 안의 말을 포함해도 예문이 5단어로, 기준인 6~20단어보다 짧아요.
+EDIT	immortal	eternal	ko2	그의 음악은 후대 사람들에게 그를 영원히 기억되게 했다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	vein	blood-tube	meaning	정맥	Codex fix 수용	vein은 정맥을 뜻하며, 동맥과 모세혈관까지 포함하는 넓은 뜻의 ‘혈관’과 같지 않아요.
+EDIT	volcano	mountain	en1	The volcano erupted last year for the first time in decades.	Codex fix 수용	vein은 정맥을 뜻하며, 동맥과 모세혈관까지 포함하는 넓은 뜻의 ‘혈관’과 같지 않아요.
+EDIT	volcano	mountain	ko1	그 화산은 작년에 수십 년 만에 처음으로 분화했다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	volcano	mountain	en2	Hawaii has several active volcanoes that scientists continue to monitor.	Codex fix 수용	vein은 정맥을 뜻하며, 동맥과 모세혈관까지 포함하는 넓은 뜻의 ‘혈관’과 같지 않아요.
+EDIT	volcano	mountain	ko2	하와이에는 과학자들이 계속 관찰하는 활화산이 여러 개 있다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	glowing	shining	en2	The movie received glowing reviews from critics around the world.	Codex fix 수용	vein은 정맥을 뜻하며, 동맥과 모세혈관까지 포함하는 넓은 뜻의 ‘혈관’과 같지 않아요.
+EDIT	glowing	shining	ko2	그 영화는 전 세계 비평가들로부터 극찬을 받았다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	hopeless	desperate	en1	The situation seemed hopeless after the rescue team lost contact.	Codex fix 수용	vein은 정맥을 뜻하며, 동맥과 모세혈관까지 포함하는 넓은 뜻의 ‘혈관’과 같지 않아요.
+EDIT	hopeless	desperate	ko1	구조대와 연락이 끊긴 뒤 상황은 절망적으로 보였다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	hopeless	desperate	en2	I am hopeless at drawing, so I joined an art class.	Codex fix 수용	vein은 정맥을 뜻하며, 동맥과 모세혈관까지 포함하는 넓은 뜻의 ‘혈관’과 같지 않아요.
+EDIT	hopeless	desperate	ko2	나는 그림에 전혀 소질이 없어서 미술 수업을 들었다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	erosion	wearing-away	en1	Trees help prevent soil erosion on steep hillsides after heavy rain.	Codex fix 수용	vein은 정맥을 뜻하며, 동맥과 모세혈관까지 포함하는 넓은 뜻의 ‘혈관’과 같지 않아요.
+EDIT	erosion	wearing-away	ko1	나무는 폭우 뒤 가파른 비탈에서 토양이 침식되는 것을 막는 데 도움이 된다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	reproduce	breed	en1	Rabbits reproduce very quickly when food and shelter are plentiful.	Codex fix 수용	vein은 정맥을 뜻하며, 동맥과 모세혈관까지 포함하는 넓은 뜻의 ‘혈관’과 같지 않아요.
+EDIT	reproduce	breed	ko1	토끼는 먹이와 은신처가 풍부하면 매우 빠르게 번식한다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	periodically	regularly	en2	The website is updated periodically to provide students with new resources.	Codex fix 수용	vein은 정맥을 뜻하며, 동맥과 모세혈관까지 포함하는 넓은 뜻의 ‘혈관’과 같지 않아요.
+EDIT	periodically	regularly	ko2	학생들에게 새 자료를 제공하기 위해 웹사이트를 주기적으로 업데이트한다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	ancestor	forebear	ko1	우리 조상들은 농사와 고기잡이로 생계를 이었다.	Codex minor 수용	‘살았다’는 조상들이 농사와 고기잡이로 생계를 이어 갔다는 의미를 자연스럽게 전달하지 못해요.
+EDIT	imitation	copy	en1	Children learn through imitation by watching adults around them.	Codex fix 수용	‘살았다’는 조상들이 농사와 고기잡이로 생계를 이어 갔다는 의미를 자연스럽게 전달하지 못해요.
+EDIT	imitation	copy	ko1	아이들은 주변 어른들을 보며 모방을 통해 배운다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	sharply	suddenly	ko2	"당장 그만해!"라고 그녀가 회의 중에 날카롭게 말했다.	Codex fix 수용	예문 교체에 맞춘 번역

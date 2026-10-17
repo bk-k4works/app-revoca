@@ -1,0 +1,23 @@
+EDIT	remains	leftovers	ko2	불의 잔해에서 아직 연기가 나고 있었다.	Codex fix 수용	영어에서는 불의 잔해가 연기를 내고 있다고 했는데, 번역은 불이 꺼진 자리에서 연기가 났다고 바뀌었다.
+EDIT	strength	power	ko2	그녀는 계속 나아갈 힘을 냈다.	Codex minor 수용	‘힘을 얻었다’는 표현보다 여기서는 힘을 내어 계속했다는 뜻이 자연스럽다.
+EDIT	extremely	very	ko1	그 시험은 매우 어려웠다.	Codex minor 수용	‘극도로 어려웠다’는 번역이 다소 딱딱하다.
+EDIT	negative	test-result	expl	검사에서 특정 질병이나 물질이 검출되지 않았다는 결과예요.	Codex fix 수용	검사 결과가 음성이라고 해서 병이 없다고 단정할 수는 없다. 검사에서 특정 대상이 검출되지 않았다는 뜻이다.
+EDIT	unique	one-of-a-kind	colko	특별한 기회	Codex minor 수용	‘unique chance’는 보통 특별하거나 드문 기회라는 뜻으로, ‘유일한 기회’는 유일하게 남은 기회라는 의미로 읽힐 수 있다.
+EDIT	fuel	increase	expl	연료를 공급하거나 감정·상황을 더 커지게 할 때 써요.	Codex fix 수용	뜻에 ‘연료를 공급하다’도 들어 있지만 설명은 비유적 용법만 풀이한다.
+EDIT	willing	ready	ko1	그 프로젝트를 기꺼이 도와줄 의향이 있니?	Codex fix 수용	영어는 도울 의향이 있는지를 묻는데, 번역은 도울 능력이 있는지를 묻는 표현이다.
+EDIT	minimum	lowest	ko2	이 일의 최소 연령은 18세다.	Codex minor 수용	‘최소 나이’보다 ‘최소 연령’이 자연스럽다.
+EDIT	friendly	not-harmful	expl	특정 대상에 해를 덜 주거나 그 대상에 적합한 것이에요.	Codex minor 수용	설명이 ‘해롭지 않음’에만 한정되어, 예문의 ‘가족에게 적합하고 환영받는’ 용법을 충분히 풀이하지 않는다.
+EDIT	besides	apart-from	expl	이미 말한 것에 더해 다른 것을 포함할 때 써요.	Codex fix 수용	‘빼고’라고 설명하면 제외의 뜻으로 오해할 수 있다. besides는 여기에 더해 포함한다는 뜻이다.
+EDIT	conservative	traditional	expl	전통을 중시하거나 변화에 신중한 태도·스타일을 말해요.	Codex minor 수용	설명이 전통을 지키려는 태도에만 초점을 두어, 예문의 ‘수수하고 절제된’ 스타일 용법을 충분히 담지 못한다.
+EDIT	medium	means	en2	English is the medium of instruction at this school.	Codex fix 수용	‘medium of teaching’은 이 문맥에서 어색한 결합이다. 수업 언어를 뜻할 때는 ‘medium of instruction’을 쓴다.
+EDIT	corporation	company	expl	독립된 법적 주체로 사업을 하는 회사예요.	Codex fix 수용	법인인 회사가 반드시 큰 회사인 것은 아니어서 설명이 뜻을 지나치게 좁힌다.
+EDIT	reasonable	sensible	expl	생각이나 요구가 타당하거나 가격이 알맞은 것이에요.	Codex minor 수용	‘생각이 바르다’는 표현이 어색하고 reasonable의 타당성 의미를 선명하게 전달하지 못한다.
+EDIT	typical	usual	en2	A typical day includes classes, homework, and a short break.	Codex fix 수용	특정 국적의 식사를 일반화하는 예문이라 앱의 소재 규칙에 맞지 않는다.
+EDIT	typical	usual	ko2	평범한 하루에는 수업과 숙제, 짧은 휴식이 포함된다.	Codex fix 수용	기존 번역도 특정 국적의 식사를 일반화한다.
+EDIT	random	unplanned	ko2	그는 나에게 별다른 순서 없이 몇 가지 질문을 했다.	Codex minor 수용	‘생뚱맞은’은 뜬금없다는 뜻이 강해, random이 나타내는 임의성·무작위성과 조금 다르다.
+EDIT	chemical	substance	expl	화학적 성질을 지닌 물질이에요.	Codex fix 수용	화학 물질이 모두 화학적으로 만들어진 것은 아니며 자연적으로 존재하는 물질도 포함한다.
+EDIT	depression	sadness	expl	오랫동안 우울감과 의욕 저하가 이어지는 정신 질환이에요.	Codex fix 수용	현재 설명은 우울증을 단순히 오래 슬프고 기운이 없는 상태로만 풀이해 질환이라는 뜻이 분명하지 않다.
+EDIT	depression	sadness	ko2	운동은 우울증을 완화하는 데 도움이 될 수 있다.	Codex fix 수용	이 카드의 뜻인 우울증보다 일반적인 우울한 기분으로 번역했다.
+EDIT	depression	economic-slump	en2	The country went through a long economic depression.	Codex fix 수용	‘a long depression’은 우울증으로도 읽혀 경제 불황의 뜻이 불분명하다.
+EDIT	medium	means	ko2	이 학교에서는 영어가 수업 언어이다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	depression	economic-slump	ko2	그 나라는 긴 경제 불황을 겪었다.	Codex fix 수용	예문 교체에 맞춘 번역

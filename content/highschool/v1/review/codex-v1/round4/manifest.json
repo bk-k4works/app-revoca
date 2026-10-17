@@ -1,0 +1,59 @@
+[
+ {
+  "batch": "round4-01",
+  "senses": [
+   {
+    "key": "version|n|side-of-story",
+    "inputHash": "32ae755be53d0c40"
+   },
+   {
+    "key": "minimum|adj|lowest",
+    "inputHash": "f1f526f4a971a933"
+   },
+   {
+    "key": "pursue|v|chase-goal",
+    "inputHash": "2624eb4583e51605"
+   },
+   {
+    "key": "neutral|adj|impartial",
+    "inputHash": "30a5eeaf0d0c6ab6"
+   },
+   {
+    "key": "modest|adj|humble",
+    "inputHash": "119aa8050fc5eeaf"
+   },
+   {
+    "key": "convenience|n|ease",
+    "inputHash": "13a30b9d5b6a0cf6"
+   },
+   {
+    "key": "delicate|adj|fragile",
+    "inputHash": "bc499e6fef116cc2"
+   },
+   {
+    "key": "peasant|n|poor-farmer",
+    "inputHash": "79dbd8456eeb1ac8"
+   },
+   {
+    "key": "factual|adj|based-on-facts",
+    "inputHash": "504a0cc7924c6c15"
+   },
+   {
+    "key": "dedicate|v|devote",
+    "inputHash": "5106393399eb609f"
+   },
+   {
+    "key": "reproduce|v|breed",
+    "inputHash": "18c5079fbc5689d4"
+   },
+   {
+    "key": "keenly|adv|intensely",
+    "inputHash": "70fa50b3f75b9882"
+   },
+   {
+    "key": "nonprofitable|adj|unprofitable",
+    "inputHash": "6f5befe16f937285"
+   }
+  ]
+ }
+]

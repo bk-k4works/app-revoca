@@ -1,0 +1,977 @@
+[statement|n|announcement] hash=8b0380b4ed249538
+  뜻: 성명; 진술
+  설명: 사실이나 의견을 말이나 글로 나타낸 것이에요.
+  연어: make a statement = 성명을 발표하다
+  예문1: The company made a statement about the accident. / 그 회사는 사고에 대해 성명을 발표했다.
+  예문2: Is this statement true or false? / 이 진술은 참일까, 거짓일까?
+[ability|n|skill] hash=e50d4a9048c17015
+  뜻: 능력
+  설명: 무엇을 할 수 있는 힘이에요.
+  연어: the ability to = ~할 수 있는 능력
+  예문1: She has the ability to explain things clearly. / 그녀는 내용을 분명하게 설명하는 능력이 있다.
+  예문2: Humans have the ability to learn languages. / 인간은 언어를 배우는 능력이 있다.
+  유의어(오답 제외): skill
+[definitely|adv|certainly] hash=ea0ca9a710327360
+  뜻: 분명히; 확실히
+  설명: 의심할 여지가 없음을 강조해요.
+  연어: definitely not = 절대 아니다
+  예문1: I will definitely come to your party. / 나는 꼭 네 파티에 갈 것이다.
+  예문2: This is definitely the best pizza in town. / 이것은 확실히 동네에서 가장 맛있는 피자다.
+  유의어(오답 제외): certainly
+[administration|n|management] hash=464ddeae9972c45c
+  뜻: 관리; 행정
+  설명: 조직이나 나라의 일을 운영하는 것이에요.
+  연어: school administration = 학교 행정
+  예문1: She works in hospital administration at a large medical center. / 그녀는 큰 의료 센터에서 병원 행정 업무를 한다.
+  예문2: The new administration promised lower taxes. / 새 정부는 세금을 낮추겠다고 약속했다.
+  유의어(오답 제외): management
+[independent|adj|self-reliant] hash=b59ccc4e43debf1d
+  뜻: 독립적인; 독립한
+  설명: 남에게 의존하지 않는 것이에요.
+  연어: become independent = 독립하다
+  예문1: She became financially independent after graduating from college. / 그녀는 대학을 졸업한 뒤 경제적으로 독립했다.
+  예문2: The country became independent in 1945. / 그 나라는 1945년에 독립했다.
+[commercial|n|advertisement] hash=2c6f01a6854b557a
+  뜻: 광고 방송
+  설명: 텔레비전이나 라디오의 광고예요.
+  연어: a TV commercial = 텔레비전 광고
+  예문1: I usually skip the commercials when I watch videos online. / 나는 온라인 동영상을 볼 때 보통 광고를 건너뛴다.
+  예문2: The company made a funny commercial for its new drink. / 그 회사는 새 음료를 위한 재미있는 광고를 만들었다.
+  유의어(오답 제외): ad
+[organization|n|arrangement] hash=b296165751f2c943
+  뜻: 정리; 구성
+  설명: 일이나 물건을 짜임새 있게 배치하는 것이에요.
+  연어: clear organization = 체계적인 구성
+  예문1: Good organization helps you find things quickly. / 정리를 잘하면 물건을 빨리 찾을 수 있다.
+  예문2: The essay lacks clear organization in its final section. / 그 에세이는 마지막 부분의 구성이 분명하지 않다.
+[easily|adv|without-difficulty] hash=0b04a7621daab75c
+  뜻: 쉽게
+  설명: 어렵지 않게 할 때 써요.
+  연어: easily solve = 쉽게 풀다
+  예문1: She solved the difficult puzzle easily after several attempts. / 그녀는 여러 번 시도한 뒤 어려운 퍼즐을 쉽게 풀었다.
+  예문2: You can easily find the library from here. / 여기서 도서관을 쉽게 찾을 수 있다.
+[highly|adv|very] hash=ddef00c3368a7bc7
+  뜻: 대단히; 높이
+  설명: 정도가 아주 높을 때 써요.
+  연어: highly recommend = 강력히 추천하다
+  예문1: I highly recommend this book to students who enjoy science. / 나는 과학을 좋아하는 학생들에게 이 책을 강력히 추천한다.
+  예문2: She is a highly skilled doctor. / 그녀는 매우 숙련된 의사이다.
+[agreement|n|same-opinion] hash=354fe631b214be56
+  뜻: 동의; 일치
+  설명: 생각이 같은 것이에요.
+  연어: in agreement = 동의하여
+  예문1: Everyone was in agreement about the plan. / 모두가 그 계획에 동의했다.
+  예문2: She nodded in agreement with the teacher's suggestion. / 그녀는 선생님의 제안에 동의한다는 뜻으로 고개를 끄덕였다.
+[primary|adj|elementary] hash=6f5cac88d2963198
+  뜻: 초등의; 초기의
+  설명: 교육의 첫 단계나 어떤 과정의 초기와 관련된 것이에요.
+  연어: primary school = 초등학교
+  예문1: She teaches at a primary school. / 그녀는 초등학교에서 가르친다.
+  예문2: The primary stage of the disease has no symptoms. / 그 병의 초기 단계에는 증상이 없다.
+[interview|v|question] hash=deee1636ac9c5f7f
+  뜻: 면접하다; 인터뷰하다
+  설명: 사람을 만나 질문할 때 써요.
+  연어: interview a candidate = 지원자를 면접하다
+  예문1: The reporter interviewed the mayor about the new policy. / 기자는 새 정책에 관해 시장을 인터뷰했다.
+  예문2: They interviewed ten people for the job. / 그들은 그 일자리를 위해 열 명을 면접했다.
+[realize|v|achieve] hash=01b9f10e7cf7fa4b
+  뜻: 실현하다
+  설명: 꿈이나 계획을 이룰 때 써요.
+  연어: realize a dream = 꿈을 실현하다
+  예문1: He finally realized his dream of becoming a pilot. / 그는 마침내 조종사가 되겠다는 꿈을 이루었다.
+  예문2: The plan was never realized because funding was unavailable. / 자금이 마련되지 않아 그 계획은 끝내 실현되지 못했다.
+  유의어(오답 제외): achieve
+[option|n|choice] hash=b57d9222456eb7d9
+  뜻: 선택; 선택권
+  설명: 고를 수 있는 것 가운데 하나예요.
+  연어: have no option but to = ~할 수밖에 없다
+  예문1: There are three options on the menu for lunch. / 점심 메뉴에는 세 가지 선택지가 있다.
+  예문2: We had no option but to wait. / 우리는 기다리는 수밖에 없었다.
+  유의어(오답 제외): choice
+[remains|n|leftovers] hash=63187820ebcfc710
+  뜻: 남은 것; 나머지
+  설명: 쓰고 남은 부분이에요.
+  연어: the remains of a meal = 먹다 남은 음식
+  예문1: We gave the remains of the cake to our neighbors. / 우리는 남은 케이크를 이웃에게 주었다.
+  예문2: The remains of the fire were still smoking. / 불의 잔해에서 아직 연기가 나고 있었다.
+[strength|n|power] hash=c794cd4ce28eb1a0
+  뜻: 체력; 힘
+  설명: 몸이나 마음의 강한 힘이에요.
+  연어: physical strength = 체력
+  예문1: He does not have the strength to lift the box. / 그는 그 상자를 들 힘이 없다.
+  예문2: She found the strength to keep going. / 그녀는 계속 나아갈 힘을 냈다.
+  유의어(오답 제외): power
+[extremely|adv|very] hash=c33132cdd9dddca6
+  뜻: 극도로; 매우
+  설명: 정도가 아주 심할 때 써요.
+  연어: extremely important = 매우 중요한
+  예문1: The test was extremely difficult. / 그 시험은 매우 어려웠다.
+  예문2: I am extremely grateful for your help. / 도와주셔서 정말 감사하다.
+[negative|adj|test-result] hash=73102919c0c72e37
+  뜻: 음성의
+  설명: 검사에서 특정 질병이나 물질이 검출되지 않았다는 결과예요.
+  연어: test negative = 음성 판정을 받다
+  예문1: Her test result was negative. / 그녀의 검사 결과는 음성이었다.
+  예문2: He tested negative for the virus. / 그는 바이러스 검사에서 음성 판정을 받았다.
+[unique|adj|one-of-a-kind] hash=eb47c47d10924e58
+  뜻: 독특한; 유일한
+  설명: 다른 것과 달리 하나뿐인 것이에요.
+  연어: a unique chance = 특별한 기회
+  예문1: Every person is unique. / 모든 사람은 저마다 독특하다.
+  예문2: The island has a unique culture. / 그 섬에는 독특한 문화가 있다.
+[fuel|v|increase] hash=ad55bcacb1f396f8
+  뜻: 부채질하다; 연료를 공급하다
+  설명: 연료를 공급하거나 감정·상황을 더 커지게 할 때 써요.
+  연어: fuel anger = 분노를 부추기다
+  예문1: His words only fueled her anger. / 그의 말은 그녀의 분노를 부채질할 뿐이었다.
+  예문2: Cheap loans fueled the rise in house prices. / 싼 대출이 집값 상승을 부추겼다.
+[willing|adj|ready] hash=8bf2899cb47dcb2a
+  뜻: 기꺼이 ~하는
+  설명: be willing to로 하겠다는 마음이 있을 때 써요.
+  연어: be willing to = 기꺼이 ~하다
+  예문1: Are you willing to help us with the project? / 그 프로젝트를 기꺼이 도와줄 의향이 있니?
+  예문2: She is willing to work on weekends. / 그녀는 주말에도 기꺼이 일할 생각이 있다.
+  유의어(오답 제외): ready
+[minimum|adj|lowest] hash=6cc8bd4508a8033e
+  뜻: 최소의; 최저의
+  설명: 가장 적거나 낮은 것이에요.
+  연어: the minimum wage = 최저 임금
+  예문1: The minimum age for this job is eighteen. / 이 일의 최소 나이는 18세이다.
+  예문2: There is a minimum order of ten dollars. / 이 일의 최소 연령은 18세다.
+[friendly|adj|not-harmful] hash=a454ff258caadcc8
+  뜻: ~에 친화적인
+  설명: 특정 대상에 해를 덜 주거나 그 대상에 적합한 것이에요.
+  연어: environmentally friendly = 환경친화적인
+  예문1: These bags are environmentally friendly. / 이 가방들은 환경친화적이다.
+  예문2: The hotel is friendly to families with children. / 그 호텔은 아이가 있는 가족이 이용하기 좋다.
+[besides|prep|apart-from] hash=195496376b013325
+  뜻: ~ 외에
+  설명: 이미 말한 것에 더해 다른 것을 포함할 때 써요.
+  연어: besides that = 그 외에
+  예문1: Who else came besides you? / 너 말고 또 누가 왔니?
+  예문2: Besides English, she speaks French and Spanish. / 그녀는 영어 외에 프랑스어와 스페인어도 한다.
+[conservative|adj|traditional] hash=d158100e7a724cd9
+  뜻: 보수적인
+  설명: 전통을 중시하거나 변화에 신중한 태도·스타일을 말해요.
+  연어: conservative views = 보수적인 견해
+  예문1: My grandparents have very conservative ideas. / 우리 조부모님은 생각이 매우 보수적이시다.
+  예문2: He wore a conservative black suit. / 그는 수수한 검은 정장을 입었다.
+  유의어(오답 제외): traditional
+[medium|n|means] hash=351dc8c79df785eb
+  뜻: 매체; 수단
+  설명: 정보를 전하는 방법이에요.
+  연어: a medium of = ~의 매체
+  예문1: Television is a powerful medium. / 텔레비전은 강력한 매체이다.
+  예문2: English is the medium of instruction at this school. / 이 학교에서는 영어가 수업 언어이다.
+  유의어(오답 제외): means
+[corporation|n|company] hash=ba4578a03a3eb6d6
+  뜻: 기업; 법인
+  설명: 독립된 법적 주체로 사업을 하는 회사예요.
+  연어: a large corporation = 대기업
+  예문1: He works for a big corporation. / 그는 큰 기업에서 일한다.
+  예문2: The corporation has offices in many countries. / 그 기업은 여러 나라에 사무실이 있다.
+  유의어(오답 제외): company
+[reasonable|adj|sensible] hash=fb92223b568aec9b
+  뜻: 합리적인; 적당한
+  설명: 생각이나 요구가 타당하거나 가격이 알맞은 것이에요.
+  연어: a reasonable price = 적당한 가격
+  예문1: The food here is good and the prices are reasonable. / 이곳 음식은 맛있고 가격도 적당하다.
+  예문2: That sounds like a reasonable idea. / 그건 합리적인 생각 같다.
+  유의어(오답 제외): sensible
+[typical|adj|usual] hash=b0ca2db2da2ebd90
+  뜻: 전형적인; 보통의
+  설명: 어떤 종류를 잘 보여 주는 흔한 것이에요.
+  연어: a typical day = 평범한 하루
+  예문1: Describe a typical day at your school. / 너희 학교에서의 평범한 하루를 묘사해라.
+  예문2: A typical day includes classes, homework, and a short break. / 평범한 하루에는 수업과 숙제, 짧은 휴식이 포함된다.
+  유의어(오답 제외): usual
+[random|adj|unplanned] hash=0a2120d987627cfc
+  뜻: 무작위의; 임의의
+  설명: 계획이나 순서 없이 정해지는 것이에요.
+  연어: at random = 무작위로
+  예문1: The winners were chosen at random. / 당첨자는 무작위로 뽑혔다.
+  예문2: He asked me a few random questions. / 그는 나에게 별다른 순서 없이 몇 가지 질문을 했다.
+[chemical|n|substance] hash=e9b9df23a23fa2fc
+  뜻: 화학 물질
+  설명: 화학적 성질을 지닌 물질이에요.
+  연어: harmful chemicals = 해로운 화학 물질
+  예문1: Some cleaning products contain harmful chemicals. / 일부 세제에는 해로운 화학 물질이 들어 있다.
+  예문2: Farmers use fewer chemicals on organic farms. / 유기농 농장에서는 농부들이 화학 물질을 덜 쓴다.
+[depression|n|sadness] hash=a6b00e7b7e829eb5
+  뜻: 우울(증)
+  설명: 오랫동안 우울감과 의욕 저하가 이어지는 정신 질환이에요.
+  연어: suffer from depression = 우울증을 앓다
+  예문1: Depression is a common illness that can be treated. / 우울증은 치료할 수 있는 흔한 질병이다.
+  예문2: Exercise can help reduce depression. / 운동은 우울증을 완화하는 데 도움이 될 수 있다.
+[depression|n|economic-slump] hash=5cddb629a1ce2481
+  뜻: 불황; 불경기
+  설명: 경제가 오랫동안 나빠진 상태예요.
+  연어: an economic depression = 경제 불황
+  예문1: Many people lost their jobs during the depression. / 불황 동안 많은 사람이 일자리를 잃었다.
+  예문2: The country went through a long economic depression. / 그 나라는 긴 경제 불황을 겪었다.
+[severe|adj|serious] hash=e6fcf0b8bb9849c3
+  뜻: 극심한; 심각한
+  설명: 정도나 결과가 매우 심각하거나 극단적인 것이에요.
+  연어: severe pain = 극심한 통증
+  예문1: Some children suffer from severe allergies to nuts. / 어떤 아이들은 견과류에 심한 알레르기가 있다.
+  예문2: She has a severe headache after school today. / 그녀는 오늘 방과 후에 두통이 심하다.
+  유의어(오답 제외): serious
+[severe|adj|strict] hash=a24caf38c94cdc93
+  뜻: 엄한; 가혹한
+  설명: 규칙이나 벌이 엄격한 것이에요.
+  연어: a severe punishment = 가혹한 처벌
+  예문1: The teacher was severe but fair. / 그 선생님은 엄했지만 공정했다.
+  예문2: Cheating leads to severe punishment. / 부정행위에는 엄한 처벌이 따른다.
+  유의어(오답 제외): strict
+[origin|n|beginning] hash=82b01bc66d41e0e4
+  뜻: 기원; 출신
+  설명: 무엇이 시작된 곳이나 사람의 근본·출신을 말해요.
+  연어: the origin of = ~의 기원
+  예문1: The origin of the word is unclear. / 그 단어의 기원은 분명하지 않다.
+  예문2: People of different origins live in this city. / 이 도시에는 출신이 다양한 사람들이 산다.
+  유의어(오답 제외): source
+[significantly|adv|considerably] hash=5dd47c321ae7e573
+  뜻: 상당히; 크게
+  설명: 정도나 양에 눈에 띄게 큰 차이가 있음을 말해요.
+  연어: significantly increase = 크게 증가하다
+  예문1: Prices have risen significantly this year. / 올해 물가가 크게 올랐다.
+  예문2: Her English has improved significantly since last year. / 그녀의 영어 실력은 작년보다 크게 늘었다.
+[reform|n|improvement] hash=6fac39415e075a47
+  뜻: 개혁; 개선
+  설명: 제도를 더 좋게 바꾸는 것이에요.
+  연어: education reform = 교육 개혁
+  예문1: The government promised tax reform. / 정부는 세제 개혁을 약속했다.
+  예문2: Many people support school reform. / 많은 사람이 학교 개혁을 지지한다.
+[retirement|n|stopping-work] hash=12a88bcae1b44019
+  뜻: 은퇴
+  설명: 직장이나 일을 그만두고 은퇴하는 일이에요.
+  연어: after retirement = 은퇴 후에
+  예문1: My grandfather enjoys gardening in his retirement. / 할아버지는 은퇴 후 정원 가꾸기를 즐기신다.
+  예문2: She is saving money for retirement. / 그녀는 은퇴에 대비해 돈을 모으고 있다.
+[regularly|adv|often] hash=57f0f55882c5ec6a
+  뜻: 정기적으로; 규칙적으로
+  설명: 일정한 간격으로 자주를 뜻해요.
+  연어: exercise regularly = 규칙적으로 운동하다
+  예문1: You should exercise regularly to stay healthy. / 건강을 유지하려면 규칙적으로 운동해야 한다.
+  예문2: The bus comes regularly throughout the day. / 버스는 하루 종일 규칙적으로 온다.
+[fairly|adv|justly] hash=900796dd71c6dba3
+  뜻: 공정하게
+  설명: 치우치지 않고 공정한 기준에 따라 대할 때 써요.
+  연어: treat fairly = 공정하게 대하다
+  예문1: The teacher treats all students fairly. / 그 선생님은 모든 학생을 공정하게 대한다.
+  예문2: The prize money was shared fairly. / 상금은 공평하게 나누어졌다.
+[universal|adj|general] hash=7d3a9c0d4e4584a5
+  뜻: 보편적인; 전 세계의
+  설명: 모든 사람이나 모든 경우에 해당하는 것이에요.
+  연어: a universal language = 세계 공통어
+  예문1: Music is a universal language that connects people around the world. / 음악은 전 세계 사람들을 이어 주는 세계 공통어이다.
+  예문2: The desire to be loved is universal. / 사랑받고 싶은 욕구는 보편적이다.
+  유의어(오답 제외): general
+[vast|adj|huge] hash=516d8ce2f49a8de7
+  뜻: 광대한; 막대한
+  설명: 크기나 양이 엄청나게 큰 것이에요.
+  연어: a vast area = 광대한 지역
+  예문1: The vast desert stretched for miles. / 광대한 사막이 끝없이 펼쳐져 있었다.
+  예문2: The vast majority of people agreed. / 압도적 다수의 사람이 동의했다.
+  유의어(오답 제외): enormous
+[relative|n|family-member] hash=be5a6e4420ece591
+  뜻: 친척
+  설명: 가족 관계로 이어진 사람이에요.
+  연어: a close relative = 가까운 친척
+  예문1: We visit our relatives during the holidays. / 우리는 명절에 친척들을 방문한다.
+  예문2: She stayed with a relative in the city. / 그녀는 도시에 사는 친척 집에 머물렀다.
+[relative|adj|comparative] hash=f2b4aca32e2e5407
+  뜻: 상대적인
+  설명: 다른 것과 비교한 것이에요.
+  연어: relative to = ~에 비해
+  예문1: The house was cheap relative to others in the area. / 그 집은 그 지역의 다른 집들에 비해 쌌다.
+  예문2: Beauty is relative to each person's culture and experience. / 아름다움은 사람마다의 문화와 경험에 따라 상대적이다.
+[temporary|adj|short-term] hash=8583841ab1222934
+  뜻: 일시적인; 임시의
+  설명: 잠깐 동안만 계속되는 것이에요.
+  연어: a temporary job = 임시직
+  예문1: She found a temporary job for the summer. / 그녀는 여름 동안 할 임시직을 구했다.
+  예문2: The pain is only temporary, so it should fade soon. / 그 통증은 일시적이라 곧 사라질 것이다.
+[complicated|adj|complex] hash=b073a42cf3401d44
+  뜻: (얽혀서) 복잡한; 까다로운
+  설명: 얽혀서 이해하거나 다루기 까다로운 것이에요.
+  연어: a complicated problem = 복잡한 문제
+  예문1: The instructions are too complicated for most students to follow. / 그 설명서는 대부분의 학생이 따라 하기에 너무 복잡하다.
+  예문2: The situation became more complicated after the storm. / 폭풍이 지나간 뒤 상황은 더 복잡해졌다.
+  유의어(오답 제외): complex
+[impressive|adj|remarkable] hash=1661837c26e9a650
+  뜻: 인상적인; 훌륭한
+  설명: 감탄할 만큼 대단한 것이에요.
+  연어: an impressive result = 인상적인 결과
+  예문1: Her speech was very impressive and inspired the whole audience. / 그녀의 연설은 매우 인상적이었고 청중 모두에게 감동을 주었다.
+  예문2: The building has an impressive design. / 그 건물의 디자인은 인상적이다.
+  유의어(오답 제외): remarkable
+[proposal|n|plan] hash=94cc7eb2661fc71b
+  뜻: 제안; 청혼
+  설명: 계획이나 생각을 제안하거나 결혼을 청하는 일이에요.
+  연어: a marriage proposal = 청혼
+  예문1: The committee accepted our proposal. / 위원회는 우리 제안을 받아들였다.
+  예문2: He made a proposal of marriage on the beach. / 그는 해변에서 청혼했다.
+  유의어(오답 제외): suggestion
+[recognition|n|acknowledgment] hash=b4c40774094e761b
+  뜻: 인정; 인식
+  설명: 사람이나 사실을 알아보거나 가치를 인정하는 것이에요.
+  연어: in recognition of = ~을 인정하여
+  예문1: She received an award in recognition of her work. / 그녀는 업적을 인정받아 상을 받았다.
+  예문2: Face recognition software can unlock your phone. / 얼굴 인식 소프트웨어로 휴대전화 잠금을 풀 수 있다.
+[unusual|adj|uncommon] hash=33d75252d15d4995
+  뜻: 특이한; 흔치 않은
+  설명: 보통과 달라 드문 것이에요.
+  연어: an unusual name = 특이한 이름
+  예문1: It is unusual to see snow in April. / 4월에 눈을 보는 것은 흔치 않다.
+  예문2: She has an unusual talent for drawing. / 그녀는 그림에 남다른 재능이 있다.
+  유의어(오답 제외): uncommon
+[badly|adv|poorly] hash=d299e18dfdd46a60
+  뜻: 나쁘게; 심하게; 몹시
+  설명: 잘못되거나 정도가 심할 때 써요.
+  연어: badly hurt = 심하게 다친
+  예문1: He played badly in the final game. / 그는 결승전에서 경기를 못했다.
+  예문2: She was badly hurt in the accident. / 그녀는 그 사고로 심하게 다쳤다.
+[exposure|n|being-exposed] hash=4696dff67a35ed92
+  뜻: 노출
+  설명: 사람이나 사물이 어떤 환경이나 영향에 놓이는 것이에요.
+  연어: exposure to = ~에의 노출
+  예문1: Too much exposure to the sun can harm your skin. / 햇빛에 너무 많이 노출되면 피부가 상할 수 있다.
+  예문2: Early exposure to English helps children learn. / 어려서부터 영어를 접하면 아이들이 배우는 데 도움이 된다.
+[procedure|n|process] hash=5dc0aaca382b4cf3
+  뜻: 절차; (의료) 시술
+  설명: 정해진 처리 순서나 병원에서 받는 시술을 말해요.
+  연어: safety procedures = 안전 절차
+  예문1: Follow the safety procedures carefully. / 안전 절차를 주의 깊게 따라라.
+  예문2: The doctor performed a minor medical procedure on the patient. / 의사는 환자에게 간단한 의료 시술을 했다.
+  유의어(오답 제외): process
+[commitment|n|dedication] hash=85a1d8ea0ea18e42
+  뜻: 헌신; 약속; 책임
+  설명: 일에 마음을 다하거나 꼭 지켜야 할 약속과 책임이에요.
+  연어: make a commitment = 약속하다
+  예문1: His commitment to the team is impressive. / 팀에 대한 그의 헌신은 인상적이다.
+  예문2: Having a pet is a big commitment. / 반려동물을 키우는 것은 큰 책임이다.
+  유의어(오답 제외): dedication
+[custom|n|border-control] hash=d0853d8633f8bfbe
+  뜻: (customs) 세관
+  설명: 복수형 customs로 공항·항구의 세관을 뜻해요.
+  연어: go through customs = 세관을 통과하다
+  예문1: We went through customs at the airport. / 우리는 공항에서 세관을 통과했다.
+  예문2: Customs officers carefully checked our bags before we left the airport. / 세관원들은 우리가 공항을 떠나기 전에 가방을 꼼꼼히 검사했다.
+[horror|n|terror] hash=2706a2e98952e8bf
+  뜻: 공포; 참상
+  설명: 아주 큰 두려움이나 끔찍한 일이에요.
+  연어: a horror movie = 공포 영화
+  예문1: She screamed in horror when she saw the damaged building. / 그녀는 부서진 건물을 보고 공포에 질려 비명을 질렀다.
+  예문2: The book describes the horrors of war. / 그 책은 전쟁의 참상을 그린다.
+  유의어(오답 제외): terror
+[remote|adj|far] hash=360c46f92ac9240a
+  뜻: 외딴; 먼
+  설명: 멀리 떨어져 있거나 사람이 드문 곳이에요.
+  연어: a remote village = 외딴 마을
+  예문1: They live in a remote village in the mountains. / 그들은 산속 외딴 마을에 산다.
+  예문2: Their remote farmhouse is difficult to reach by bus. / 그들의 외딴 농가는 버스로 가기 어렵다.
+  유의어(오답 제외): distant
+[remote|n|controller] hash=00547d514a78fbfa
+  뜻: 리모컨
+  설명: 떨어진 곳에서 기계를 조작하는 장치예요.
+  연어: the TV remote = 텔레비전 리모컨
+  예문1: Could you hand me the TV remote from the table? / 탁자 위에 있는 텔레비전 리모컨을 건네줄래?
+  예문2: He changed the channel with the remote. / 그는 리모컨으로 채널을 바꿨다.
+[conclusion|n|ending] hash=739642b914f2c310
+  뜻: 결론; 결말
+  설명: 논의 끝에 내린 판단이나 글·이야기의 마지막 부분이에요.
+  연어: come to a conclusion = 결론에 이르다
+  예문1: We came to the conclusion that the plan would work. / 우리는 그 계획이 효과가 있을 것이라는 결론에 이르렀다.
+  예문2: The conclusion of the essay was very strong. / 그 에세이의 결론은 매우 설득력이 있었다.
+  유의어(오답 제외): ending
+[insane|adj|crazy] hash=5a084526c8d9f7d7
+  뜻: 제정신이 아닌; 말도 안 되는
+  설명: 제정신이 아니거나 아주 어리석은 것이에요.
+  연어: go insane = 미치다
+  예문1: It is insane to swim in this cold water. / 이렇게 찬물에서 수영하는 것은 미친 짓이다.
+  예문2: The traffic in downtown Seoul is insane today. / 오늘 서울 시내 교통 체증은 말도 안 된다.
+  유의어(오답 제외): crazy
+[organic|adj|natural] hash=c69f8cd1b7c9eb61
+  뜻: 유기농의; 유기물의
+  설명: 유기농 방식으로 재배하거나 생물에서 비롯된 것이에요.
+  연어: organic food = 유기농 식품
+  예문1: We buy organic vegetables at the market. / 우리는 시장에서 유기농 채소를 산다.
+  예문2: Organic waste can be turned into soil. / 유기물 쓰레기는 흙으로 바꿀 수 있다.
+[spiritual|adj|of-the-soul] hash=ee204acf65b4b5e4
+  뜻: 정신적인; 영적인
+  설명: 마음이나 종교적인 것과 관련된 것이에요.
+  연어: spiritual health = 영적 건강
+  예문1: Music gives me deep spiritual comfort. / 음악은 나에게 깊은 영적 위안을 준다.
+  예문2: The mountain is a spiritual place for local people. / 그 산은 지역 사람들에게 영적인 장소이다.
+[abroad|adv|overseas] hash=dd2e52111a4f6c08
+  뜻: 해외에서; 해외로
+  설명: 다른 나라에 있거나 그곳으로 가는 것을 뜻해요.
+  연어: study abroad = 유학하다
+  예문1: She wants to study abroad after high school. / 그녀는 고등학교 졸업 후 유학하고 싶어 한다.
+  예문2: My uncle often travels abroad for work. / 삼촌은 일 때문에 해외에 자주 가신다.
+  유의어(오답 제외): overseas
+[atlantic|adj|ocean] hash=d1c31ac894b12afc
+  뜻: 대서양의
+  설명: 유럽·아프리카와 아메리카 사이의 바다와 관련돼요.
+  연어: the Atlantic Ocean = 대서양
+  예문1: Atlantic winds often bring cool air to the eastern coast. / 대서양의 바람은 종종 동부 해안에 서늘한 공기를 가져온다.
+  예문2: Scientists study Atlantic currents to understand regional climates. / 과학자들은 지역 기후를 이해하려고 대서양 해류를 연구한다.
+[compete|v|contend] hash=d1b90c93ba65726d
+  뜻: 경쟁하다; 시합에 나가다
+  설명: 이기려고 다른 사람과 겨룰 때 써요.
+  연어: compete with = ~와 경쟁하다
+  예문1: Small shops find it hard to compete with big stores. / 작은 가게들은 큰 상점과 경쟁하기 어렵다.
+  예문2: She will compete in the national swimming contest. / 그녀는 전국 수영 대회에 출전할 것이다.
+[angle|n|corner-measure] hash=a9cd56acca82839b
+  뜻: 각; 각도
+  설명: 두 선이 만나 이루는 벌어진 정도예요.
+  연어: a right angle = 직각
+  예문1: A square has four right angles. / 정사각형에는 직각이 네 개 있다.
+  예문2: The two lines meet at a sharp angle. / 두 선은 예각으로 만난다.
+[angle|n|viewpoint] hash=5ece2d4e19695abc
+  뜻: 관점
+  설명: 어떤 일을 바라보는 방향이에요.
+  연어: from every angle = 모든 관점에서
+  예문1: Let us look at the problem from a new angle. / 새로운 관점에서 그 문제를 보자.
+  예문2: The issue looks different from a child's angle. / 아이의 관점에서 보면 그 문제는 다르게 보인다.
+  유의어(오답 제외): viewpoint
+[efficiency|n|productivity] hash=7f66445641262435
+  뜻: 효율(성)
+  설명: 적은 노력으로 많은 결과를 내는 정도예요.
+  연어: energy efficiency = 에너지 효율
+  예문1: New machines improved the efficiency of the factory. / 새 기계가 공장의 효율을 높였다.
+  예문2: LED lights have much higher energy efficiency than old bulbs. / LED 조명은 옛 전구보다 에너지 효율이 훨씬 높다.
+[funeral|n|burial-ceremony] hash=de3138c476e64b62
+  뜻: 장례식
+  설명: 죽은 사람을 보내는 의식이에요.
+  연어: attend a funeral = 장례식에 참석하다
+  예문1: Many people attended his funeral last Saturday. / 지난 토요일 많은 사람이 그의 장례식에 참석했다.
+  예문2: She wore black to the funeral. / 그녀는 장례식에 검은 옷을 입었다.
+[merely|adv|only] hash=3c904fff78c6ab51
+  뜻: 단지; 그저
+  설명: 그 이상은 아님을 강조해요.
+  연어: merely a joke = 그저 농담
+  예문1: It was merely a joke about our school schedule. / 우리 학교 일정을 두고 한 농담일 뿐이었다.
+  예문2: He is merely trying to help you. / 그는 단지 너를 도우려는 것뿐이다.
+  유의어(오답 제외): only
+[reverse|v|turn-back] hash=af8209bc5fc17976
+  뜻: 뒤바꾸다; 뒤집다
+  설명: 방향이나 결정을 반대로 바꿀 때 써요.
+  연어: reverse a decision = 결정을 번복하다
+  예문1: The court reversed its earlier decision. / 법원은 이전 판결을 뒤집었다.
+  예문2: The new evidence reversed the court's earlier ruling. / 새로운 증거가 법원의 이전 판결을 뒤집었다.
+[survival|n|staying-alive] hash=cef0a59c725e0e4c
+  뜻: 생존
+  설명: 살아남는 것이에요.
+  연어: fight for survival = 생존을 위해 싸우다
+  예문1: Clean water is essential for survival in harsh conditions. / 혹독한 환경에서는 깨끗한 물이 생존에 꼭 필요하다.
+  예문2: Many animals fight for survival in winter. / 많은 동물이 겨울에 살아남으려고 애쓴다.
+[extraordinary|adj|remarkable] hash=ba88679b7b489c8d
+  뜻: 비범한; 놀라운
+  설명: 보통을 훨씬 넘어서는 것이에요.
+  연어: an extraordinary talent = 비범한 재능
+  예문1: She has an extraordinary memory for faces. / 그녀는 얼굴을 기억하는 데 놀라운 능력이 있다.
+  예문2: It was an extraordinary experience for our whole class. / 우리 반 모두에게 정말 놀라운 경험이었다.
+  유의어(오답 제외): remarkable
+[fate|n|destiny] hash=620fc84ed161b1c5
+  뜻: 운명
+  설명: 이미 정해져 있다고 여겨지는 앞날이에요.
+  연어: a twist of fate = 운명의 장난
+  예문1: It was fate that we met again in Paris. / 우리가 파리에서 다시 만난 것은 운명이었다.
+  예문2: Nobody knows what fate has in store. / 운명이 무엇을 준비해 두었는지 아무도 모른다.
+  유의어(오답 제외): destiny
+[logic|n|reasoning] hash=10931429b061b7e2
+  뜻: 논리
+  설명: 올바르게 생각하고 판단하는 방법이에요.
+  연어: the logic of = ~의 논리
+  예문1: I do not understand the logic behind this rule. / 나는 이 규칙에 담긴 논리를 이해하지 못하겠다.
+  예문2: Studying math helps students improve their logic. / 수학을 공부하면 학생들의 논리력이 좋아진다.
+  유의어(오답 제외): reason
+[objective|adj|fair] hash=4cf94b256c334ba8
+  뜻: 객관적인
+  설명: 개인적인 감정 없이 사실에 근거한 것이에요.
+  연어: an objective view = 객관적인 시각
+  예문1: A judge must remain objective when hearing both sides. / 판사는 양측의 말을 들을 때 객관성을 유지해야 한다.
+  예문2: Try to give an objective opinion. / 객관적인 의견을 내려고 노력해라.
+  유의어(오답 제외): fair
+[roughly|adv|about] hash=03c42cd8b491fd7d
+  뜻: 대략; 거칠게
+  설명: 정확하지 않게 대강이나 함부로를 뜻해요.
+  연어: roughly speaking = 대략 말하면
+  예문1: Roughly thirty people came to the meeting. / 대략 서른 명이 회의에 왔다.
+  예문2: He pushed the door roughly to force it open. / 그는 문을 억지로 열려고 거칠게 밀었다.
+  유의어(오답 제외): approximately
+[contribution|n|donation] hash=247eb2f8c1d06076
+  뜻: 기여; 기부금
+  설명: 도움이 되도록 보탠 것이에요.
+  연어: make a contribution = 기여하다
+  예문1: She made a great contribution to science. / 그녀는 과학에 큰 기여를 했다.
+  예문2: We thank everyone for their contributions. / 우리는 모두의 기여에 감사한다.
+  유의어(오답 제외): donation
+[commit|v|do-wrong] hash=1b8435c8fb2af8c2
+  뜻: (죄를) 저지르다
+  설명: 나쁜 일이나 범죄를 할 때 써요.
+  연어: commit a crime = 범죄를 저지르다
+  예문1: He was arrested for committing a crime. / 그는 범죄를 저질러 체포되었다.
+  예문2: He was sent to prison for a crime he did not commit. / 그는 저지르지도 않은 범죄로 감옥에 갔다.
+[elementary|adj|basic] hash=9dcade8212c3d8ae
+  뜻: 기초적인; 초등의
+  설명: 가장 기초적이거나 교육의 첫 단계인 것이에요.
+  연어: elementary school = 초등학교
+  예문1: My little brother goes to elementary school. / 내 남동생은 초등학교에 다닌다.
+  예문2: The textbook explains elementary math with clear examples. / 그 교과서는 분명한 예로 기초 수학을 설명한다.
+  유의어(오답 제외): basic
+[ethnic|adj|cultural-group] hash=7cf32b7af6ee9695
+  뜻: 민족의; 인종의
+  설명: 같은 문화나 언어를 가진 집단과 관련된 것이에요.
+  연어: ethnic groups = 민족 집단
+  예문1: Many ethnic groups live together in this city. / 이 도시에는 많은 민족이 함께 산다.
+  예문2: The restaurant serves ethnic food from Asia. / 그 식당은 아시아 여러 지역의 전통 음식을 판다.
+[infection|n|disease] hash=d1dd0d056796cec0
+  뜻: 감염; 감염증
+  설명: 세균이나 바이러스가 몸에 들어오는 것이에요.
+  연어: an ear infection = 귀 감염
+  예문1: Wash your hands to prevent infection. / 감염을 막으려면 손을 씻어라.
+  예문2: She has a throat infection and needs a few days of rest. / 그녀는 목 감염으로 며칠 쉬어야 한다.
+  유의어(오답 제외): disease
+[priest|n|religious-leader] hash=a5224addac84cfd5
+  뜻: 성직자; 신부
+  설명: 종교 의식을 이끄는 사람이에요.
+  연어: a Catholic priest = 가톨릭 신부
+  예문1: The priest led the ceremony at the small village church. / 성직자가 작은 마을 교회에서 의식을 이끌었다.
+  예문2: He studied for many years to become a priest. / 그는 성직자가 되려고 여러 해 동안 공부했다.
+  유의어(오답 제외): minister
+[innovation|n|new-idea] hash=7888adabe429549e
+  뜻: 혁신; 새로운 것
+  설명: 새로운 방법이나 발명이에요.
+  연어: technological innovation = 기술 혁신
+  예문1: The smartphone was a great innovation. / 스마트폰은 획기적인 혁신이었다.
+  예문2: The company is known for innovation. / 그 회사는 혁신으로 알려져 있다.
+[registration|n|signing-up] hash=d6be16bfea80124d
+  뜻: 등록
+  설명: 사람이나 물건을 공식적으로 등록하는 일이에요.
+  연어: online registration = 온라인 등록
+  예문1: Registration for the camp starts next week. / 캠프 등록은 다음 주에 시작된다.
+  예문2: You need to show your car registration. / 차량 등록증을 보여 주어야 한다.
+[partly|adv|partially] hash=16b668a561089007
+  뜻: 부분적으로; 어느 정도
+  설명: 전부가 아니라 일부임을 나타내요.
+  연어: partly because = 부분적으로 ~ 때문에
+  예문1: The accident was partly my fault. / 그 사고는 부분적으로 내 잘못이었다.
+  예문2: It was partly cloudy all day. / 하루 종일 구름이 조금 끼었다.
+  유의어(오답 제외): partially
+[intelligent|adj|smart] hash=e93246ecbe8eab02
+  뜻: 똑똑한; 지능이 있는
+  설명: 생각하고 배우는 능력이 뛰어난 것이에요.
+  연어: an intelligent student = 똑똑한 학생
+  예문1: Dolphins are very intelligent animals. / 돌고래는 매우 영리한 동물이다.
+  예문2: She asked an intelligent question. / 그녀는 통찰력 있는 질문을 했다.
+  유의어(오답 제외): smart
+[overseas|adj|foreign] hash=3d32fc634e2a2327
+  뜻: 해외의
+  설명: 다른 나라의 것이에요.
+  연어: overseas students = 해외 유학생
+  예문1: The university has many overseas students. / 그 대학에는 외국에서 온 학생이 많다.
+  예문2: Overseas sales increased last year. / 작년에 해외 판매가 늘었다.
+  유의어(오답 제외): foreign
+[frequent|adj|happening-often] hash=1825ba8049e224dd
+  뜻: 잦은; 빈번한
+  설명: 자주 일어나는 것이에요.
+  연어: frequent visits = 잦은 방문
+  예문1: Frequent exercise is good for your health. / 자주 운동하는 것은 건강에 좋다.
+  예문2: There are frequent buses to the airport. / 공항행 버스가 자주 다닌다.
+[encounter|v|meet] hash=a05a2e539c365df0
+  뜻: 마주치다; 맞닥뜨리다
+  설명: 뜻밖에 만나거나 문제를 겪을 때 써요.
+  연어: encounter a problem = 문제에 부딪히다
+  예문1: We encountered heavy traffic on the way. / 우리는 가는 길에 심한 교통 체증을 겪었다.
+  예문2: Scientists encountered many problems in their research. / 과학자들은 연구 중에 많은 문제에 부딪혔다.
+  유의어(오답 제외): meet
+[pursue|v|chase-goal] hash=59a144ce00b99364
+  뜻: 추구하다; 뒤쫓다
+  설명: 목표를 이루려고 계속 노력할 때 써요.
+  연어: pursue a dream = 꿈을 좇다
+  예문1: She decided to pursue a career in music. / 그녀는 음악 분야의 직업을 추구하기로 결심했다.
+  예문2: The police pursued the thief through the streets. / 경찰은 거리를 지나며 도둑을 뒤쫓았다.
+  유의어(오답 제외): chase
+[venture|n|risky-project] hash=4d8fd7e58f0bad00
+  뜻: 모험적 사업
+  설명: 위험이 따르는 새로운 사업이에요.
+  연어: a business venture = 모험적인 사업
+  예문1: Their new business venture was a success. / 그들의 새 사업은 성공했다.
+  예문2: Starting a cafe is a risky venture. / 카페를 여는 것은 위험한 모험이다.
+[conventional|adj|traditional] hash=92307c56702a7407
+  뜻: 관습적인; 전통적인
+  설명: 흔히 해 오던 방식인 것이에요.
+  연어: conventional methods = 전통적인 방법
+  예문1: Conventional farming uses a lot of chemicals. / 관행 농법은 화학 물질을 많이 쓴다.
+  예문2: She chose a conventional career as a lawyer. / 그녀는 변호사라는 일반적인 진로를 택했다.
+  유의어(오답 제외): traditional
+[nevertheless|adv|however] hash=28d03d93610077cb
+  뜻: 그럼에도 불구하고
+  설명: 앞 내용과 반대되는 사실을 말할 때 써요.
+  연어: nevertheless, ... = 그럼에도
+  예문1: The task was difficult; nevertheless, we finished it. / 그 일은 어려웠지만 그럼에도 우리는 끝냈다.
+  예문2: It was raining. Nevertheless, the game went on. / 비가 오고 있었다. 그럼에도 경기는 계속되었다.
+  유의어(오답 제외): however
+[neutral|adj|impartial] hash=d2011899f22b78a5
+  뜻: 중립의; 중성의
+  설명: 어느 편도 들지 않거나 치우치지 않은 것이에요.
+  연어: stay neutral = 중립을 지키다
+  예문1: The country stayed neutral during the war. / 그 나라는 전쟁 동안 중립을 지켰다.
+  예문2: Gray is a neutral color. / 회색은 무채색이다.
+  유의어(오답 제외): impartial
+[pat|v|tap-gently] hash=aa17ac232bbeabe5
+  뜻: 토닥이다; 가볍게 두드리다
+  설명: 손바닥으로 가볍게 칠 때 써요.
+  연어: pat on the back = 등을 토닥이다
+  예문1: My coach patted me on the back after the game. / 경기가 끝난 뒤 코치님이 내 등을 토닥여 주셨다.
+  예문2: She patted the dog gently on the head. / 그녀는 개의 머리를 부드럽게 토닥였다.
+  유의어(오답 제외): tap
+[popularity|n|being-liked] hash=d67c155485671db6
+  뜻: 인기
+  설명: 많은 사람이 좋아하는 정도예요.
+  연어: gain popularity = 인기를 얻다
+  예문1: The game quickly gained popularity among teens. / 그 게임은 십 대들 사이에서 빠르게 인기를 얻었다.
+  예문2: The singer's popularity has grown worldwide. / 그 가수의 인기는 전 세계적으로 높아졌다.
+[shed|v|reveal] hash=1994acf70d19b254
+  뜻: (빛을) 비추다; 밝히다
+  설명: shed light on으로 어떤 사실을 밝혀 이해를 도울 때 써요.
+  연어: shed light on = ~을 밝히다
+  예문1: The new study sheds light on how memory works. / 새 연구는 기억이 어떻게 작동하는지 밝혀 준다.
+  예문2: The letters shed light on her early life. / 그 편지들은 그녀의 어린 시절을 밝혀 준다.
+[substance|n|meaning] hash=3f7a9f35e38a6781
+  뜻: 요지; 실체
+  설명: 겉모습이 아닌 실제 내용이나 핵심을 가리켜요.
+  연어: lack substance = 알맹이가 없다
+  예문1: The speech was long but had little substance. / 그 연설은 길었지만 알맹이가 거의 없었다.
+  예문2: What was the substance of their argument? / 그들 논쟁의 요지는 무엇이었니?
+[pension|n|retirement-money] hash=71005c639aeb14d8
+  뜻: 연금
+  설명: 은퇴 후 정기적으로 받는 돈이에요.
+  연어: a monthly pension = 매달 받는 연금
+  예문1: My grandparents live on their pension. / 조부모님은 연금으로 생활하신다.
+  예문2: Workers pay into a pension fund every month. / 노동자들은 매달 연금 기금에 돈을 낸다.
+[permit|v|allow] hash=2736ea55b4ed7e4f
+  뜻: (공식적으로) 허가하다; 허락하다
+  설명: 규칙이나 사람이 어떤 일을 하도록 허락할 때 써요.
+  연어: be permitted to = ~하는 것이 허용되다
+  예문1: Smoking is not permitted in the building. / 건물 안에서는 흡연이 허용되지 않는다.
+  예문2: The teacher permitted us to leave early. / 선생님은 우리가 일찍 나가도록 허락하셨다.
+  유의어(오답 제외): allow
+[unemployment|n|joblessness] hash=9d813a2d5ead96c0
+  뜻: 실업; 실업률
+  설명: 일자리가 없는 상태나 그 비율을 말해요.
+  연어: high unemployment = 높은 실업률
+  예문1: Unemployment rose during the crisis. / 위기 동안 실업률이 올랐다.
+  예문2: Youth unemployment is a serious problem. / 청년 실업은 심각한 문제이다.
+[excess|n|too-much] hash=1c7647cf1541d18b
+  뜻: 초과; 과잉
+  설명: 필요한 것보다 많은 양이에요.
+  연어: in excess of = ~을 초과하여
+  예문1: Eating sugar in excess is bad for your teeth. / 설탕을 과하게 먹는 것은 이에 나쁘다.
+  예문2: Too much of anything is bad, so avoid excess. / 무엇이든 지나치면 해로우니 과도함을 피해라.
+[identical|adj|same] hash=10b661ae145bd72d
+  뜻: 동일한; 똑같은
+  설명: 모든 면에서 같은 것이에요.
+  연어: identical twins = 일란성 쌍둥이
+  예문1: The two pictures look almost exactly identical. / 두 그림은 거의 똑같아 보인다.
+  예문2: They are identical twins who look remarkably alike. / 그들은 놀라울 만큼 닮은 일란성 쌍둥이다.
+  유의어(오답 제외): same
+[skip|v|miss] hash=270cca4572781b19
+  뜻: 건너뛰다; 거르다
+  설명: 해야 할 것을 하지 않고 넘어갈 때 써요.
+  연어: skip breakfast = 아침을 거르다
+  예문1: You should not skip breakfast before a long school day. / 긴 학교 일과 전에는 아침을 거르면 안 된다.
+  예문2: Let us skip this question and come back to it later. / 이 문제는 건너뛰고 나중에 다시 보자.
+[skip|v|jump] hash=e3bd4b6b7c0ed624
+  뜻: 깡충깡충 뛰다
+  설명: 가볍게 뛰어가는 것이에요.
+  연어: skip rope = 줄넘기하다
+  예문1: The children skipped happily down the road. / 아이들은 길을 따라 신나게 깡충깡충 뛰어갔다.
+  예문2: Skipping rope every morning is good exercise. / 매일 아침 줄넘기를 하는 것은 좋은 운동이다.
+[patience|n|tolerance] hash=d09394201fe2c598
+  뜻: 인내심
+  설명: 어려움이나 불편을 참고 견디는 능력이에요.
+  연어: lose patience = 인내심을 잃다
+  예문1: Teaching young children requires a lot of patience. / 어린아이를 가르치려면 많은 인내심이 필요하다.
+  예문2: I am losing my patience with this slow computer. / 이 느린 컴퓨터 때문에 인내심을 잃어 가고 있다.
+[preserve|v|protect] hash=6af3c8f73de683d1
+  뜻: 보존하다; 지키다
+  설명: 좋은 상태로 오래 지킬 때 써요.
+  연어: preserve nature = 자연을 보존하다
+  예문1: We must preserve our forests for the future. / 우리는 미래를 위해 숲을 보존해야 한다.
+  예문2: Salt is used to preserve fish. / 소금은 생선을 보존하는 데 쓰인다.
+  유의어(오답 제외): protect
+[uncomfortable|adj|uneasy] hash=784c85930d077e69
+  뜻: 불편한
+  설명: 몸이나 마음이 편하지 않은 것이에요.
+  연어: feel uncomfortable = 불편함을 느끼다
+  예문1: These shoes are uncomfortable after a long walk. / 이 신발은 오래 걸으면 불편하다.
+  예문2: I felt uncomfortable when everyone looked at me. / 모두가 나를 쳐다보자 나는 불편했다.
+[weakness|n|weak-point] hash=5e2cb15deb929732
+  뜻: 약점; 약함
+  설명: 부족하거나 약한 부분이에요.
+  연어: a weakness for = ~을 몹시 좋아함
+  예문1: Everyone has strengths and weaknesses in different areas. / 누구에게나 분야마다 강점과 약점이 있다.
+  예문2: Chocolate is my weakness when I feel stressed. / 스트레스를 받을 때 나는 초콜릿에 약하다.
+[accessible|adj|reachable] hash=df2deb1dddcf2efb
+  뜻: 접근·이용하기 쉬운; 이해하기 쉬운
+  설명: 쉽게 접근하거나 이용할 수 있고 이해하기 쉬운 것이에요.
+  연어: easily accessible = 쉽게 이용할 수 있는
+  예문1: The museum is accessible by subway. / 그 박물관은 지하철로 갈 수 있다.
+  예문2: The book is written in accessible language. / 그 책은 이해하기 쉬운 말로 쓰여 있다.
+  유의어(오답 제외): available
+[acknowledge|v|admit] hash=71d929f19a5edcb6
+  뜻: 인정하다; 감사를 표하다
+  설명: 사실이나 도움을 받아들이고 밝힐 때 써요.
+  연어: acknowledge a mistake = 실수를 인정하다
+  예문1: He acknowledged that he had made a mistake. / 그는 자신이 실수했다는 것을 인정했다.
+  예문2: The author acknowledged everyone who helped her. / 저자는 자신을 도와준 모든 사람의 공을 인정했다.
+  유의어(오답 제외): admit
+[collapse|n|breakdown] hash=77f2227a4531beca
+  뜻: 붕괴; 쓰러짐
+  설명: 무너지거나 실패하는 것이에요.
+  연어: economic collapse = 경제 붕괴
+  예문1: The collapse of the building killed no one. / 그 건물이 무너졌지만 사망자는 없었다.
+  예문2: The country faced economic collapse after years of conflict. / 그 나라는 수년간의 분쟁 끝에 경제 붕괴에 직면했다.
+[endless|adj|infinite] hash=cae77b9107533b54
+  뜻: 끝없는
+  설명: 끝이 없는 것처럼 계속되는 것이에요.
+  연어: endless possibilities = 무한한 가능성
+  예문1: The desert seemed endless under the hot afternoon sun. / 뜨거운 오후 햇볕 아래 사막은 끝이 없어 보였다.
+  예문2: There are endless things to do in the city. / 그 도시에는 할 것이 끝도 없이 많다.
+  유의어(오답 제외): infinite
+[grain|n|cereal] hash=894864cdd4226a24
+  뜻: 곡물; 낟알
+  설명: 쌀·밀 같은 곡식이나 그 알갱이예요.
+  연어: whole grain = 통곡물
+  예문1: Rice and wheat are important grains. / 쌀과 밀은 중요한 곡물이다.
+  예문2: A grain of rice was stuck to the bottom of the bowl. / 밥그릇 바닥에 쌀알 하나가 붙어 있었다.
+  유의어(오답 제외): cereal
+[patent|n|invention-right] hash=6b376d11aac7bd84
+  뜻: 특허(권)
+  설명: 발명을 일정 기간 독점적으로 이용할 수 있게 하는 권리예요.
+  연어: apply for a patent = 특허를 신청하다
+  예문1: She received a patent for her new design. / 그녀는 새 디자인으로 특허를 받았다.
+  예문2: The company holds many patents for its new technology. / 그 회사는 새 기술에 관한 특허를 많이 보유하고 있다.
+[restore|v|bring-back] hash=1e99e3b631e43ffd
+  뜻: 회복시키다; 복원하다
+  설명: 원래 상태로 되돌릴 때 써요.
+  연어: restore power = 전기를 복구하다
+  예문1: Workers restored power after the storm. / 폭풍 후 작업자들이 전기를 복구했다.
+  예문2: They restored the old palace after years of careful work. / 그들은 수년간의 세심한 작업 끝에 옛 궁전을 복원했다.
+  유의어(오답 제외): repair
+[tropical|adj|hot-region] hash=c4ced05e49cfdcc1
+  뜻: 열대의
+  설명: 덥고 습한 지역과 관련된 것이에요.
+  연어: a tropical island = 열대 섬
+  예문1: Bananas grow well in many tropical countries. / 바나나는 많은 열대 국가에서 잘 자란다.
+  예문2: The tropical rainforest is home to many animals. / 열대 우림에는 많은 동물이 산다.
+[crush|v|squeeze] hash=2b7f9e6d85e8a892
+  뜻: 으깨다; 짓밟다
+  설명: 세게 눌러 부수거나 기세를 꺾을 때 써요.
+  연어: crush garlic = 마늘을 으깨다
+  예문1: Crush the garlic before you add it to the pan. / 팬에 넣기 전에 마늘을 으깨라.
+  예문2: The army crushed the rebellion after several weeks of fighting. / 군대는 몇 주간의 전투 끝에 반란을 진압했다.
+  유의어(오답 제외): squeeze
+[crush|n|infatuation] hash=6d33ecd09e15922f
+  뜻: 홀딱 반함
+  설명: 누군가에게 강하게 끌리거나 좋아하는 마음이에요.
+  연어: have a crush on = ~에게 반하다
+  예문1: He has a crush on a girl in his class. / 그는 같은 반 여학생에게 반했다.
+  예문2: My first crush was in middle school. / 내 첫 짝사랑은 중학교 때였다.
+[resolve|v|solve] hash=cf35705b82353619
+  뜻: (문제를) 풀다; 해결하다
+  설명: 문제나 다툼을 풀 때 써요.
+  연어: resolve a conflict = 갈등을 해결하다
+  예문1: The two sides resolved their differences through talks. / 양측은 대화를 통해 의견 차이를 해결했다.
+  예문2: The problem was quickly resolved by the school staff. / 그 문제는 학교 직원들이 빠르게 해결했다.
+  유의어(오답 제외): solve
+[apologize|v|say-sorry] hash=5b7a6876593d939b
+  뜻: 사과하다
+  설명: 잘못에 대해 미안하다고 말할 때 써요.
+  연어: apologize for = ~에 대해 사과하다
+  예문1: He apologized for being late to the meeting. / 그는 회의에 늦은 것에 대해 사과했다.
+  예문2: You should apologize to your sister. / 너는 여동생에게 사과해야 한다.
+[realistic|adj|practical] hash=e1a833a79d9f06b9
+  뜻: 현실적인; 사실적인
+  설명: 실제로 이룰 수 있거나 진짜 같은 것이에요.
+  연어: a realistic goal = 현실적인 목표
+  예문1: Set realistic goals for yourself before the semester begins. / 학기가 시작되기 전에 스스로 현실적인 목표를 세워라.
+  예문2: The painting looks very realistic from a short distance. / 그 그림은 가까이서 보면 매우 사실적이다.
+  유의어(오답 제외): practical
+[satisfaction|n|contentment] hash=9249043f6126d84b
+  뜻: 만족(감)
+  설명: 원하는 것이 채워졌을 때의 기쁨이에요.
+  연어: job satisfaction = 직업 만족도
+  예문1: She felt great satisfaction after finishing the project. / 그녀는 프로젝트를 끝낸 뒤 큰 만족감을 느꼈다.
+  예문2: Customer satisfaction is our top priority this year. / 올해 고객 만족이 우리의 최우선 과제이다.
+[accomplished|adj|skilled] hash=40c5f4bee318d4d6
+  뜻: 숙달된; 뛰어난
+  설명: 기술이나 재능이 아주 좋은 것이에요.
+  연어: an accomplished pianist = 뛰어난 피아니스트
+  예문1: She is an accomplished violinist with many awards. / 그녀는 상을 많이 받은 뛰어난 바이올리니스트이다.
+  예문2: He is an accomplished writer of short stories. / 그는 단편 소설을 잘 쓰는 작가이다.
+  유의어(오답 제외): skilled
+[admission|n|entry] hash=3753a45c753427eb
+  뜻: 입장 허가; 입학; 입장료
+  설명: 들어가는 것이나 들어가는 데 내는 돈이에요.
+  연어: free admission = 무료 입장
+  예문1: Admission to the museum is free on Sundays. / 일요일에는 박물관 입장료가 무료다.
+  예문2: She applied for admission to a medical school. / 그녀는 의대 입학을 지원했다.
+  유의어(오답 제외): entry
+[compromise|v|give-and-take] hash=1cfe4a3bca18e053
+  뜻: 타협하다
+  설명: 서로 양보해서 합의할 때 써요.
+  연어: be willing to compromise = 타협할 의향이 있다
+  예문1: My brother and I compromised on which movie to watch. / 형과 나는 어떤 영화를 볼지 타협했다.
+  예문2: Both countries refused to compromise during the long negotiations. / 두 나라 모두 긴 협상 동안 타협을 거부했다.
+[strain|n|stress] hash=1cd2f19699b78bc9
+  뜻: 부담; 압박
+  설명: 몸이나 마음에 가해지는 큰 압력이에요.
+  연어: under strain = 압박을 받는
+  예문1: The long hours put a strain on her health. / 긴 근무 시간이 그녀의 건강에 부담을 주었다.
+  예문2: Money problems put a strain on the family. / 돈 문제가 그 가족에게 압박을 주었다.
+  유의어(오답 제외): stress
+[strain|v|overwork] hash=902563e0ee7a46fd
+  뜻: 무리하게 쓰다; 혹사하다
+  설명: 몸의 일부를 너무 많이 쓸 때 써요.
+  연어: strain your eyes = 눈을 혹사하다
+  예문1: Do not strain your eyes by reading in the dark. / 어두운 곳에서 책을 읽어 눈을 혹사하지 마라.
+  예문2: He strained a muscle while lifting the box. / 그는 상자를 들다가 근육을 다쳤다.
+[vertical|adj|upright] hash=edb6aecee558143d
+  뜻: 수직의; 세로의
+  설명: 위아래로 곧게 선 것이에요.
+  연어: a vertical line = 수직선
+  예문1: Draw a vertical line down the middle of the page. / 쪽 가운데에 세로선을 그어라.
+  예문2: The cliff is almost vertical on this side. / 그 절벽은 이쪽이 거의 수직이다.
+[addiction|n|dependence] hash=9cd617f544b20fad
+  뜻: 중독
+  설명: 어떤 것을 끊지 못하는 상태예요.
+  연어: internet addiction = 인터넷 중독
+  예문1: Smartphone addiction is common among teenagers. / 스마트폰 중독은 십 대들 사이에서 흔하다.
+  예문2: He got help for his addiction. / 그는 중독 문제로 도움을 받았다.
+  유의어(오답 제외): dependence
+[beam|n|ray] hash=ae56ce91c3063768
+  뜻: 빛줄기; 들보
+  설명: 건물을 받치는 긴 구조물이나 한 방향으로 나아가는 빛줄기예요.
+  연어: a beam of light = 한 줄기 빛
+  예문1: A beam of light came through the window. / 한 줄기 빛이 창문으로 들어왔다.
+  예문2: The roof is supported by wooden beams. / 그 지붕은 나무 들보가 받치고 있다.
+  유의어(오답 제외): ray
+[instruction|n|direction] hash=a5cddc3205b13b2b
+  뜻: 지시; 설명
+  설명: 무엇을 어떻게 하라는 말이나 글이에요.
+  연어: follow instructions = 지시를 따르다
+  예문1: Read the instructions carefully before you start. / 시작하기 전에 설명서를 주의 깊게 읽어라.
+  예문2: The teacher gave clear instructions before the activity began. / 선생님은 활동이 시작되기 전에 분명하게 지시하셨다.
+  유의어(오답 제외): direction
+[justify|v|defend] hash=41c36a382865e49f
+  뜻: 정당화하다; 해명하다
+  설명: 옳다는 이유를 댈 때 써요.
+  연어: justify a decision = 결정을 정당화하다
+  예문1: How can you justify spending so much money? / 그렇게 많은 돈을 쓴 것을 어떻게 정당화할 수 있니?
+  예문2: Nothing can justify violence against innocent people. / 어떤 것도 죄 없는 사람들에 대한 폭력을 정당화할 수 없다.
+  유의어(오답 제외): defend
+[patrol|v|guard] hash=7830b189f99f28cc
+  뜻: 순찰하다
+  설명: 지역을 돌아다니며 지킬 때 써요.
+  연어: patrol the streets = 거리를 순찰하다
+  예문1: Police officers patrol the park at night. / 경찰관들이 밤에 공원을 순찰한다.
+  예문2: Guards patrolled the border throughout the night. / 경비병들은 밤새 국경을 순찰했다.
+  유의어(오답 제외): guard
+[acquire|v|obtain] hash=6a7dfdfa84a659a2
+  뜻: 습득하다; 얻다
+  설명: 지식이나 기술을 배우거나 물건을 얻을 때 써요.
+  연어: acquire skills = 기술을 습득하다
+  예문1: Children acquire language naturally through daily interaction. / 아이들은 일상의 상호 작용을 통해 자연스럽게 언어를 습득한다.
+  예문2: The museum acquired a rare painting. / 그 박물관은 희귀한 그림을 손에 넣었다.
+  유의어(오답 제외): obtain
+[alike|adj|similar] hash=23e0ff99861c5676
+  뜻: 비슷한; 닮은
+  설명: 서로 많이 같은 것이에요.
+  연어: look alike = 닮아 보이다
+  예문1: The two sisters look very much alike. / 두 자매는 정말 많이 닮았다.
+  예문2: No two snowflakes are exactly alike in shape. / 모양이 완전히 똑같은 눈송이는 하나도 없다.
+  유의어(오답 제외): similar
+[boundary|n|border] hash=05f27ee9fca867be
+  뜻: 경계(선); 한계
+  설명: 지역을 나누는 선이나 범위의 한계예요.
+  연어: national boundaries = 국경
+  예문1: The river forms the boundary between the two towns. / 그 강이 두 마을의 경계를 이룬다.
+  예문2: Science keeps pushing the boundaries of knowledge. / 과학은 계속해서 지식의 경계를 넓혀 간다.
+  유의어(오답 제외): border
+[courtesy|n|politeness] hash=ca469502f3539813
+  뜻: 예의; 호의
+  설명: 공손한 태도나 남을 위해 베푸는 호의예요.
+  연어: common courtesy = 기본 예의
+  예문1: It is common courtesy to say thank you. / 고맙다고 말하는 것은 기본 예의이다.
+  예문2: The hotel offers free coffee as a courtesy. / 그 호텔은 서비스로 무료 커피를 제공한다.
+  유의어(오답 제외): politeness
+[flexible|adj|adaptable] hash=e6c9267a7b5df331
+  뜻: 유연한; 융통성 있는
+  설명: 쉽게 구부러지거나 상황에 맞게 바뀌는 것이에요.
+  연어: flexible hours = 유연 근무 시간
+  예문1: Rubber is a flexible material used in many products. / 고무는 여러 제품에 쓰이는 유연한 소재이다.
+  예문2: My work schedule is flexible during the summer months. / 내 근무 일정은 여름 몇 달 동안 융통성이 있다.
+  유의어(오답 제외): adaptable
+[observation|n|watching] hash=40dd296a2d1e7bd5
+  뜻: 관찰; 의견
+  설명: 주의 깊게 보는 것이나 그 결과 하는 말이에요.
+  연어: careful observation = 세심한 관찰
+  예문1: Scientists learn through careful observation. / 과학자들은 세심한 관찰을 통해 배운다.
+  예문2: She made an interesting observation about the story. / 그녀는 그 이야기에 대해 흥미로운 점을 지적했다.
+[excessive|adj|too-much] hash=f83dcb16b4c758f1
+  뜻: 지나친; 과도한
+  설명: 적당한 정도를 넘는 것이에요.
+  연어: excessive use = 과도한 사용
+  예문1: Excessive screen time can hurt your eyes. / 화면을 지나치게 오래 보면 눈이 상할 수 있다.
+  예문2: The price seemed excessive for such a small meal. / 그렇게 적은 식사치고는 가격이 지나쳐 보였다.
+  유의어(오답 제외): extreme
+[tribe|n|group] hash=269c9ec039dfecfe
+  뜻: 종족; 부족(部族)
+  설명: 공통된 문화나 지도 체계로 결속된 사회 집단이에요.
+  연어: a native tribe = 원주민 부족
+  예문1: The tribe has lived in the forest for centuries. / 그 부족은 수 세기 동안 숲에서 살아왔다.
+  예문2: Several tribes live in the region. / 그 지역에는 여러 부족이 산다.
+  유의어(오답 제외): group
+[lasting|adj|long-term] hash=e10429723d944527
+  뜻: 오래 지속되는; 영속적인
+  설명: 오랫동안 이어지는 것이에요.
+  연어: a lasting effect = 지속적인 효과
+  예문1: The trip left a lasting impression on me. / 그 여행은 나에게 오래 남는 인상을 주었다.
+  예문2: They hope for a lasting peace. / 그들은 오래 지속되는 평화를 바란다.
+  유의어(오답 제외): permanent
+[rage|n|fury] hash=b50ca8b6986d8c80
+  뜻: 격노; 분노
+  설명: 참을 수 없을 만큼 격한 분노예요.
+  연어: fly into a rage = 격분하다
+  예문1: He shouted in rage when he saw the broken window. / 그는 깨진 창문을 보고 분노에 차서 소리쳤다.
+  예문2: Road rage can quickly cause dangerous accidents. / 운전 중 분노는 위험한 사고를 빠르게 일으킬 수 있다.
+  유의어(오답 제외): anger
+[facial|adj|of-the-face] hash=65f2a1ae5e8da623
+  뜻: 얼굴의
+  설명: 얼굴과 관련된 것이에요.
+  연어: facial expression = 얼굴 표정
+  예문1: Her facial expression showed clear surprise at the result. / 그녀의 얼굴 표정에는 결과에 대한 놀라움이 역력히 드러났다.
+  예문2: The app uses facial recognition to unlock the phone. / 그 앱은 휴대전화를 잠금 해제하는 데 얼굴 인식 기능을 사용한다.
+[import|n|imported-goods] hash=ab48aef547e656ae
+  뜻: 수입(품)
+  설명: 다른 나라에서 들여온 물건이에요.
+  연어: cheap imports = 값싼 수입품
+  예문1: Imports of electric cars have increased. / 전기 자동차 수입이 늘었다.
+  예문2: The shop sells many imported products. / 그 가게는 수입 제품을 많이 판다.
+[nutrition|n|nourishment] hash=fef14a7b07a31d4b
+  뜻: 영양
+  설명: 몸에 필요한 음식을 섭취하는 것이에요.
+  연어: good nutrition = 좋은 영양
+  예문1: Good nutrition is important for growing children. / 좋은 영양은 자라는 아이들에게 중요하다.
+  예문2: The label shows nutrition information for each serving. / 그 라벨에는 1회 제공량당 영양 정보가 나와 있다.
+[pose|v|present] hash=eb2c7b3640a48f24
+  뜻: (위험·문제를) 일으키다; 제기하다
+  설명: 위험이나 질문을 제기할 때 써요.
+  연어: pose a threat = 위협이 되다
+  예문1: Plastic waste poses a threat to sea life. / 플라스틱 쓰레기는 바다 생물에게 위협이 된다.
+  예문2: The student posed an interesting question. / 그 학생은 흥미로운 질문을 했다.

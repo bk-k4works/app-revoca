@@ -1,0 +1,84 @@
+[version|n|side-of-story] hash=32ae755be53d0c40
+  뜻: (사람마다 다른) 이야기; 설명
+  설명: 같은 일을 사람마다 다르게 전하는 내용이에요.
+  연어: your version of events = 네가 기억하는 사건 경위
+  예문1: Each witness gave a different version of the accident. / 목격자마다 그 사고에 대해 다른 이야기를 했다.
+  예문2: I want to hear your version of what happened. / 무슨 일이 있었는지 네 입장에서 본 이야기를 듣고 싶다.
+[minimum|adj|lowest] hash=f1f526f4a971a933
+  뜻: 최소의; 최저의
+  설명: 가장 적거나 낮은 것이에요.
+  연어: the minimum wage = 최저 임금
+  예문1: The minimum age for this job is eighteen. / 이 일을 하려면 최소 18세여야 한다.
+  예문2: There is a minimum order of ten dollars. / 최소 주문 금액은 10달러다.
+[pursue|v|chase-goal] hash=2624eb4583e51605
+  뜻: 추구하다; 뒤쫓다
+  설명: 목표를 이루려 노력하거나 사람·동물을 뒤쫓을 때 써요.
+  연어: pursue a dream = 꿈을 좇다
+  예문1: She decided to pursue a career in music. / 그녀는 음악 분야에서 경력을 쌓기로 결심했다.
+  예문2: The police pursued the thief through the streets. / 경찰은 거리를 지나며 도둑을 뒤쫓았다.
+  유의어(오답 제외): chase
+[neutral|adj|impartial] hash=30a5eeaf0d0c6ab6
+  뜻: 중립의; 중성의
+  설명: 어느 편에도 치우치지 않거나 산성·염기성이 아닌 것이에요.
+  연어: stay neutral = 중립을 지키다
+  예문1: The country stayed neutral during the war. / 그 나라는 전쟁 동안 중립을 지켰다.
+  예문2: The solution remained neutral after the test. / 그 용액은 실험 후에도 중성을 유지했다.
+  유의어(오답 제외): impartial
+[modest|adj|humble] hash=119aa8050fc5eeaf
+  뜻: 소박한; (수입·규모가) 많지 않은; 겸손한
+  설명: 자신을 내세우지 않거나 규모가 크지 않고 소박한 것이에요.
+  연어: a modest income = 많지 않은 수입
+  예문1: She is very modest about her success. / 그녀는 자신의 성공에 대해 매우 겸손하다.
+  예문2: They live in a modest house. / 그들은 소박한 집에 산다.
+  유의어(오답 제외): humble
+[convenience|n|ease] hash=13a30b9d5b6a0cf6
+  뜻: 편리함; 편의
+  설명: 쓰기 쉽고 편한 것이에요.
+  연어: for convenience = 편의를 위해
+  예문1: Online shopping offers great convenience to people with busy schedules. / 온라인 쇼핑은 바쁜 사람들에게 큰 편의를 제공한다.
+  예문2: For convenience, we booked our tickets online. / 편의를 위해 우리는 표를 온라인으로 예매했다.
+[delicate|adj|fragile] hash=bc499e6fef116cc2
+  뜻: 섬세한; 연약한; 미묘한
+  설명: 쉽게 손상되거나 미묘해서 조심히 다뤄야 하는 것이에요.
+  연어: a delicate matter = 미묘한 문제
+  예문1: Be careful with that delicate glass. / 그 깨지기 쉬운 유리컵을 조심해라.
+  예문2: This is a delicate situation that requires careful discussion. / 이것은 신중한 논의가 필요한 미묘한 상황이다.
+  유의어(오답 제외): fragile
+[peasant|n|poor-farmer] hash=79dbd8456eeb1ac8
+  뜻: 농민; 소작농
+  설명: 주로 과거에 농사를 지으며 살아가던 가난한 계층의 사람이에요.
+  연어: a peasant family = 농민 가족
+  예문1: The story is about a peasant who becomes a king. / 그 이야기는 왕이 된 농민에 관한 것이다.
+  예문2: Most peasants worked on land owned by rich lords. / 대부분의 농민은 부유한 영주가 소유한 땅에서 일했다.
+[factual|adj|based-on-facts] hash=504a0cc7924c6c15
+  뜻: 사실에 근거한
+  설명: 사실을 바탕으로 한 것이에요.
+  연어: factual information = 사실에 근거한 정보
+  예문1: The report contains only factual information. / 그 보고서에는 사실에 근거한 정보만 담겨 있다.
+  예문2: Please check the factual details of your essay. / 에세이의 사실 관계를 확인해라.
+[dedicate|v|devote] hash=5106393399eb609f
+  뜻: 헌신하다; 바치다
+  설명: 시간이나 노력을 쏟거나 작품을 누구에게 헌정할 때 써요.
+  연어: dedicate oneself to = ~에 헌신하다
+  예문1: She dedicated herself to teaching children in rural schools. / 그녀는 농촌 학교에서 아이들을 가르치는 일에 헌신했다.
+  예문2: The author dedicated the book to her mother. / 저자는 그 책을 어머니께 헌정했다.
+  유의어(오답 제외): devote
+[reproduce|v|breed] hash=18c5079fbc5689d4
+  뜻: 번식하다; 복제하다
+  설명: 생물이 번식하거나 원본과 똑같이 만들어 낼 때 써요.
+  연어: reproduce quickly = 빨리 번식하다
+  예문1: Rabbits reproduce very quickly when food and shelter are plentiful. / 토끼는 먹이와 은신처가 풍부하면 매우 빠르게 번식한다.
+  예문2: The photo was reproduced in many newspapers. / 그 사진은 여러 신문에 복제되어 실렸다.
+[keenly|adv|intensely] hash=70fa50b3f75b9882
+  뜻: 예리하게; 강하게
+  설명: 아주 깊고 강하게를 뜻해요.
+  연어: keenly aware = 분명히 인식하고 있는
+  예문1: She is keenly aware of the risks. / 그녀는 위험을 뚜렷이 인식하고 있다.
+  예문2: The students listened keenly to the speaker. / 학생들은 연사의 말을 집중해서 들었다.
+  유의어(오답 제외): intensely
+[nonprofitable|adj|unprofitable] hash=6f5befe16f937285
+  뜻: 이익이 나지 않는
+  설명: 비용을 제하고 남는 이익이 없는 것이에요.
+  연어: an unprofitable business = 수익이 나지 않는 사업
+  예문1: The company closed its nonprofitable stores. / 그 회사는 이익이 나지 않는 매장을 닫았다.
+  예문2: The project was nonprofitable but useful to the community. / 그 사업은 이익이 나지 않았지만 지역 사회에 유익했다.

@@ -1,0 +1,75 @@
+EDIT	grieve	mourn	en1	The family grieved for their beloved pet after it died.	Codex fix 수용	lost pet은 반려동물을 잃어버렸다는 뜻으로도 읽혀 애도의 대상이 불분명해요.
+EDIT	grieve	mourn	ko1	그 가족은 사랑하는 반려동물이 죽은 뒤 깊이 슬퍼했다.	Codex fix 수용	lost pet을 '잃어버린 반려동물'로 옮겨 죽음을 애도하는 뜻이 분명하지 않아요.
+EDIT	unbiased	fair	en1	A good reporter tries to stay unbiased.	Codex fix 일부 수용	예문이 5단어로 최소 길이인 6단어보다 짧아요.
+EDIT	digestion	digesting	en1	Walking after dinner can help support healthy digestion.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어보다 짧아요.
+EDIT	nurture	raise	en2	The program nurtures young artists from across the region.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어보다 짧아요.
+EDIT	crumble	break-apart	meaning	부서지다; 부스러뜨리다; 무너지다	Codex fix 수용	빵을 부스러뜨리는 타동사 용법이 뜻에 빠져 있어 예문과 뜻이 맞지 않아요.
+EDIT	recite	repeat-aloud	en2	He can recite the names of all the countries in Europe.	Codex minor 수용	나라 자체를 recite한다고 하기보다 나라 이름을 암송한다고 표현하는 편이 자연스러워요.
+EDIT	specialize	focus	en1	The restaurant specializes in locally caught seafood dishes.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어보다 짧아요.
+EDIT	faithfully	loyally	expl	약속이나 의무를 꾸준히 지키는 태도를 나타내요.	Codex fix 수용	'지키며를 뜻해요'는 문법적으로 어색해요.
+EDIT	fad	craze	en2	Some diets are temporary fads that quickly lose popularity.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어보다 짧아요.
+EDIT	brighten	make-brighter	en1	Fresh flowers brighten the room on a rainy day.	Codex fix 수용	예문이 4단어로 최소 길이인 6단어보다 짧아요.
+EDIT	reptile	cold-blooded-animal	en1	Snakes and lizards are reptiles, unlike frogs and fish.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어보다 짧아요.
+EDIT	aroma	scent	meaning	좋은 향; 향기	Codex minor 수용	aroma가 음식에만 쓰이는 향으로 한정되지는 않아요.
+EDIT	unfounded	baseless	en2	Your fears about the trip are completely unfounded.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어보다 짧아요.
+EDIT	unfounded	baseless	ko2	여행에 대한 네 두려움은 전혀 근거가 없다.	Codex fix 수용	수정된 예문의 about the trip까지 번역해야 해요.
+EDIT	mislead	deceive	ko1	그 광고는 많은 고객을 잘못 믿게 했다.	Codex fix 수용	광고가 고객을 '오해하게 했다'는 번역은 고객이 잘못 이해했다는 뜻으로 읽힐 수 있어요.
+EDIT	superstition	false-belief	en1	Many people share the superstition that the number four is unlucky.	Codex fix 수용	the number four 앞에 관사가 빠져 있고, believe the superstition that의 결합도 어색해요.
+EDIT	skyscraper	tall-building	en1	The city is full of skyscrapers.	Codex minor 수용	tall skyscrapers는 의미가 겹쳐 조금 중복돼요.
+EDIT	carefree	relaxed	en2	Children often seem carefree during their summer vacation.	Codex fix 수용	예문이 4단어로 최소 길이인 6단어보다 짧아요.
+EDIT	sneeze	expel-air-from-nose	en2	Dust always makes me sneeze when I clean my room.	Codex fix 일부 수용	예문이 5단어로 최소 길이인 6단어보다 짧아요.
+EDIT	uniformly	evenly	expl	모두 같은 방식이나 정도로 이루어지는 것을 뜻해요.	Codex fix 수용	'모두 똑같이'만으로는 문장이 완결되지 않아 설명이 어색해요.
+EDIT	burnout	exhaustion	expl	오랜 스트레스나 과로로 몸과 마음이 지친 상태예요.	Codex fix 수용	번아웃을 과로만으로 한정하고 있어 장기간 스트레스로 지치는 경우를 설명하지 못해요.
+EDIT	proverb	saying	ko1	속담에도 있듯이, 연습하면 완벽해진다.	Codex minor 수용	'연습이 완벽을 만든다'는 영어 표현을 그대로 옮긴 듯해 한국어로 어색해요.
+EDIT	mow	cut-grass	expl	잔디나 풀을 짧게 자를 때 써요.	Codex fix 수용	잔디를 기계로 자르는 경우로 용법을 불필요하게 제한해요.
+EDIT	frighten	scare	en2	Spiders frighten her whenever she walks through the garden.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어보다 짧고, frightened of는 형용사처럼 쓰인 표현이에요.
+EDIT	keenly	intensely	ko2	학생들은 연사의 말을 집중해서 들었다.	Codex minor 수용	'열심히 들었다'보다 집중해서 들었다가 자연스러워요.
+EDIT	yawn	open-mouth-tired	en2	Yawning is contagious, especially when people are tired.	Codex fix 수용	예문이 3단어로 최소 길이인 6단어보다 짧아요.
+EDIT	yawn	open-mouth-tired	ko2	하품은 특히 사람들이 피곤할 때 전염된다.	Codex fix 수용	수정된 예문의 especially when people are tired까지 번역해야 해요.
+EDIT	worsen	deteriorate	expl	상태가 더 나빠지거나 나쁘게 만들 때 써요.	Codex fix 수용	뜻에는 '악화시키다'도 있지만 설명은 상태가 나빠지는 경우만 다뤄요.
+EDIT	extinguish	put-out	en2	Nothing could extinguish her hope for a better future.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어보다 짧아요.
+EDIT	inconsiderate	thoughtless	meaning	배려심 없는; 사려 깊지 못한	Codex minor 수용	inconsiderate는 배려가 부족하다는 뜻이며, 반드시 무례하다는 뜻은 아니에요.
+EDIT	inconsiderate	thoughtless	en2	Some drivers are very inconsiderate toward pedestrians.	Codex minor 수용	예문이 5단어로 최소 길이인 6단어보다 짧아요.
+EDIT	graze	eat-grass	meaning	풀을 뜯다; (피부를) 까다	Codex fix 수용	무릎을 다치게 한 예문은 피부를 살짝 스치는 것보다 피부가 까지는 용법이에요.
+EDIT	firework	explosive-display	col	a big fireworks display	Codex minor 수용	보통 firework display보다 fireworks display라는 복수형 연어를 더 많이 써요.
+EDIT	firework	explosive-display	colko	성대한 불꽃놀이	Codex minor 수용	연어 교체에 맞춘 번역
+EDIT	politeness	courtesy	en1	She smiled out of politeness during the awkward introduction.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어보다 짧아요.
+EDIT	politeness	courtesy	en2	Politeness costs nothing but can make others feel respected.	Codex fix 수용	예문이 3단어로 최소 길이인 6단어보다 짧아요.
+EDIT	indigestion	stomach-upset	col	suffer from indigestion	Codex minor 수용	'소화 불량에 걸리다'보다 '소화 불량으로 고생하다'가 자연스러워요.
+EDIT	indigestion	stomach-upset	colko	소화 불량으로 고생하다	Codex minor 수용	연어 교체에 맞춘 번역
+EDIT	terrify	frighten	en2	The idea of climbing that tall tower terrified me.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어보다 짧아요.
+EDIT	unselfish	selfless	meaning	이기적이지 않은; 이타적인	Codex fix 수용	'관대한'은 generous에 가까워 unselfish의 뜻과 정확히 같지 않아요.
+EDIT	unselfish	selfless	ko1	점심을 나눠 준 것은 매우 이타적인 행동이었다.	Codex fix 수용	'너그러운 행동'은 generous 쪽 의미라 원문의 unselfish를 정확히 옮기지 않아요.
+EDIT	startle	surprise	en1	The sudden noise startled me during the quiet study session.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어보다 짧아요.
+EDIT	unwrap	open-package	expl	포장한 것을 열 때 써요.	Codex fix 수용	'싼 것'은 값이 저렴한 것으로 읽혀 뜻이 불분명해요.
+EDIT	unwrap	open-package	en1	The children eagerly unwrapped their presents after breakfast.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어보다 짧아요.
+EDIT	unwrap	open-package	en2	She carefully unwrapped a framed photo before hanging it.	Codex fix 수용	사진을 unwrapped했다는 상황이 불분명하고 번역도 포장을 푼다는 뜻을 담지 않아요.
+EDIT	unwrap	open-package	ko2	그녀는 액자에 넣은 사진을 걸기 전에 조심스럽게 포장을 풀었다.	Codex fix 수용	unwrapped를 '꺼냈다'로 옮겨 포장을 풀었다는 의미가 빠졌어요.
+EDIT	egocentric	self-centered	en1	Young children are often egocentric when they struggle to share toys.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어보다 짧아요.
+EDIT	whiten	make-white	en2	Her face whitened with fear when the lights suddenly went out.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어보다 짧아요.
+EDIT	whiten	make-white	ko2	불이 갑자기 꺼지자 두려움에 그녀의 얼굴이 창백해졌다.	Codex fix 수용	'하얘졌다'보다 얼굴이 창백해졌다는 표현이 자연스러워요.
+EDIT	lethally	deadly	en2	A small amount of this chemical can be lethally toxic.	Codex fix 수용	'lethally dangerous'는 의미가 중복되어 어색해요.
+EDIT	lethally	deadly	ko2	이 화학 물질은 소량으로도 치명적일 만큼 독성이 강하다.	Codex fix 수용	'치명적으로 위험하다'는 표현이 어색하고 원문의 정도도 자연스럽게 전달하지 못해요.
+EDIT	nonprofitable	unprofitable	col	an unprofitable business	Codex minor 수용	nonprofitable business보다 unprofitable business라는 연어가 더 일반적이에요.
+EDIT	nonprofitable	unprofitable	colko	수익이 나지 않는 사업	Codex minor 수용	연어 교체에 맞춘 번역
+EDIT	unbiased	fair	ko1	좋은 기자는 편견 없이 공정하려고 노력한다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	digestion	digesting	ko1	저녁 식사 후 걷기는 건강한 소화를 돕는다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	nurture	raise	ko2	그 프로그램은 지역 곳곳의 젊은 예술가들을 육성한다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	recite	repeat-aloud	ko2	그는 유럽의 모든 나라 이름을 줄줄 외울 수 있다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	specialize	focus	ko1	그 식당은 그 지역에서 잡은 해산물 요리를 전문으로 한다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	fad	craze	ko2	어떤 다이어트는 금세 인기를 잃는 일시적 유행일 뿐이다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	brighten	make-brighter	ko1	비 오는 날에는 싱싱한 꽃이 방을 환하게 해 준다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	reptile	cold-blooded-animal	ko1	뱀과 도마뱀은 개구리나 물고기와 달리 파충류이다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	superstition	false-belief	ko1	많은 사람이 숫자 4가 불길하다는 미신을 믿는다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	skyscraper	tall-building	ko1	그 도시는 고층 건물로 가득하다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	carefree	relaxed	ko2	아이들은 여름 방학 동안 흔히 걱정이 없어 보인다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	sneeze	expel-air-from-nose	ko2	방을 청소할 때면 먼지 때문에 늘 재채기가 난다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	frighten	scare	ko2	그녀는 정원을 지날 때마다 거미 때문에 겁을 먹는다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	extinguish	put-out	ko2	그 무엇도 더 나은 미래에 대한 그녀의 희망을 꺾을 수 없었다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	inconsiderate	thoughtless	ko2	어떤 운전자들은 보행자를 전혀 배려하지 않는다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	politeness	courtesy	ko1	그녀는 어색한 소개 자리에서 예의상 미소를 지었다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	politeness	courtesy	ko2	예의를 지키는 데는 돈이 들지 않지만 상대가 존중받는다고 느끼게 할 수 있다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	terrify	frighten	ko2	저 높은 탑에 오른다는 생각만으로도 나는 몹시 무서웠다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	startle	surprise	ko1	조용히 공부하던 중 갑작스러운 소리에 나는 깜짝 놀랐다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	unwrap	open-package	ko1	아이들은 아침을 먹은 뒤 신이 나서 선물 포장을 풀었다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	egocentric	self-centered	ko1	어린아이들은 장난감을 나누기 어려워할 때 흔히 자기중심적이다.	Codex fix 수용	예문 교체에 맞춘 번역

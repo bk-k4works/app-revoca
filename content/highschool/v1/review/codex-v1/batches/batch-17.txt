@@ -1,0 +1,663 @@
+[synthetic|adj|artificial] hash=c03ccf1f2c67076d
+  뜻: 합성의; 인조의
+  설명: 사람이 화학적으로 만든 것이에요.
+  연어: synthetic materials = 합성 소재
+  예문1: This jacket is made of synthetic fabric. / 이 재킷은 합성 섬유로 만들어졌다.
+  예문2: Synthetic rubber is used in many tires. / 많은 타이어에 합성 고무가 쓰인다.
+  유의어(오답 제외): artificial
+[consequently|adv|as-a-result] hash=2d03b886d0de06c1
+  뜻: 그 결과; 따라서
+  설명: 앞 일의 결과로 이어지는 내용을 말해요.
+  연어: and consequently = 그래서
+  예문1: He missed the bus and consequently arrived late. / 그는 버스를 놓쳤고 그 결과 늦게 도착했다.
+  예문2: Prices rose; consequently, people bought less. / 가격이 올랐다. 따라서 사람들은 덜 샀다.
+  유의어(오답 제외): therefore
+[generator|n|power-machine] hash=ef848a8b59fb8dac
+  뜻: 발전기
+  설명: 전기를 만들어 내는 기계예요.
+  연어: an electric generator = 발전기
+  예문1: The hospital uses a generator during power cuts. / 그 병원은 정전 때 발전기를 쓴다.
+  예문2: Wind turbines work like large generators. / 풍력 터빈은 큰 발전기처럼 작동한다.
+[grind|v|crush] hash=801d131c778fb52a
+  뜻: 갈다; 빻다
+  설명: 곡식이나 커피를 가루로 만들 때 써요.
+  연어: grind coffee = 커피를 갈다
+  예문1: She grinds fresh coffee beans every morning. / 그녀는 매일 아침 신선한 커피콩을 간다.
+  예문2: The mill grinds wheat into flour. / 그 방앗간은 밀을 빻아 밀가루를 만든다.
+  유의어(오답 제외): crush
+[optimal|adj|best] hash=8df98b099bdc8118
+  뜻: 최적의
+  설명: 조건이 가장 알맞은 상태예요.
+  연어: optimal conditions = 최적의 조건
+  예문1: Plants grow best under optimal conditions. / 식물은 최적의 조건에서 가장 잘 자란다.
+  예문2: We need to find the optimal solution. / 우리는 최적의 해결책을 찾아야 한다.
+  유의어(오답 제외): ideal
+[recipient|n|receiver] hash=3b3f967983be9a2f
+  뜻: 받는 사람; 수상자
+  설명: 무엇을 받는 사람이에요.
+  연어: the recipient of an award = 수상자
+  예문1: She was the recipient of a national award. / 그녀는 국가 상을 받았다.
+  예문2: Write the recipient's address on the envelope. / 봉투에 받는 사람의 주소를 써라.
+  유의어(오답 제외): receiver
+[threaten|v|menace] hash=140cbe7a39569f91
+  뜻: 위협하다
+  설명: 해를 끼치겠다고 겁을 주거나 위험하게 할 때 써요.
+  연어: threaten to = ~하겠다고 위협하다
+  예문1: Pollution threatens the survival of many fish. / 오염은 많은 물고기의 생존을 위협한다.
+  예문2: The man threatened to call the police. / 그 남자는 경찰을 부르겠다고 위협했다.
+[unconscious|adj|senseless] hash=b5c748cb00ba6419
+  뜻: 의식을 잃은; 무의식적인
+  설명: 정신을 잃었거나 스스로 알아차리지 못하는 것이에요.
+  연어: fall unconscious = 의식을 잃다
+  예문1: The boy was unconscious after the fall. / 그 소년은 떨어진 뒤 의식을 잃었다.
+  예문2: Biting your nails can be an unconscious habit. / 손톱을 물어뜯는 것은 무의식적인 습관일 수 있다.
+[costly|adj|expensive] hash=a75ab15461cb1089
+  뜻: 값비싼; 대가가 큰
+  설명: 돈이 많이 들거나 손해가 큰 것이에요.
+  연어: a costly mistake = 대가가 큰 실수
+  예문1: Repairing the old house was very costly. / 그 오래된 집을 수리하는 데 돈이 많이 들었다.
+  예문2: It was a costly mistake that lost the game. / 경기를 지게 만든 뼈아픈 실수였다.
+  유의어(오답 제외): expensive
+[inability|n|incapacity] hash=f336034e5c8c3062
+  뜻: 무능력; 할 수 없음
+  설명: 무엇을 해낼 수 없는 상태예요.
+  연어: inability to = ~할 수 없음
+  예문1: His inability to swim worried his parents. / 그가 수영을 못해서 부모님이 걱정하셨다.
+  예문2: Stress can cause an inability to sleep. / 스트레스는 잠을 못 이루게 할 수 있다.
+[mentor|n|adviser] hash=c07dd550f32569fd
+  뜻: 멘토; 조언자
+  설명: 경험을 바탕으로 이끌어 주는 사람이에요.
+  연어: a mentor program = 멘토 프로그램
+  예문1: My first boss became my mentor. / 첫 직장 상사가 내 멘토가 되었다.
+  예문2: Older students act as mentors for new students. / 선배들이 신입생들의 멘토 역할을 한다.
+  유의어(오답 제외): adviser
+[merchandise|n|goods] hash=2873bed99ffa0958
+  뜻: (판매용) 물품; 상품
+  설명: 가게에서 파는 물품 전체를 말해요.
+  연어: official merchandise = 공식 상품
+  예문1: The store sells merchandise from the band. / 그 가게는 그 밴드의 상품을 판다.
+  예문2: All merchandise is ten percent off today. / 오늘 모든 상품이 10퍼센트 할인된다.
+  유의어(오답 제외): goods
+[monk|n|religious-man] hash=73f746cde5dddbe5
+  뜻: 수도승; 스님
+  설명: 종교 생활을 위해 절이나 수도원에 사는 사람이에요.
+  연어: a Buddhist monk = 불교 승려
+  예문1: The monks live quietly in the mountain temple. / 스님들은 산속 절에서 조용히 산다.
+  예문2: The monk spent hours in silent prayer. / 그 수도승은 몇 시간 동안 조용히 기도했다.
+[enrollment|n|registration] hash=0015cbb36da3391d
+  뜻: 입학; 등록
+  설명: 학교나 강좌에 등록하는 것이나 등록한 수예요.
+  연어: school enrollment = 취학
+  예문1: Enrollment for the summer program starts today. / 여름 프로그램 등록이 오늘 시작된다.
+  예문2: The school's enrollment has grown to a thousand students. / 그 학교의 재학생 수가 천 명으로 늘었다.
+  유의어(오답 제외): registration
+[garlic|n|plant] hash=700cfc63ad604da7
+  뜻: 마늘
+  설명: 요리에 쓰는 냄새가 강한 채소예요.
+  연어: a clove of garlic = 마늘 한 쪽
+  예문1: Korean food often uses a lot of garlic. / 한국 음식에는 흔히 마늘이 많이 들어간다.
+  예문2: Chop the garlic into small pieces. / 마늘을 잘게 다져라.
+[gratitude|n|thankfulness] hash=73e8f0a031a620bb
+  뜻: 감사; 고마움
+  설명: 고마운 마음이에요.
+  연어: express gratitude = 감사를 표하다
+  예문1: I want to express my gratitude to my teachers. / 선생님들께 감사의 마음을 전하고 싶다.
+  예문2: She smiled with gratitude. / 그녀는 고마운 마음에 미소 지었다.
+  유의어(오답 제외): thanks
+[illustration|n|picture] hash=ed30308dd113ed2c
+  뜻: 삽화; 예시
+  설명: 책에 들어간 그림이나 설명을 돕는 예예요.
+  연어: a book illustration = 책 삽화
+  예문1: The children's book has beautiful illustrations. / 그 동화책에는 아름다운 삽화가 있다.
+  예문2: Let me give you an illustration of what I mean. / 내 말뜻을 보여 주는 예를 하나 들겠다.
+  유의어(오답 제외): example
+[inequality|n|unfairness] hash=6b38f70b160dd6bd
+  뜻: 불평등
+  설명: 기회나 권리가 고르지 않은 것이에요.
+  연어: income inequality = 소득 불평등
+  예문1: Income inequality is a serious social problem. / 소득 불평등은 심각한 사회 문제이다.
+  예문2: The movement fights against inequality between men and women. / 그 운동은 남녀 불평등에 맞서 싸운다.
+[lounge|n|waiting-room] hash=eb4fd95ea64a61e1
+  뜻: 휴게실; 라운지
+  설명: 쉬거나 기다리는 편안한 공간이에요.
+  연어: an airport lounge = 공항 라운지
+  예문1: We waited in the hotel lounge. / 우리는 호텔 라운지에서 기다렸다.
+  예문2: Teachers rest in the staff lounge. / 선생님들은 교직원 휴게실에서 쉬신다.
+[sensor|n|detector] hash=0b82d875b2c0b647
+  뜻: 감지기; 센서
+  설명: 빛·열·움직임 등을 알아내는 장치예요.
+  연어: a motion sensor = 동작 감지기
+  예문1: The light turns on when the sensor detects movement. / 감지기가 움직임을 알아채면 불이 켜진다.
+  예문2: Modern cars have many sensors. / 요즘 자동차에는 센서가 많다.
+  유의어(오답 제외): detector
+[compliment|n|praise] hash=2d2f06bc70f0754d
+  뜻: 찬사; 칭찬
+  설명: 잘했다거나 좋다고 하는 말이에요.
+  연어: pay a compliment = 칭찬하다
+  예문1: She paid me a compliment on my new haircut. / 그녀는 내 새 머리 모양을 칭찬해 주었다.
+  예문2: Thank you for the kind compliment. / 친절한 칭찬에 감사한다.
+  유의어(오답 제외): praise
+[compliment|v|praise] hash=91159259b86f36d7
+  뜻: 칭찬의 말을 하다
+  설명: 좋은 점을 말해 줄 때 써요.
+  연어: compliment someone on = ~에 대해 칭찬하다
+  예문1: The teacher complimented him on his essay. / 선생님은 그의 에세이를 칭찬하셨다.
+  예문2: Guests complimented the chef on the meal. / 손님들은 요리사에게 음식이 맛있다고 칭찬했다.
+  유의어(오답 제외): praise
+[immunity|n|resistance] hash=2532eeee4eafd65c
+  뜻: 면역(력); 면제
+  설명: 병에 걸리지 않는 힘이나 책임에서 벗어나는 것이에요.
+  연어: build immunity = 면역력을 기르다
+  예문1: Good sleep helps build immunity. / 숙면은 면역력을 기르는 데 도움이 된다.
+  예문2: The witness was given immunity in exchange for the truth. / 그 증인은 진실을 말하는 대가로 처벌을 면제받았다.
+[likelihood|n|probability] hash=7b9b885273da1ccb
+  뜻: (일어날) 가능성
+  설명: 어떤 일이 일어날 확률이에요.
+  연어: in all likelihood = 십중팔구
+  예문1: There is a high likelihood of rain tomorrow. / 내일 비가 올 가능성이 높다.
+  예문2: Smoking increases the likelihood of disease. / 흡연은 질병에 걸릴 가능성을 높인다.
+  유의어(오답 제외): probability
+[necessity|n|need] hash=8893d8d358a71ca1
+  뜻: 필요(성); 필수품
+  설명: 살아가는 데 꼭 필요한 것이에요.
+  연어: out of necessity = 필요에 의해
+  예문1: A phone has become a necessity for most people. / 휴대전화는 대부분의 사람에게 필수품이 되었다.
+  예문2: There is no necessity to buy a new car. / 새 차를 살 필요는 없다.
+  유의어(오답 제외): need
+[renewable|adj|sustainable] hash=fbec4c3e049dee6c
+  뜻: 재생 가능한
+  설명: 다 써도 다시 생기는 것이에요.
+  연어: renewable energy = 재생 에너지
+  예문1: Solar and wind power are renewable energy sources. / 태양열과 풍력은 재생 가능한 에너지원이다.
+  예문2: The country aims to use more renewable resources. / 그 나라는 재생 가능한 자원을 더 많이 쓰는 것을 목표로 한다.
+[aggression|n|hostility] hash=3046d051c1bf2d50
+  뜻: 공격성; 공격
+  설명: 남을 해치려는 태도나 행동이에요.
+  연어: act of aggression = 공격 행위
+  예문1: Some video games may increase aggression in children. / 어떤 비디오 게임은 아이들의 공격성을 높일 수 있다.
+  예문2: The country condemned the act of aggression. / 그 나라는 그 공격 행위를 규탄했다.
+  유의어(오답 제외): hostility
+[horizontal|adj|level] hash=a24af41be0a0d441
+  뜻: 수평의; 가로의
+  설명: 땅과 나란한 방향인 것이에요.
+  연어: a horizontal line = 가로선
+  예문1: Draw a horizontal line across the page. / 쪽을 가로지르는 가로선을 그어라.
+  예문2: The shelves are perfectly horizontal. / 선반들이 완벽하게 수평이다.
+  유의어(오답 제외): level
+[individually|adv|separately] hash=e470f6c1da500af0
+  뜻: 개별적으로; 하나씩
+  설명: 각각 따로를 뜻해요.
+  연어: wrapped individually = 개별 포장된
+  예문1: The teacher spoke to each student individually. / 선생님은 학생 한 명 한 명과 따로 이야기하셨다.
+  예문2: The cookies are wrapped individually. / 그 쿠키들은 하나씩 포장되어 있다.
+  유의어(오답 제외): separately
+[persistent|adj|continuing] hash=9339fd20b9367047
+  뜻: 끈질긴; 지속적인
+  설명: 포기하지 않거나 오래 계속되는 것이에요.
+  연어: a persistent cough = 오래가는 기침
+  예문1: She has had a persistent cough for weeks. / 그녀는 몇 주째 기침이 계속되고 있다.
+  예문2: Persistent effort will lead to success. / 끈질긴 노력은 성공으로 이어질 것이다.
+[destructive|adj|damaging] hash=66bf118d9db90dcd
+  뜻: 파괴적인; 해로운
+  설명: 크게 망가뜨리는 것이에요.
+  연어: a destructive storm = 파괴적인 폭풍
+  예문1: The destructive storm knocked down many trees. / 파괴적인 폭풍이 많은 나무를 쓰러뜨렸다.
+  예문2: Jealousy can be a destructive feeling. / 질투는 해로운 감정이 될 수 있다.
+  유의어(오답 제외): damaging
+[fist|n|closed-hand] hash=536f61553cfddd03
+  뜻: 주먹
+  설명: 손가락을 오므려 쥔 손이에요.
+  연어: clench your fist = 주먹을 쥐다
+  예문1: He hit the table with his fist. / 그는 주먹으로 탁자를 쳤다.
+  예문2: She held the coin tightly in her fist. / 그녀는 동전을 주먹에 꽉 쥐었다.
+[gifted|adj|talented] hash=2dd9deddc3d7be3a
+  뜻: 재능 있는; 영재의
+  설명: 타고난 재능이 뛰어난 것이에요.
+  연어: a gifted student = 영재 학생
+  예문1: She is a gifted musician. / 그녀는 재능 있는 음악가이다.
+  예문2: The school has a program for gifted children. / 그 학교에는 영재 아동을 위한 프로그램이 있다.
+  유의어(오답 제외): talented
+[misery|n|suffering] hash=135348901c38fd72
+  뜻: 비참함; 고통
+  설명: 몹시 괴로운 상태예요.
+  연어: live in misery = 비참하게 살다
+  예문1: The war brought misery to millions of people. / 전쟁은 수백만 명에게 고통을 안겨 주었다.
+  예문2: His toothache was pure misery. / 그의 치통은 순전한 고통이었다.
+  유의어(오답 제외): suffering
+[sharply|adv|suddenly] hash=8c4a9646e5a2f0e2
+  뜻: 급격히; 날카롭게
+  설명: 갑자기 크게 또는 따끔하게를 뜻해요.
+  연어: rise sharply = 급격히 오르다
+  예문1: Prices have risen sharply this month. / 이번 달 물가가 급격히 올랐다.
+  예문2: "Stop that!" she said sharply. / "그만해!"라고 그녀가 날카롭게 말했다.
+[sadness|n|sorrow] hash=321c981b57c8beeb
+  뜻: 슬픔
+  설명: 슬픈 마음이에요.
+  연어: feel sadness = 슬픔을 느끼다
+  예문1: There was deep sadness in her eyes. / 그녀의 눈에는 깊은 슬픔이 서려 있었다.
+  예문2: Music can help us deal with sadness. / 음악은 슬픔을 다스리는 데 도움이 될 수 있다.
+  유의어(오답 제외): sorrow
+[self-esteem|n|self-respect] hash=0cd57a3fb7059662
+  뜻: 자존감
+  설명: 스스로를 소중히 여기는 마음이에요.
+  연어: low self-esteem = 낮은 자존감
+  예문1: Praise can help children build self-esteem. / 칭찬은 아이들의 자존감을 키우는 데 도움이 될 수 있다.
+  예문2: People with low self-esteem often doubt themselves. / 자존감이 낮은 사람들은 흔히 자신을 의심한다.
+[appetite|n|hunger] hash=e1f53234feed6f64
+  뜻: 식욕; 욕구
+  설명: 먹고 싶은 마음이나 무엇을 바라는 마음이에요.
+  연어: lose your appetite = 식욕을 잃다
+  예문1: I lost my appetite when I was sick. / 나는 아팠을 때 식욕을 잃었다.
+  예문2: She has a big appetite for learning. / 그녀는 배움에 대한 욕구가 크다.
+  유의어(오답 제외): hunger
+[messy|adj|untidy] hash=e45af1e11eb550e9
+  뜻: 지저분한; 엉망인
+  설명: 정리가 안 되어 어지러운 것이에요.
+  연어: a messy room = 지저분한 방
+  예문1: His desk is always messy. / 그의 책상은 늘 지저분하다.
+  예문2: Painting with young children can get messy. / 어린아이들과 그림을 그리면 엉망이 되기 쉽다.
+  유의어(오답 제외): untidy
+[optimistic|adj|hopeful] hash=2e12e35d65dedded
+  뜻: 낙관적인
+  설명: 앞일을 좋게 생각하는 것이에요.
+  연어: be optimistic about = ~에 대해 낙관하다
+  예문1: She is optimistic about her future. / 그녀는 자신의 미래에 대해 낙관적이다.
+  예문2: Doctors are optimistic that he will recover. / 의사들은 그가 회복할 것이라고 낙관한다.
+  유의어(오답 제외): positive
+[prospective|adj|future] hash=80d99b4092a6b8f1
+  뜻: 장래의; 예비의
+  설명: 앞으로 그렇게 될 가능성이 있는 것이에요.
+  연어: prospective students = 예비 학생
+  예문1: The university held a tour for prospective students. / 그 대학은 예비 입학생을 위한 견학을 열었다.
+  예문2: The company is meeting prospective clients today. / 그 회사는 오늘 잠재 고객들을 만난다.
+  유의어(오답 제외): potential
+[rubbish|n|trash] hash=251ef1e237a2595c
+  뜻: 쓰레기; 허튼소리
+  설명: 버릴 물건이나 말도 안 되는 말이에요.
+  연어: take out the rubbish = 쓰레기를 내다 버리다
+  예문1: Please put your rubbish in the bin. / 쓰레기는 쓰레기통에 넣어라.
+  예문2: What he said was complete rubbish. / 그가 한 말은 완전히 허튼소리였다.
+  유의어(오답 제외): trash
+[salon|n|beauty-shop] hash=3ea90aab78a64e9f
+  뜻: 미용실
+  설명: 머리를 하거나 피부를 관리하는 가게예요.
+  연어: a hair salon = 미용실
+  예문1: She had her hair cut at a salon. / 그녀는 미용실에서 머리를 잘랐다.
+  예문2: The salon is closed on Mondays. / 그 미용실은 월요일에 문을 닫는다.
+[unacceptable|adj|intolerable] hash=eaf22cf0071522d5
+  뜻: 받아들일 수 없는
+  설명: 허용할 수 없을 만큼 나쁜 것이에요.
+  연어: unacceptable behavior = 용납할 수 없는 행동
+  예문1: Bullying is completely unacceptable. / 괴롭힘은 절대 용납할 수 없다.
+  예문2: The noise level was unacceptable. / 소음 수준은 받아들일 수 없는 정도였다.
+[uncommon|adj|rare] hash=8a000bb51221033e
+  뜻: 흔하지 않은; 드문
+  설명: 자주 볼 수 없는 것이에요.
+  연어: not uncommon = 드물지 않은
+  예문1: It is not uncommon for students to feel stressed. / 학생들이 스트레스를 느끼는 것은 드문 일이 아니다.
+  예문2: Snow is uncommon in this part of the country. / 이 지역에서 눈은 흔하지 않다.
+  유의어(오답 제외): rare
+[cooperative|adj|helpful] hash=022561e0ecb7e3f0
+  뜻: 협력하는; 협조적인
+  설명: 기꺼이 함께 일하고 돕는 것이에요.
+  연어: a cooperative attitude = 협조적인 태도
+  예문1: The students were very cooperative during the test. / 학생들은 시험 중에 매우 협조적이었다.
+  예문2: The project was a cooperative effort between two schools. / 그 프로젝트는 두 학교의 공동 작업이었다.
+  유의어(오답 제외): helpful
+[endangered|adj|at-risk] hash=11938ff19e8971a5
+  뜻: 멸종 위기에 처한
+  설명: 사라질 위험이 있는 것이에요.
+  연어: endangered species = 멸종 위기종
+  예문1: Pandas were once an endangered species. / 판다는 한때 멸종 위기종이었다.
+  예문2: The law protects endangered animals. / 그 법은 멸종 위기 동물을 보호한다.
+[fatigue|n|tiredness] hash=c89640a832548d88
+  뜻: 피로
+  설명: 몹시 지친 상태예요.
+  연어: feel fatigue = 피로를 느끼다
+  예문1: Lack of sleep can cause fatigue. / 수면 부족은 피로를 일으킬 수 있다.
+  예문2: The runners showed signs of fatigue. / 주자들은 피로한 기색을 보였다.
+  유의어(오답 제외): tiredness
+[fictional|adj|imaginary] hash=05d6f62847281d03
+  뜻: 허구의; 지어낸
+  설명: 소설처럼 실제가 아니라 상상으로 만든 것이에요.
+  연어: a fictional character = 가상의 인물
+  예문1: The detective in the novel is a fictional character. / 그 소설 속 탐정은 가상 인물이다.
+  예문2: The story takes place in a fictional town. / 그 이야기는 가상의 마을에서 일어난다.
+  유의어(오답 제외): imaginary
+[fulfill|v|achieve] hash=2cffb99f6f5803bb
+  뜻: 이루다; 충족시키다
+  설명: 꿈이나 약속, 조건을 채울 때 써요.
+  연어: fulfill a dream = 꿈을 이루다
+  예문1: She fulfilled her dream of becoming a doctor. / 그녀는 의사가 되겠다는 꿈을 이루었다.
+  예문2: He always fulfills his promises. / 그는 항상 약속을 지킨다.
+  유의어(오답 제외): achieve
+[lively|adj|energetic] hash=449262cc3dac2b01
+  뜻: 활기찬; 생생한
+  설명: 힘이 넘치고 활발한 것이에요.
+  연어: a lively discussion = 활발한 토론
+  예문1: The market is lively in the morning. / 그 시장은 아침에 활기가 넘친다.
+  예문2: We had a lively discussion about the movie. / 우리는 그 영화에 대해 활발하게 토론했다.
+  유의어(오답 제외): energetic
+[maid|n|housekeeper] hash=dd7e58ac69bba2e2
+  뜻: 가정부; 하녀
+  설명: 남의 집이나 호텔에서 청소하는 사람이에요.
+  연어: a hotel maid = 호텔 객실 청소원
+  예문1: The maid cleaned our room every morning. / 청소원이 매일 아침 우리 방을 청소했다.
+  예문2: In the story, the maid helps the princess escape. / 그 이야기에서 하녀가 공주의 탈출을 돕는다.
+[referee|n|official] hash=baddefaa052cf956
+  뜻: 심판
+  설명: 경기에서 규칙을 지키게 하는 사람이에요.
+  연어: the referee's decision = 심판의 판정
+  예문1: The referee blew the whistle to end the game. / 심판이 경기 종료 휘슬을 불었다.
+  예문2: The players argued with the referee. / 선수들은 심판과 언쟁했다.
+  유의어(오답 제외): judge
+[surf|v|ride-waves] hash=b1c686a2d9f7e10f
+  뜻: 파도타기를 하다; 인터넷을 돌아다니다
+  설명: 서핑을 하거나 웹사이트를 이리저리 볼 때 써요.
+  연어: surf the internet = 인터넷을 검색하다
+  예문1: We went to the beach to surf. / 우리는 서핑하러 해변에 갔다.
+  예문2: He spent the evening surfing the internet. / 그는 저녁 내내 인터넷을 돌아다녔다.
+[allowance|n|pocket-money] hash=d88e38a572394bae
+  뜻: 용돈; 수당
+  설명: 정기적으로 받는 돈이에요.
+  연어: a weekly allowance = 주간 용돈
+  예문1: My parents give me a weekly allowance. / 부모님은 나에게 매주 용돈을 주신다.
+  예문2: Workers receive a travel allowance. / 직원들은 출장 수당을 받는다.
+[desirable|adj|attractive] hash=e19443f19020ef16
+  뜻: 바람직한; 탐나는
+  설명: 많은 사람이 원하거나 좋은 것이에요.
+  연어: a desirable result = 바람직한 결과
+  예문1: Good communication skills are desirable for this job. / 이 일에는 좋은 의사소통 능력이 바람직하다.
+  예문2: The house is in a desirable area. / 그 집은 사람들이 선호하는 지역에 있다.
+  유의어(오답 제외): attractive
+[explorer|n|adventurer] hash=cd26e1a7b6a09ad2
+  뜻: 탐험가
+  설명: 새로운 곳을 찾아 여행하는 사람이에요.
+  연어: a famous explorer = 유명한 탐험가
+  예문1: The explorer crossed the desert on a camel. / 그 탐험가는 낙타를 타고 사막을 건넜다.
+  예문2: Early explorers drew maps of unknown lands. / 초기 탐험가들은 미지의 땅의 지도를 그렸다.
+  유의어(오답 제외): adventurer
+[farther|adv|further] hash=9b77b0351abf03ab
+  뜻: 더 멀리
+  설명: 거리가 더 먼 곳을 말해요.
+  연어: farther away = 더 멀리
+  예문1: The station is farther than I thought. / 역은 내가 생각한 것보다 더 멀다.
+  예문2: We walked farther into the forest. / 우리는 숲속으로 더 멀리 걸어 들어갔다.
+  유의어(오답 제외): further
+[undergraduate|n|college-student] hash=9bbfb79a928be783
+  뜻: 대학생; 학부생
+  설명: 대학에서 학사 과정을 공부하는 학생이에요.
+  연어: undergraduate students = 학부생
+  예문1: She is an undergraduate at a university in Seoul. / 그녀는 서울의 한 대학 학부생이다.
+  예문2: The course is open to all undergraduates. / 그 강좌는 모든 학부생에게 열려 있다.
+[grill|v|cook] hash=5e0959172c5725a2
+  뜻: (석쇠에) 굽다
+  설명: 불 위에서 고기나 생선을 구울 때 써요.
+  연어: grill meat = 고기를 굽다
+  예문1: We grilled fish on the beach. / 우리는 해변에서 생선을 구웠다.
+  예문2: My father likes to grill steak on weekends. / 아버지는 주말에 스테이크 굽는 것을 좋아하신다.
+[sincere|adj|genuine] hash=ae82143c12e5f3a7
+  뜻: 진실한; 진심 어린
+  설명: 거짓 없이 마음에서 우러나온 것이에요.
+  연어: a sincere apology = 진심 어린 사과
+  예문1: Please accept my sincere apology. / 진심 어린 사과를 받아 달라.
+  예문2: She is a sincere and honest person. / 그녀는 진실하고 정직한 사람이다.
+  유의어(오답 제외): genuine
+[steadily|adv|constantly] hash=ce4fc51f19534a49
+  뜻: 꾸준히; 착실하게
+  설명: 멈추지 않고 고르게를 뜻해요.
+  연어: grow steadily = 꾸준히 성장하다
+  예문1: Her English has improved steadily. / 그녀의 영어 실력은 꾸준히 늘었다.
+  예문2: The rain fell steadily all day. / 비가 하루 종일 그치지 않고 내렸다.
+  유의어(오답 제외): constantly
+[applause|n|clapping] hash=ef3746e04cfc9960
+  뜻: 박수(갈채)
+  설명: 칭찬하며 손뼉을 치는 소리예요.
+  연어: loud applause = 우레 같은 박수
+  예문1: The singer received loud applause. / 그 가수는 큰 박수를 받았다.
+  예문2: The audience broke into applause at the end. / 공연이 끝나자 관객들이 박수를 쳤다.
+[merry|adj|cheerful] hash=48a97e0a08045a51
+  뜻: 즐거운; 명랑한
+  설명: 기쁘고 유쾌한 것이에요.
+  연어: Merry Christmas = 즐거운 성탄절
+  예문1: We wished each other a merry Christmas. / 우리는 서로 즐거운 성탄절을 보내라고 인사했다.
+  예문2: The merry music made everyone dance. / 흥겨운 음악에 모두가 춤을 추었다.
+  유의어(오답 제외): cheerful
+[thoughtful|adj|considerate] hash=83ee41884f8a77a3
+  뜻: 사려 깊은; 생각에 잠긴
+  설명: 남을 배려하거나 깊이 생각하는 것이에요.
+  연어: a thoughtful gift = 정성 어린 선물
+  예문1: It was thoughtful of you to bring flowers. / 꽃을 가져오다니 정말 사려 깊었다.
+  예문2: He had a thoughtful look on his face. / 그의 얼굴에 생각에 잠긴 표정이 떠올랐다.
+  유의어(오답 제외): considerate
+[drift|v|float] hash=55b6016ce621cef5
+  뜻: 떠다니다; 표류하다
+  설명: 물이나 바람에 실려 천천히 움직일 때 써요.
+  연어: drift away = 떠내려가다
+  예문1: The boat drifted out to sea. / 배가 바다로 떠내려갔다.
+  예문2: Snow drifted against the door. / 눈이 바람에 날려 문 앞에 쌓였다.
+  유의어(오답 제외): float
+[dye|v|color] hash=fa6633a3705936f1
+  뜻: 염색하다
+  설명: 천이나 머리카락에 색을 입힐 때 써요.
+  연어: dye your hair = 머리를 염색하다
+  예문1: She dyed her hair brown. / 그녀는 머리를 갈색으로 염색했다.
+  예문2: People used plants to dye cloth long ago. / 사람들은 옛날에 식물로 천을 염색했다.
+[hatch|v|break-out-of-egg] hash=eab7108966aadcff
+  뜻: 부화하다
+  설명: 새끼가 알을 깨고 나올 때 써요.
+  연어: hatch from an egg = 알에서 부화하다
+  예문1: The chicks hatched this morning. / 병아리들이 오늘 아침 부화했다.
+  예문2: Turtle eggs hatch in the warm sand. / 거북이 알은 따뜻한 모래 속에서 부화한다.
+[inadequate|adj|insufficient] hash=24614238760c093a
+  뜻: 불충분한; 부적절한
+  설명: 필요한 만큼 되지 않는 것이에요.
+  연어: inadequate funding = 불충분한 자금
+  예문1: The hospital has inadequate supplies of medicine. / 그 병원은 약품이 부족하다.
+  예문2: I felt inadequate compared to the other players. / 나는 다른 선수들에 비해 부족하다고 느꼈다.
+  유의어(오답 제외): insufficient
+[nap|n|short-sleep] hash=ec1166e218ff95c5
+  뜻: 낮잠
+  설명: 낮에 잠깐 자는 잠이에요.
+  연어: take a nap = 낮잠을 자다
+  예문1: I took a short nap after lunch. / 나는 점심 후 잠깐 낮잠을 잤다.
+  예문2: Babies need several naps a day. / 아기는 하루에 여러 번 낮잠을 자야 한다.
+[rainfall|n|precipitation] hash=0051fcd9d203aa12
+  뜻: 강우량
+  설명: 일정 기간 내린 비의 양이에요.
+  연어: heavy rainfall = 많은 강우량
+  예문1: The region gets little rainfall in summer. / 그 지역은 여름에 비가 적게 온다.
+  예문2: Heavy rainfall caused floods in the valley. / 많은 비로 계곡에 홍수가 났다.
+[reckless|adj|careless] hash=5bec67965b303579
+  뜻: 무모한; 난폭한
+  설명: 위험을 생각하지 않고 행동하는 것이에요.
+  연어: reckless driving = 난폭 운전
+  예문1: Reckless driving causes many accidents. / 난폭 운전은 많은 사고를 일으킨다.
+  예문2: It was reckless to swim in the storm. / 폭풍 속에서 수영한 것은 무모했다.
+  유의어(오답 제외): careless
+[scent|n|smell] hash=441a6f7d13db3f19
+  뜻: 향기; 냄새
+  설명: 좋은 냄새나 동물이 남긴 냄새예요.
+  연어: a sweet scent = 달콤한 향기
+  예문1: The scent of roses filled the garden. / 장미 향기가 정원을 가득 채웠다.
+  예문2: The dog followed the scent of the rabbit. / 개는 토끼의 냄새를 따라갔다.
+  유의어(오답 제외): smell
+[assurance|n|promise] hash=8b4c36fd09e8c1b3
+  뜻: 보장; 확언
+  설명: 틀림없다고 하는 약속이에요.
+  연어: give an assurance = 보장하다
+  예문1: The company gave us an assurance that the product was safe. / 그 회사는 제품이 안전하다고 우리에게 보장했다.
+  예문2: She spoke with great assurance. / 그녀는 매우 자신 있게 말했다.
+  유의어(오답 제외): guarantee
+[carpenter|n|woodworker] hash=400124b80f96f2d2
+  뜻: 목수
+  설명: 나무로 집이나 가구를 만드는 사람이에요.
+  연어: a skilled carpenter = 숙련된 목수
+  예문1: The carpenter built a wooden table for us. / 목수가 우리를 위해 나무 탁자를 만들었다.
+  예문2: My grandfather worked as a carpenter. / 할아버지는 목수로 일하셨다.
+[glimpse|n|quick-look] hash=e0fc01a214f452b4
+  뜻: 힐끗 봄
+  설명: 아주 잠깐 보는 것이에요.
+  연어: catch a glimpse of = ~을 힐끗 보다
+  예문1: We caught a glimpse of the famous singer. / 우리는 그 유명한 가수를 힐끗 보았다.
+  예문2: The book gives a glimpse into life in the past. / 그 책은 과거의 삶을 잠깐 엿보게 해 준다.
+  유의어(오답 제외): glance
+[inferior|adj|lower-quality] hash=c4763dc372c11255
+  뜻: 열등한; 하위의
+  설명: 다른 것보다 질이나 지위가 낮은 것이에요.
+  연어: inferior to = ~보다 못한
+  예문1: This product is inferior to the original. / 이 제품은 원래 것보다 품질이 떨어진다.
+  예문2: Nobody should feel inferior because of their background. / 누구도 출신 때문에 열등감을 느껴서는 안 된다.
+[masterpiece|n|great-work] hash=6dfd1c71c6348cd2
+  뜻: 걸작; 명작
+  설명: 아주 뛰어난 작품이에요.
+  연어: a true masterpiece = 진정한 걸작
+  예문1: The painting is considered a masterpiece. / 그 그림은 걸작으로 여겨진다.
+  예문2: The novel is a masterpiece of modern literature. / 그 소설은 현대 문학의 명작이다.
+[obesity|n|being-overweight] hash=6d9e1f5f03abf853
+  뜻: 비만
+  설명: 몸무게가 지나치게 많은 상태예요.
+  연어: childhood obesity = 소아 비만
+  예문1: Obesity can lead to many health problems. / 비만은 많은 건강 문제로 이어질 수 있다.
+  예문2: Schools are trying to reduce obesity among children. / 학교들은 아이들의 비만을 줄이려고 노력하고 있다.
+[sympathetic|adj|compassionate] hash=f43a2b9150c7b27f
+  뜻: 동정심 있는; 공감하는
+  설명: 다른 사람의 어려움을 이해해 주는 것이에요.
+  연어: be sympathetic to = ~에 공감하다
+  예문1: My teacher was sympathetic when I was sick. / 내가 아플 때 선생님은 걱정해 주셨다.
+  예문2: The public was sympathetic to the workers. / 대중은 노동자들에게 공감했다.
+  유의어(오답 제외): understanding
+[temper|n|mood] hash=604aaf77b44daa30
+  뜻: 성질; 화
+  설명: 쉽게 화내는 성격이나 감정 상태예요.
+  연어: lose your temper = 화를 내다
+  예문1: He lost his temper and shouted at everyone. / 그는 화를 참지 못하고 모두에게 소리를 질렀다.
+  예문2: She has a calm temper. / 그녀는 침착한 성격이다.
+  유의어(오답 제외): mood
+[luggage|n|baggage] hash=ab47de8c631644ef
+  뜻: 짐; 수하물
+  설명: 여행할 때 가지고 다니는 가방이에요.
+  연어: carry-on luggage = 기내 수하물
+  예문1: Do not leave your luggage alone at the airport. / 공항에서 짐을 방치하지 마라.
+  예문2: We had too much luggage for the small car. / 작은 차에 싣기에는 짐이 너무 많았다.
+  유의어(오답 제외): baggage
+[minimize|v|reduce] hash=420491b36fad057c
+  뜻: 최소화하다
+  설명: 양이나 정도를 가능한 한 작게 할 때 써요.
+  연어: minimize risk = 위험을 최소화하다
+  예문1: Wear a helmet to minimize the risk of injury. / 부상 위험을 최소화하려면 헬멧을 써라.
+  예문2: We should minimize the use of plastic. / 우리는 플라스틱 사용을 최소화해야 한다.
+  유의어(오답 제외): reduce
+[royalty|n|royal-family] hash=233b281344eb80f7
+  뜻: 왕족; 저작권 사용료
+  설명: 왕과 그 가족이나 작품 사용 대가로 받는 돈이에요.
+  연어: book royalties = 인세
+  예문1: The festival was attended by royalty. / 그 축제에는 왕족이 참석했다.
+  예문2: The author earns royalties from her books. / 그 작가는 자기 책에서 인세를 받는다.
+[skeleton|n|bones] hash=1184b41ab26529c6
+  뜻: 뼈대; 해골
+  설명: 몸을 받치는 뼈 전체예요.
+  연어: a dinosaur skeleton = 공룡 뼈대
+  예문1: The museum displays a huge whale skeleton. / 그 박물관에는 거대한 고래 뼈대가 전시되어 있다.
+  예문2: The human skeleton has more than two hundred bones. / 사람의 골격은 200개가 넘는 뼈로 이루어져 있다.
+[sticky|adj|gluey] hash=52d280fbc490e1a3
+  뜻: 끈적거리는; 무더운
+  설명: 달라붙거나 습하고 더운 것이에요.
+  연어: sticky hands = 끈적한 손
+  예문1: My hands were sticky after eating candy. / 사탕을 먹고 나니 손이 끈적거렸다.
+  예문2: It was a hot and sticky summer day. / 덥고 끈적끈적한 여름날이었다.
+[sting|v|bite] hash=c2437facd78792f2
+  뜻: 쏘다; 따끔거리다
+  설명: 벌레가 쏘거나 상처가 따가울 때 써요.
+  연어: get stung = 쏘이다
+  예문1: A bee stung me on the arm. / 벌이 내 팔을 쏘았다.
+  예문2: The smoke made my eyes sting. / 연기 때문에 눈이 따끔거렸다.
+[encouragement|n|support] hash=0fc72272f873aa6c
+  뜻: 격려
+  설명: 용기를 북돋아 주는 말이나 행동이에요.
+  연어: words of encouragement = 격려의 말
+  예문1: Thank you for your encouragement. / 격려해 주어서 고맙다.
+  예문2: With her parents' encouragement, she tried again. / 부모님의 격려에 힘입어 그녀는 다시 도전했다.
+  유의어(오답 제외): support
+[harmless|adj|safe] hash=0d5f2f6d51506108
+  뜻: 무해한; 악의 없는
+  설명: 해를 끼치지 않는 것이에요.
+  연어: a harmless joke = 악의 없는 농담
+  예문1: Most spiders are harmless to humans. / 대부분의 거미는 사람에게 해롭지 않다.
+  예문2: Do not worry; the medicine is harmless to children. / 걱정하지 마라. 그 약은 아이들에게 해롭지 않다.
+  유의어(오답 제외): safe
+[hygiene|n|cleanliness] hash=40ed889b61ef17db
+  뜻: 위생
+  설명: 병을 막기 위해 깨끗이 하는 것이에요.
+  연어: personal hygiene = 개인위생
+  예문1: Good hygiene helps prevent disease. / 위생을 잘 지키면 질병을 막는 데 도움이 된다.
+  예문2: Wash your hands often for good hygiene. / 위생을 위해 손을 자주 씻어라.
+[reproduction|n|breeding] hash=41363a3cadc420cf
+  뜻: 번식; 복제
+  설명: 생물이 새끼를 낳거나 무엇을 똑같이 만드는 것이에요.
+  연어: plant reproduction = 식물의 번식
+  예문1: Bees play a role in plant reproduction. / 벌은 식물의 번식에 역할을 한다.
+  예문2: This painting is a reproduction, not the original. / 이 그림은 원본이 아니라 복제품이다.
+[ecosystem|n|environment] hash=ef84f74cb0615244
+  뜻: 생태계
+  설명: 생물과 환경이 서로 영향을 주고받는 체계예요.
+  연어: a marine ecosystem = 해양 생태계
+  예문1: Pollution can damage the whole ecosystem. / 오염은 생태계 전체를 해칠 수 있다.
+  예문2: Bees are important to our ecosystem. / 벌은 우리 생태계에 중요하다.
+[newborn|adj|just-born] hash=05453702ceaeeb89
+  뜻: 갓 태어난
+  설명: 태어난 지 얼마 안 된 것이에요.
+  연어: a newborn baby = 신생아
+  예문1: The nurse gave the newborn baby to its mother. / 간호사가 갓 태어난 아기를 엄마에게 안겨 주었다.
+  예문2: Newborn puppies cannot open their eyes. / 갓 태어난 강아지는 눈을 뜨지 못한다.
+[participant|n|participator] hash=720338d19dc6b9ba
+  뜻: 참가자
+  설명: 활동이나 행사에 참여하는 사람이에요.
+  연어: survey participants = 설문 참가자
+  예문1: All participants received a free T-shirt. / 모든 참가자가 무료 티셔츠를 받았다.
+  예문2: The study had over five hundred participants. / 그 연구에는 참가자가 500명이 넘었다.
+[conquer|v|defeat] hash=671d0ce25ca13211
+  뜻: 정복하다; 극복하다
+  설명: 나라를 차지하거나 어려움을 이겨 낼 때 써요.
+  연어: conquer fear = 두려움을 극복하다
+  예문1: The army conquered the city in a week. / 그 군대는 일주일 만에 그 도시를 정복했다.
+  예문2: She finally conquered her fear of flying. / 그녀는 마침내 비행 공포를 극복했다.
+  유의어(오답 제외): overcome
+[dinosaur|n|ancient-reptile] hash=2e027b22b27b3d38
+  뜻: 공룡
+  설명: 아주 오래전에 살았던 큰 파충류예요.
+  연어: dinosaur bones = 공룡 뼈
+  예문1: Dinosaurs lived millions of years ago. / 공룡은 수백만 년 전에 살았다.
+  예문2: The children love the dinosaur museum. / 아이들은 공룡 박물관을 아주 좋아한다.
+[embarrassment|n|shame] hash=a3e103e696238fdf
+  뜻: 당황; 창피함
+  설명: 남 앞에서 부끄러운 느낌이에요.
+  연어: to my embarrassment = 당황스럽게도
+  예문1: Her face turned red with embarrassment. / 그녀의 얼굴이 창피해서 빨개졌다.
+  예문2: To my embarrassment, I forgot his name. / 당황스럽게도 나는 그의 이름을 잊어버렸다.
+  유의어(오답 제외): shame
+[herb|n|plant] hash=cb4b2111688b0958
+  뜻: 허브; 약초
+  설명: 요리나 약에 쓰는 향기로운 풀이에요.
+  연어: fresh herbs = 신선한 허브
+  예문1: She grows herbs in pots on her balcony. / 그녀는 발코니의 화분에서 허브를 기른다.
+  예문2: Some herbs are used as medicine. / 어떤 허브는 약으로 쓰인다.
+[herd|n|group-of-animals] hash=89a322fe6fbfdd82
+  뜻: (동물의) 떼
+  설명: 함께 다니는 소나 코끼리 같은 동물 무리예요.
+  연어: a herd of cattle = 소 떼
+  예문1: A herd of elephants crossed the river. / 코끼리 떼가 강을 건넜다.
+  예문2: The farmer moved his herd to a new field. / 농부는 자기 소 떼를 새 들판으로 옮겼다.
+[immortal|adj|eternal] hash=550415403e4e8a37
+  뜻: 불멸의; 죽지 않는
+  설명: 영원히 살거나 잊히지 않는 것이에요.
+  연어: an immortal hero = 불멸의 영웅
+  예문1: In the myth, the gods are immortal. / 그 신화에서 신들은 죽지 않는다.
+  예문2: His music made him immortal. / 그의 음악은 그를 불멸의 존재로 만들었다.
+  유의어(오답 제외): eternal
+[lick|v|taste-with-tongue] hash=1321a8ef7d4956ae
+  뜻: 핥다
+  설명: 혀로 무엇을 문지를 때 써요.
+  연어: lick your lips = 입술을 핥다
+  예문1: The dog licked my face. / 개가 내 얼굴을 핥았다.
+  예문2: The child licked the ice cream slowly. / 아이는 아이스크림을 천천히 핥아 먹었다.

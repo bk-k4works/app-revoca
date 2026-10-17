@@ -1,18 +1,19 @@
 # 고교 기본 101–150. 표제어 목록만 참고하여 독자 작성.
-staff|n|employees|직원들; 직원진|한 기관에서 함께 일하는 사람들이에요.|hospital staff|병원 직원|The hotel staff were very kind to us.|호텔 직원들은 우리에게 매우 친절했다.|The school hired new staff to help in the library.|학교는 도서관 일을 도울 새 직원을 채용했다.|employee
+staff|n|employees|직원들; 직원|한 기관에서 함께 일하는 사람들이에요.|hospital staff|병원 직원|The hotel staff were very kind to us.|호텔 직원들은 우리에게 매우 친절했다.|The school hired new staff to help in the library.|학교는 도서관 일을 도울 새 직원을 채용했다.|employee
 career|n|job-path|직업; 경력|평생 해 나가는 일이나 그동안 쌓은 경험이에요.|a career in science|과학 분야의 직업|She wants a career in medicine.|그녀는 의학 분야의 직업을 원한다.|He spent his whole career working for one company.|그는 일하는 내내 한 회사에서만 일했다.
 loss|n|losing|손실; 상실|무언가를 잃거나 줄어든 것이에요.|weight loss|체중 감소|The company reported a big loss this year.|그 회사는 올해 큰 손실을 보고했다.|Loss of sleep can make it hard to focus.|잠이 부족하면 집중하기 어려울 수 있다.
 loss|n|defeat|(경기에서) 짐; 패배|경기에서 지는 것이에요.|a painful loss|뼈아픈 패배|The team suffered its first loss of the season.|그 팀은 시즌 첫 패배를 당했다.|After the loss, the players practiced even harder.|패배 후 선수들은 훨씬 더 열심히 연습했다.|defeat
 version|n|form|(변형된) 판; 버전|원래의 것에서 조금 바뀐 형태예요.|the latest version|최신 버전|Please download the latest version of the app.|앱의 최신 버전을 내려받아라.|The movie is a modern version of an old story.|그 영화는 옛이야기를 현대식으로 바꾼 작품이다.
+version|n|side-of-story|(사람마다 다른) 이야기; 설명|같은 일을 사람마다 다르게 전하는 내용이에요.|your version of events|네가 기억하는 사건 경위|Each witness gave a different version of the accident.|목격자마다 그 사고에 대해 다른 이야기를 했다.|I want to hear your version of what happened.|무슨 일이 있었는지 네 입장에서 본 이야기를 듣고 싶다.
 access|n|entry|접근; 이용 권한|어떤 곳에 들어가거나 무엇을 쓸 수 있는 기회예요.|have access to|~을 이용할 수 있다|All students have access to the computer room.|모든 학생은 컴퓨터실을 이용할 수 있다.|Many villages still lack access to clean water.|많은 마을은 여전히 깨끗한 물을 얻기 어렵다.
 access|v|reach|접속하다; 이용하다|정보나 장소에 들어가 쓸 때 써요.|access the internet|인터넷에 접속하다|You can access the website from your phone.|휴대전화로 그 웹사이트에 접속할 수 있다.|Only staff can access these files.|직원만 이 파일들을 열람할 수 있다.
-mark|n|sign|표시; 자국|무엇을 알리려고 남긴 표나 흔적이에요.|a question mark|물음표|There is a dirty mark on your shirt.|네 셔츠에 더러운 자국이 있다.|Put a check mark next to the correct answer.|정답 옆에 체크 표시를 해라.|sign
+mark|n|sign|표시; 자국|어떤 상태를 나타내는 표나 눈에 보이는 흔적이에요.|a question mark|물음표|There is a dirty mark on your shirt.|네 셔츠에 더러운 자국이 있다.|Put a check mark next to the correct answer.|정답 옆에 체크 표시를 해라.|sign
 mark|n|grade|점수; 성적|시험이나 과제에 매기는 점수예요.|full marks|만점|She got full marks on the math test.|그녀는 수학 시험에서 만점을 받았다.|His marks improved after he studied every day.|그는 매일 공부한 뒤 성적이 올랐다.|grade
-mark|v|celebrate|기념하다; 표시하다|중요한 날이나 일을 기억하며 축하할 때 써요.|mark an anniversary|기념일을 기념하다|The school held a concert to mark its anniversary.|학교는 개교기념일을 기념하려고 음악회를 열었다.|This year marks the end of an important period.|올해는 중요한 시기가 끝나는 해이다.
+mark|v|celebrate|기념하다; 표시하다|중요한 날이나 일을 기억하며 축하할 때 써요.|mark an anniversary|기념일을 기념하다|The school held a concert to mark its anniversary.|학교는 개교기념일을 기념하려고 음악회를 열었다.|The town held a festival to mark the end of summer.|마을은 여름이 끝나는 것을 기념하려고 축제를 열었다.
 offer|v|suggest-give|(하겠다고) 제의하다; 제공하다|무엇을 주거나 하겠다고 내놓을 때 써요.|offer help|도움을 제공하다|My neighbor offered to help me move.|이웃이 이사하는 것을 돕겠다고 제안했다.|The museum offers free tours on weekends.|그 박물관은 주말마다 무료 견학을 제공한다.|provide
 offer|n|proposal|제의; 제안|무엇을 주거나 해 주겠다는 말이에요.|a job offer|일자리 제의|She accepted the job offer from a bank.|그녀는 은행의 일자리 제의를 받아들였다.|Thank you for your kind offer of help.|도와주겠다는 친절한 제안에 감사한다.
 risk|n|danger|위험|나쁜 일이 일어날 가능성이에요.|at risk|위험에 처한|Smoking increases the risk of lung disease.|흡연은 폐 질환의 위험을 높인다.|Many animals are at risk because of climate change.|많은 동물이 기후 변화 때문에 위험에 처해 있다.|danger
-risk|v|take-a-chance|위험을 무릅쓰다|잃을 수 있음을 알면서도 해 볼 때 써요.|risk your life|목숨을 걸다|The firefighter risked his life to save the child.|그 소방관은 아이를 구하려고 목숨을 걸었다.|I did not want to risk missing the train.|나는 기차를 놓치는 위험을 감수하고 싶지 않았다.
+risk|v|take-a-chance|위험을 무릅쓰다|잃을 수 있음을 알면서도 해 볼 때 써요.|risk your life|목숨을 걸다|The firefighter risked his life to save the child.|그 소방관은 아이를 구하려고 목숨을 걸었다.|I did not want to risk missing the train.|나는 기차를 놓칠 위험을 감수하고 싶지 않았다.
 recent|adj|latest|최근의|얼마 지나지 않은 때의 것이에요.|recent studies|최근 연구|Recent studies show that sleep helps memory.|최근 연구는 수면이 기억에 도움이 된다는 것을 보여 준다.|Prices have gone up in recent months.|최근 몇 달 동안 물가가 올랐다.
 pain|n|hurt|고통; 아픔|몸이나 마음이 아픈 느낌이에요.|feel pain|통증을 느끼다|I felt a sharp pain in my back.|나는 등에 날카로운 통증을 느꼈다.|Losing a pet can cause great pain.|반려동물을 잃으면 큰 아픔을 겪을 수 있다.
 pain|n|trouble|수고; 골칫거리|take pains처럼 애쓰는 일이나 귀찮은 존재예요.|take pains|애쓰다|She took great pains to make the event perfect.|그녀는 행사를 완벽하게 만들려고 무척 애썼다.|Doing the dishes every night is a pain.|매일 밤 설거지하는 것은 귀찮은 일이다.
@@ -28,14 +29,14 @@ effect|n|result|효과; 영향|어떤 원인으로 생긴 변화나 결과예요
 store|v|keep|저장하다; 보관하다|'가게' 외에 동사로 저장하거나 보관할 때 써요.|store data|데이터를 저장하다|Store the food in a cool, dry place.|음식을 서늘하고 건조한 곳에 보관해라.|Our brains store memories in different areas.|우리 뇌는 기억을 서로 다른 영역에 저장한다.|keep
 allow|v|permit|허락하다; 허용하다|무엇을 해도 된다고 할 때 써요.|be allowed to|~하는 것이 허용되다|Phones are not allowed during the test.|시험 중에는 휴대전화가 허용되지 않는다.|My parents allowed me to go camping.|부모님은 내가 캠핑을 가도록 허락하셨다.|permit
 allow|v|enable|~할 수 있게 하다; 가능하게 하다|어떤 일이 일어날 수 있게 해 줄 때 써요.|allow A to B|A가 B하게 하다|The internet allows us to talk with people far away.|인터넷은 우리가 멀리 있는 사람과 이야기할 수 있게 해 준다.|Large windows allow sunlight to fill the room.|큰 창문 덕분에 햇빛이 방을 가득 채운다.|enable
-beat|v|defeat|이기다; 물리치다|경기나 경쟁에서 상대를 이길 때 써요.|beat a team|팀을 이기다|Our team beat the champions by one point.|우리 팀은 1점 차로 우승 팀을 이겼다.|She beat her own record in the race.|그녀는 그 경주에서 자신의 기록을 깼다.|defeat
+beat|v|defeat|이기다; 물리치다|경기나 경쟁에서 상대를 이길 때 써요.|beat a team|팀을 이기다|Our team beat the champions by one point.|우리 팀은 1점 차로 우승 팀을 이겼다.|She beat her rival in the final race.|그녀는 결승 경주에서 경쟁자를 이겼다.|defeat
 beat|v|hit-repeatedly|때리다; (심장이) 뛰다|여러 번 치거나 규칙적으로 움직일 때 써요.|beat a drum|북을 치다|My heart was beating fast before the speech.|연설 전에 내 심장이 빠르게 뛰고 있었다.|Heavy rain beat against the windows all night.|밤새 폭우가 창문을 세차게 두드렸다.
 capital|n|main-city|수도|한 나라의 정부가 있는 중심 도시예요.|the capital city|수도|Seoul is the capital of Korea.|서울은 한국의 수도이다.|The capital is crowded with tourists in summer.|여름에는 수도가 관광객으로 붐빈다.
 capital|n|money|자본|사업을 시작하거나 키우는 데 쓰는 돈이에요.|raise capital|자본을 모으다|They needed more capital to start the business.|그들은 사업을 시작하려면 더 많은 자본이 필요했다.|Foreign capital helped the industry grow.|외국 자본이 그 산업의 성장을 도왔다.
 capital|n|letter|대문자|영어에서 크게 쓰는 글자예요.|in capital letters|대문자로|Write your name in capital letters.|이름을 대문자로 써라.|A sentence should begin with a capital letter.|문장은 대문자로 시작해야 한다.
 committee|n|group|위원회|특정한 일을 맡아 결정하는 사람들의 모임이에요.|a student committee|학생 위원회|The committee will make a decision next week.|위원회는 다음 주에 결정을 내릴 것이다.|She was chosen to join the school festival committee.|그녀는 학교 축제 위원회에 들어가도록 선발되었다.|board
 potential|adj|possible|잠재적인; 가능성 있는|앞으로 그렇게 될 수 있는 것이에요.|a potential problem|잠재적인 문제|We must think about the potential risks of the plan.|우리는 그 계획의 잠재적 위험을 생각해야 한다.|The company is looking for potential customers.|그 회사는 잠재 고객을 찾고 있다.|possible
-potential|n|ability|잠재력; 가능성|아직 드러나지 않은 능력이에요.|reach your potential|잠재력을 발휘하다|Every student has the potential to succeed.|모든 학생에게는 성공할 잠재력이 있다.|The new technology has great potential.|그 새로운 기술은 큰 가능성을 지니고 있다.
+potential|n|ability|잠재력; 가능성|아직 드러나지 않았지만 앞으로 나타날 능력이나 가능성이에요.|reach your potential|잠재력을 발휘하다|Every student has the potential to succeed.|모든 학생에게는 성공할 잠재력이 있다.|The new technology has great potential.|그 새로운 기술은 큰 가능성을 지니고 있다.
 campaign|n|organized-effort|캠페인; 운동|목표를 이루려고 계획적으로 벌이는 활동이에요.|an election campaign|선거 운동|The school started a campaign to save energy.|학교는 에너지 절약 캠페인을 시작했다.|Her election campaign focused on education.|그녀의 선거 운동은 교육에 초점을 맞췄다.
 content|n|material|내용; 내용물|글이나 물건 안에 담긴 것이에요.|the content of a book|책의 내용|The content of the lesson was easy to understand.|그 수업의 내용은 이해하기 쉬웠다.|The website has a lot of useful content.|그 웹사이트에는 유용한 내용이 많다.
 content|adj|satisfied|만족하는|be content with로 지금 상태에 만족할 때 써요.|be content with|~에 만족하다|He was content with a simple life in the country.|그는 시골의 소박한 삶에 만족했다.|She is not content with second place.|그녀는 2등에 만족하지 않는다.|satisfied
@@ -47,7 +48,7 @@ previous|adj|earlier|이전의; 앞의|지금보다 먼저 있었던 것을 말�
 region|n|area|지역|특징을 공유하는 넓은 땅의 한 부분이에요.|a mountain region|산악 지역|This region is famous for its apples.|이 지역은 사과로 유명하다.|Heavy snow fell in the northern region.|북부 지역에 폭설이 내렸다.|area
 section|n|part|부분; 구역|전체를 나눈 한 부분이에요.|the sports section|스포츠면|Read the first section of the chapter carefully.|그 장의 첫 부분을 주의 깊게 읽어라.|The children's books are in that section.|어린이 책은 저 구역에 있다.|part
 sort|n|kind|종류|비슷한 특징으로 묶인 무리예요.|all sorts of|온갖 종류의|The market sells all sorts of fruit.|그 시장은 온갖 종류의 과일을 판다.|What sort of music do you like?|너는 어떤 종류의 음악을 좋아하니?|kind
-sort|v|arrange|분류하다; 정리하다|종류에 따라 나누거나 정리할 때 써요.|sort out|해결하다; 정리하다|Please sort the cans and bottles for recycling.|재활용을 위해 캔과 병을 분류해라.|We need to sort out this problem quickly.|우리는 이 문제를 빨리 해결해야 한다.|arrange
+sort|v|arrange|분류하다; 정리하다|종류에 따라 나누거나 정리할 때 써요.|sort by size|크기별로 분류하다|Please sort the cans and bottles for recycling.|재활용을 위해 캔과 병을 분류해라.|We need to sort out these papers before class.|우리는 수업 전에 이 서류들을 정리해야 한다.|arrange
 consider|v|think-about|고려하다; 숙고하다|결정하기 전에 잘 생각해 볼 때 써요.|consider an offer|제안을 고려하다|You should consider all the options before choosing.|선택하기 전에 모든 방안을 고려해야 한다.|She is considering studying abroad.|그녀는 유학을 고려하고 있다.
 consider|v|regard|여기다; 간주하다|consider A B처럼 어떻다고 생각할 때 써요.|be considered|~으로 여겨지다|Many people consider him the best player.|많은 사람이 그를 최고의 선수로 여긴다.|Sleep is considered important for growth.|수면은 성장에 중요하다고 여겨진다.|regard
 contact|v|communicate|연락하다|전화나 편지 등으로 소식을 전할 때 써요.|contact a friend|친구에게 연락하다|Please contact me if you have any questions.|질문이 있으면 나에게 연락해라.|I contacted the company by email.|나는 이메일로 그 회사에 연락했다.
@@ -61,14 +62,14 @@ link|n|connection|연관성; 연결|둘 사이의 관계나 이어 주는 것이
 link|v|connect|관련짓다; 연결하다|두 가지를 이어 주거나 관계를 맺을 때 써요.|be linked to|~과 관련되다|A new bridge links the two towns.|새 다리가 두 마을을 연결한다.|Stress is linked to many health problems.|스트레스는 많은 건강 문제와 관련이 있다.|connect
 beyond|prep|past|~너머; ~을 넘어서는|위치나 정도가 어떤 한계를 넘을 때 써요.|beyond belief|믿을 수 없는|The village lies beyond those hills.|그 마을은 저 언덕 너머에 있다.|The problem is beyond my understanding.|그 문제는 내가 이해할 수 있는 범위를 넘어선다.
 nature|n|natural-world|자연|사람이 만들지 않은 세상의 모든 것이에요.|protect nature|자연을 보호하다|We should live in harmony with nature.|우리는 자연과 조화를 이루며 살아야 한다.|She loves taking photos of nature.|그녀는 자연을 사진 찍는 것을 좋아한다.
-nature|n|character|본성; 특성|사람이나 사물이 본래 가진 성질이에요.|human nature|인간의 본성|It is human nature to want to be loved.|사랑받고 싶어 하는 것은 인간의 본성이다.|He is kind by nature.|그는 천성적으로 친절하다.|character
+nature|n|character|본성; 특성|사람이나 사물이 본래 가진 성질이에요.|human nature|인간의 본성|It is human nature to want to be loved.|사랑받고 싶어 하는 것은 인간의 본성이다.|He is kind by nature and patient with others.|그는 천성적으로 친절하고 다른 사람들에게 참을성이 있다.|character
 agree|v|share-opinion|동의하다|같은 생각이라고 말할 때 써요.|agree with|~에 동의하다|I agree with you about the plan.|그 계획에 관해서는 네 생각에 동의한다.|They could not agree on a name for the cat.|그들은 고양이 이름에 대해 합의하지 못했다.
 agree|v|consent|승낙하다; 합의하다|agree to로 제안을 받아들일 때 써요.|agree to a plan|계획에 승낙하다|He agreed to help me with my homework.|그는 내 숙제를 도와주기로 했다.|Both sides agreed to stop fighting.|양측은 싸움을 멈추기로 합의했다.
 income|n|earnings|소득; 수입|일하거나 투자해서 버는 돈이에요.|a high income|높은 소득|Many families live on a low income.|많은 가정이 낮은 소득으로 생활한다.|Tourism is the main source of income for the island.|관광은 그 섬의 주요 수입원이다.|earnings
-knowledge|n|understanding|지식; 앎|배우거나 경험해서 알게 된 것이에요.|basic knowledge|기초 지식|Reading widely increases your knowledge.|폭넓게 읽으면 지식이 늘어난다.|He has a deep knowledge of history.|그는 역사에 관한 지식이 깊다.
+knowledge|n|understanding|지식; 앎|배우거나 경험해서 알게 된 것이에요.|basic knowledge|기초 지식|Reading widely increases your knowledge of the world.|폭넓게 읽으면 세상에 관한 지식이 늘어난다.|He has a deep knowledge of history.|그는 역사에 관한 지식이 깊다.
 search|v|look-for|찾다; 검색하다|무엇을 찾으려고 살펴볼 때 써요.|search for|~을 찾다|I searched the internet for information.|나는 정보를 찾으려고 인터넷을 검색했다.|They searched everywhere for the lost dog.|그들은 잃어버린 개를 찾아 모든 곳을 뒤졌다.
 search|n|looking|수색; 탐색|무엇을 찾는 일이에요.|in search of|~을 찾아서|The search for the missing boy lasted two days.|실종된 소년에 대한 수색은 이틀 동안 계속되었다.|People moved to the city in search of work.|사람들은 일자리를 찾아 도시로 이주했다.
-subject|n|topic|주제; 과목|이야기하거나 공부하는 대상이에요.|a school subject|학교 과목|Math is my favorite subject.|수학은 내가 가장 좋아하는 과목이다.|Let us change the subject and talk about music.|화제를 바꿔 음악에 대해 이야기하자.|topic
+subject|n|topic|주제; 과목|이야기하거나 공부하는 대상이에요.|a school subject|학교 과목|Math is my favorite subject at school.|수학은 학교에서 내가 가장 좋아하는 과목이다.|Let us change the subject and talk about music.|화제를 바꾸고 음악에 대해 이야기하자.|topic
 subject|adj|liable|~하기 쉬운; ~의 대상인|be subject to로 영향을 받기 쉬움을 나타내요.|be subject to change|변경될 수 있다|The schedule is subject to change.|일정은 변경될 수 있다.|Coastal areas are subject to strong winds.|해안 지역은 강풍의 영향을 받기 쉽다.
 subject|n|participant|(실험) 대상자; 피험자|연구나 실험에 참여하는 사람이나 동물이에요.|test subjects|실험 대상자|The subjects in the study were asked to sleep less.|그 연구의 대상자들은 잠을 덜 자 달라는 요청을 받았다.|Half of the subjects took the new medicine.|대상자의 절반이 신약을 복용했다.
 claim|v|assert|(사실이라고) 주장하다|사실이라고 강하게 말할 때 써요.|claim that|~라고 주장하다|He claims that he saw a ghost.|그는 유령을 보았다고 주장한다.|The company claims its product is safe.|그 회사는 자사 제품이 안전하다고 주장한다.|argue
@@ -78,9 +79,9 @@ fit|adj|healthy|건강한; 적합한|몸이 튼튼하거나 무엇에 알맞을 
 judge|v|decide|판단하다; 평가하다|생각하여 옳고 그름이나 가치를 정할 때 써요.|judge by|~로 판단하다|Do not judge people by their appearance.|사람을 외모로 판단하지 마라.|It is too early to judge the results.|결과를 판단하기에는 너무 이르다.
 judge|n|official|판사; 심사위원|재판하거나 대회에서 평가하는 사람이에요.|a fair judge|공정한 판사|The judge gave a fair decision.|판사는 공정한 판결을 내렸다.|The judges chose her song as the winner.|심사위원들은 그녀의 노래를 우승작으로 골랐다.
 regular|adj|steady|규칙적인; 정기적인|일정한 간격으로 되풀이되는 것이에요.|regular exercise|규칙적인 운동|Regular exercise keeps your heart healthy.|규칙적인 운동은 심장을 건강하게 해 준다.|We have regular meetings every Monday.|우리는 매주 월요일 정기 회의를 한다.
-regular|adj|usual|보통의; 단골의|평소의 것이거나 자주 오는 사람을 말해요.|a regular customer|단골손님|He is a regular customer at this cafe.|그는 이 카페의 단골손님이다.|I would like a regular coffee, please.|보통 크기 커피 한 잔 부탁한다.
+regular|adj|usual|보통의; 단골의|평소의 것이거나 자주 오는 사람을 말해요.|a regular customer|단골손님|He is a regular customer at this cafe.|그는 이 카페의 단골손님이다.|We will return to our regular schedule next week.|다음 주에는 평소 일정으로 돌아갈 것이다.
 secretary|n|assistant|비서|사무 일을 돕고 일정을 관리하는 사람이에요.|a personal secretary|개인 비서|The secretary answered the phone politely.|비서는 공손하게 전화를 받았다.|Please leave a message with my secretary.|내 비서에게 메시지를 남겨 달라.
-secretary|n|minister|(미국의) 장관|미국 등에서 정부 부서를 이끄는 사람이에요.|the Secretary of State|국무 장관|The secretary of education visited our school.|교육부 장관이 우리 학교를 방문했다.|The new secretary promised to cut taxes.|새 장관은 세금을 줄이겠다고 약속했다.|minister
+secretary|n|minister|(미국의) 장관|미국 등에서 정부 부서를 이끄는 사람이에요.|the Secretary of State|국무 장관|The secretary of education visited our school.|교육부 장관이 우리 학교를 방문했다.|The new secretary of education promised to improve schools.|새 교육부 장관은 학교를 개선하겠다고 약속했다.|minister
 unit|n|single-part|단위; 단원|전체를 이루는 하나의 부분이나 측정 기준이에요.|a unit of measure|측정 단위|The meter is a unit of length.|미터는 길이의 단위이다.|We will study the next unit of the book tomorrow.|우리는 내일 책의 다음 단원을 공부할 것이다.
 annual|adj|yearly|매년의; 연간의|1년에 한 번 하거나 1년 동안의 것이에요.|an annual event|연례행사|The school holds an annual sports day in May.|학교는 5월에 매년 체육 대회를 연다.|His annual income is about fifty thousand dollars.|그의 연간 소득은 약 5만 달러이다.|yearly
 contract|n|agreement|계약; 계약서|서로 지키기로 약속하고 쓴 문서예요.|sign a contract|계약서에 서명하다|The player signed a three-year contract.|그 선수는 3년 계약에 서명했다.|Read the contract carefully before you sign it.|서명하기 전에 계약서를 꼼꼼히 읽어라.|agreement

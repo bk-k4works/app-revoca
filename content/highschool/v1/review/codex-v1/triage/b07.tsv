@@ -1,0 +1,72 @@
+EDIT	used	accustomed	expl	be used to 뒤에 명사나 동명사를 써서 익숙한 상태를 나타내요.	Codex fix 수용	be used to 뒤에는 동명사뿐 아니라 명사도 올 수 있는데, 설명은 -ing만 가능하다고 제한해요.
+EDIT	actually	in-fact	en2	Did he actually say that during the interview?	Codex fix 수용	예문이 5단어로 최소 길이인 6단어에 못 미쳐요.
+EDIT	actually	in-fact	ko2	그가 인터뷰에서 정말 그렇게 말했니?	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	following	next	en1	We left early the following morning after the storm passed.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어에 못 미쳐요.
+EDIT	following	next	ko1	폭풍이 지나간 다음 날 아침 일찍 우리는 떠났다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	following	next	en2	Please answer the following questions before class begins.	Codex fix 수용	예문이 4단어로 최소 길이인 6단어에 못 미쳐요.
+EDIT	following	next	ko2	수업이 시작되기 전에 다음 질문들에 답하라.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	means	money	meaning	재력; 형편	Codex fix 수용	means는 여기서 경제적 형편이나 재력을 뜻하며, ‘수입’은 소득이라는 별도 의미라 정확하지 않아요.
+EDIT	former	previous	en1	She is a former member of the team.	Codex fix 수용	가산 명사 member 앞에 관사가 빠졌어요.
+EDIT	former	first-of-two	en2	Tea and coffee are both popular, but I prefer the former.	Codex minor 수용	차가 차보다 건강에 좋다는 비교는 문맥 없이 단정적이고, 학습 예문으로 불필요한 사실 판단을 넣어요.
+EDIT	former	first-of-two	ko2	차와 커피는 모두 인기가 있지만 나는 전자를 더 좋아한다.	Codex minor 수용	예문 교체에 맞춘 번역
+EDIT	position	place	en2	Sit in a comfortable position while you read.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어에 못 미쳐요.
+EDIT	position	place	ko2	책을 읽는 동안 편안한 자세로 앉아라.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	position	job	ko1	그녀는 은행의 한 일자리에 지원했다.	Codex minor 수용	‘자리에 지원했다’는 한국어 표현이 어색하고, 지원 대상인 직무나 일자리가 드러나지 않아요.
+EDIT	personal	private	en2	This is my personal opinion about the new school rules.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어에 못 미쳐요.
+EDIT	personal	private	ko2	이것은 새 학교 규칙에 관한 내 개인적인 의견이다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	security	safety	en2	Strong passwords can improve online security for everyone.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어에 못 미쳐요.
+EDIT	security	safety	ko2	강력한 비밀번호는 모든 사람의 온라인 보안을 강화할 수 있다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	performance	results	ko1	수면 부족은 학업 성취도에 영향을 미친다.	Codex minor 수용	school performance는 학교에서의 학업 성취를 뜻하는 경우가 많아 ‘학교 성적’보다 ‘학업 성취도’가 자연스러워요.
+EDIT	whatever	anything	meaning	무엇이든; 무슨 일이든	Codex minor 수용	뜻 ‘무엇이든’은 첫 예문에는 맞지만, 둘째 예문의 양보 표현 ‘무슨 일이 일어나든’까지 충분히 보여 주지 못해요.
+EDIT	long-term	lasting	en1	Regular exercise has long-term health benefits for teenagers.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어에 못 미쳐요.
+EDIT	long-term	lasting	ko1	규칙적인 운동은 십 대의 건강에 장기적인 이점을 준다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	management	control	ko2	그 호텔은 새 경영진이 운영한다.	Codex minor 일부 수용	under new management는 새 경영진이 운영한다는 뜻이지, 경영진이 바뀌었다고 직접 말하지는 않아요.
+EDIT	natural	from-nature	en2	This juice contains no artificial flavors, only natural ingredients.	Codex fix 수용	‘인공 설탕 없이 천연 과일만’이라는 조합이 부자연스럽고, 주스의 천연 재료를 설명하는 예문으로도 어색해요.
+EDIT	natural	from-nature	ko2	이 주스에는 인공 향료가 없고 천연 재료만 들어 있다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	union	group	en1	The workers formed a union at the factory.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어에 못 미쳐요.
+EDIT	union	group	ko1	노동자들은 공장에서 노동조합을 결성했다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	recently	lately	en2	Food prices have risen sharply in our city recently.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어에 못 미쳐요.
+EDIT	recently	lately	ko2	최근 우리 도시의 식료품 가격이 급격히 올랐다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	pressure	stress	en2	He works well under pressure during busy shifts.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어에 못 미쳐요.
+EDIT	pressure	stress	ko2	그는 바쁜 근무 시간에도 압박 속에서 일을 잘한다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	treatment	handling	ko2	동물원에서 동물을 어떻게 대하는지는 큰 논쟁거리다.	Codex minor 수용	‘뜨거운 화제’는 hot topic의 어색한 직역이에요.
+EDIT	positive	hopeful	en2	She remained positive about her chances of passing the exam.	Codex fix 수용	positive reviews는 ‘호의적인·좋은 평가’라는 뜻으로, 낙관적인 의미가 아니에요. 예문도 5단어로 최소 길이에 못 미쳐요.
+EDIT	positive	hopeful	ko2	그녀는 시험에 합격할 가능성에 대해 계속 긍정적으로 생각했다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	absolutely	completely	en1	You are absolutely right about the answer to question three.	Codex fix 수용	예문이 4단어로 최소 길이인 6단어에 못 미쳐요.
+EDIT	absolutely	completely	ko1	3번 문제의 답에 관해서는 네 말이 전적으로 옳다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	absolutely	completely	en2	I absolutely love this song from the movie.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어에 못 미쳐요.
+EDIT	absolutely	completely	ko2	나는 그 영화에 나온 이 노래를 정말 좋아한다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	immediately	at-once	en1	Please call an ambulance immediately if someone is badly hurt.	Codex fix 수용	예문이 4단어로 최소 길이인 6단어에 못 미쳐요.
+EDIT	immediately	at-once	ko1	누군가 심하게 다쳤다면 즉시 구급차를 불러라.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	immediately	at-once	en2	She recognized him immediately when he entered the classroom.	Codex fix 수용	예문이 4단어로 최소 길이인 6단어에 못 미쳐요.
+EDIT	immediately	at-once	ko2	그가 교실에 들어서자 그녀는 바로 그를 알아보았다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	episode	part-of-series	ko2	그 여행은 내 인생에서 행복한 경험이었다.	Codex minor 수용	episode는 이 문맥에서 ‘장면’보다 인생의 한 ‘경험’이나 ‘사건’에 가까워요.
+EDIT	statement	announcement	expl	사실이나 의견을 말이나 글로 나타낸 것이에요.	Codex fix 수용	설명이 공식적으로 밝힌 말이나 글로만 한정되어, 참·거짓을 판단하는 일반적인 진술이라는 예문을 설명하지 못해요.
+EDIT	ability	skill	ko1	그녀는 내용을 분명하게 설명하는 능력이 있다.	Codex fix 수용	영어의 things는 여기서 ‘무엇이든’이라는 뜻이 아니며, 번역이 원문보다 의미를 넓혀요.
+EDIT	definitely	certainly	ko2	이것은 확실히 동네에서 가장 맛있는 피자다.	Codex fix 수용	This is the best pizza는 ‘이곳이 최고의 피자 가게’가 아니라 ‘이것이 최고의 피자’라는 뜻이에요.
+EDIT	administration	management	en1	She works in hospital administration at a large medical center.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어에 못 미쳐요.
+EDIT	administration	management	ko1	그녀는 큰 의료 센터에서 병원 행정 업무를 한다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	independent	self-reliant	en1	She became financially independent after graduating from college.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어에 못 미쳐요.
+EDIT	independent	self-reliant	ko1	그녀는 대학을 졸업한 뒤 경제적으로 독립했다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	commercial	advertisement	en1	I usually skip the commercials when I watch videos online.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어에 못 미쳐요.
+EDIT	commercial	advertisement	ko1	나는 온라인 동영상을 볼 때 보통 광고를 건너뛴다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	organization	arrangement	en2	The essay lacks clear organization in its final section.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어에 못 미쳐요.
+EDIT	organization	arrangement	ko2	그 에세이는 마지막 부분의 구성이 분명하지 않다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	organization	arrangement	col	clear organization	Codex fix 수용	good organization을 ‘좋은 정리’로 옮기면 어색하고, organization의 ‘체계적인 구성’ 의미도 잘 드러나지 않아요.
+EDIT	organization	arrangement	colko	체계적인 구성	Codex fix 수용	연어 교체에 맞춘 번역
+EDIT	easily	without-difficulty	en1	She solved the difficult puzzle easily after several attempts.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어에 못 미쳐요.
+EDIT	easily	without-difficulty	ko1	그녀는 여러 번 시도한 뒤 어려운 퍼즐을 쉽게 풀었다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	highly	very	en1	I highly recommend this book to students who enjoy science.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어에 못 미쳐요.
+EDIT	highly	very	ko1	나는 과학을 좋아하는 학생들에게 이 책을 강력히 추천한다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	agreement	same-opinion	en2	She nodded in agreement with the teacher's suggestion.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어에 못 미쳐요.
+EDIT	agreement	same-opinion	ko2	그녀는 선생님의 제안에 동의한다는 뜻으로 고개를 끄덕였다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	primary	elementary	expl	교육의 첫 단계나 어떤 과정의 초기와 관련된 것이에요.	Codex minor 수용	설명이 교육의 첫 단계에만 초점을 맞춰, ‘질병의 초기 단계’라는 예문의 의미를 다루지 못해요.
+EDIT	interview	question	en1	The reporter interviewed the mayor about the new policy.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어에 못 미쳐요.
+EDIT	interview	question	ko1	기자는 새 정책에 관해 시장을 인터뷰했다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	realize	achieve	en2	The plan was never realized because funding was unavailable.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어에 못 미쳐요.
+EDIT	realize	achieve	ko2	자금이 마련되지 않아 그 계획은 끝내 실현되지 못했다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	option	choice	col	have no option but to	Codex minor 수용	have no option은 보통 뒤에 but to + 동사원형이 이어져, 연어가 불완전하게 제시됐어요.
+EDIT	option	choice	colko	~할 수밖에 없다	Codex minor 수용	연어 교체에 맞춘 번역
+EDIT	natural	normal	meaning	당연한; 자연스러운; 타고난	Codex 빠진 뜻 수용	'타고난(natural talent)' 뜻이 예문 2에 쓰였는데 뜻에 없어 추가하고 예문 2는 유지
+ADD	likely|adv|probably|아마; 십중팔구|주로 will 뒤에서 그렇게 될 가능성이 높다고 말할 때 써요.|most likely|십중팔구|The game will likely be canceled because of the rain.|비 때문에 경기는 아마 취소될 것이다.|She will most likely win the election.|그녀가 십중팔구 선거에서 이길 것이다.	Codex 빠진 뜻 수용	지문에 자주 나오는 부사 '아마' 뜻 추가
+ADD	positive|adj|test-result|양성의|검사에서 병이나 물질이 있다고 나온 것이에요.|test positive|양성 판정을 받다|Her test result came back positive.|그녀의 검사 결과는 양성으로 나왔다.|He tested positive for the flu last week.|그는 지난주 독감 검사에서 양성 판정을 받았다.	Codex 빠진 뜻 수용	negative의 '음성의'와 짝이 되는 '양성의' 뜻 추가

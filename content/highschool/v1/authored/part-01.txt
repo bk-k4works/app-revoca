@@ -26,7 +26,7 @@ point|v|indicate|가리키다; 지적하다|손으로 가리키거나 문제를 
 point|n|moment|시점; 단계|어떤 일이 일어나는 특정한 때를 말해요.|at this point|이 시점에서|At some point in life, everyone feels lonely.|살면서 어느 시점에는 누구나 외로움을 느낀다.|At this point, it is too late to change the plan.|이 시점에서는 계획을 바꾸기에 너무 늦었다.
 once|adv|one-time|한 번|횟수가 한 번임을 나타내요.|once a week|일주일에 한 번|I go swimming once a week at the local pool.|나는 일주일에 한 번 동네 수영장에 수영하러 간다.|I have met him only once at a party.|나는 그를 파티에서 딱 한 번 만났다.
 once|adv|formerly|한때; 예전에|과거 어느 때에 그랬음을 나타내요.|once famous|한때 유명했던|This quiet town was once a busy port.|이 조용한 마을은 한때 분주한 항구였다.|People once believed that the earth was flat.|사람들은 한때 지구가 평평하다고 믿었다.
-once|conj|as-soon-as|일단 ~하면|어떤 일이 일어나자마자 다음 일이 이어질 때 써요.|once you start|일단 시작하면|Once you learn the rules, the game is easy.|일단 규칙을 익히면 그 게임은 쉽다.|Once the rain stopped, we went outside to play.|비가 그치자마자 우리는 놀러 밖으로 나갔다.
+once|conj|as-soon-as|일단 ~하면|어떤 일이 이루어지면 그다음 일이 이어질 때 써요.|once you start|일단 시작하면|Once you learn the rules, the game is easy.|일단 규칙을 익히면 그 게임은 쉽다.|Once the rain stopped, we went outside to play.|비가 그치자마자 우리는 놀러 밖으로 나갔다.
 support|v|help|지지하다; 지원하다|사람이나 생각을 돕거나 편을 들 때 써요.|support a plan|계획을 지지하다|Most students supported the new school rule.|대부분의 학생이 새 교칙을 지지했다.|The government supports small businesses with special loans.|정부는 특별 대출로 소상공인을 지원한다.
 support|n|evidence|뒷받침; 근거|주장을 받쳐 주는 이유나 자료를 말해요.|in support of|~을 지지하여|There is little support for this theory.|이 이론을 뒷받침하는 근거는 거의 없다.|The writer gives examples in support of her argument.|글쓴이는 자신의 주장을 뒷받침하려고 예를 든다.|evidence
 tell|v|distinguish|구별하다; 알아보다|'말하다' 외에 차이를 알아볼 때도 써요.|tell the difference|차이를 구별하다|I cannot tell the twins apart.|나는 그 쌍둥이를 구별할 수 없다.|It is hard to tell real news from fake news.|진짜 뉴스와 가짜 뉴스를 구별하기는 어렵다.|distinguish
@@ -42,7 +42,7 @@ run|v|operate|운행하다; 작동하다|기계나 교통수단이 움직이거�
 law|n|rule|법; 법률|사회가 정해 지켜야 하는 규칙이에요.|break the law|법을 어기다|Driving without a license is against the law.|면허 없이 운전하는 것은 법에 어긋난다.|The new law will protect wild animals.|새 법은 야생 동물을 보호할 것이다.
 law|n|principle|법칙|자연이나 현상에서 늘 성립하는 원리를 말해요.|the law of gravity|중력의 법칙|Scientists discovered the laws of motion long ago.|과학자들은 오래전에 운동 법칙을 발견했다.|The law of supply and demand affects prices.|수요와 공급의 법칙은 가격에 영향을 미친다.|principle
 whole|adj|entire|전체의; 모든|빠짐없이 전부임을 나타내요.|the whole day|하루 종일|I spent the whole day studying for the test.|나는 시험공부를 하며 하루 종일을 보냈다.|The whole class laughed at his joke.|반 전체가 그의 농담에 웃었다.|entire
-whole|n|entirety|전체|여러 부분이 모인 하나의 덩어리를 말해요.|on the whole|대체로|The whole is greater than the sum of its parts.|전체는 부분의 합보다 크다.|On the whole, the trip was a great success.|대체로 그 여행은 큰 성공이었다.
+whole|n|entirety|전체|여러 부분이 모인 하나의 덩어리를 말해요.|the whole of|~의 전체|The whole is greater than the sum of its parts.|전체는 부분의 합보다 크다.|The whole of the book is divided into three parts.|그 책 전체는 세 부분으로 나뉜다.
 face|v|confront|직면하다; 맞서다|'얼굴' 외에 동사로 어려움에 맞설 때 써요.|face a problem|문제에 직면하다|Many cities face a shortage of clean water.|많은 도시가 깨끗한 물 부족 문제에 직면해 있다.|You must face your fears in order to grow.|성장하려면 두려움에 맞서야 한다.|confront
 per|prep|each|~당; ~마다|단위 하나에 대한 양을 나타낼 때 써요.|per hour|시간당|The car was traveling at 100 kilometers per hour.|그 차는 시속 100킬로미터로 달리고 있었다.|Each person can borrow two books per visit.|한 사람은 방문할 때마다 책을 두 권 빌릴 수 있다.
 book|v|reserve|예약하다|'책' 외에 동사로 자리나 표를 미리 잡을 때 써요.|book a table|자리를 예약하다|We booked a table for four at the restaurant.|우리는 그 식당에 네 명 자리를 예약했다.|The hotel was fully booked for the holiday.|그 호텔은 휴일에 예약이 꽉 찼다.|reserve
@@ -51,9 +51,9 @@ post|n|mail|우편|편지나 소포를 보내고 받는 체계예요.|by post|�
 post|v|share-online|게시하다; 올리다|글이나 사진을 인터넷이나 게시판에 올릴 때 써요.|post a photo|사진을 올리다|She posted photos of her trip online.|그녀는 여행 사진을 온라인에 올렸다.|The results will be posted on the school website.|결과는 학교 웹사이트에 게시될 것이다.
 post|n|position|직책; 자리|맡아서 일하는 지위나 자리예요.|a key post|요직|He was offered a post at the university.|그는 대학의 한 자리를 제안받았다.|She resigned from her post as manager.|그녀는 관리자 직책에서 물러났다.|position
 social|adj|society|사회의; 사회적인|사람들이 모여 사는 사회와 관련된 것이에요.|social problems|사회 문제|Poverty is a serious social problem in many countries.|빈곤은 많은 나라에서 심각한 사회 문제이다.|Humans are social animals who need each other.|인간은 서로를 필요로 하는 사회적 동물이다.
-court|n|law-court|법원; 법정|재판이 열리는 곳이에요.|go to court|소송을 제기하다|The case will go to court next month.|그 사건은 다음 달에 법정으로 간다.|The court found him not guilty of the crime.|법원은 그 범죄에 대해 그에게 무죄를 선고했다.
+court|n|law-court|법원; 법정|재판이 열리는 곳이에요.|go to court|법정에 가다|The case will go to court next month.|그 사건은 다음 달 재판에 회부될 것이다.|The court found him not guilty of the crime.|법원은 그 범죄에 대해 그에게 무죄를 선고했다.
 court|n|sports-area|코트; 경기장|테니스나 농구 같은 경기를 하는 곳이에요.|a tennis court|테니스장|The students played basketball on the court.|학생들은 코트에서 농구를 했다.|The new tennis court opens next week.|새 테니스장은 다음 주에 문을 연다.
-mind|n|thoughts|마음; 정신|생각하고 느끼는 능력이나 상태예요.|make up your mind|결심하다|Reading keeps the mind active and healthy.|독서는 정신을 활발하고 건강하게 유지해 준다.|I cannot make up my mind about the trip.|나는 그 여행에 대해 결정을 내리지 못하겠다.
+mind|n|thoughts|마음; 정신|생각하고 느끼는 능력이나 상태예요.|make up your mind|결심하다|Reading keeps the mind active and healthy.|독서는 정신을 활발하고 건강하게 유지해 준다.|A healthy mind can help students cope with stress.|건강한 정신은 학생들이 스트레스에 대처하는 데 도움이 될 수 있다.
 mind|v|object|꺼리다; 신경 쓰다|부정문·의문문에서 싫어하거나 상관할 때 써요.|do you mind|~해도 괜찮겠습니까|Would you mind opening the window?|창문을 열어 주시겠습니까?|I do not mind waiting a little longer.|나는 조금 더 기다려도 괜찮다.
 pay|v|give-money|지불하다|물건이나 서비스의 값을 돈으로 낼 때 써요.|pay for|~의 값을 치르다|I paid ten dollars for this shirt.|나는 이 셔츠에 10달러를 지불했다.|Who will pay for the damage to the car?|그 차의 손상은 누가 배상할까?
 pay|n|salary|급료; 보수|일한 대가로 받는 돈이에요.|equal pay|동일 임금|The workers asked for higher pay.|노동자들은 더 높은 임금을 요구했다.|The job offers good pay and long holidays.|그 일자리는 급여가 좋고 휴가가 길다.|salary
@@ -93,7 +93,7 @@ chance|n|opportunity|기회|어떤 일을 할 수 있는 좋은 때예요.|a sec
 chance|n|possibility|확률; 가능성|어떤 일이 일어날 수 있는 정도예요.|a good chance|높은 가능성|There is a good chance of rain this afternoon.|오늘 오후에 비가 올 가능성이 높다.|Regular exercise reduces the chance of heart disease.|규칙적인 운동은 심장병에 걸릴 확률을 낮춘다.|possibility
 chance|n|luck|우연|계획하지 않았는데 일어나는 일이에요.|by chance|우연히|I met my teacher by chance at the market.|나는 시장에서 우연히 선생님을 만났다.|The important discovery was made by chance.|그 중요한 발견은 우연히 이루어졌다.
 process|n|series-of-steps|과정|어떤 결과에 이르기까지 거치는 단계예요.|the learning process|학습 과정|Learning a language is a slow process.|언어를 배우는 것은 느린 과정이다.|Mistakes are a natural part of the process.|실수는 그 과정의 자연스러운 일부이다.
-process|v|handle|처리하다; 가공하다|자료나 재료를 일정한 방법으로 다룰 때 써요.|process data|자료를 처리하다|Computers can process large amounts of data quickly.|컴퓨터는 많은 양의 자료를 빠르게 처리할 수 있다.|Processed food often contains a lot of salt.|가공식품에는 흔히 소금이 많이 들어 있다.
+process|v|handle|처리하다; 가공하다|자료나 재료를 일정한 방법으로 다룰 때 써요.|process data|자료를 처리하다|Computers can process large amounts of data quickly.|컴퓨터는 많은 양의 자료를 빠르게 처리할 수 있다.|Food companies process tomatoes into sauce.|식품 회사들은 토마토를 가공해 소스를 만든다.
 board|n|plank|판; 게시판|글을 쓰거나 붙이는 판이에요.|on the board|칠판에|The teacher wrote the answer on the board.|선생님은 칠판에 답을 썼다.|Check the notice board for the exam schedule.|시험 일정은 게시판에서 확인해라.
 board|n|committee|이사회; 위원회|조직의 중요한 일을 결정하는 사람들의 모임이에요.|the board of directors|이사회|The board decided to build a new library.|이사회는 새 도서관을 짓기로 결정했다.|She was elected to the school board.|그녀는 학교 운영 위원회 위원으로 선출되었다.|committee
 board|v|get-on|탑승하다|비행기나 배, 기차에 올라탈 때 써요.|board a plane|비행기에 탑승하다|Passengers began to board the plane at noon.|승객들은 정오에 비행기에 탑승하기 시작했다.|We boarded the train just before it left.|우리는 기차가 떠나기 직전에 탑승했다.

@@ -1,0 +1,256 @@
+[unbiased|adj|fair] hash=f8fd20146d175b92
+  뜻: 편견 없는; 공정한
+  설명: 한쪽으로 치우치지 않은 것이에요.
+  연어: unbiased opinion = 공정한 의견
+  예문1: A good reporter tries to stay unbiased. / 좋은 기자는 편견 없이 공정하려고 노력한다.
+  예문2: We need unbiased information to decide. / 우리가 결정하려면 객관적인 정보가 필요하다.
+  유의어(오답 제외): fair
+[digestion|n|digesting] hash=7583e442c747702b
+  뜻: 소화
+  설명: 음식을 몸이 흡수할 수 있게 바꾸는 과정이에요.
+  연어: good digestion = 좋은 소화
+  예문1: Walking after dinner can help support healthy digestion. / 저녁 식사 후 걷기는 건강한 소화를 돕는다.
+  예문2: Some foods are bad for digestion. / 어떤 음식은 소화에 좋지 않다.
+[nurture|v|raise] hash=d642512c77e39eec
+  뜻: 양육하다; 육성하다
+  설명: 돌보고 키울 때 써요.
+  연어: nurture talent = 재능을 기르다
+  예문1: Parents should nurture their children's interests. / 부모는 자녀의 관심사를 길러 주어야 한다.
+  예문2: The program nurtures young artists from across the region. / 그 프로그램은 지역 곳곳의 젊은 예술가들을 육성한다.
+  유의어(오답 제외): raise
+[crumble|v|break-apart] hash=0eff7b3b1a9a8207
+  뜻: 부서지다; 부스러뜨리다; 무너지다
+  설명: 작은 조각으로 부서지거나 힘이 약해질 때 써요.
+  연어: crumble into pieces = 산산조각 나다
+  예문1: The old wall began to crumble. / 그 오래된 벽이 허물어지기 시작했다.
+  예문2: She crumbled the bread for the birds. / 그녀는 새들에게 주려고 빵을 부스러뜨렸다.
+[recite|v|repeat-aloud] hash=324571d8e13555aa
+  뜻: 암송하다; 낭독하다
+  설명: 외운 것을 소리 내어 말할 때 써요.
+  연어: recite a poem = 시를 암송하다
+  예문1: Each student recited a poem in class. / 학생마다 수업 시간에 시를 한 편씩 암송했다.
+  예문2: He can recite the names of all the countries in Europe. / 그는 유럽의 모든 나라 이름을 줄줄 외울 수 있다.
+[specialize|v|focus] hash=80bc2d218f3a1ab0
+  뜻: 전문으로 하다; 전공하다
+  설명: 한 분야에 집중할 때 써요.
+  연어: specialize in = ~을 전문으로 하다
+  예문1: The restaurant specializes in locally caught seafood dishes. / 그 식당은 그 지역에서 잡은 해산물 요리를 전문으로 한다.
+  예문2: She wants to specialize in children's medicine. / 그녀는 소아과를 전공하고 싶어 한다.
+  유의어(오답 제외): focus
+[faithfully|adv|loyally] hash=9577573cfae90c53
+  뜻: 충실하게; 성실하게
+  설명: 약속이나 의무를 꾸준히 지키는 태도를 나타내요.
+  연어: serve faithfully = 충실히 섬기다
+  예문1: The dog waited faithfully for its owner. / 그 개는 충실하게 주인을 기다렸다.
+  예문2: He faithfully visits his grandmother every week. / 그는 매주 빠짐없이 할머니를 찾아뵌다.
+  유의어(오답 제외): loyally
+[fad|n|craze] hash=a219f9d881da3e32
+  뜻: 일시적 유행
+  설명: 잠깐 인기를 끌다 사라지는 것이에요.
+  연어: a passing fad = 일시적인 유행
+  예문1: The toy was just a fad and soon disappeared. / 그 장난감은 일시적인 유행일 뿐이었고 곧 사라졌다.
+  예문2: Some diets are temporary fads that quickly lose popularity. / 어떤 다이어트는 금세 인기를 잃는 일시적 유행일 뿐이다.
+  유의어(오답 제외): trend
+[brighten|v|make-brighter] hash=0b299623c64a87df
+  뜻: 밝게 하다; 밝아지다
+  설명: 빛이나 기분이 밝아질 때 써요.
+  연어: brighten up = 밝아지다
+  예문1: Fresh flowers brighten the room on a rainy day. / 비 오는 날에는 싱싱한 꽃이 방을 환하게 해 준다.
+  예문2: Her face brightened when she heard the news. / 그 소식을 듣고 그녀의 얼굴이 밝아졌다.
+[reptile|n|cold-blooded-animal] hash=ebe2900e7cfee134
+  뜻: 파충류
+  설명: 뱀이나 도마뱀처럼 비늘이 있는 동물이에요.
+  연어: reptiles and birds = 파충류와 조류
+  예문1: Snakes and lizards are reptiles, unlike frogs and fish. / 뱀과 도마뱀은 개구리나 물고기와 달리 파충류이다.
+  예문2: The zoo has a large reptile house. / 그 동물원에는 큰 파충류관이 있다.
+[aroma|n|scent] hash=25debacd17955d9d
+  뜻: 좋은 향; 향기
+  설명: 음식이나 커피의 좋은 냄새예요.
+  연어: the aroma of coffee = 커피 향
+  예문1: The aroma of fresh bread filled the kitchen. / 갓 구운 빵 냄새가 부엌을 가득 채웠다.
+  예문2: I love the aroma of coffee in the morning. / 나는 아침의 커피 향을 좋아한다.
+  유의어(오답 제외): scent
+[unfounded|adj|baseless] hash=2780ff001ab305e4
+  뜻: 근거 없는
+  설명: 사실이나 증거가 없는 것이에요.
+  연어: unfounded rumors = 근거 없는 소문
+  예문1: The rumors about the singer were unfounded. / 그 가수에 관한 소문은 근거가 없었다.
+  예문2: Your fears about the trip are completely unfounded. / 여행에 대한 네 두려움은 전혀 근거가 없다.
+  유의어(오답 제외): baseless
+[mislead|v|deceive] hash=76b876a6e6ba0cd8
+  뜻: 오해하게 하다; 속이다
+  설명: 잘못 믿게 만들 때 써요.
+  연어: be misled by = ~에 속다
+  예문1: The advertisement misled many customers. / 그 광고는 많은 고객을 잘못 믿게 했다.
+  예문2: Do not mislead people with false information. / 거짓 정보로 사람들을 속이지 마라.
+  유의어(오답 제외): deceive
+[superstition|n|false-belief] hash=03d72674b6393b0a
+  뜻: 미신
+  설명: 과학적 근거 없이 믿는 생각이에요.
+  연어: an old superstition = 오래된 미신
+  예문1: Many people share the superstition that the number four is unlucky. / 많은 사람이 숫자 4가 불길하다는 미신을 믿는다.
+  예문2: Breaking a mirror brings bad luck, according to an old superstition. / 오래된 미신에 따르면 거울을 깨면 불운이 온다.
+[skyscraper|n|tall-building] hash=9ab963be8cd281d8
+  뜻: 고층 건물; 마천루
+  설명: 아주 높은 건물이에요.
+  연어: a modern skyscraper = 현대식 고층 건물
+  예문1: The city is full of skyscrapers. / 그 도시는 고층 건물로 가득하다.
+  예문2: We could see the whole city from the top of the skyscraper. / 고층 건물 꼭대기에서 도시 전체가 보였다.
+[carefree|adj|relaxed] hash=99a1fd441e47848a
+  뜻: 근심 걱정 없는
+  설명: 걱정이 없이 편안한 것이에요.
+  연어: a carefree life = 근심 없는 삶
+  예문1: We spent a carefree summer at the beach. / 우리는 해변에서 근심 없는 여름을 보냈다.
+  예문2: Children often seem carefree during their summer vacation. / 아이들은 여름 방학 동안 흔히 걱정이 없어 보인다.
+  유의어(오답 제외): relaxed
+[sneeze|v|expel-air-from-nose] hash=ac3254889498d8e3
+  뜻: 재채기하다
+  설명: 코가 간지러워 갑자기 숨을 내뿜을 때 써요.
+  연어: sneeze loudly = 크게 재채기하다
+  예문1: Cover your nose when you sneeze. / 재채기할 때는 코를 가려라.
+  예문2: Dust always makes me sneeze when I clean my room. / 방을 청소할 때면 먼지 때문에 늘 재채기가 난다.
+[uniformly|adv|evenly] hash=b699631cfe2e787b
+  뜻: 균일하게; 한결같이
+  설명: 모두 같은 방식이나 정도로 이루어지는 것을 뜻해요.
+  연어: spread uniformly = 고르게 펴다
+  예문1: Spread the paint uniformly over the wall. / 페인트를 벽에 고르게 펴 발라라.
+  예문2: The students were uniformly dressed in blue. / 학생들은 모두 똑같이 파란 옷을 입고 있었다.
+  유의어(오답 제외): evenly
+[burnout|n|exhaustion] hash=6f403c25d73aff30
+  뜻: 번아웃; 극도의 피로
+  설명: 오랜 스트레스나 과로로 몸과 마음이 지친 상태예요.
+  연어: suffer from burnout = 번아웃을 겪다
+  예문1: Working too many hours can lead to burnout. / 너무 오래 일하면 번아웃이 올 수 있다.
+  예문2: Many students suffer from burnout before exams. / 많은 학생이 시험 전에 극도의 피로를 겪는다.
+  유의어(오답 제외): exhaustion
+[proverb|n|saying] hash=f27fe28acbdfbcf7
+  뜻: 속담; 격언
+  설명: 오래전부터 전해 오는 교훈이 담긴 말이에요.
+  연어: an old proverb = 옛 속담
+  예문1: As the proverb says, practice makes perfect. / 속담에도 있듯이, 연습하면 완벽해진다.
+  예문2: Every culture has its own proverbs. / 모든 문화에는 고유한 속담이 있다.
+  유의어(오답 제외): saying
+[mow|v|cut-grass] hash=3b80bfc5dd3a0077
+  뜻: (잔디를) 깎다
+  설명: 잔디나 풀을 짧게 자를 때 써요.
+  연어: mow the lawn = 잔디를 깎다
+  예문1: My father mows the lawn every Saturday. / 아버지는 토요일마다 잔디를 깎으신다.
+  예문2: The grass needs to be mowed. / 잔디를 깎아야 한다.
+[frighten|v|scare] hash=13cd8af575d54893
+  뜻: 겁먹게 하다
+  설명: 갑자기 겁에 질리게 할 때 써요.
+  연어: be frightened of = ~을 무서워하다
+  예문1: The loud noise frightened the baby. / 큰 소리에 아기가 겁을 먹었다.
+  예문2: Spiders frighten her whenever she walks through the garden. / 그녀는 정원을 지날 때마다 거미 때문에 겁을 먹는다.
+  유의어(오답 제외): scare
+[keenly|adv|intensely] hash=ddd0c4ceac10ddcc
+  뜻: 예리하게; 강하게
+  설명: 아주 깊고 강하게를 뜻해요.
+  연어: keenly aware = 절실히 알고 있는
+  예문1: She is keenly aware of the risks. / 그녀는 그 위험을 절실히 알고 있다.
+  예문2: The students listened keenly to the speaker. / 학생들은 연사의 말을 집중해서 들었다.
+  유의어(오답 제외): intensely
+[yawn|v|open-mouth-tired] hash=4e9faf48fce459b7
+  뜻: 하품하다
+  설명: 졸리거나 지루해서 입을 크게 벌릴 때 써요.
+  연어: yawn widely = 크게 하품하다
+  예문1: He yawned during the long meeting. / 그는 긴 회의 중에 하품을 했다.
+  예문2: Yawning is contagious, especially when people are tired. / 하품은 특히 사람들이 피곤할 때 전염된다.
+[worsen|v|deteriorate] hash=4c9e22030ee7d1ac
+  뜻: 악화되다; 악화시키다
+  설명: 상태가 더 나빠지거나 나쁘게 만들 때 써요.
+  연어: worsen the situation = 상황을 악화시키다
+  예문1: Her cough worsened during the night. / 그녀의 기침은 밤사이 더 심해졌다.
+  예문2: Pollution will worsen if we do nothing. / 우리가 아무것도 하지 않으면 오염은 악화될 것이다.
+  유의어(오답 제외): deteriorate
+[extinguish|v|put-out] hash=89f23fb7c0a2db89
+  뜻: (불을) 끄다; 소멸시키다
+  설명: 불이나 희망을 꺼뜨릴 때 써요.
+  연어: extinguish a fire = 불을 끄다
+  예문1: Firefighters extinguished the fire quickly. / 소방관들이 불을 빠르게 껐다.
+  예문2: Nothing could extinguish her hope for a better future. / 그 무엇도 더 나은 미래에 대한 그녀의 희망을 꺾을 수 없었다.
+  유의어(오답 제외): put out
+[inconsiderate|adj|thoughtless] hash=99b3113ebef0a2be
+  뜻: 배려심 없는; 사려 깊지 못한
+  설명: 남을 생각하지 않는 것이에요.
+  연어: inconsiderate behavior = 배려 없는 행동
+  예문1: It is inconsiderate to play loud music late at night. / 밤늦게 음악을 크게 트는 것은 배려가 없는 행동이다.
+  예문2: Some drivers are very inconsiderate toward pedestrians. / 어떤 운전자들은 보행자를 전혀 배려하지 않는다.
+  유의어(오답 제외): thoughtless
+[graze|v|eat-grass] hash=4e9d13bf845e2776
+  뜻: 풀을 뜯다; (피부를) 까다
+  설명: 가축이 풀을 먹거나 피부가 쓸릴 때 써요.
+  연어: graze in a field = 들판에서 풀을 뜯다
+  예문1: Sheep were grazing on the hill. / 양들이 언덕에서 풀을 뜯고 있었다.
+  예문2: I grazed my knee when I fell. / 나는 넘어지면서 무릎이 까졌다.
+[firework|n|explosive-display] hash=6362b3d7e115b956
+  뜻: 불꽃놀이; 폭죽
+  설명: 밤하늘에서 터지는 화려한 불꽃이에요.
+  연어: a big fireworks display = 성대한 불꽃놀이
+  예문1: We watched the fireworks on New Year's Eve. / 우리는 새해 전날 밤 불꽃놀이를 보았다.
+  예문2: The festival ended with a big firework display. / 축제는 성대한 불꽃놀이로 막을 내렸다.
+[politeness|n|courtesy] hash=54cbd50b79f8630f
+  뜻: 공손함; 예의 바름
+  설명: 남을 존중하는 바른 태도예요.
+  연어: out of politeness = 예의상
+  예문1: She smiled out of politeness during the awkward introduction. / 그녀는 어색한 소개 자리에서 예의상 미소를 지었다.
+  예문2: Politeness costs nothing but can make others feel respected. / 예의를 지키는 데는 돈이 들지 않지만 상대가 존중받는다고 느끼게 할 수 있다.
+  유의어(오답 제외): courtesy
+[indigestion|n|stomach-upset] hash=4917aa1b452eb367
+  뜻: 소화 불량
+  설명: 음식이 잘 소화되지 않아 불편한 것이에요.
+  연어: suffer from indigestion = 소화 불량으로 고생하다
+  예문1: Eating too fast can cause indigestion. / 너무 빨리 먹으면 소화 불량이 생길 수 있다.
+  예문2: He took medicine for his indigestion. / 그는 소화 불량 때문에 약을 먹었다.
+[terrify|v|frighten] hash=ab63433227101103
+  뜻: 몹시 무섭게 하다
+  설명: 아주 크게 겁을 줄 때 써요.
+  연어: be terrified of = ~을 몹시 무서워하다
+  예문1: The horror movie terrified my little brother. / 그 공포 영화는 내 남동생을 몹시 겁에 질리게 했다.
+  예문2: The idea of climbing that tall tower terrified me. / 저 높은 탑에 오른다는 생각만으로도 나는 몹시 무서웠다.
+  유의어(오답 제외): frighten
+[unselfish|adj|selfless] hash=8f49a8e0216324b8
+  뜻: 이기적이지 않은; 이타적인
+  설명: 남을 먼저 생각하는 것이에요.
+  연어: an unselfish act = 사심 없는 행동
+  예문1: Sharing your lunch was very unselfish. / 점심을 나눠 준 것은 매우 이타적인 행동이었다.
+  예문2: He is an unselfish team player. / 그는 팀을 먼저 생각하는 선수이다.
+  유의어(오답 제외): selfless
+[startle|v|surprise] hash=8d357a1cdbc57e9b
+  뜻: (갑자기) 깜짝 놀라게 하다
+  설명: 갑자기 놀라게 할 때 써요.
+  연어: be startled by = ~에 깜짝 놀라다
+  예문1: The sudden noise startled me during the quiet study session. / 조용히 공부하던 중 갑작스러운 소리에 나는 깜짝 놀랐다.
+  예문2: She was startled by a knock at the door. / 그녀는 문 두드리는 소리에 깜짝 놀랐다.
+  유의어(오답 제외): surprise
+[unwrap|v|open-package] hash=1e4072f84a792c3b
+  뜻: (포장을) 풀다
+  설명: 포장한 것을 열 때 써요.
+  연어: unwrap a gift = 선물 포장을 풀다
+  예문1: The children eagerly unwrapped their presents after breakfast. / 아이들은 아침을 먹은 뒤 신이 나서 선물 포장을 풀었다.
+  예문2: She carefully unwrapped a framed photo before hanging it. / 그녀는 액자에 넣은 사진을 걸기 전에 조심스럽게 포장을 풀었다.
+[egocentric|adj|self-centered] hash=94cc3d96479da474
+  뜻: 자기중심적인
+  설명: 자기 생각만 하는 것이에요.
+  연어: an egocentric person = 자기중심적인 사람
+  예문1: Young children are often egocentric when they struggle to share toys. / 어린아이들은 장난감을 나누기 어려워할 때 흔히 자기중심적이다.
+  예문2: His egocentric attitude annoyed his teammates. / 그의 자기중심적인 태도는 팀원들을 짜증 나게 했다.
+  유의어(오답 제외): selfish
+[whiten|v|make-white] hash=8330d18695a82f8c
+  뜻: 희게 하다; 하얘지다
+  설명: 색을 하얗게 만들 때 써요.
+  연어: whiten teeth = 이를 하얗게 하다
+  예문1: This toothpaste helps whiten your teeth. / 이 치약은 이를 하얗게 하는 데 도움이 된다.
+  예문2: Her face whitened with fear when the lights suddenly went out. / 불이 갑자기 꺼지자 두려움에 그녀의 얼굴이 창백해졌다.
+[lethally|adv|deadly] hash=b76133a598a477fe
+  뜻: 치명적으로
+  설명: 목숨을 잃을 만큼을 뜻해요.
+  연어: lethally toxic = 치명적으로 유독한
+  예문1: Some snakes are lethally poisonous. / 어떤 뱀은 치명적인 독을 지니고 있다.
+  예문2: A small amount of this chemical can be lethally toxic. / 이 화학 물질은 소량으로도 치명적일 만큼 독성이 강하다.
+[nonprofitable|adj|unprofitable] hash=10a7aad5ae0ddbac
+  뜻: 이익이 나지 않는
+  설명: 돈을 벌지 못하는 것이에요.
+  연어: an unprofitable business = 수익이 나지 않는 사업
+  예문1: The company closed its nonprofitable stores. / 그 회사는 이익이 나지 않는 매장을 닫았다.
+  예문2: The project was nonprofitable but useful to the community. / 그 사업은 이익이 나지 않았지만 지역 사회에 유익했다.

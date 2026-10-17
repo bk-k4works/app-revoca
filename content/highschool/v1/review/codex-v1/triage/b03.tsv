@@ -1,0 +1,18 @@
+EDIT	taste	preference	en1	We have very different tastes in music.	Codex fix 수용	복수 주어에서는 'tastes'가 더 자연스러움
+EDIT	apply	use	meaning	적용하다; 적용되다; 바르다	Codex fix 수용	예문 2 'applies to(적용되다)' 용법이 뜻에 없었음
+EDIT	apply	use	expl	규칙을 쓰거나 해당되거나, 표면에 바를 때 써요.	Codex fix 수용	뜻 확장에 맞춘 설명
+EDIT	supply	stock	ko1	그 마을은 깨끗한 물 공급량이 한정되어 있다.	Codex minor 수용	'limited supply'를 간접적으로 풀어 쓴 번역을 원문에 가깝게 고침
+EDIT	spirit	mood	colko	단결심	Codex minor 수용	'단체 정신'보다 자연스러운 번역
+EDIT	suggest	propose	meaning	제안하다; 추천하다	Codex fix 수용	예문 2의 '추천하다' 용법이 뜻에 없었음
+EDIT	suggest	propose	expl	생각이나 계획을 내놓거나 알맞은 것을 권할 때 써요.	Codex fix 수용	뜻 확장에 맞춘 설명
+EDIT	edge	advantage	ko1	두 언어를 구사하면 여러 직업에서 우위를 점할 수 있다.	Codex minor 수용	'두 언어를 하면'이 모호함
+EDIT	mention	refer-to	expl	이야기 중 어떤 내용을 짧게 꺼내 말할 때 써요.	Codex fix 수용	'짧게 이야기에 꺼낼 때'가 문법적으로 어색함
+EDIT	mention	refer-to	ko2	그 호텔에는 아름다운 정원은 물론 수영장도 있다.	Codex fix 수용	번역이 정원·수영장의 강조 관계를 뒤집음
+EDIT	transfer	move@v	meaning	옮기다; 전학하다; 이체하다	Codex fix 수용	예문 2의 '이체하다' 용법이 뜻에 없었음
+EDIT	steel	metal	expl	철에 탄소 등을 섞어 더 단단하게 만든 합금이에요.	Codex fix 수용	'철을 단단하게 만든 금속'은 성분 설명이 부정확함
+EDIT	command	order@v	en2	He commanded a small unit during the war.	Codex minor 수용	'command the team'은 어색한 조합
+EDIT	command	order@v	ko2	그는 전쟁 중에 작은 부대를 지휘했다.	Codex minor 수용	예문 교체에 맞춘 번역
+EDIT	appeal	attraction	en1	The movie has wide appeal among viewers of all ages.	Codex minor 수용	'for all ages'는 '모든 연령에 적합'으로도 읽혀 모호함
+EDIT	feed	supply	en2	The machine feeds paper into the printer.	Codex minor 수용	'Rivers feed water into the lake'는 어색한 연어
+EDIT	feed	supply	ko2	그 기계는 프린터에 종이를 넣어 준다.	Codex minor 수용	예문 교체에 맞춘 번역
+ADD	volume|n|capacity|부피; 용적|어떤 물체가 공간에서 차지하는 크기예요.|the volume of a gas|기체의 부피|Heat increases the volume of a gas.|열은 기체의 부피를 늘린다.|What is the volume of this box?|이 상자의 부피는 얼마일까?	Codex 빠진 뜻 수용	과학·수학 지문에 자주 나오는 '부피' 뜻 추가

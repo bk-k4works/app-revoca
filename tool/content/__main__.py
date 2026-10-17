@@ -116,6 +116,19 @@ def parser():
     p = commands.add_parser('hs-preview', help='Build a development package for the high-school track')
     p.add_argument('--input', type=Path, required=True)
     p.add_argument('--output', type=Path, required=True)
+    p = commands.add_parser('hs-release', help='Build a release package from Codex-reviewed, human-approved senses only')
+    p.add_argument('--input', type=Path, required=True)
+    p.add_argument('--output', type=Path, required=True)
+    p.add_argument('--version', required=True)
+    p = commands.add_parser('hs-review-prepare', help='Split authored rows into Codex review batches')
+    p.add_argument('--pending', metavar='NAME', help='Only senses without a current verdict, into review/codex-v1/NAME')
+    p = commands.add_parser('hs-review-merge', help='Join Codex verdicts to the batch manifest')
+    p.add_argument('--dir', type=Path, default=None, help='Review directory (default: review/codex-v1)')
+    p = commands.add_parser('hs-review-export', help='Write the human approval sheet (CSV, UTF-8 BOM)')
+    p.add_argument('--output', type=Path, default=None)
+    p = commands.add_parser('hs-review-import', help='Record human decisions from the approval sheet')
+    p.add_argument('--csv', type=Path, required=True)
+    commands.add_parser('hs-review-status', help='Count Codex coverage and human decisions')
     p = commands.add_parser('install')
     p.add_argument('package', type=Path)
     p.add_argument('--assets', type=Path, default=ROOT / 'assets/content')
@@ -205,6 +218,19 @@ def main(argv=None):
         return highschool.draft(args.input, args.output)
     if command == 'hs-preview':
         return highschool.build_preview(args.input, args.output)
+    if command == 'hs-release':
+        return highschool.build_preview(args.input, args.output, release_version=args.version)
+    if command.startswith('hs-review-'):
+        from . import hs_review
+        if command == 'hs-review-prepare':
+            return hs_review.prepare_pending(args.pending) if args.pending else hs_review.prepare()
+        if command == 'hs-review-merge':
+            return hs_review.merge(args.dir) if args.dir else hs_review.merge()
+        if command == 'hs-review-export':
+            return hs_review.export_human(args.output) if args.output else hs_review.export_human()
+        if command == 'hs-review-import':
+            return hs_review.import_human(args.csv)
+        return hs_review.status()
     if command == 'install':
         return build.install(args.package, args.assets)
 

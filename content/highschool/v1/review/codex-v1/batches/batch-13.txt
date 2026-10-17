@@ -1,0 +1,742 @@
+[proportion|n|part] hash=d9eed9f8afe82b41
+  뜻: (전체 중) 비율; 부분
+  설명: 전체에서 어떤 부분이 차지하는 양이에요.
+  연어: a large proportion of = ~의 상당 부분
+  예문1: A large proportion of students walk to school. / 상당수의 학생이 걸어서 학교에 간다.
+  예문2: The proportion of older people is rising. / 노인 인구의 비율이 높아지고 있다.
+  유의어(오답 제외): ratio
+[proportion|n|balance] hash=897202b5801fc4a5
+  뜻: 조화; 균형
+  설명: 크기나 양이 서로 알맞은 정도예요.
+  연어: out of proportion = 균형이 맞지 않는
+  예문1: The head of the statue is out of proportion to its body. / 그 조각상의 머리는 몸에 비해 균형이 맞지 않는다.
+  예문2: Keep your spending in proportion to your income. / 지출을 수입에 맞게 유지해라.
+  유의어(오답 제외): balance
+[rage|n|fury] hash=c8a79ace7a5ad5f9
+  뜻: 격노; 분노
+  설명: 참을 수 없을 만큼 격한 분노예요.
+  연어: fly into a rage = 격분하다
+  예문1: He shouted in rage when he saw the broken window. / 그는 깨진 창문을 보고 분노에 차서 소리쳤다.
+  예문2: Road rage can cause accidents. / 운전 중 분노는 사고를 일으킬 수 있다.
+  유의어(오답 제외): anger
+[selfish|adj|self-centered] hash=368cf6c07c7d238a
+  뜻: 이기적인
+  설명: 자기만 생각하는 것이에요.
+  연어: selfish behavior = 이기적인 행동
+  예문1: It was selfish of him to eat all the cake. / 케이크를 혼자 다 먹다니 그는 이기적이었다.
+  예문2: Do not be selfish; share your toys. / 이기적으로 굴지 말고 장난감을 나눠라.
+[urge|v|encourage-strongly] hash=a835f0a3717a75cf
+  뜻: 촉구하다; 강력히 권하다
+  설명: 무엇을 하라고 강하게 말할 때 써요.
+  연어: urge someone to = ~에게 ~하라고 촉구하다
+  예문1: Doctors urge people to exercise more. / 의사들은 사람들에게 운동을 더 하라고 권한다.
+  예문2: The teacher urged us to read every day. / 선생님은 우리에게 매일 책을 읽으라고 당부하셨다.
+  유의어(오답 제외): encourage
+[urge|n|strong-desire] hash=f654fce7968c6004
+  뜻: 충동; 욕구
+  설명: 무엇을 하고 싶은 강한 마음이에요.
+  연어: an urge to = ~하고 싶은 충동
+  예문1: I had a sudden urge to eat ice cream. / 나는 갑자기 아이스크림이 먹고 싶어졌다.
+  예문2: She fought the urge to check her phone. / 그녀는 휴대전화를 확인하고 싶은 충동을 참았다.
+  유의어(오답 제외): desire
+[booth|n|small-room] hash=d7e473d9975b45f6
+  뜻: 부스; 칸막이 공간
+  설명: 작게 칸을 막아 만든 공간이에요.
+  연어: a phone booth = 전화 부스
+  예문1: We set up a booth at the school festival. / 우리는 학교 축제에 부스를 차렸다.
+  예문2: Voters enter a booth to mark their ballots. / 유권자들은 칸막이 공간에 들어가 투표용지에 표시한다.
+[facial|adj|of-the-face] hash=d452b610375f4a87
+  뜻: 얼굴의
+  설명: 얼굴과 관련된 것이에요.
+  연어: facial expression = 얼굴 표정
+  예문1: Her facial expression showed surprise. / 그녀의 얼굴 표정에 놀라움이 드러났다.
+  예문2: The app uses facial recognition. / 그 앱은 얼굴 인식 기능을 사용한다.
+[import|v|bring-in] hash=22e5839c414c1f9e
+  뜻: 수입하다
+  설명: 다른 나라에서 물건을 사 들여올 때 써요.
+  연어: import oil = 석유를 수입하다
+  예문1: Korea imports most of its oil. / 한국은 석유 대부분을 수입한다.
+  예문2: The store imports cheese from France. / 그 가게는 프랑스에서 치즈를 수입한다.
+[import|n|imported-goods] hash=77fd5ced66f078ba
+  뜻: 수입(품)
+  설명: 다른 나라에서 들여온 물건이에요.
+  연어: cheap imports = 값싼 수입품
+  예문1: Imports of electric cars have increased. / 전기 자동차 수입이 늘었다.
+  예문2: The shop sells many foreign imports. / 그 가게는 외국 수입품을 많이 판다.
+[innovative|adj|creative] hash=c05ede4c3994f6ba
+  뜻: 혁신적인
+  설명: 새로운 생각이나 방법을 쓰는 것이에요.
+  연어: an innovative design = 혁신적인 디자인
+  예문1: The company is known for its innovative products. / 그 회사는 혁신적인 제품으로 알려져 있다.
+  예문2: She came up with an innovative solution. / 그녀는 혁신적인 해결책을 내놓았다.
+  유의어(오답 제외): creative
+[lung|n|breathing-organ] hash=15d334b396e2d9d4
+  뜻: 폐
+  설명: 숨을 쉬게 하는 몸속 기관이에요.
+  연어: lung cancer = 폐암
+  예문1: Smoking damages your lungs. / 흡연은 폐를 손상시킨다.
+  예문2: Fish do not have lungs. / 물고기에게는 폐가 없다.
+[nutrition|n|nourishment] hash=ddd441a1141bbb4a
+  뜻: 영양
+  설명: 몸에 필요한 음식을 섭취하는 것이에요.
+  연어: good nutrition = 좋은 영양
+  예문1: Good nutrition is important for growing children. / 좋은 영양은 자라는 아이들에게 중요하다.
+  예문2: The label shows nutrition information. / 그 라벨에는 영양 정보가 나와 있다.
+[pose|v|present] hash=8089b6d265487e2a
+  뜻: (위험·문제를) 일으키다; 제기하다
+  설명: 위험이나 질문을 만들어 낼 때 써요.
+  연어: pose a threat = 위협이 되다
+  예문1: Plastic waste poses a threat to sea life. / 플라스틱 쓰레기는 바다 생물에게 위협이 된다.
+  예문2: The student posed an interesting question. / 그 학생은 흥미로운 질문을 했다.
+[pose|v|model] hash=1fd51ba791125c1d
+  뜻: 자세를 취하다
+  설명: 사진이나 그림을 위해 몸을 멈출 때 써요.
+  연어: pose for a photo = 사진을 찍으려고 포즈를 취하다
+  예문1: We posed for a photo in front of the tower. / 우리는 탑 앞에서 사진을 찍으려고 포즈를 취했다.
+  예문2: The model posed for the artist for hours. / 모델은 몇 시간 동안 화가를 위해 자세를 취했다.
+[publish|v|print] hash=558a929f8b21c053
+  뜻: 출판하다; 발표하다
+  설명: 책이나 글을 펴내거나 공개할 때 써요.
+  연어: publish a book = 책을 출판하다
+  예문1: Her first novel was published last year. / 그녀의 첫 소설은 작년에 출판되었다.
+  예문2: The results will be published online. / 결과는 온라인으로 발표될 것이다.
+[disagree|v|differ] hash=9d16ed9e353d0329
+  뜻: 동의하지 않다
+  설명: 생각이 다를 때 써요.
+  연어: disagree with = ~에 동의하지 않다
+  예문1: I disagree with your opinion. / 나는 네 의견에 동의하지 않는다.
+  예문2: My parents often disagree about money. / 부모님은 돈 문제로 자주 의견이 갈린다.
+[disappear|v|vanish] hash=5ba0cc93e35905b4
+  뜻: 사라지다
+  설명: 보이지 않게 될 때 써요.
+  연어: disappear from view = 시야에서 사라지다
+  예문1: The sun disappeared behind the clouds. / 해가 구름 뒤로 사라졌다.
+  예문2: Many animals are disappearing from the forest. / 많은 동물이 숲에서 사라지고 있다.
+  유의어(오답 제외): vanish
+[forecast|n|prediction] hash=13334fe5c8d707b5
+  뜻: 예보; 예측
+  설명: 앞으로의 날씨나 일을 미리 알리는 것이에요.
+  연어: the weather forecast = 일기 예보
+  예문1: The weather forecast says it will rain tomorrow. / 일기 예보에 따르면 내일 비가 온다.
+  예문2: The economic forecast is not good. / 경제 전망이 좋지 않다.
+  유의어(오답 제외): prediction
+[forecast|v|predict] hash=e0ffb7427ac65122
+  뜻: 예보하다; 예측하다
+  설명: 앞으로의 일을 미리 말할 때 써요.
+  연어: forecast rain = 비를 예보하다
+  예문1: Experts forecast slow growth next year. / 전문가들은 내년에 성장이 더딜 것이라고 예측한다.
+  예문2: Heavy snow is forecast for the weekend. / 주말에 폭설이 예보되었다.
+  유의어(오답 제외): predict
+[influential|adj|powerful] hash=41bf4be9277d5f07
+  뜻: 영향력 있는
+  설명: 다른 사람에게 큰 영향을 주는 것이에요.
+  연어: an influential leader = 영향력 있는 지도자
+  예문1: She is one of the most influential writers of her time. / 그녀는 그 시대 가장 영향력 있는 작가 중 한 명이다.
+  예문2: His ideas were very influential in science. / 그의 생각은 과학계에 큰 영향을 미쳤다.
+  유의어(오답 제외): powerful
+[invisible|adj|unseen] hash=fcee2fd602b64de5
+  뜻: 보이지 않는
+  설명: 눈으로 볼 수 없는 것이에요.
+  연어: invisible to the eye = 눈에 보이지 않는
+  예문1: Air is invisible. / 공기는 눈에 보이지 않는다.
+  예문2: Some stars are invisible without a telescope. / 어떤 별은 망원경 없이는 보이지 않는다.
+[leak|v|escape] hash=87a897b6b99c42e3
+  뜻: 새다; 누설하다
+  설명: 액체나 정보가 밖으로 빠져나갈 때 써요.
+  연어: leak information = 정보를 누설하다
+  예문1: Water is leaking from the roof. / 지붕에서 물이 새고 있다.
+  예문2: Someone leaked the secret to the press. / 누군가 그 비밀을 언론에 흘렸다.
+[leak|n|hole] hash=9af3005f22e957f9
+  뜻: 누출; 새는 곳
+  설명: 액체나 기체가 새어 나오는 것이에요.
+  연어: a gas leak = 가스 누출
+  예문1: We called a plumber to fix the leak. / 우리는 새는 곳을 고치려고 배관공을 불렀다.
+  예문2: A gas leak caused the explosion. / 가스 누출로 폭발이 일어났다.
+[passionate|adj|enthusiastic] hash=b695986bcb3d3e49
+  뜻: 열정적인
+  설명: 무엇을 아주 좋아하고 열심인 것이에요.
+  연어: be passionate about = ~에 열정적이다
+  예문1: She is passionate about protecting animals. / 그녀는 동물 보호에 열정적이다.
+  예문2: He gave a passionate speech. / 그는 열정적인 연설을 했다.
+  유의어(오답 제외): enthusiastic
+[recommendation|n|suggestion] hash=90236468ac9b769b
+  뜻: 추천; 권고
+  설명: 좋다고 권하는 것이에요.
+  연어: a letter of recommendation = 추천서
+  예문1: I bought this book on my friend's recommendation. / 나는 친구의 추천으로 이 책을 샀다.
+  예문2: The teacher wrote a letter of recommendation for me. / 선생님은 나를 위해 추천서를 써 주셨다.
+  유의어(오답 제외): suggestion
+[servant|n|helper] hash=84ae7bfc14c44269
+  뜻: 하인; 종
+  설명: 남의 집에서 일을 해 주는 사람이에요.
+  연어: a public servant = 공무원
+  예문1: In the story, the servant saves the king. / 그 이야기에서 하인이 왕을 구한다.
+  예문2: Police officers are public servants. / 경찰관은 공무원이다.
+[suspicious|adj|doubtful] hash=e5760578629f6abd
+  뜻: 수상한; 의심스러운
+  설명: 믿기 어렵거나 수상해 보이는 것이에요.
+  연어: be suspicious of = ~을 의심하다
+  예문1: Call the police if you see anything suspicious. / 수상한 것을 보면 경찰에 신고해라.
+  예문2: She was suspicious of the stranger's story. / 그녀는 낯선 사람의 이야기를 의심했다.
+  유의어(오답 제외): doubtful
+[tender|adj|gentle] hash=ce1324e303d13b83
+  뜻: 다정한; 부드러운
+  설명: 마음이 따뜻하거나 고기가 연한 것이에요.
+  연어: a tender touch = 다정한 손길
+  예문1: She gave the baby a tender kiss. / 그녀는 아기에게 다정하게 입을 맞췄다.
+  예문2: The meat was soft and tender. / 그 고기는 부드럽고 연했다.
+  유의어(오답 제외): gentle
+[architect|n|building-designer] hash=32242c65d4991d3d
+  뜻: 건축가
+  설명: 건물을 설계하는 사람이에요.
+  연어: a famous architect = 유명한 건축가
+  예문1: The architect designed a modern museum. / 그 건축가는 현대식 박물관을 설계했다.
+  예문2: She wants to become an architect. / 그녀는 건축가가 되고 싶어 한다.
+[beneficial|adj|helpful] hash=43733ec1c1a7fca9
+  뜻: 유익한; 이로운
+  설명: 도움이 되거나 좋은 결과를 주는 것이에요.
+  연어: beneficial to = ~에 유익한
+  예문1: Regular exercise is beneficial to your health. / 규칙적인 운동은 건강에 유익하다.
+  예문2: The new law will be beneficial for small businesses. / 새 법은 소상공인에게 이로울 것이다.
+  유의어(오답 제외): helpful
+[breed|v|reproduce] hash=f0cec9717ef61ffc
+  뜻: 새끼를 낳다; 기르다
+  설명: 동물이 번식하거나 사람이 동물을 기를 때 써요.
+  연어: breed dogs = 개를 기르다
+  예문1: Many birds breed in spring. / 많은 새가 봄에 번식한다.
+  예문2: The farmer breeds horses. / 그 농부는 말을 사육한다.
+[breed|n|type] hash=4235979eca8742b5
+  뜻: 품종
+  설명: 같은 특징을 가진 동물의 종류예요.
+  연어: a rare breed = 희귀 품종
+  예문1: What breed is your dog? / 네 개는 무슨 품종이니?
+  예문2: This breed of cat has long hair. / 이 품종의 고양이는 털이 길다.
+[breeding|n|raising-animals] hash=6f39c55e781bcf87
+  뜻: 사육; 번식
+  설명: 동물이 새끼를 낳거나 사람이 동물을 기르는 일이에요.
+  연어: the breeding season = 번식기
+  예문1: Spring is the breeding season for many birds. / 봄은 많은 새의 번식기이다.
+  예문2: The zoo has a breeding program for pandas. / 그 동물원에는 판다 번식 프로그램이 있다.
+[diameter|n|width-through-center] hash=a99d0ea16d729563
+  뜻: 지름
+  설명: 원의 한쪽 끝에서 가운데를 지나 다른 끝까지의 길이예요.
+  연어: in diameter = 지름이
+  예문1: The pizza is thirty centimeters in diameter. / 그 피자는 지름이 30센티미터이다.
+  예문2: Measure the diameter of the circle. / 원의 지름을 재라.
+[exhausted|adj|very-tired] hash=ba0a8cc567942de9
+  뜻: 녹초가 된; 고갈된
+  설명: 몹시 지치거나 다 써 버린 것이에요.
+  연어: feel exhausted = 녹초가 되다
+  예문1: I was exhausted after the long hike. / 나는 긴 등산 후 녹초가 되었다.
+  예문2: Our supply of water was almost exhausted. / 물 공급이 거의 바닥났다.
+  유의어(오답 제외): tired
+[fabric|n|cloth] hash=ed05ef22fe633eec
+  뜻: 천; 직물
+  설명: 옷을 만드는 재료예요.
+  연어: soft fabric = 부드러운 천
+  예문1: This shirt is made of cotton fabric. / 이 셔츠는 면직물로 만들어졌다.
+  예문2: She chose a bright fabric for the curtains. / 그녀는 커튼용으로 밝은 천을 골랐다.
+  유의어(오답 제외): cloth
+[fabric|n|structure] hash=805da83e730497f1
+  뜻: (사회의) 구조; 기본 틀
+  설명: 사회나 조직을 이루는 바탕이에요.
+  연어: the fabric of society = 사회 구조
+  예문1: Families are part of the fabric of society. / 가족은 사회 구조의 일부이다.
+  예문2: War destroyed the fabric of the country. / 전쟁은 그 나라의 기본 틀을 무너뜨렸다.
+  유의어(오답 제외): structure
+[frustrated|adj|annoyed] hash=954c1cd843dc6332
+  뜻: 좌절한; 답답한
+  설명: 뜻대로 되지 않아 속상한 것이에요.
+  연어: feel frustrated = 답답하다
+  예문1: I felt frustrated when the computer stopped working. / 컴퓨터가 멈추자 나는 답답했다.
+  예문2: The team was frustrated by the loss. / 팀은 패배로 좌절했다.
+[gambling|n|betting] hash=d892e79d98d4519b
+  뜻: 도박
+  설명: 돈을 걸고 하는 내기예요.
+  연어: a gambling problem = 도박 문제
+  예문1: Gambling can become a serious addiction. / 도박은 심각한 중독이 될 수 있다.
+  예문2: He lost all his money through gambling. / 그는 도박으로 돈을 모두 잃었다.
+[grief|n|deep-sadness] hash=f8a683b5cde13e42
+  뜻: 깊은 슬픔; 비탄
+  설명: 누군가를 잃었을 때의 큰 슬픔이에요.
+  연어: overcome grief = 슬픔을 극복하다
+  예문1: She was full of grief after her dog died. / 그녀는 개가 죽은 뒤 깊은 슬픔에 잠겼다.
+  예문2: Time helps heal grief. / 시간은 슬픔을 치유하는 데 도움이 된다.
+  유의어(오답 제외): sorrow
+[inevitable|adj|unavoidable] hash=3f9094b8324fc1ab
+  뜻: 불가피한; 피할 수 없는
+  설명: 반드시 일어나게 되어 있는 것이에요.
+  연어: an inevitable result = 불가피한 결과
+  예문1: Change is inevitable. / 변화는 피할 수 없다.
+  예문2: Mistakes are inevitable when you learn something new. / 새로운 것을 배울 때 실수는 불가피하다.
+  유의어(오답 제외): unavoidable
+[myth|n|legend] hash=f4718ac9af7fde46
+  뜻: 신화; 근거 없는 믿음
+  설명: 옛이야기나 사실이 아닌 널리 퍼진 생각이에요.
+  연어: Greek myths = 그리스 신화
+  예문1: We read Greek myths in class. / 우리는 수업 시간에 그리스 신화를 읽었다.
+  예문2: It is a myth that goldfish have short memories. / 금붕어가 기억력이 짧다는 것은 근거 없는 믿음이다.
+  유의어(오답 제외): legend
+[pale|adj|light-colored] hash=11d26c02b248c887
+  뜻: 창백한; 연한
+  설명: 얼굴에 핏기가 없거나 색이 옅은 것이에요.
+  연어: turn pale = 창백해지다
+  예문1: She turned pale when she heard the news. / 그녀는 그 소식을 듣고 창백해졌다.
+  예문2: The room was painted pale blue. / 그 방은 연한 파란색으로 칠해져 있었다.
+[predict|v|forecast] hash=1be9302f37135724
+  뜻: 예측하다
+  설명: 앞으로 일어날 일을 미리 말할 때 써요.
+  연어: predict the future = 미래를 예측하다
+  예문1: No one can predict the future. / 아무도 미래를 예측할 수 없다.
+  예문2: Scientists predict that sea levels will rise. / 과학자들은 해수면이 높아질 것이라고 예측한다.
+  유의어(오답 제외): forecast
+[rotation|n|turning] hash=8bb2e9681c206a44
+  뜻: 회전; 순환
+  설명: 돌거나 차례로 바꾸는 것이에요.
+  연어: the rotation of the earth = 지구의 자전
+  예문1: The rotation of the earth causes day and night. / 지구의 자전으로 낮과 밤이 생긴다.
+  예문2: Farmers use crop rotation to keep the soil rich. / 농부들은 흙을 비옥하게 유지하려고 돌려짓기를 한다.
+[tragic|adj|very-sad] hash=e1970fc71d566c88
+  뜻: 비극적인
+  설명: 매우 슬프고 끔찍한 것이에요.
+  연어: a tragic accident = 비극적인 사고
+  예문1: The movie has a tragic ending. / 그 영화는 비극적인 결말을 맺는다.
+  예문2: It was a tragic loss for the family. / 그 가족에게는 비극적인 상실이었다.
+[underneath|prep|below] hash=ad82b89cd3e3e34f
+  뜻: ~ 밑에
+  설명: 어떤 것의 바로 아래를 나타내요.
+  연어: underneath the table = 탁자 밑에
+  예문1: The cat is hiding underneath the bed. / 고양이가 침대 밑에 숨어 있다.
+  예문2: I found my keys underneath a pile of papers. / 나는 종이 더미 밑에서 열쇠를 찾았다.
+  유의어(오답 제외): beneath
+[adjust|v|adapt] hash=320590a185b6dcf9
+  뜻: 조절하다; 적응하다
+  설명: 알맞게 바꾸거나 새 환경에 맞출 때 써요.
+  연어: adjust to = ~에 적응하다
+  예문1: You can adjust the height of the chair. / 의자 높이를 조절할 수 있다.
+  예문2: It took me a week to adjust to the new school. / 새 학교에 적응하는 데 일주일이 걸렸다.
+  유의어(오답 제외): adapt
+[consequence|n|result] hash=da123fb4591d1551
+  뜻: (좋지 않은) 결과; 영향
+  설명: 어떤 행동 때문에 생긴 일이에요.
+  연어: as a consequence = 그 결과
+  예문1: Every action has consequences. / 모든 행동에는 결과가 따른다.
+  예문2: He did not think about the consequences of his decision. / 그는 자기 결정이 가져올 결과를 생각하지 않았다.
+  유의어(오답 제외): result
+[excellence|n|high-quality] hash=45b5b961d3f466ef
+  뜻: 뛰어남; 탁월함
+  설명: 아주 훌륭한 정도예요.
+  연어: academic excellence = 학업 우수성
+  예문1: The school is known for its excellence in science. / 그 학교는 과학 분야의 우수성으로 유명하다.
+  예문2: She received an award for excellence in teaching. / 그녀는 뛰어난 교육 업적으로 상을 받았다.
+[graduation|n|finishing-school] hash=59db2fd321a1c826
+  뜻: 졸업; 졸업식
+  설명: 학교 과정을 마치는 것이나 그 행사예요.
+  연어: after graduation = 졸업 후에
+  예문1: My parents came to my graduation. / 부모님이 내 졸업식에 오셨다.
+  예문2: She plans to travel after graduation. / 그녀는 졸업 후 여행할 계획이다.
+[horizon|n|skyline] hash=eaf364e4f1da5700
+  뜻: 수평선; 지평선
+  설명: 하늘과 땅이나 바다가 만나 보이는 선이에요.
+  연어: on the horizon = 수평선 위에
+  예문1: The sun rose slowly above the horizon. / 해가 수평선 위로 천천히 떠올랐다.
+  예문2: Traveling broadens your horizons. / 여행은 시야를 넓혀 준다.
+[inn|n|small-hotel] hash=112e9d06d41d31dd
+  뜻: 여관; 작은 호텔
+  설명: 여행자가 묵는 작은 숙박 시설이에요.
+  연어: a country inn = 시골 여관
+  예문1: We stayed at a small inn by the lake. / 우리는 호숫가의 작은 여관에 묵었다.
+  예문2: The old inn has only six rooms. / 그 오래된 여관에는 방이 여섯 개뿐이다.
+[miserable|adj|unhappy] hash=13c0e87c90020cdf
+  뜻: 비참한; 아주 불행한
+  설명: 몹시 괴롭고 기분이 나쁜 것이에요.
+  연어: feel miserable = 비참하다
+  예문1: I felt miserable when I had the flu. / 나는 독감에 걸렸을 때 비참했다.
+  예문2: The weather was cold and miserable. / 날씨가 춥고 우울했다.
+  유의어(오답 제외): unhappy
+[quantity|n|amount] hash=f2119d70aa293df5
+  뜻: 수량; 양
+  설명: 얼마나 많은지를 나타내요.
+  연어: a large quantity of = 많은 양의
+  예문1: The factory produces a large quantity of paper. / 그 공장은 많은 양의 종이를 생산한다.
+  예문2: Quality is more important than quantity. / 양보다 질이 더 중요하다.
+  유의어(오답 제외): amount
+[tremendous|adj|huge] hash=94aab9a3686b6d53
+  뜻: 엄청난; 굉장한
+  설명: 크기나 정도가 아주 큰 것이에요.
+  연어: a tremendous effort = 엄청난 노력
+  예문1: The project took a tremendous amount of work. / 그 프로젝트에는 엄청난 양의 일이 들었다.
+  예문2: We had a tremendous time at the party. / 우리는 파티에서 굉장히 즐거운 시간을 보냈다.
+  유의어(오답 제외): enormous
+[accommodation|n|lodging] hash=12b13295dbc0470e
+  뜻: 숙소; 숙박 시설
+  설명: 머물러 자는 곳이에요.
+  연어: find accommodation = 숙소를 구하다
+  예문1: The price includes flights and accommodation. / 가격에는 항공권과 숙소가 포함되어 있다.
+  예문2: It is hard to find cheap accommodation in summer. / 여름에는 싼 숙소를 구하기 어렵다.
+  유의어(오답 제외): lodging
+[ashamed|adj|embarrassed] hash=8262e695f5da18ee
+  뜻: 부끄러운; 수치스러운
+  설명: 잘못해서 창피한 것이에요.
+  연어: be ashamed of = ~을 부끄러워하다
+  예문1: He was ashamed of lying to his friend. / 그는 친구에게 거짓말한 것이 부끄러웠다.
+  예문2: There is nothing to be ashamed of. / 부끄러워할 것은 아무것도 없다.
+  유의어(오답 제외): embarrassed
+[assure|v|promise] hash=27421cd57c97a844
+  뜻: 장담하다; 안심시키다
+  설명: 틀림없다고 말해 걱정을 덜어 줄 때 써요.
+  연어: assure someone that = ~에게 ~라고 장담하다
+  예문1: I assure you that everything will be fine. / 모든 것이 괜찮을 거라고 장담한다.
+  예문2: The doctor assured her that the operation was safe. / 의사는 그녀에게 수술이 안전하다고 안심시켰다.
+  유의어(오답 제외): promise
+[blessing|n|good-fortune] hash=6677d7a173c6f87d
+  뜻: 축복; 다행한 일
+  설명: 좋은 일이나 신의 은혜예요.
+  연어: a blessing in disguise = 전화위복
+  예문1: Good health is a great blessing. / 건강은 큰 축복이다.
+  예문2: Losing that job was a blessing in disguise. / 그 일자리를 잃은 것은 전화위복이었다.
+[cheat|v|act-dishonestly] hash=200e9950ec5d5103
+  뜻: 부정행위를 하다; 속이다
+  설명: 규칙을 어기거나 남을 속일 때 써요.
+  연어: cheat on a test = 시험에서 부정행위를 하다
+  예문1: He was caught cheating on the exam. / 그는 시험에서 부정행위를 하다 걸렸다.
+  예문2: The shop cheated customers by charging too much. / 그 가게는 손님들에게 바가지를 씌웠다.
+[fiber|n|thread-or-food] hash=84f09087c222a678
+  뜻: 섬유; 섬유질
+  설명: 실 같은 가는 물질이나 음식 속 섬유질이에요.
+  연어: dietary fiber = 식이 섬유
+  예문1: Vegetables are rich in fiber. / 채소에는 섬유질이 풍부하다.
+  예문2: This cloth is made from natural fibers. / 이 천은 천연 섬유로 만들어졌다.
+[halfway|adv|midway] hash=adf4a8b47fd1633f
+  뜻: 중간에; 절반쯤
+  설명: 거리나 시간의 가운데를 뜻해요.
+  연어: halfway through = 중간쯤에
+  예문1: We stopped for lunch halfway to the city. / 우리는 도시로 가는 중간에 점심을 먹으려고 멈췄다.
+  예문2: I fell asleep halfway through the movie. / 나는 영화 중간쯤에 잠이 들었다.
+[realm|n|area] hash=3dd8349dd8e72577
+  뜻: 영역; 왕국
+  설명: 활동이나 지식의 범위, 또는 왕이 다스리는 나라예요.
+  연어: the realm of = ~의 영역
+  예문1: The idea is still in the realm of science fiction. / 그 생각은 아직 공상 과학의 영역에 머물러 있다.
+  예문2: The king ruled a large realm. / 그 왕은 넓은 왕국을 다스렸다.
+  유의어(오답 제외): area
+[spectacular|adj|amazing] hash=b50c3906c4014ebd
+  뜻: 장관을 이루는; 굉장한
+  설명: 눈을 뗄 수 없을 만큼 멋진 것이에요.
+  연어: a spectacular view = 장관
+  예문1: The fireworks were spectacular. / 불꽃놀이는 장관이었다.
+  예문2: We saw a spectacular sunset over the sea. / 우리는 바다 위로 지는 멋진 노을을 보았다.
+  유의어(오답 제외): amazing
+[accomplish|v|achieve] hash=48a15bb3b134d8e8
+  뜻: 완수하다; 성취하다
+  설명: 목표나 일을 해낼 때 써요.
+  연어: accomplish a goal = 목표를 이루다
+  예문1: We accomplished a lot in one day. / 우리는 하루 만에 많은 것을 해냈다.
+  예문2: The team accomplished the task in half the time. / 그 팀은 절반의 시간 만에 과제를 완수했다.
+  유의어(오답 제외): achieve
+[belonging|n|feeling-part-of] hash=b6b6271fdd82c8d8
+  뜻: 소속감
+  설명: 어떤 집단의 일원이라는 느낌이에요.
+  연어: a sense of belonging = 소속감
+  예문1: Joining the club gave me a sense of belonging. / 그 동아리에 들어가자 소속감이 생겼다.
+  예문2: Children need a feeling of belonging at school. / 아이들은 학교에서 소속감을 느낄 필요가 있다.
+[belonging|n|possessions] hash=009dac5ccb2d32cb
+  뜻: 소지품
+  설명: (belongings) 가지고 있는 물건이에요.
+  연어: personal belongings = 개인 소지품
+  예문1: Take all your belongings when you leave the train. / 기차에서 내릴 때 소지품을 모두 챙겨라.
+  예문2: He packed his belongings into one small bag. / 그는 소지품을 작은 가방 하나에 쌌다.
+  유의어(오답 제외): possession
+[dip|v|put-in] hash=6526621fa44f9701
+  뜻: 살짝 담그다
+  설명: 액체에 잠깐 넣었다 뺄 때 써요.
+  연어: dip into = ~에 담그다
+  예문1: Dip the bread in the soup. / 빵을 수프에 찍어 먹어라.
+  예문2: She dipped her toes into the cold water. / 그녀는 찬물에 발가락을 담갔다.
+[dip|n|decrease] hash=0c5f0d40c495ac1a
+  뜻: 일시적 하락; 감소
+  설명: 양이나 수준이 잠깐 내려가는 것이에요.
+  연어: a dip in sales = 판매 하락
+  예문1: There was a small dip in prices last month. / 지난달 가격이 조금 하락했다.
+  예문2: The road has a dip near the bridge. / 그 길은 다리 근처에서 움푹 내려간다.
+  유의어(오답 제외): drop
+[embarrassed|adj|ashamed] hash=41f503a634b05f4a
+  뜻: 당황한; 창피한
+  설명: 남 앞에서 부끄러운 것이에요.
+  연어: feel embarrassed = 창피하다
+  예문1: I was embarrassed when I fell on stage. / 나는 무대에서 넘어져서 창피했다.
+  예문2: She felt embarrassed about her mistake. / 그녀는 자기 실수 때문에 당황했다.
+  유의어(오답 제외): ashamed
+[freezing|adj|very-cold] hash=9742c33abb353cd0
+  뜻: 몹시 추운; 얼어붙을 듯한
+  설명: 아주 차가운 것이에요.
+  연어: freezing weather = 몹시 추운 날씨
+  예문1: It is freezing outside, so wear a coat. / 밖이 몹시 추우니 코트를 입어라.
+  예문2: My hands were freezing after the snowball fight. / 눈싸움 후 내 손이 꽁꽁 얼었다.
+[hatred|n|hate] hash=0153753683da1904
+  뜻: (깊은) 증오; 혐오
+  설명: 누군가를 몹시 싫어하는 감정이에요.
+  연어: feel hatred = 증오를 느끼다
+  예문1: The story shows how hatred can destroy families. / 그 이야기는 증오가 어떻게 가족을 파괴할 수 있는지 보여 준다.
+  예문2: We must fight hatred with understanding. / 우리는 이해로 증오에 맞서야 한다.
+  유의어(오답 제외): hate
+[interact|v|communicate] hash=a5bf34086a6b6e08
+  뜻: 상호 작용하다; 교류하다
+  설명: 서로 영향을 주고받거나 어울릴 때 써요.
+  연어: interact with = ~와 교류하다
+  예문1: Children learn by interacting with others. / 아이들은 다른 사람과 어울리며 배운다.
+  예문2: Some medicines interact badly with alcohol. / 어떤 약은 술과 함께 먹으면 나쁜 작용을 한다.
+[measurement|n|size] hash=6cda5d4a8726cbed
+  뜻: 측정; 치수
+  설명: 크기나 양을 잰 것이에요.
+  연어: take measurements = 치수를 재다
+  예문1: The tailor took my measurements for a suit. / 재단사가 정장을 맞추려고 내 치수를 쟀다.
+  예문2: Accurate measurement is important in science. / 과학에서는 정확한 측정이 중요하다.
+[mobility|n|movement] hash=a26bcb0c34e8efb6
+  뜻: 이동성; 움직임
+  설명: 움직이거나 옮겨 다닐 수 있는 능력이에요.
+  연어: social mobility = 사회적 이동성
+  예문1: The injury reduced his mobility. / 그 부상으로 그는 움직이기가 불편해졌다.
+  예문2: Education can increase social mobility. / 교육은 사회적 이동성을 높일 수 있다.
+[slim|adj|thin] hash=2c95a0d618566d05
+  뜻: 날씬한; 적은
+  설명: 몸이 가늘거나 가능성이 작은 것이에요.
+  연어: a slim chance = 희박한 가능성
+  예문1: She is tall and slim. / 그녀는 키가 크고 날씬하다.
+  예문2: There is only a slim chance of winning. / 이길 가능성은 희박하다.
+  유의어(오답 제외): thin
+[stack|n|pile] hash=4f902f615453d7b3
+  뜻: 더미; 무더기
+  설명: 차곡차곡 쌓인 것이에요.
+  연어: a stack of books = 책 더미
+  예문1: There is a stack of papers on my desk. / 내 책상 위에 서류 더미가 있다.
+  예문2: She carried a stack of plates to the kitchen. / 그녀는 접시 한 무더기를 부엌으로 날랐다.
+  유의어(오답 제외): pile
+[stack|v|pile-up] hash=9a79ea6f9a69fb6d
+  뜻: 쌓다
+  설명: 물건을 차곡차곡 포갤 때 써요.
+  연어: stack chairs = 의자를 쌓다
+  예문1: Please stack the chairs after the meeting. / 회의가 끝나면 의자를 쌓아 두어라.
+  예문2: He stacked the boxes in the corner. / 그는 상자들을 구석에 쌓았다.
+[withdraw|v|take-out] hash=d66a1a6c69eef0ef
+  뜻: (돈을) 인출하다
+  설명: 은행 계좌에서 돈을 꺼낼 때 써요.
+  연어: withdraw money = 돈을 인출하다
+  예문1: I withdrew some cash from the ATM. / 나는 현금 인출기에서 현금을 조금 뽑았다.
+  예문2: You can withdraw money at any branch. / 어느 지점에서나 돈을 찾을 수 있다.
+[withdraw|v|pull-back] hash=47451f315c72de41
+  뜻: 철수하다; 물러나다
+  설명: 빠지거나 그만두고 물러날 때 써요.
+  연어: withdraw from = ~에서 물러나다
+  예문1: The player withdrew from the race because of an injury. / 그 선수는 부상 때문에 경주에서 기권했다.
+  예문2: The army withdrew its troops from the city. / 군대는 그 도시에서 병력을 철수했다.
+  유의어(오답 제외): retreat
+[aging|n|growing-old] hash=0b4e76f3091b35ed
+  뜻: 노화; 고령화
+  설명: 나이가 들어 가는 것이에요.
+  연어: an aging society = 고령화 사회
+  예문1: Exercise can slow down aging. / 운동은 노화를 늦출 수 있다.
+  예문2: Korea is facing the problem of an aging society. / 한국은 고령화 사회 문제에 직면해 있다.
+[enhance|v|improve] hash=bfaf8f653ec951b6
+  뜻: (질·가치를) 높이다; 향상시키다
+  설명: 질이나 가치를 더 좋게 할 때 써요.
+  연어: enhance quality = 질을 높이다
+  예문1: Good lighting can enhance the look of a room. / 좋은 조명은 방의 분위기를 돋보이게 한다.
+  예문2: The course will enhance your writing skills. / 그 강좌는 네 글쓰기 실력을 향상시킬 것이다.
+  유의어(오답 제외): improve
+[flavor|n|taste] hash=f87d248b24717d94
+  뜻: 맛; 풍미
+  설명: 음식에서 느껴지는 맛이에요.
+  연어: a strong flavor = 강한 맛
+  예문1: This ice cream comes in ten flavors. / 이 아이스크림은 열 가지 맛이 있다.
+  예문2: Add some lemon to improve the flavor. / 맛을 좋게 하려면 레몬을 조금 넣어라.
+  유의어(오답 제외): taste
+[ignorance|n|lack-of-knowledge] hash=c92b1ae1216fc537
+  뜻: 무지; 모름
+  설명: 알아야 할 것을 모르는 상태예요.
+  연어: out of ignorance = 몰라서
+  예문1: His mistake was caused by ignorance, not bad intentions. / 그의 실수는 나쁜 의도가 아니라 무지 때문이었다.
+  예문2: Ignorance of the law is no excuse. / 법을 몰랐다는 것은 변명이 되지 않는다.
+[immigrant|n|newcomer] hash=94ef9a4f66458308
+  뜻: 이민자; 이주민
+  설명: 다른 나라에서 와서 사는 사람이에요.
+  연어: an immigrant family = 이민자 가족
+  예문1: Many immigrants came to the city looking for work. / 많은 이민자가 일자리를 찾아 그 도시에 왔다.
+  예문2: Her grandparents were immigrants from China. / 그녀의 조부모님은 중국에서 온 이민자였다.
+[likewise|adv|similarly] hash=dce53cd5cb605f1c
+  뜻: 마찬가지로; 똑같이
+  설명: 앞과 같은 방법으로를 뜻해요.
+  연어: do likewise = 똑같이 하다
+  예문1: He stood up, and the others did likewise. / 그가 일어서자 다른 사람들도 똑같이 했다.
+  예문2: Water is important for plants; likewise, sunlight is necessary. / 물은 식물에게 중요하다. 마찬가지로 햇빛도 필요하다.
+  유의어(오답 제외): similarly
+[magnificent|adj|splendid] hash=a49977e030179aea
+  뜻: 웅장한; 훌륭한
+  설명: 아주 크고 아름다워 감탄스러운 것이에요.
+  연어: a magnificent view = 장엄한 경치
+  예문1: The palace is magnificent. / 그 궁전은 웅장하다.
+  예문2: We enjoyed a magnificent view of the mountains. / 우리는 산의 웅장한 경치를 즐겼다.
+  유의어(오답 제외): splendid
+[nonetheless|adv|nevertheless] hash=6244b029cc79f47d
+  뜻: 그렇더라도; 그럼에도 불구하고
+  설명: 앞 내용에도 상관없이를 뜻해요.
+  연어: but nonetheless = 하지만 그럼에도
+  예문1: The road was icy. Nonetheless, the bus arrived on time. / 길이 얼어 있었다. 그렇더라도 버스는 제시간에 도착했다.
+  예문2: The movie was long but nonetheless enjoyable. / 그 영화는 길었지만 그럼에도 재미있었다.
+  유의어(오답 제외): nevertheless
+[placement|n|position] hash=508e408f99fe41d0
+  뜻: 배치; 배정
+  설명: 사람이나 물건을 알맞은 자리에 두는 것이에요.
+  연어: a placement test = 반 배정 시험
+  예문1: Students take a placement test before class begins. / 학생들은 수업 시작 전에 반 배정 시험을 본다.
+  예문2: The placement of furniture makes a big difference. / 가구 배치는 큰 차이를 만든다.
+[shallow|adj|not-deep] hash=04998e3c2ba71a65
+  뜻: 얕은; 피상적인
+  설명: 깊이가 깊지 않거나 생각이 깊지 않은 것이에요.
+  연어: shallow water = 얕은 물
+  예문1: Children should swim in the shallow end of the pool. / 아이들은 수영장의 얕은 쪽에서 수영해야 한다.
+  예문2: His knowledge of the subject is shallow. / 그 주제에 대한 그의 지식은 얕다.
+[strengthen|v|make-stronger] hash=d012460814cf525b
+  뜻: 강화하다; 튼튼하게 하다
+  설명: 더 강하게 만들 때 써요.
+  연어: strengthen muscles = 근육을 강화하다
+  예문1: Swimming strengthens your heart and lungs. / 수영은 심장과 폐를 튼튼하게 한다.
+  예문2: The two countries want to strengthen their ties. / 두 나라는 관계를 강화하고 싶어 한다.
+[transform|v|change-completely] hash=156a7c1f1728edb7
+  뜻: 변형시키다; 완전히 바꾸다
+  설명: 모습이나 성질을 크게 바꿀 때 써요.
+  연어: transform a room = 방을 완전히 바꾸다
+  예문1: The internet has transformed the way we shop. / 인터넷은 우리가 쇼핑하는 방식을 완전히 바꾸었다.
+  예문2: They transformed the old warehouse into a library. / 그들은 오래된 창고를 도서관으로 바꾸었다.
+  유의어(오답 제외): convert
+[arctic|adj|north-pole] hash=c5106e37141d3cab
+  뜻: 북극의
+  설명: 지구의 가장 북쪽 지역과 관련된 것이에요.
+  연어: the Arctic Ocean = 북극해
+  예문1: Polar bears live in the Arctic region. / 북극곰은 북극 지역에 산다.
+  예문2: Arctic ice is melting quickly. / 북극의 얼음이 빠르게 녹고 있다.
+[differ|v|be-different] hash=50fb73d6638b9f57
+  뜻: 다르다
+  설명: 서로 같지 않을 때 써요.
+  연어: differ from = ~과 다르다
+  예문1: Customs differ from country to country. / 관습은 나라마다 다르다.
+  예문2: Our opinions differ on this issue. / 이 문제에 대해 우리 의견은 다르다.
+  유의어(오답 제외): vary
+[eager|adj|keen] hash=3ae5fc008f545b0d
+  뜻: 열망하는; 간절히 바라는
+  설명: 무엇을 몹시 하고 싶어 하는 것이에요.
+  연어: be eager to = 몹시 ~하고 싶어 하다
+  예문1: The children were eager to open their presents. / 아이들은 선물을 열어 보고 싶어 안달이었다.
+  예문2: She is eager to learn new things. / 그녀는 새로운 것을 배우려는 열의가 넘친다.
+  유의어(오답 제외): keen
+[essence|n|core] hash=f468222586247e12
+  뜻: 본질; 핵심
+  설명: 가장 중요한 성질이에요.
+  연어: in essence = 본질적으로
+  예문1: The essence of friendship is trust. / 우정의 본질은 신뢰이다.
+  예문2: In essence, the two plans are the same. / 본질적으로 두 계획은 같다.
+  유의어(오답 제외): core
+[junk|n|rubbish] hash=d8525ed9dcc5e4c2
+  뜻: 잡동사니; 쓰레기
+  설명: 쓸모없는 물건이에요.
+  연어: junk food = 정크 푸드
+  예문1: The garage is full of old junk. / 차고는 오래된 잡동사니로 가득하다.
+  예문2: Try to eat less junk food. / 정크 푸드를 덜 먹도록 해라.
+  유의어(오답 제외): trash
+[kidney|n|organ] hash=3fe11e74f919234f
+  뜻: 신장; 콩팥
+  설명: 피를 걸러 소변을 만드는 몸속 기관이에요.
+  연어: kidney disease = 신장 질환
+  예문1: Humans have two kidneys. / 사람에게는 신장이 두 개 있다.
+  예문2: Drinking enough water is good for your kidneys. / 물을 충분히 마시는 것은 신장에 좋다.
+[ladder|n|climbing-steps] hash=5e09d0070e0b3dac
+  뜻: 사다리
+  설명: 높은 곳에 오르는 도구예요.
+  연어: climb a ladder = 사다리를 오르다
+  예문1: He climbed the ladder to fix the roof. / 그는 지붕을 고치려고 사다리를 올라갔다.
+  예문2: She worked her way up the career ladder. / 그녀는 경력의 사다리를 한 단계씩 올라갔다.
+[modest|adj|humble] hash=c32af3e794648576
+  뜻: 적당한; 겸손한
+  설명: 자신을 자랑하지 않거나 크지 않은 것이에요.
+  연어: a modest income = 적당한 수입
+  예문1: She is very modest about her success. / 그녀는 자신의 성공에 대해 매우 겸손하다.
+  예문2: They live in a modest house. / 그들은 소박한 집에 산다.
+  유의어(오답 제외): humble
+[orbit|n|path] hash=609c074846d4f3cb
+  뜻: 궤도
+  설명: 천체가 다른 천체 주위를 도는 길이에요.
+  연어: in orbit = 궤도에 있는
+  예문1: The satellite is now in orbit around the earth. / 그 위성은 현재 지구 궤도를 돌고 있다.
+  예문2: The moon's orbit takes about a month. / 달이 궤도를 한 바퀴 도는 데 약 한 달이 걸린다.
+[orbit|v|circle] hash=81f53b30d2f3b7de
+  뜻: 궤도를 돌다
+  설명: 천체 주위를 빙빙 돌 때 써요.
+  연어: orbit the earth = 지구 주위를 돌다
+  예문1: The earth orbits the sun. / 지구는 태양 주위를 돈다.
+  예문2: Many satellites orbit our planet. / 많은 위성이 우리 행성 주위를 돈다.
+  유의어(오답 제외): circle
+[passive|adj|inactive] hash=3dea658d5b2301e1
+  뜻: 수동적인; 소극적인
+  설명: 스스로 나서지 않고 받기만 하는 것이에요.
+  연어: a passive attitude = 소극적인 태도
+  예문1: Watching TV is a passive activity. / 텔레비전 시청은 수동적인 활동이다.
+  예문2: Do not be passive; share your ideas. / 소극적으로 있지 말고 생각을 나눠라.
+[profitable|adj|money-making] hash=b913cac1cec21997
+  뜻: 수익성 있는; 이로운
+  설명: 돈을 벌거나 도움이 되는 것이에요.
+  연어: a profitable business = 수익성 있는 사업
+  예문1: The new cafe is very profitable. / 새 카페는 수익이 아주 좋다.
+  예문2: We had a profitable discussion. / 우리는 유익한 토론을 했다.
+[ranch|n|large-farm] hash=a1fa641cb392210e
+  뜻: 목장
+  설명: 소나 말을 기르는 큰 농장이에요.
+  연어: a cattle ranch = 소 목장
+  예문1: His family owns a cattle ranch. / 그의 가족은 소 목장을 소유하고 있다.
+  예문2: We rode horses at the ranch. / 우리는 목장에서 말을 탔다.
+[reject|v|refuse] hash=51c300f298c7726d
+  뜻: 거부하다; 거절하다
+  설명: 받아들이지 않을 때 써요.
+  연어: reject an offer = 제안을 거절하다
+  예문1: The company rejected my application. / 그 회사는 내 지원서를 받아 주지 않았다.
+  예문2: She rejected the idea immediately. / 그녀는 그 생각을 즉시 거부했다.
+  유의어(오답 제외): refuse
+[semester|n|term] hash=61b147caf8593253
+  뜻: 학기
+  설명: 학교에서 1년을 나눈 기간이에요.
+  연어: the spring semester = 봄 학기
+  예문1: The new semester starts in March. / 새 학기는 3월에 시작한다.
+  예문2: I am taking five classes this semester. / 나는 이번 학기에 다섯 과목을 듣는다.
+  유의어(오답 제외): term
+[sentiment|n|feeling] hash=f4080f2634c26f94
+  뜻: 감정; 정서
+  설명: 어떤 일에 대한 느낌이나 생각이에요.
+  연어: public sentiment = 여론
+  예문1: There is strong anti-war sentiment in the country. / 그 나라에는 강한 반전 정서가 있다.
+  예문2: I share your sentiments about the new rule. / 새 규칙에 대한 네 생각에 나도 공감한다.
+  유의어(오답 제외): feeling
+[supplement|n|addition] hash=38a8382510e0f275
+  뜻: 보충(제); 추가물
+  설명: 부족한 것을 더하는 것이에요.
+  연어: vitamin supplements = 비타민 보충제
+  예문1: Some people take vitamin supplements every day. / 어떤 사람들은 매일 비타민 보충제를 먹는다.
+  예문2: The newspaper has a weekend supplement. / 그 신문에는 주말 부록이 있다.
+[supplement|v|add-to] hash=36ae32b5c8fb91d7
+  뜻: 보충하다
+  설명: 부족한 것을 더해 채울 때 써요.
+  연어: supplement income = 수입을 보충하다
+  예문1: He supplements his income by teaching at night. / 그는 밤에 가르쳐서 수입을 보충한다.
+  예문2: Supplement your diet with fresh fruit. / 신선한 과일로 식단을 보충해라.
+[uncertainty|n|doubt] hash=465049665528c808
+  뜻: 불확실성
+  설명: 확실하지 않은 상태예요.
+  연어: economic uncertainty = 경제적 불확실성
+  예문1: There is a lot of uncertainty about the future. / 미래에 대해 불확실한 것이 많다.
+  예문2: The news caused uncertainty among workers. / 그 소식은 노동자들 사이에 불안을 일으켰다.
+  유의어(오답 제외): doubt
+[abandon|v|leave] hash=4ab82d4669af75e8
+  뜻: 버리다; 포기하다
+  설명: 돌보지 않고 떠나거나 그만둘 때 써요.
+  연어: abandon a plan = 계획을 포기하다
+  예문1: They abandoned the car in the snow. / 그들은 눈 속에 차를 버리고 떠났다.
+  예문2: We had to abandon our plan because of the storm. / 우리는 폭풍 때문에 계획을 포기해야 했다.
+  유의어(오답 제외): desert

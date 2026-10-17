@@ -1,0 +1,7 @@
+negative	missing_sense	수학 용어 '음수'는 영어 지문 빈도가 낮아 제외했다.
+host	missing_sense	생물 용어 '숙주'는 고등 영어 지문 빈도가 낮아 제외했다.
+strength	missing_sense	'세기·강도'는 기존 '힘' 뜻 안에서 이해할 수 있어 따로 넣지 않았다.
+capacity	missing_sense	'in one's capacity as(~의 자격으로)'는 빈도가 낮아 제외했다.
+update	missing_sense	동사 '업데이트하다; 갱신하다' 카드가 있어 '소식을 알리다'는 따로 넣지 않았다.
+opposite	missing_sense	전치사 '맞은편에'는 형용사 '맞은편의' 카드로 충분하다고 보고 넣지 않았다.
+plot	missing_sense	동사 '모의하다'는 명사 '음모' 카드로 충분하다고 보고 넣지 않았다.

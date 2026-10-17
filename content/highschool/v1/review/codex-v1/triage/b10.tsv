@@ -1,0 +1,54 @@
+EDIT	remote	far	en2	Their remote farmhouse is difficult to reach by bus.	Codex fix 수용	여기서 remote는 ‘가능성이 희박한’이라는 뜻으로, 이 카드의 ‘외딴; 먼’과 달라요.
+EDIT	remote	controller	en1	Could you hand me the TV remote from the table?	Codex fix 수용	예문이 5단어로 최소 길이인 6단어보다 짧아요.
+EDIT	remote	controller	ko1	탁자 위에 있는 텔레비전 리모컨을 건네줄래?	Codex fix 수용	영어 예문을 늘리면 번역에도 ‘탁자에서 건네 달라’는 내용이 필요해요.
+EDIT	conclusion	ending	expl	논의 끝에 내린 판단이나 글·이야기의 마지막 부분이에요.	Codex minor 수용	‘마지막 부분’만 설명해 결론을 통해 내린 판단이라는 뜻이 빠져요.
+EDIT	insane	crazy	en2	The traffic in downtown Seoul is insane today.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어보다 짧아요.
+EDIT	organic	natural	meaning	유기농의; 유기물의	Codex fix 수용	예문 속 organic waste는 ‘유기적인 쓰레기’가 아니라 생물에서 나온 폐기물을 뜻해요.
+EDIT	organic	natural	expl	유기농 방식으로 재배하거나 생물에서 비롯된 것이에요.	Codex fix 수용	화학 비료나 약을 쓰지 않는다는 설명만으로는 유기물의 뜻을 정확히 설명하지 못해요.
+EDIT	spiritual	of-the-soul	col	spiritual health	Codex fix 일부 수용	‘spiritual health’는 ‘정신 건강’보다 종교적·영적인 의미의 ‘영적 건강’에 가까워요.
+EDIT	spiritual	of-the-soul	colko	영적 건강	Codex fix 일부 수용	연어 교체에 맞춘 번역
+EDIT	spiritual	of-the-soul	en1	Music gives me deep spiritual comfort.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어보다 짧아요.
+EDIT	spiritual	of-the-soul	ko1	음악은 나에게 깊은 영적 위안을 준다.	Codex fix 수용	영어 예문을 늘리면 deep의 뜻도 번역에 반영해야 해요.
+EDIT	abroad	overseas	expl	다른 나라에 있거나 그곳으로 가는 것을 뜻해요.	Codex fix 수용	‘다른 나라에서나 다른 나라로를’은 조사가 어색해요.
+EDIT	atlantic	ocean	en1	Atlantic winds often bring cool air to the eastern coast.	Codex fix 수용	‘the Atlantic’은 대서양을 가리키는 명사로 쓰여, 형용사 뜻의 예문이 아니에요.
+EDIT	atlantic	ocean	ko1	대서양의 바람은 종종 동부 해안에 서늘한 공기를 가져온다.	Codex fix 수용	수정한 영어 예문에 맞춰 번역도 바꿔야 해요.
+EDIT	atlantic	ocean	en2	Scientists study Atlantic currents to understand regional climates.	Codex fix 수용	‘the Atlantic Ocean’은 바다의 고유명사라 형용사 뜻을 보여 주지 않아요.
+EDIT	atlantic	ocean	ko2	과학자들은 지역 기후를 이해하려고 대서양 해류를 연구한다.	Codex fix 수용	수정한 영어 예문에 맞춰 번역도 바꿔야 해요.
+EDIT	angle	corner-measure	en2	The two lines meet at a sharp angle.	Codex fix 수용	‘from a different angle’은 관점이나 촬영 방향을 뜻해 기하학적 ‘각도’ 카드와 달라요.
+EDIT	angle	corner-measure	ko2	두 선은 예각으로 만난다.	Codex fix 수용	수정한 문장은 두 선이 이루는 각을 뜻하므로 번역을 맞춰야 해요.
+EDIT	angle	viewpoint	en2	The issue looks different from a child's angle.	Codex minor 수용	‘from a child's angle’은 관점 뜻으로 이해되지만 다소 어색한 조합이에요.
+EDIT	angle	viewpoint	ko2	아이의 관점에서 보면 그 문제는 다르게 보인다.	Codex minor 수용	수정한 표현에 맞춰 번역을 간결하게 다듬을 수 있어요.
+EDIT	efficiency	productivity	en2	LED lights have much higher energy efficiency than old bulbs.	Codex fix 일부 수용	예문이 5단어로 최소 길이인 6단어보다 짧아요.
+EDIT	funeral	burial-ceremony	en1	Many people attended his funeral last Saturday.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어보다 짧아요.
+EDIT	merely	only	en1	It was merely a joke about our school schedule.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어보다 짧아요.
+EDIT	reverse	turn-back	en2	The new evidence reversed the court's earlier ruling.	Codex fix 수용	‘reversed the car’는 차를 후진시킨다는 뜻으로, 결정을 뒤집는 뜻과 달라요.
+EDIT	reverse	turn-back	ko2	새로운 증거가 법원의 이전 판결을 뒤집었다.	Codex fix 수용	수정한 문장은 판결을 뒤집는다는 뜻이므로 번역을 맞춰야 해요.
+EDIT	survival	staying-alive	en1	Clean water is essential for survival in harsh conditions.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어보다 짧아요.
+EDIT	extraordinary	remarkable	en2	It was an extraordinary experience for our whole class.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어보다 짧아요.
+EDIT	fate	destiny	col	a twist of fate	Codex minor 수용	‘by fate’는 가능하지만 흔히 쓰이는 연어는 아니에요.
+EDIT	fate	destiny	colko	운명의 장난	Codex minor 수용	연어 교체에 맞춘 번역
+EDIT	logic	reasoning	en2	Studying math helps students improve their logic.	Codex fix 일부 수용	예문이 5단어로 짧고 ‘develop logic’도 자연스러운 조합이 아니에요.
+EDIT	logic	reasoning	ko2	수학을 공부하면 학생들의 논리력이 좋아진다.	Codex fix 일부 수용	영어 문장을 고치면 번역도 ‘논리적 사고력’으로 맞추는 편이 자연스러워요.
+EDIT	objective	fair	en1	A judge must remain objective when hearing both sides.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어보다 짧아요.
+EDIT	roughly	about	en2	He pushed the door roughly to force it open.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어보다 짧아요.
+EDIT	contribution	donation	ko2	우리는 모두의 기여에 감사한다.	Codex fix 수용	영어의 contributions에는 기부금이라는 문맥이 없어서 번역이 뜻을 임의로 좁혀요.
+EDIT	commit	do-wrong	en2	He was sent to prison for a crime he did not commit.	Codex fix 일부 수용	‘commit a mistake’는 부자연스러운 연어예요. 보통 ‘make a mistake’라고 해요.
+EDIT	commit	do-wrong	ko2	그는 저지르지도 않은 범죄로 감옥에 갔다.	Codex fix 일부 수용	수정한 영어 문장에 맞춰 번역도 바꿔야 해요.
+EDIT	elementary	basic	meaning	기초적인; 초등의	Codex fix 수용	‘초보 수학’은 어색하며 elementary math의 뜻과도 맞지 않아요.
+EDIT	elementary	basic	ko2	그 교과서는 분명한 예로 기초 수학을 설명한다.	Codex fix 일부 수용	‘초보 수학’은 자연스러운 한국어가 아니에요.
+EDIT	elementary	basic	en2	The textbook explains elementary math with clear examples.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어보다 짧아요.
+EDIT	ethnic	cultural-group	ko2	그 식당은 아시아 여러 지역의 전통 음식을 판다.	Codex minor 수용	‘민족 음식’은 한국어로 어색하고 범위가 불분명해요.
+EDIT	infection	disease	meaning	감염; 감염증	Codex fix 수용	infection은 전염병 전체가 아니라 병원체로 인한 감염이나 감염증이에요.
+EDIT	infection	disease	ko2	그녀는 목 감염으로 며칠 쉬어야 한다.	Codex fix 일부 수용	‘목에 염증이 생겼다’는 infection을 감염이 아닌 염증으로 옮겨 의미가 달라져요.
+EDIT	infection	disease	en2	She has a throat infection and needs a few days of rest.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어보다 짧아요.
+EDIT	priest	religious-leader	en1	The priest led the ceremony at the small village church.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어보다 짧아요.
+EDIT	priest	religious-leader	ko1	성직자가 작은 마을 교회에서 의식을 이끌었다.	Codex fix 수용	‘priest’는 종교나 교파가 특정되지 않아 ‘신부’로 한정하면 부정확할 수 있어요.
+EDIT	efficiency	productivity	ko2	LED 조명은 옛 전구보다 에너지 효율이 훨씬 높다.	Codex fix 일부 수용	5단어 예문을 늘림. 제안 예문에는 표제어가 없어 직접 고침
+EDIT	remote	far	ko2	그들의 외딴 농가는 버스로 가기 어렵다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	insane	crazy	ko2	오늘 서울 시내 교통 체증은 말도 안 된다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	funeral	burial-ceremony	ko1	지난 토요일 많은 사람이 그의 장례식에 참석했다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	merely	only	ko1	우리 학교 일정을 두고 한 농담일 뿐이었다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	survival	staying-alive	ko1	혹독한 환경에서는 깨끗한 물이 생존에 꼭 필요하다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	extraordinary	remarkable	ko2	우리 반 모두에게 정말 놀라운 경험이었다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	objective	fair	ko1	판사는 양측의 말을 들을 때 객관성을 유지해야 한다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	roughly	about	ko2	그는 문을 억지로 열려고 거칠게 밀었다.	Codex fix 수용	예문 교체에 맞춘 번역

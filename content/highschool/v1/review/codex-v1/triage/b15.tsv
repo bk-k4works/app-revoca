@@ -1,0 +1,31 @@
+EDIT	neglect	lack-of-care	en1	The garden died from neglect during the long, dry summer.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어보다 짧아요.
+EDIT	prejudice	bias	en2	She tried to judge him without prejudice.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어보다 짧아요.
+EDIT	prejudice	bias	ko2	그녀는 편견 없이 그를 판단하려고 했다.	Codex fix 수용	원문을 늘려도 현재 번역은 의미가 맞지만, 제안한 문장에 맞춰 번역을 다듬어야 해요.
+EDIT	abundant	plentiful	ko1	그 지역에는 담수가 풍부하다.	Codex fix 수용	fresh water는 여기서 ‘깨끗한 물’이 아니라 바닷물이 아닌 ‘담수’를 뜻해요.
+EDIT	nod	move-head	ko2	그녀는 복도에서 이웃에게 고개를 끄덕여 인사했다.	Codex fix 수용	nod는 고개를 끄덕여 인사하는 동작이지 고개를 숙이는 동작은 아니에요.
+EDIT	addict	dependent-person	en2	The program helps addicts recover and rebuild their lives.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어보다 짧아요.
+EDIT	drown	die-in-water	meaning	물에 빠져 죽다; (소리를) 묻히게 하다	Codex fix 일부 수용	예문2의 drown out은 소리 등에 묻히게 하다는 뜻인데 뜻 항목에 빠져 있어요.
+EDIT	stimulate	encourage	en1	Regular reading stimulates the imagination of young people.	Codex fix 수용	예문이 4단어로 최소 길이인 6단어보다 짧아요.
+EDIT	stimulate	encourage	ko1	규칙적으로 책을 읽으면 젊은이들의 상상력이 자극된다.	Codex fix 수용	영어 예문을 늘리면 번역에도 추가한 내용을 반영해야 해요.
+EDIT	symptom	sign-of-illness	expl	병이나 문제의 상태를 보여 주는 신호예요.	Codex fix 수용	설명은 병의 증상으로만 한정하지만, 예문2는 경제 문제의 징후라는 비유적 의미를 써요.
+EDIT	fertile	productive	meaning	비옥한; 생식력 있는; (상상력이) 풍부한	Codex fix 수용	예문2의 fertile imagination은 ‘상상력이 풍부한’이라는 뜻인데 뜻 항목에 없어요.
+EDIT	fertile	productive	expl	땅이 비옥하거나 생식력·상상력이 풍부해요.	Codex fix 수용	설명이 땅과 생식력만 다뤄 예문2의 ‘상상력이 풍부한’ 의미를 풀이하지 않아요.
+EDIT	fertile	productive	en2	She has a fertile imagination that inspires her writing.	Codex fix 수용	예문이 5단어로 최소 길이인 6단어보다 짧아요.
+EDIT	fertile	productive	ko2	그녀는 글쓰기에 영감을 주는 풍부한 상상력을 지니고 있다.	Codex fix 수용	영어 예문을 늘리면 번역에도 추가한 내용을 반영해야 해요.
+EDIT	peasant	poor-farmer	expl	주로 과거에 농사를 지으며 살아가던 가난한 계층의 사람이에요.	Codex fix 수용	모든 peasant가 땅을 빌려 농사짓는 사람인 것처럼 설명해 의미를 지나치게 좁혔어요.
+EDIT	factual	based-on-facts	ko1	그 보고서에는 사실에 관한 정보만 담겨 있다.	Codex minor 수용	‘사실 정보’는 한국어로 다소 어색해요.
+EDIT	dedicate	devote	ko2	저자는 그 책을 어머니께 헌정했다.	Codex minor 수용	책을 어머니께 ‘바쳤다’는 번역은 다소 어색해요.
+EDIT	compose	create-music	en1	Mozart composed his first piece of music at age five.	Codex fix 수용	‘composed his first music’는 이 의미로 자연스럽지 않은 표현이에요. 보통 first piece of music이라고 해요.
+EDIT	simulate	imitate	ko2	조종사들은 비행을 모의하는 장치로 훈련한다.	Codex minor 수용	‘비행을 재현하는 기계’는 다소 어색하고 모의 비행 장치라는 뜻이 더 자연스러워요.
+EDIT	emit	release	expl	빛·열·가스·소리 등을 밖으로 내보낼 때 써요.	Codex fix 수용	설명에는 빛·열·가스만 있는데 예문2는 소리를 내는 의미를 써요.
+EDIT	emit	release	en1	Cars emit harmful gases that contribute to climate change.	Codex fix 수용	예문이 4단어로 최소 길이인 6단어보다 짧아요.
+EDIT	emit	release	ko1	자동차는 기후 변화에 영향을 주는 해로운 가스를 내뿜는다.	Codex fix 수용	영어 예문을 늘리면 번역에도 추가한 내용을 반영해야 해요.
+EDIT	astonish	amaze	en1	The unexpected news astonished everyone in the classroom.	Codex fix 수용	예문이 4단어로 최소 길이인 6단어보다 짧아요.
+EDIT	astonish	amaze	ko1	그 예상치 못한 소식은 교실에 있던 모두를 깜짝 놀라게 했다.	Codex fix 수용	영어 예문을 늘리면 번역에도 추가한 내용을 반영해야 해요.
+EDIT	as if	as-though	expl	어떤 모습이나 상황이 마치 그러한 것처럼 표현할 때 써요.	Codex fix 수용	as if는 사실이 아닌 상황이나 비유에만 쓰이지 않아요. 예문2처럼 실제 가능성을 추측할 때도 써요.
+EDIT	get to	have-chance	meaning	~할 기회를 얻다; (get to know) 알게 되다	Codex fix 수용	예문1의 get to meet는 기회를 얻다는 뜻이지만, get to know는 ‘알게 되다’라는 별도 의미예요.
+EDIT	get to	have-chance	expl	get to do는 ~할 기회를 얻고, get to know는 알게 된다는 뜻이에요.	Codex fix 수용	기회를 얻는다는 설명만으로는 예문2의 get to know 의미가 설명되지 않아요.
+EDIT	in place of	instead-of	en2	A substitute teacher taught our class in place of our usual teacher.	Codex minor 수용	‘A new teacher came in place of’는 이해되지만 표현이 다소 어색해요.
+EDIT	in place of	instead-of	ko2	대체 교사가 평소 선생님 대신 우리 반을 가르쳤다.	Codex minor 수용	영어 예문을 바꾸면 번역도 새 문장에 맞게 고쳐야 해요.
+EDIT	neglect	lack-of-care	ko1	그 정원은 길고 건조한 여름 동안 돌보지 않아서 죽었다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	addict	dependent-person	ko2	그 프로그램은 중독자들이 회복하고 삶을 다시 세우도록 돕는다.	Codex fix 수용	예문 교체에 맞춘 번역

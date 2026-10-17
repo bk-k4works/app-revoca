@@ -1,0 +1,888 @@
+[used|adj|second-hand] hash=b896fed78226e9ea
+  뜻: 중고의
+  설명: 다른 사람이 이미 쓴 것이에요.
+  연어: a used car = 중고차
+  예문1: He bought a used bike for twenty dollars. / 그는 20달러에 중고 자전거를 샀다.
+  예문2: The store sells used books at low prices. / 그 가게는 중고 책을 싼 가격에 판다.
+[used|adj|accustomed] hash=34a786b54e6fe57d
+  뜻: (~에) 익숙한
+  설명: be used to -ing로 어떤 일에 익숙할 때 써요.
+  연어: be used to = ~에 익숙하다
+  예문1: I am used to getting up early. / 나는 일찍 일어나는 데 익숙하다.
+  예문2: She is not used to the cold weather yet. / 그녀는 아직 추운 날씨에 익숙하지 않다.
+[government|n|state-authority] hash=2a1427630e7a8506
+  뜻: 정부
+  설명: 나라를 다스리는 기관이에요.
+  연어: the local government = 지방 정부
+  예문1: The government announced a new plan for schools. / 정부는 학교에 관한 새 계획을 발표했다.
+  예문2: Many people do not trust the government. / 많은 사람이 정부를 신뢰하지 않는다.
+[actually|adv|in-fact] hash=9ae6cec116a514cc
+  뜻: 실제로; 사실은
+  설명: 예상과 다른 사실을 말할 때 써요.
+  연어: actually happen = 실제로 일어나다
+  예문1: The test was actually easier than I thought. / 시험은 사실 내가 생각한 것보다 쉬웠다.
+  예문2: Did he actually say that? / 그가 정말로 그렇게 말했니?
+  유의어(오답 제외): really
+[following|adj|next] hash=f2b088f54b3b4d27
+  뜻: 다음의; 다음에 나오는
+  설명: 시간이나 순서상 바로 뒤에 오는 것이에요.
+  연어: the following day = 그다음 날
+  예문1: We left the following morning. / 우리는 그다음 날 아침에 떠났다.
+  예문2: Answer the following questions. / 다음 질문에 답하라.
+  유의어(오답 제외): next
+[following|prep|after] hash=0a4220adae465508
+  뜻: ~ 후에
+  설명: 어떤 일이 있은 다음을 나타내요.
+  연어: following the meeting = 회의 후에
+  예문1: Following the storm, many roads were closed. / 폭풍이 지나간 후 많은 도로가 폐쇄되었다.
+  예문2: There will be a party following the ceremony. / 행사 후에 파티가 있을 것이다.
+[president|n|leader] hash=6e9c8e10e7abea9b
+  뜻: 대통령; 회장
+  설명: 나라나 단체의 최고 지도자예요.
+  연어: elect a president = 대통령을 선출하다
+  예문1: The president gave a speech on television. / 대통령은 텔레비전에서 연설했다.
+  예문2: She was chosen as president of the student council. / 그녀는 학생회장으로 뽑혔다.
+[means|n|method] hash=f148fb385414f75f
+  뜻: 수단; 방법
+  설명: 목적을 이루기 위해 쓰는 방법이에요.
+  연어: a means of = ~의 수단
+  예문1: The bike is my main means of transport. / 자전거는 내 주된 교통수단이다.
+  예문2: Music is a means of expressing feelings. / 음악은 감정을 표현하는 수단이다.
+  유의어(오답 제외): method
+[means|n|money] hash=41167d26147f7c05
+  뜻: 재력; 수입
+  설명: 생활에 필요한 돈이에요.
+  연어: live within your means = 분수에 맞게 살다
+  예문1: Try to live within your means. / 분수에 맞게 생활하려고 노력해라.
+  예문2: They did not have the means to buy a house. / 그들은 집을 살 만한 돈이 없었다.
+[given|prep|considering] hash=1c334b1bf2fe9443
+  뜻: ~을 감안하면; ~을 고려하면
+  설명: 주어진 사정을 감안할 때 써요.
+  연어: given the situation = 상황을 고려하면
+  예문1: Given his age, he plays very well. / 그의 나이를 고려하면 그는 매우 잘한다.
+  예문2: Given the bad weather, the trip was a success. / 궂은 날씨를 고려하면 그 여행은 성공적이었다.
+  유의어(오답 제외): considering
+[given|adj|fixed] hash=4bd53d81857a615d
+  뜻: 정해진; 주어진
+  설명: 미리 정해져 있는 것이에요.
+  연어: at a given time = 정해진 시간에
+  예문1: Finish the work within the given time. / 주어진 시간 안에 일을 끝내라.
+  예문2: At any given moment, many planes are in the air. / 어느 순간이든 많은 비행기가 하늘에 떠 있다.
+[saw|n|cutting-tool] hash=1f018ca57d4e6493
+  뜻: 톱
+  설명: 나무 등을 자르는 날이 있는 도구예요.
+  연어: an electric saw = 전기톱
+  예문1: He cut the wood with a saw. / 그는 톱으로 나무를 잘랐다.
+  예문2: Be careful when you use a saw. / 톱을 쓸 때는 조심해라.
+[political|adj|government-related] hash=8b6dc0d5ff8933e2
+  뜻: 정치의; 정치적인
+  설명: 정부나 정당, 권력과 관련된 것이에요.
+  연어: political views = 정치적 견해
+  예문1: They have different political views. / 그들의 정치적 견해는 서로 다르다.
+  예문2: The country is facing a political crisis. / 그 나라는 정치적 위기를 맞고 있다.
+[available|adj|obtainable] hash=ba65a75d9a7aa68c
+  뜻: 이용할 수 있는; 시간이 되는
+  설명: 구하거나 쓸 수 있거나 만날 시간이 있는 것이에요.
+  연어: be available for = ~에 이용 가능하다
+  예문1: Tickets are available online. / 표는 온라인으로 구할 수 있다.
+  예문2: Are you available for a meeting tomorrow? / 내일 회의할 시간이 있니?
+[former|adj|previous] hash=a178a3624d45905d
+  뜻: 전(前)~; 이전의
+  설명: 예전에 그랬던 것이에요.
+  연어: a former president = 전 대통령
+  예문1: She is a former member of the team. / 그녀는 그 팀의 전 선수이다.
+  예문2: The building was a former school. / 그 건물은 예전에 학교였다.
+  유의어(오답 제외): previous
+[former|n|first-of-two] hash=e17334b0229f8f9d
+  뜻: 전자
+  설명: 둘 중 앞에 말한 것이에요.
+  연어: the former = 전자
+  예문1: Of the two plans, I prefer the former. / 두 계획 중에서 나는 전자가 더 좋다.
+  예문2: Tea and coffee are popular, but the former is healthier. / 차와 커피 모두 인기가 있지만 전자가 더 건강에 좋다.
+[position|n|place] hash=e83c65e9766f4784
+  뜻: (놓인) 자리; 자세
+  설명: 어떤 것이 있는 자리나 몸의 모양이에요.
+  연어: in position = 제자리에
+  예문1: Check the position of your hands on the keyboard. / 키보드 위 손의 위치를 확인해라.
+  예문2: Sit in a comfortable position. / 편안한 자세로 앉아라.
+[position|n|job] hash=36d569e3b56c93c6
+  뜻: 직위; 일자리
+  설명: 조직에서 맡은 자리예요.
+  연어: apply for a position = 자리에 지원하다
+  예문1: She applied for a position at the bank. / 그녀는 은행의 한 자리에 지원했다.
+  예문2: He holds an important position in the company. / 그는 회사에서 중요한 직위를 맡고 있다.
+  유의어(오답 제외): post
+[position|n|opinion] hash=9b3b5538878e0544
+  뜻: 처지; 입장
+  설명: 어떤 문제에 대한 태도나 놓인 상황이에요.
+  연어: in a difficult position = 곤란한 처지에
+  예문1: What is the government's position on this issue? / 이 문제에 대한 정부의 입장은 무엇일까?
+  예문2: I am in a difficult position right now. / 나는 지금 곤란한 처지에 있다.
+  유의어(오답 제외): stand
+[likely|adj|probable] hash=720cb4e5cea09a29
+  뜻: ~할 것 같은; 가능성 있는
+  설명: be likely to로 그렇게 될 가능성이 높을 때 써요.
+  연어: be likely to = ~할 것 같다
+  예문1: It is likely to rain this afternoon. / 오늘 오후에 비가 올 것 같다.
+  예문2: Smokers are more likely to get heart disease. / 흡연자는 심장병에 걸릴 가능성이 더 높다.
+  유의어(오답 제외): probable
+[personal|adj|private] hash=55dcb36c2ee2fd02
+  뜻: 개인의; 사적인
+  설명: 한 사람에게 관련된 것이에요.
+  연어: personal information = 개인 정보
+  예문1: Do not share your personal information online. / 온라인에 개인 정보를 공유하지 마라.
+  예문2: This is my personal opinion. / 이것은 내 개인적인 의견이다.
+  유의어(오답 제외): private
+[security|n|safety] hash=b0ebc27a0e9cd9ad
+  뜻: 보안; 안전
+  설명: 위험이나 범죄로부터 지키는 것이에요.
+  연어: airport security = 공항 보안
+  예문1: Security at the airport was very tight. / 공항의 보안이 매우 엄격했다.
+  예문2: Strong passwords improve online security. / 강력한 비밀번호는 온라인 보안을 강화한다.
+  유의어(오답 제외): safety
+[original|adj|first] hash=772f9d15ea0065ad
+  뜻: 원래의; 최초의
+  설명: 처음부터 있던 것이에요.
+  연어: the original plan = 원래 계획
+  예문1: We went back to our original plan. / 우리는 원래 계획으로 돌아갔다.
+  예문2: The original building was made of wood. / 원래 건물은 나무로 지어졌다.
+[original|adj|creative] hash=7b44e6c546c5db4f
+  뜻: 독창적인
+  설명: 새롭고 남과 다른 것이에요.
+  연어: an original idea = 독창적인 생각
+  예문1: She came up with an original idea for the project. / 그녀는 그 프로젝트에 대한 독창적인 생각을 내놓았다.
+  예문2: His paintings are bright and original. / 그의 그림은 밝고 독창적이다.
+  유의어(오답 제외): creative
+[original|n|first-version] hash=232d5c2c32584ceb
+  뜻: 원본
+  설명: 복사하지 않은 처음 것이에요.
+  연어: the original = 원본
+  예문1: This painting is a copy; the original is in Paris. / 이 그림은 복제품이고 원본은 파리에 있다.
+  예문2: Keep the original and send a copy. / 원본은 보관하고 사본을 보내라.
+[performance|n|show] hash=9beba6551570d6c7
+  뜻: 공연; 연기
+  설명: 관객 앞에서 보여 주는 음악·연극 등이에요.
+  연어: a live performance = 라이브 공연
+  예문1: The band gave a great performance last night. / 그 밴드는 어젯밤 멋진 공연을 했다.
+  예문2: Her performance in the play was amazing. / 연극에서 그녀의 연기는 놀라웠다.
+[performance|n|results] hash=893fa6e88657e305
+  뜻: 성과; 성능
+  설명: 일을 얼마나 잘 해내는지를 말해요.
+  연어: academic performance = 학업 성적
+  예문1: Lack of sleep affects school performance. / 수면 부족은 학교 성적에 영향을 미친다.
+  예문2: The new phone has better performance. / 새 휴대전화는 성능이 더 좋다.
+[official|adj|formal] hash=331aaad036598a8d
+  뜻: 공식적인
+  설명: 정부나 기관이 정식으로 인정한 것이에요.
+  연어: an official language = 공용어
+  예문1: English is an official language in many countries. / 영어는 많은 나라에서 공용어이다.
+  예문2: We are still waiting for the official results. / 우리는 아직 공식 결과를 기다리고 있다.
+  유의어(오답 제외): formal
+[official|n|officer] hash=42001ef5a0dba0ab
+  뜻: 공무원; 관리
+  설명: 정부나 기관에서 일하는 사람이에요.
+  연어: a government official = 정부 관리
+  예문1: A city official answered our questions. / 시청 공무원이 우리 질문에 답했다.
+  예문2: Officials closed the beach because of the storm. / 관계자들은 폭풍 때문에 해변을 폐쇄했다.
+[whatever|pron|anything] hash=aa431392fdbcc365
+  뜻: 무엇이든
+  설명: 어떤 것이든 상관없음을 나타내요.
+  연어: whatever you want = 원하는 것은 무엇이든
+  예문1: You can eat whatever you like. / 너는 좋아하는 것은 무엇이든 먹어도 된다.
+  예문2: Whatever happens, I will be on your side. / 무슨 일이 일어나든 나는 네 편이다.
+[long-term|adj|lasting] hash=c72d9f79904d55ac
+  뜻: 장기적인
+  설명: 오랜 기간에 걸친 것이에요.
+  연어: long-term goals = 장기 목표
+  예문1: Exercise has long-term health benefits. / 운동은 장기적으로 건강에 이롭다.
+  예문2: We need a long-term plan for the city. / 우리는 그 도시를 위한 장기 계획이 필요하다.
+[management|n|control] hash=2365d3b6ddc91aab
+  뜻: 경영; 관리
+  설명: 일이나 조직을 맡아 운영하는 것이에요.
+  연어: time management = 시간 관리
+  예문1: Good time management helps you study better. / 시간을 잘 관리하면 공부를 더 잘할 수 있다.
+  예문2: The hotel is under new management. / 그 호텔은 경영진이 바뀌었다.
+[lower|v|reduce] hash=5371792a5338e10a
+  뜻: 낮추다; 내리다
+  설명: 높이나 양, 정도를 줄일 때 써요.
+  연어: lower the price = 가격을 낮추다
+  예문1: The shop lowered its prices for the sale. / 그 가게는 할인 판매를 위해 가격을 낮췄다.
+  예문2: Please lower your voice in the library. / 도서관에서는 목소리를 낮춰라.
+  유의어(오답 제외): reduce
+[lower|adj|bottom] hash=fd5d468e5bbccd3f
+  뜻: 아래쪽의; 더 낮은
+  설명: 위치나 정도가 아래인 것이에요.
+  연어: the lower floor = 아래층
+  예문1: The kitchen is on the lower floor. / 부엌은 아래층에 있다.
+  예문2: Prices are lower in the countryside. / 시골은 물가가 더 낮다.
+[natural|adj|from-nature] hash=0e2a5aaea49f6f2c
+  뜻: 자연의; 천연의
+  설명: 사람이 만들지 않은 것이에요.
+  연어: natural beauty = 자연의 아름다움
+  예문1: The country is famous for its natural beauty. / 그 나라는 자연의 아름다움으로 유명하다.
+  예문2: This juice has no artificial sugar, only natural fruit. / 이 주스에는 인공 설탕 없이 천연 과일만 들어 있다.
+[natural|adj|normal] hash=f1320b9fc4040507
+  뜻: 당연한; 자연스러운
+  설명: 예상할 수 있는 정상적인 것이에요.
+  연어: it is natural to = ~하는 것은 당연하다
+  예문1: It is natural for parents to worry about their children. / 부모가 자녀를 걱정하는 것은 당연하다.
+  예문2: She has a natural talent for music. / 그녀는 타고난 음악적 재능이 있다.
+  유의어(오답 제외): normal
+[economic|adj|money-system] hash=9e630b6e774b7285
+  뜻: 경제의
+  설명: 돈과 산업, 무역과 관련된 것이에요.
+  연어: economic problems = 경제 문제
+  예문1: The country has seen rapid economic growth. / 그 나라는 급속한 경제 성장을 이루었다.
+  예문2: Many families are facing economic problems. / 많은 가정이 경제적 어려움을 겪고 있다.
+[related|adj|connected] hash=1e5e1de6d08c0504
+  뜻: 관련된; 친척의
+  설명: 서로 관계가 있는 것이에요.
+  연어: be related to = ~과 관련되다
+  예문1: Stress is closely related to sleep problems. / 스트레스는 수면 문제와 밀접하게 관련되어 있다.
+  예문2: Are you related to the famous singer? / 너는 그 유명한 가수와 친척이니?
+  유의어(오답 제외): connected
+[financial|adj|money] hash=a2e57a1d85cb1d99
+  뜻: 재정의; 금융의
+  설명: 돈과 관련된 것이에요.
+  연어: financial support = 재정적 지원
+  예문1: Students can get financial support from the school. / 학생들은 학교에서 재정적 지원을 받을 수 있다.
+  예문2: The company is in financial trouble. / 그 회사는 재정적 어려움에 처해 있다.
+[union|n|group] hash=bb4213c8c0fc51ee
+  뜻: 노동조합; 연합
+  설명: 목적을 위해 모인 단체예요.
+  연어: a labor union = 노동조합
+  예문1: The workers formed a union. / 노동자들은 노동조합을 결성했다.
+  예문2: Several countries formed an economic union. / 몇몇 나라가 경제 연합을 형성했다.
+[crazy|adj|mad] hash=9e930e09a7accd2a
+  뜻: 미친; 말도 안 되는
+  설명: 정상적이지 않거나 지나친 것이에요.
+  연어: go crazy = 미치다
+  예문1: It is crazy to drive in this snow. / 이런 눈 속에서 운전하는 것은 미친 짓이다.
+  예문2: The noise is driving me crazy. / 그 소음이 나를 미치게 한다.
+[crazy|adj|very-keen] hash=aad42e78d33d4bb1
+  뜻: 열광하는
+  설명: be crazy about으로 무엇을 몹시 좋아할 때 써요.
+  연어: be crazy about = ~에 열광하다
+  예문1: My brother is crazy about soccer. / 우리 형은 축구에 열광한다.
+  예문2: The kids are crazy about the new game. / 아이들은 그 새 게임에 푹 빠져 있다.
+[professional|adj|expert] hash=467b5ab7df7fb7c1
+  뜻: 전문적인; 직업의
+  설명: 전문 지식이 있거나 직업으로 하는 것이에요.
+  연어: professional advice = 전문가의 조언
+  예문1: You should get professional help for this problem. / 이 문제는 전문가의 도움을 받아야 한다.
+  예문2: He wants to become a professional soccer player. / 그는 프로 축구 선수가 되고 싶어 한다.
+[professional|n|expert] hash=c871c376812e0e96
+  뜻: 전문직 종사자; 프로
+  설명: 어떤 분야에서 전문적으로 일하는 사람이에요.
+  연어: a health professional = 의료 전문가
+  예문1: Ask a professional before you fix the wires. / 전선을 고치기 전에 전문가에게 물어보아라.
+  예문2: She is a true professional at her job. / 그녀는 자기 일에서 진정한 전문가이다.
+  유의어(오답 제외): expert
+[minister|n|government-head] hash=f935f0fa1158d2ef
+  뜻: 장관
+  설명: 정부 부처를 이끄는 사람이에요.
+  연어: the prime minister = 총리
+  예문1: The education minister visited our school. / 교육부 장관이 우리 학교를 방문했다.
+  예문2: The prime minister met with foreign leaders. / 총리는 외국 지도자들과 만났다.
+[minister|n|priest] hash=79e7c3f111a4f53a
+  뜻: 목사; 성직자
+  설명: 교회를 이끄는 사람이에요.
+  연어: a church minister = 교회 목사
+  예문1: The minister spoke at the wedding. / 목사가 결혼식에서 말씀을 전했다.
+  예문2: Her father was a minister in a small village. / 그녀의 아버지는 작은 마을의 목사였다.
+[growth|n|increase] hash=7139fcb5d62c03a9
+  뜻: 성장; 증가
+  설명: 크기나 양이 늘어나는 것이에요.
+  연어: economic growth = 경제 성장
+  예문1: Children need good food for healthy growth. / 아이들은 건강하게 자라려면 좋은 음식이 필요하다.
+  예문2: There has been a steady growth in online shopping. / 온라인 쇼핑이 꾸준히 증가해 왔다.
+  유의어(오답 제외): increase
+[response|n|answer] hash=8a49c8eb5beb7009
+  뜻: 응답; 반응
+  설명: 어떤 일이나 질문에 대한 답이나 반응이에요.
+  연어: in response to = ~에 대응하여
+  예문1: The response to the new app was very positive. / 새 앱에 대한 반응은 매우 긍정적이었다.
+  예문2: I sent an email but got no response. / 이메일을 보냈지만 답장을 받지 못했다.
+  유의어(오답 제외): reply
+[recently|adv|lately] hash=b94e1517af5eca63
+  뜻: 최근에
+  설명: 얼마 전에 일어난 일을 말해요.
+  연어: until recently = 최근까지
+  예문1: I recently started learning the guitar. / 나는 최근에 기타를 배우기 시작했다.
+  예문2: Prices have risen sharply recently. / 최근 물가가 급격히 올랐다.
+  유의어(오답 제외): lately
+[association|n|organization] hash=34e2cd82161fc036
+  뜻: 협회; 연관
+  설명: 같은 목적을 가진 단체나 서로의 관계예요.
+  연어: in association with = ~과 공동으로
+  예문1: She joined a teachers' association. / 그녀는 교사 협회에 가입했다.
+  예문2: There is a strong association between diet and health. / 식단과 건강 사이에는 강한 연관성이 있다.
+  유의어(오답 제외): organization
+[difference|n|unlikeness] hash=d753755f25becf9d
+  뜻: 차이; 차이점
+  설명: 서로 같지 않은 점이에요.
+  연어: make a difference = 변화를 가져오다
+  예문1: There is a big difference between the two prices. / 두 가격 사이에는 큰 차이가 있다.
+  예문2: Small actions can make a big difference. / 작은 행동이 큰 변화를 만들 수 있다.
+[pressure|n|stress] hash=50a865f9ec69c72c
+  뜻: 압박; 부담
+  설명: 무엇을 하라는 강한 요구나 그로 인한 긴장이에요.
+  연어: under pressure = 압박을 받는
+  예문1: Many students feel pressure to get good grades. / 많은 학생이 좋은 성적을 받아야 한다는 압박을 느낀다.
+  예문2: He works well under pressure. / 그는 압박 속에서도 일을 잘한다.
+  유의어(오답 제외): stress
+[pressure|n|force] hash=1bbcb639f6b7a558
+  뜻: 압력
+  설명: 누르는 힘이에요.
+  연어: blood pressure = 혈압
+  예문1: Check the air pressure in your tires. / 타이어의 공기압을 확인해라.
+  예문2: The doctor measured my blood pressure. / 의사가 내 혈압을 쟀다.
+[treatment|n|medical-care] hash=ab63521d714f867e
+  뜻: 치료
+  설명: 병을 고치기 위한 의료 행위예요.
+  연어: receive treatment = 치료를 받다
+  예문1: She is receiving treatment for a back injury. / 그녀는 허리 부상 치료를 받고 있다.
+  예문2: The new treatment has helped many patients. / 새 치료법은 많은 환자에게 도움이 되었다.
+[treatment|n|handling] hash=890f80ee9c887877
+  뜻: 대우; 처리
+  설명: 사람이나 물건을 대하는 방식이에요.
+  연어: equal treatment = 평등한 대우
+  예문1: Everyone deserves fair treatment. / 모든 사람은 공정한 대우를 받을 자격이 있다.
+  예문2: The treatment of animals in zoos is a hot topic. / 동물원의 동물 대우는 뜨거운 화제이다.
+[beginning|n|start] hash=523df69d5e3372c7
+  뜻: 시작; 초반
+  설명: 어떤 일이 처음 시작되는 때예요.
+  연어: from the beginning = 처음부터
+  예문1: The beginning of the movie was a little boring. / 그 영화의 초반은 조금 지루했다.
+  예문2: Let us start again from the beginning. / 처음부터 다시 시작하자.
+  유의어(오답 제외): start
+[leading|adj|top] hash=06f5ce0ea0b5d7d7
+  뜻: 선두의; 주요한
+  설명: 가장 중요하거나 앞서가는 것이에요.
+  연어: a leading cause = 주요 원인
+  예문1: She is one of the leading scientists in her field. / 그녀는 그 분야의 선도적인 과학자 중 한 명이다.
+  예문2: Heart disease is a leading cause of death. / 심장병은 주요 사망 원인 중 하나이다.
+  유의어(오답 제외): top
+[nearly|adv|almost] hash=8639a7b5b640c322
+  뜻: 거의
+  설명: 어떤 수준에 아주 가까울 때 써요.
+  연어: nearly always = 거의 항상
+  예문1: I nearly missed the bus this morning. / 나는 오늘 아침 버스를 거의 놓칠 뻔했다.
+  예문2: Nearly half the students walk to school. / 학생의 거의 절반이 걸어서 학교에 간다.
+  유의어(오답 제외): almost
+[positive|adj|hopeful] hash=b620a867c6821440
+  뜻: 긍정적인
+  설명: 좋은 쪽으로 생각하는 것이에요.
+  연어: stay positive = 긍정적인 마음을 유지하다
+  예문1: Try to stay positive when things get hard. / 일이 힘들어질 때도 긍정적인 마음을 유지하려고 노력해라.
+  예문2: The movie got positive reviews. / 그 영화는 호평을 받았다.
+  유의어(오답 제외): optimistic
+[positive|adj|certain] hash=5c77c809639a1828
+  뜻: 확신하는
+  설명: be positive that으로 틀림없다고 생각할 때 써요.
+  연어: be positive that = ~을 확신하다
+  예문1: Are you positive that you locked the door? / 문을 잠갔다고 확신하니?
+  예문2: I am positive she will win. / 나는 그녀가 이길 거라고 확신한다.
+  유의어(오답 제외): sure
+[absolutely|adv|completely] hash=d26b60d8094811a8
+  뜻: 절대적으로; 완전히
+  설명: 정도를 강하게 강조할 때 써요.
+  연어: absolutely right = 전적으로 옳은
+  예문1: You are absolutely right. / 네 말이 전적으로 옳다.
+  예문2: I absolutely love this song. / 나는 이 노래가 정말 좋다.
+  유의어(오답 제외): completely
+[immediately|adv|at-once] hash=cfb7dad9df11e8a1
+  뜻: 즉시; 곧바로
+  설명: 시간을 끌지 않고 곧바로 할 때 써요.
+  연어: leave immediately = 즉시 떠나다
+  예문1: Call an ambulance immediately. / 즉시 구급차를 불러라.
+  예문2: She recognized him immediately. / 그녀는 그를 바로 알아보았다.
+[significant|adj|important] hash=974ed64dcd8ad228
+  뜻: 중요한; 상당한
+  설명: 의미가 크거나 양이 꽤 많은 것이에요.
+  연어: a significant change = 중요한 변화
+  예문1: There has been a significant increase in sales. / 판매가 상당히 증가했다.
+  예문2: This discovery is very significant for medicine. / 이 발견은 의학에 매우 중요하다.
+  유의어(오답 제외): important
+[episode|n|part-of-series] hash=3cba6d429668a56d
+  뜻: (드라마의) 회; 사건
+  설명: 연속물의 한 편이나 인생의 한 사건이에요.
+  연어: the first episode = 첫 회
+  예문1: I watched the last episode of the drama. / 나는 그 드라마의 마지막 회를 보았다.
+  예문2: The trip was a happy episode in my life. / 그 여행은 내 인생의 행복한 한 장면이었다.
+[movement|n|motion] hash=fc7c3663e60105d9
+  뜻: 움직임; 동작
+  설명: 몸이나 물체가 움직이는 것이에요.
+  연어: quick movements = 빠른 동작
+  예문1: The cat watched every movement of the bird. / 고양이는 새의 모든 움직임을 지켜보았다.
+  예문2: Dance is the art of movement. / 춤은 움직임의 예술이다.
+  유의어(오답 제외): motion
+[movement|n|campaign] hash=69fac49ebaf2804e
+  뜻: (사회) 운동
+  설명: 목표를 위해 사람들이 함께하는 활동이에요.
+  연어: the civil rights movement = 민권 운동
+  예문1: The movement for clean energy is growing. / 청정에너지를 위한 운동이 커지고 있다.
+  예문2: She was a leader of the women's movement. / 그녀는 여성 운동의 지도자였다.
+  유의어(오답 제외): campaign
+[safety|n|security] hash=68c0d256e54ea299
+  뜻: 안전
+  설명: 위험하지 않은 상태예요.
+  연어: for safety = 안전을 위해
+  예문1: For your safety, please wear a helmet. / 안전을 위해 헬멧을 써라.
+  예문2: Road safety is taught in every school. / 도로 안전은 모든 학교에서 가르친다.
+  유의어(오답 제외): security
+[statement|n|announcement] hash=b8ad8036803bfe45
+  뜻: 성명; 진술
+  설명: 공식적으로 밝힌 말이나 글이에요.
+  연어: make a statement = 성명을 발표하다
+  예문1: The company made a statement about the accident. / 그 회사는 사고에 대해 성명을 발표했다.
+  예문2: Is this statement true or false? / 이 진술은 참일까, 거짓일까?
+[ability|n|skill] hash=8f74e6e4dd015c99
+  뜻: 능력
+  설명: 무엇을 할 수 있는 힘이에요.
+  연어: the ability to = ~할 수 있는 능력
+  예문1: She has the ability to explain things clearly. / 그녀는 무엇이든 분명하게 설명하는 능력이 있다.
+  예문2: Humans have the ability to learn languages. / 인간은 언어를 배우는 능력이 있다.
+  유의어(오답 제외): skill
+[definitely|adv|certainly] hash=7c3baa5d25548d3b
+  뜻: 분명히; 확실히
+  설명: 의심할 여지가 없음을 강조해요.
+  연어: definitely not = 절대 아니다
+  예문1: I will definitely come to your party. / 나는 꼭 네 파티에 갈 것이다.
+  예문2: This is definitely the best pizza in town. / 이곳은 확실히 동네 최고의 피자 가게이다.
+  유의어(오답 제외): certainly
+[particularly|adv|especially] hash=2fcd666f057cffa4
+  뜻: 특히
+  설명: 여러 가지 중에서 하나를 강조할 때 써요.
+  연어: particularly important = 특히 중요한
+  예문1: I like all sports, particularly soccer. / 나는 모든 운동을 좋아하는데, 특히 축구를 좋아한다.
+  예문2: The weather was particularly cold this winter. / 올겨울은 날씨가 특히 추웠다.
+  유의어(오답 제외): especially
+[author|n|writer] hash=77ed1011ed6112a2
+  뜻: 저자; 작가
+  설명: 책이나 글을 쓴 사람이에요.
+  연어: a famous author = 유명한 작가
+  예문1: Who is the author of this book? / 이 책의 저자는 누구일까?
+  예문2: The author signed copies of her new novel. / 작가는 자신의 새 소설에 사인을 해 주었다.
+  유의어(오답 제외): writer
+[material|n|substance] hash=df188e92ceec2aff
+  뜻: 재료; 물질
+  설명: 무엇을 만드는 데 쓰는 것이에요.
+  연어: building materials = 건축 자재
+  예문1: The bag is made of strong material. / 그 가방은 튼튼한 소재로 만들어졌다.
+  예문2: Paper and glass are recyclable materials. / 종이와 유리는 재활용할 수 있는 재료이다.
+  유의어(오답 제외): substance
+[material|n|information] hash=c84f202c7519fe2c
+  뜻: 자료
+  설명: 공부나 일에 필요한 정보예요.
+  연어: study material = 학습 자료
+  예문1: The teacher handed out reading material. / 선생님은 읽기 자료를 나누어 주셨다.
+  예문2: I am collecting material for my report. / 나는 보고서를 위한 자료를 모으고 있다.
+[opportunity|n|chance] hash=2e0c29562ed89c2c
+  뜻: (좋은) 기회
+  설명: 무엇을 할 수 있는 좋은 때예요.
+  연어: a great opportunity = 좋은 기회
+  예문1: This job is a great opportunity for me. / 이 일자리는 나에게 좋은 기회이다.
+  예문2: Take every opportunity to practice English. / 영어를 연습할 수 있는 모든 기회를 잡아라.
+  유의어(오답 제외): chance
+[product|n|goods] hash=fe79c5027582b268
+  뜻: 제품; 상품
+  설명: 팔려고 만든 물건이에요.
+  연어: a new product = 신제품
+  예문1: The company launched a new product this month. / 그 회사는 이번 달에 신제품을 출시했다.
+  예문2: We should buy products that are good for the environment. / 우리는 환경에 좋은 제품을 사야 한다.
+[product|n|result] hash=9f894f136760a286
+  뜻: 결과물; 산물
+  설명: 어떤 과정이나 노력의 결과예요.
+  연어: the product of = ~의 결과
+  예문1: His success is the product of hard work. / 그의 성공은 노력의 결과이다.
+  예문2: The book is the product of ten years of research. / 그 책은 10년 연구의 산물이다.
+  유의어(오답 제외): result
+[majority|n|most] hash=f1789dc685c670bb
+  뜻: 대다수; 과반수
+  설명: 전체 중 절반보다 많은 부분이에요.
+  연어: the majority of = 대다수의
+  예문1: The majority of students agreed with the plan. / 대다수의 학생이 그 계획에 동의했다.
+  예문2: The party won a majority in the election. / 그 정당은 선거에서 과반수를 차지했다.
+[administration|n|management] hash=f3d5b663370646ed
+  뜻: 관리; 행정
+  설명: 조직이나 나라의 일을 운영하는 것이에요.
+  연어: school administration = 학교 행정
+  예문1: She works in hospital administration. / 그녀는 병원 행정 일을 한다.
+  예문2: The new administration promised lower taxes. / 새 정부는 세금을 낮추겠다고 약속했다.
+  유의어(오답 제외): management
+[independent|adj|self-reliant] hash=f665d8ea0b40dced
+  뜻: 독립적인; 독립한
+  설명: 남에게 의존하지 않는 것이에요.
+  연어: become independent = 독립하다
+  예문1: She became independent after college. / 그녀는 대학 졸업 후 독립했다.
+  예문2: The country became independent in 1945. / 그 나라는 1945년에 독립했다.
+[awesome|adj|great] hash=28c60714866e1e5d
+  뜻: 굉장한; 멋진
+  설명: 아주 좋거나 놀라운 것을 말할 때 써요.
+  연어: an awesome view = 굉장한 경치
+  예문1: The concert last night was awesome. / 어젯밤 콘서트는 정말 굉장했다.
+  예문2: We had an awesome time at the beach. / 우리는 해변에서 아주 멋진 시간을 보냈다.
+  유의어(오답 제외): fantastic
+[commercial|adj|business] hash=793b108803d3c703
+  뜻: 상업의; 상업적인
+  설명: 돈을 벌기 위한 사업과 관련된 것이에요.
+  연어: a commercial area = 상업 지역
+  예문1: The movie was a huge commercial success. / 그 영화는 상업적으로 크게 성공했다.
+  예문2: This street is full of commercial buildings. / 이 거리는 상업용 건물로 가득하다.
+[commercial|n|advertisement] hash=7cb9fee166efbec8
+  뜻: 광고 방송
+  설명: 텔레비전이나 라디오의 광고예요.
+  연어: a TV commercial = 텔레비전 광고
+  예문1: I usually skip the commercials. / 나는 보통 광고를 건너뛴다.
+  예문2: The company made a funny commercial for its new drink. / 그 회사는 새 음료를 위한 재미있는 광고를 만들었다.
+  유의어(오답 제외): ad
+[impact|n|effect] hash=4d93ffd7a513e983
+  뜻: 영향; 충격
+  설명: 어떤 일이 다른 것에 미치는 큰 힘이에요.
+  연어: have an impact on = ~에 영향을 미치다
+  예문1: Social media has a big impact on young people. / 소셜 미디어는 젊은이들에게 큰 영향을 미친다.
+  예문2: The car was badly damaged by the impact. / 그 차는 충돌의 충격으로 크게 부서졌다.
+  유의어(오답 제외): effect
+[impact|v|affect] hash=aa4390493975120b
+  뜻: (큰) 영향을 미치다; 충격을 주다
+  설명: 어떤 것에 강한 영향을 미칠 때 써요.
+  연어: impact the economy = 경제에 영향을 주다
+  예문1: The new law will impact small businesses. / 새 법은 소상공인에게 영향을 줄 것이다.
+  예문2: Climate change impacts everyone on Earth. / 기후 변화는 지구의 모든 사람에게 영향을 준다.
+  유의어(오답 제외): affect
+[latest|adj|newest] hash=963bba061e7531fa
+  뜻: 최신의
+  설명: 가장 최근에 나온 것이에요.
+  연어: the latest news = 최신 뉴스
+  예문1: Have you heard the latest news? / 최신 소식 들었니?
+  예문2: This is the latest model of the phone. / 이것이 그 휴대전화의 최신 모델이다.
+  유의어(오답 제외): newest
+[multiple|adj|many] hash=608def4f5ab3b71f
+  뜻: 다수의; 여러
+  설명: 여러 개이거나 여러 번인 것이에요.
+  연어: multiple choice = 선다형
+  예문1: The test has multiple choice questions. / 그 시험에는 선다형 문제가 있다.
+  예문2: He has visited Japan multiple times. / 그는 일본을 여러 번 방문했다.
+[organization|n|group] hash=9e3106d092667b82
+  뜻: 조직; 단체
+  설명: 목적을 가지고 모인 사람들의 집단이에요.
+  연어: a non-profit organization = 비영리 단체
+  예문1: She works for an organization that helps children. / 그녀는 아이들을 돕는 단체에서 일한다.
+  예문2: The World Health Organization studies global health. / 세계보건기구는 세계 보건을 연구한다.
+  유의어(오답 제외): association
+[organization|n|arrangement] hash=d0c089e4a4c3a7fc
+  뜻: 정리; 구성
+  설명: 일이나 물건을 짜임새 있게 배치하는 것이에요.
+  연어: good organization = 좋은 정리
+  예문1: Good organization helps you find things quickly. / 정리를 잘하면 물건을 빨리 찾을 수 있다.
+  예문2: The essay lacks clear organization. / 그 에세이는 구성이 분명하지 않다.
+[competition|n|contest] hash=1b8358ee840e4ffe
+  뜻: 대회; 경기
+  설명: 누가 잘하는지 겨루는 행사예요.
+  연어: enter a competition = 대회에 참가하다
+  예문1: She won first prize in the singing competition. / 그녀는 노래 대회에서 1등 상을 받았다.
+  예문2: The school holds a science competition every year. / 그 학교는 매년 과학 대회를 연다.
+  유의어(오답 제외): contest
+[competition|n|rivalry] hash=91148becb801374d
+  뜻: 경쟁
+  설명: 서로 이기려고 다투는 것이에요.
+  연어: fierce competition = 치열한 경쟁
+  예문1: There is strong competition for jobs. / 일자리를 두고 치열한 경쟁이 있다.
+  예문2: Competition between the two stores keeps prices low. / 두 가게 사이의 경쟁 덕분에 가격이 낮게 유지된다.
+[easily|adv|without-difficulty] hash=0d1f4effebdcbcd5
+  뜻: 쉽게
+  설명: 어렵지 않게 할 때 써요.
+  연어: easily solve = 쉽게 풀다
+  예문1: She solved the puzzle easily. / 그녀는 그 퍼즐을 쉽게 풀었다.
+  예문2: You can easily find the library from here. / 여기서 도서관을 쉽게 찾을 수 있다.
+[literally|adv|exactly] hash=92acbd25abea0786
+  뜻: 문자 그대로; 정말로
+  설명: 말 그대로의 뜻이나 강조할 때 써요.
+  연어: literally translate = 직역하다
+  예문1: The word literally means "small house." / 그 단어는 문자 그대로 '작은 집'을 뜻한다.
+  예문2: I was literally shaking with fear. / 나는 정말로 두려움에 떨고 있었다.
+[congress|n|parliament] hash=0681d0d95423b3b0
+  뜻: 의회; 국회
+  설명: 나라의 법을 만드는 기관이에요.
+  연어: pass through congress = 의회를 통과하다
+  예문1: The new law was passed by Congress. / 새 법은 의회를 통과했다.
+  예문2: Members of congress debated the budget. / 국회 의원들은 예산을 두고 토론했다.
+[professor|n|university-teacher] hash=7235621d5df9cfa7
+  뜻: 교수
+  설명: 대학에서 가르치고 연구하는 사람이에요.
+  연어: a history professor = 역사학 교수
+  예문1: My aunt is a professor of biology. / 우리 이모는 생물학 교수이다.
+  예문2: The professor gave an interesting lecture. / 그 교수는 흥미로운 강의를 했다.
+[basic|adj|fundamental] hash=a86e52bd65fa86eb
+  뜻: 기본적인; 기초의
+  설명: 가장 중요하고 처음 알아야 하는 것이에요.
+  연어: basic skills = 기본 기술
+  예문1: This course teaches basic cooking skills. / 이 강좌는 기본적인 요리 기술을 가르친다.
+  예문2: Food and water are basic needs. / 음식과 물은 기본적인 필요이다.
+  유의어(오답 제외): fundamental
+[effective|adj|successful] hash=96f5d55b92507d6b
+  뜻: 효과적인
+  설명: 원하는 결과를 잘 내는 것이에요.
+  연어: an effective way = 효과적인 방법
+  예문1: Exercise is an effective way to reduce stress. / 운동은 스트레스를 줄이는 효과적인 방법이다.
+  예문2: The new medicine is very effective. / 새 약은 매우 효과적이다.
+[highly|adv|very] hash=7ebb75c90f63d1cc
+  뜻: 대단히; 높이
+  설명: 정도가 아주 높을 때 써요.
+  연어: highly recommend = 강력히 추천하다
+  예문1: I highly recommend this book. / 나는 이 책을 강력히 추천한다.
+  예문2: She is a highly skilled doctor. / 그녀는 매우 숙련된 의사이다.
+[reality|n|truth] hash=db5dca9a780cd96a
+  뜻: 현실; 실제
+  설명: 상상이 아니라 실제로 있는 것이에요.
+  연어: in reality = 실제로는
+  예문1: The dream finally became a reality. / 그 꿈은 마침내 현실이 되었다.
+  예문2: In reality, the job was much harder. / 실제로 그 일은 훨씬 더 힘들었다.
+[agreement|n|deal] hash=68f28ed1d913605e
+  뜻: 협정; 합의
+  설명: 서로 지키기로 한 약속이에요.
+  연어: reach an agreement = 합의에 이르다
+  예문1: The two countries signed a trade agreement. / 두 나라는 무역 협정에 서명했다.
+  예문2: We finally reached an agreement. / 우리는 마침내 합의에 이르렀다.
+  유의어(오답 제외): contract
+[agreement|n|same-opinion] hash=2809e42b5547db3b
+  뜻: 동의; 일치
+  설명: 생각이 같은 것이에요.
+  연어: in agreement = 동의하여
+  예문1: Everyone was in agreement about the plan. / 모두가 그 계획에 동의했다.
+  예문2: She nodded in agreement. / 그녀는 동의한다는 뜻으로 고개를 끄덕였다.
+[equipment|n|tools] hash=8e6e1b7b6669131a
+  뜻: 장비; 설비
+  설명: 어떤 일에 필요한 도구나 기계예요.
+  연어: sports equipment = 운동 장비
+  예문1: The gym has new exercise equipment. / 그 체육관에는 새 운동 기구가 있다.
+  예문2: Safety equipment must be worn at all times. / 안전 장비는 항상 착용해야 한다.
+  유의어(오답 제외): gear
+[eventually|adv|finally] hash=c76a791b3bcdbac2
+  뜻: 결국; 마침내
+  설명: 오랜 시간이나 과정 끝에를 뜻해요.
+  연어: eventually succeed = 결국 성공하다
+  예문1: He eventually found his lost dog. / 그는 결국 잃어버린 개를 찾았다.
+  예문2: Hard work will eventually pay off. / 노력은 결국 결실을 맺을 것이다.
+  유의어(오답 제외): finally
+[primary|adj|main] hash=8d25847c4f57af84
+  뜻: 주된; 주요한
+  설명: 가장 중요하거나 첫째가는 것이에요.
+  연어: the primary reason = 주된 이유
+  예문1: The primary goal of the project is safety. / 그 프로젝트의 주된 목표는 안전이다.
+  예문2: Rice is the primary food in many Asian countries. / 쌀은 많은 아시아 국가에서 주식이다.
+  유의어(오답 제외): main
+[primary|adj|elementary] hash=2756003c53939bb7
+  뜻: 초등의; 초기의
+  설명: 교육의 첫 단계와 관련된 것이에요.
+  연어: primary school = 초등학교
+  예문1: She teaches at a primary school. / 그녀는 초등학교에서 가르친다.
+  예문2: The primary stage of the disease has no symptoms. / 그 병의 초기 단계에는 증상이 없다.
+[executive|n|manager] hash=1f22c0e9963ec01b
+  뜻: 임원; 경영진
+  설명: 회사에서 중요한 결정을 하는 사람이에요.
+  연어: a company executive = 회사 임원
+  예문1: She became a top executive at the bank. / 그녀는 그 은행의 최고 임원이 되었다.
+  예문2: The executives met to discuss the plan. / 임원들은 그 계획을 논의하려고 모였다.
+  유의어(오답 제외): manager
+[status|n|position] hash=e86cdcb6a974c095
+  뜻: 지위; 상태
+  설명: 사회적 위치나 현재 상황이에요.
+  연어: social status = 사회적 지위
+  예문1: Money does not always bring high status. / 돈이 항상 높은 지위를 가져다주는 것은 아니다.
+  예문2: You can check the status of your order online. / 온라인으로 주문 상태를 확인할 수 있다.
+  유의어(오답 제외): position
+[activity|n|action] hash=db73a34e279bf8f9
+  뜻: 활동
+  설명: 무엇을 하며 움직이는 일이에요.
+  연어: outdoor activities = 야외 활동
+  예문1: The school offers many after-school activities. / 그 학교는 많은 방과 후 활동을 제공한다.
+  예문2: Physical activity is good for your heart. / 신체 활동은 심장에 좋다.
+[application|n|request] hash=e67124bc1c45885d
+  뜻: 지원서; 신청
+  설명: 일자리나 학교에 들어가려고 내는 서류예요.
+  연어: a job application = 입사 지원서
+  예문1: I sent my application to three universities. / 나는 세 대학에 지원서를 보냈다.
+  예문2: The application deadline is next Friday. / 신청 마감일은 다음 주 금요일이다.
+[application|n|program] hash=e788a82fc09c0ff4
+  뜻: 응용 프로그램; 앱
+  설명: 휴대전화나 컴퓨터에서 쓰는 프로그램이에요.
+  연어: download an application = 앱을 내려받다
+  예문1: This application helps you learn new words. / 이 앱은 새 단어를 배우는 데 도움을 준다.
+  예문2: Close all applications before restarting the computer. / 컴퓨터를 다시 시작하기 전에 모든 프로그램을 닫아라.
+  유의어(오답 제외): app
+[application|n|use] hash=a9dbe5949ef20d14
+  뜻: 적용; 응용
+  설명: 지식이나 기술을 실제로 쓰는 것이에요.
+  연어: practical application = 실제 적용
+  예문1: The theory has many practical applications. / 그 이론은 실제로 적용할 곳이 많다.
+  예문2: The application of new technology improved farming. / 새 기술을 적용해 농업이 발전했다.
+[interview|n|meeting] hash=36142a3cd4547c37
+  뜻: 면접; 인터뷰
+  설명: 질문하고 답하는 만남이에요.
+  연어: a job interview = 입사 면접
+  예문1: I have a job interview tomorrow. / 나는 내일 면접이 있다.
+  예문2: The singer gave an interview on the radio. / 그 가수는 라디오에서 인터뷰를 했다.
+[interview|v|question] hash=8f0262692f7b704c
+  뜻: 면접하다; 인터뷰하다
+  설명: 사람을 만나 질문할 때 써요.
+  연어: interview a candidate = 지원자를 면접하다
+  예문1: The reporter interviewed the mayor. / 그 기자는 시장을 인터뷰했다.
+  예문2: They interviewed ten people for the job. / 그들은 그 일자리를 위해 열 명을 면접했다.
+[location|n|place] hash=f971146cd93b782c
+  뜻: 위치; 장소
+  설명: 어떤 것이 있는 곳이에요.
+  연어: a good location = 좋은 위치
+  예문1: The hotel is in a great location near the beach. / 그 호텔은 해변 근처의 좋은 위치에 있다.
+  예문2: The app shows your current location on a map. / 그 앱은 지도에 현재 위치를 보여 준다.
+  유의어(오답 제외): place
+[actual|adj|real] hash=7f4f8135bb9dab1a
+  뜻: 실제의
+  설명: 생각이 아니라 사실인 것이에요.
+  연어: the actual cost = 실제 비용
+  예문1: The actual cost was higher than we expected. / 실제 비용은 우리가 예상한 것보다 높았다.
+  예문2: The movie is based on actual events. / 그 영화는 실제 사건을 바탕으로 한다.
+  유의어(오답 제외): real
+[mobile|adj|movable] hash=e0c965362ba1ec92
+  뜻: 이동하는; 휴대용의
+  설명: 쉽게 옮길 수 있는 것이에요.
+  연어: a mobile phone = 휴대전화
+  예문1: Please turn off your mobile phone. / 휴대전화를 꺼라.
+  예문2: A mobile library visits the village every week. / 이동 도서관이 매주 그 마을을 찾아간다.
+[prior|adj|earlier] hash=c4748e7b15ae7bcd
+  뜻: 사전의; 이전의
+  설명: 어떤 일보다 앞선 것이에요.
+  연어: prior to = ~ 이전에
+  예문1: No prior experience is needed for this job. / 이 일에는 이전 경력이 필요하지 않다.
+  예문2: Please arrive ten minutes prior to the start. / 시작 10분 전에 도착해라.
+  유의어(오답 제외): previous
+[protection|n|safety] hash=16c3075c7bbef2fc
+  뜻: 보호
+  설명: 위험이나 해로부터 지키는 것이에요.
+  연어: protection from = ~으로부터의 보호
+  예문1: Sunglasses give protection from strong light. / 선글라스는 강한 빛으로부터 눈을 보호해 준다.
+  예문2: The law gives protection to wild animals. / 그 법은 야생 동물을 보호한다.
+[religious|adj|of-religion] hash=f1c472ca71686769
+  뜻: 종교의; 신앙심이 깊은
+  설명: 종교와 관련되거나 믿음이 강한 것이에요.
+  연어: religious beliefs = 종교적 신념
+  예문1: We should respect other people's religious beliefs. / 우리는 다른 사람의 종교적 신념을 존중해야 한다.
+  예문2: The town holds a religious festival every spring. / 그 마을은 매년 봄 종교 축제를 연다.
+[investment|n|putting-money] hash=cad23c1ec285f8a2
+  뜻: 투자
+  설명: 이익을 바라고 돈이나 시간을 들이는 것이에요.
+  연어: a good investment = 좋은 투자
+  예문1: Education is the best investment for the future. / 교육은 미래를 위한 최고의 투자이다.
+  예문2: The company made a big investment in new technology. / 그 회사는 새 기술에 큰 투자를 했다.
+[solution|n|answer] hash=f21d78e0354a6d23
+  뜻: 해결책; 정답
+  설명: 문제를 푸는 방법이나 답이에요.
+  연어: find a solution = 해결책을 찾다
+  예문1: We need to find a solution to this problem. / 우리는 이 문제의 해결책을 찾아야 한다.
+  예문2: Check the solutions at the back of the book. / 책 뒤쪽의 정답을 확인해라.
+  유의어(오답 제외): answer
+[solution|n|liquid-mix] hash=4989907c0eaadc0a
+  뜻: 용액
+  설명: 물질이 녹아 있는 액체예요.
+  연어: a salt solution = 소금물
+  예문1: Put the egg in a salt solution. / 달걀을 소금물에 넣어라.
+  예문2: The nurse cleaned the wound with a special solution. / 간호사는 특수 용액으로 상처를 소독했다.
+[critical|adj|crucial] hash=c2e3803172f1a488
+  뜻: 중대한; 결정적인
+  설명: 매우 중요하거나 위험한 것이에요.
+  연어: a critical moment = 결정적인 순간
+  예문1: Sleep is critical for brain health. / 수면은 뇌 건강에 매우 중요하다.
+  예문2: The patient is in critical condition. / 그 환자는 위독한 상태이다.
+  유의어(오답 제외): crucial
+[critical|adj|judging] hash=72ec128e66f5b04e
+  뜻: 비판적인
+  설명: 잘못을 따지거나 꼼꼼히 판단하는 것이에요.
+  연어: critical thinking = 비판적 사고
+  예문1: Critical thinking is an important skill. / 비판적 사고는 중요한 능력이다.
+  예문2: She was very critical of the new rules. / 그녀는 새 규칙을 매우 비판했다.
+[owner|n|possessor] hash=a787f7988c83bfae
+  뜻: 주인; 소유자
+  설명: 무엇을 가진 사람이에요.
+  연어: the owner of = ~의 주인
+  예문1: The owner of the shop is very friendly. / 그 가게 주인은 매우 친절하다.
+  예문2: Dog owners must clean up after their pets. / 개 주인은 반려견의 배설물을 치워야 한다.
+[realize|v|understand] hash=3d00ffd5daaf83e7
+  뜻: 깨닫다; 알아차리다
+  설명: 어떤 사실을 분명히 알게 될 때 써요.
+  연어: realize the truth = 진실을 깨닫다
+  예문1: I suddenly realized that I had left my bag on the bus. / 나는 버스에 가방을 두고 내렸다는 것을 갑자기 깨달았다.
+  예문2: She did not realize how late it was. / 그녀는 얼마나 늦었는지 알아차리지 못했다.
+  유의어(오답 제외): understand
+[realize|v|achieve] hash=01717e2924282be3
+  뜻: 실현하다
+  설명: 꿈이나 계획을 이룰 때 써요.
+  연어: realize a dream = 꿈을 실현하다
+  예문1: He finally realized his dream of becoming a pilot. / 그는 마침내 조종사가 되겠다는 꿈을 이루었다.
+  예문2: The plan was never realized. / 그 계획은 끝내 실현되지 못했다.
+  유의어(오답 제외): achieve
+[generation|n|age-group] hash=399b391dc97a8968
+  뜻: 세대
+  설명: 비슷한 시기에 태어난 사람들이에요.
+  연어: the younger generation = 젊은 세대
+  예문1: The younger generation uses smartphones every day. / 젊은 세대는 매일 스마트폰을 사용한다.
+  예문2: The house has belonged to our family for three generations. / 그 집은 3대째 우리 가족의 것이다.
+[generation|n|production] hash=f936df0bb8261b7a
+  뜻: 생성; 발생
+  설명: 에너지나 무언가를 만들어 내는 것이에요.
+  연어: power generation = 발전
+  예문1: Wind power is used for electricity generation. / 풍력은 전기 생산에 쓰인다.
+  예문2: The generation of new ideas takes time. / 새로운 생각을 만들어 내는 데는 시간이 걸린다.
+[understanding|n|knowledge] hash=249f3d9fec2d46b7
+  뜻: 이해; 지식
+  설명: 무엇을 아는 것이나 아는 정도예요.
+  연어: a good understanding of = ~에 대한 깊은 이해
+  예문1: She has a good understanding of history. / 그녀는 역사를 잘 이해하고 있다.
+  예문2: Reading improves your understanding of the world. / 독서는 세상에 대한 이해를 넓혀 준다.
+  유의어(오답 제외): knowledge
+[understanding|adj|sympathetic] hash=62807d84b2a7c3f5
+  뜻: 이해심 있는
+  설명: 다른 사람의 사정을 잘 알아주는 것이에요.
+  연어: an understanding friend = 이해심 있는 친구
+  예문1: My parents were very understanding about my mistake. / 부모님은 내 실수를 너그럽게 이해해 주셨다.
+  예문2: She is a kind and understanding teacher. / 그녀는 친절하고 이해심 많은 선생님이다.
+  유의어(오답 제외): sympathetic
+[foundation|n|base] hash=58bd33071463749b
+  뜻: 기초; 토대
+  설명: 건물이나 생각의 가장 아래 바탕이에요.
+  연어: lay the foundation = 기초를 놓다
+  예문1: Reading is the foundation of all learning. / 독서는 모든 배움의 기초이다.
+  예문2: The foundation of the house is made of stone. / 그 집의 토대는 돌로 되어 있다.
+  유의어(오답 제외): base
+[foundation|n|organization] hash=0fd93a7354617046
+  뜻: 재단
+  설명: 돈을 모아 좋은 일에 쓰는 단체예요.
+  연어: a charity foundation = 자선 재단
+  예문1: The foundation gives money to poor students. / 그 재단은 가난한 학생들에게 돈을 지원한다.
+  예문2: She started a foundation to protect forests. / 그녀는 숲을 보호하기 위한 재단을 설립했다.
+[apparently|adv|seemingly] hash=b341fff4bac79362
+  뜻: 듣자 하니; 보아하니
+  설명: 들은 바나 겉으로 보기에 그런 것 같을 때 써요.
+  연어: apparently true = 사실인 듯한
+  예문1: Apparently, the store is closing next month. / 듣자 하니 그 가게는 다음 달에 문을 닫는다.
+  예문2: He was apparently happy with the result. / 그는 보아하니 결과에 만족한 듯했다.
+[edition|n|version] hash=aa676b1c85309edb
+  뜻: (책의) 판; 호
+  설명: 같은 책이나 신문을 한 번에 펴낸 것이에요.
+  연어: the first edition = 초판
+  예문1: This is the first edition of the book. / 이것은 그 책의 초판이다.
+  예문2: The new edition has more pictures. / 새 판에는 그림이 더 많다.
+  유의어(오답 제외): version
+[institute|n|organization] hash=1d61ecdd801dc20e
+  뜻: 연구소; 기관
+  설명: 연구나 교육을 하는 기관이에요.
+  연어: a research institute = 연구소
+  예문1: She works at a science institute. / 그녀는 과학 연구소에서 일한다.
+  예문2: The institute offers language courses for adults. / 그 기관은 성인을 위한 어학 강좌를 제공한다.
+[option|n|choice] hash=799a027baa803aa3
+  뜻: 선택; 선택권
+  설명: 고를 수 있는 것 가운데 하나예요.
+  연어: have no option = 선택의 여지가 없다
+  예문1: There are three options on the menu for lunch. / 점심 메뉴에는 세 가지 선택지가 있다.
+  예문2: We had no option but to wait. / 우리는 기다리는 수밖에 없었다.
+  유의어(오답 제외): choice

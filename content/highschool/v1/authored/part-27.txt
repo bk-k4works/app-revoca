@@ -1,5 +1,5 @@
 # 수능 심화 141–200위. 표제어 목록만 참고하여 독자 작성.
-glowing|adj|shining|빛나는; 극찬하는|은은하게 빛나거나 칭찬이 대단한 것이에요.|glowing reviews|극찬|We saw glowing lights in the distance.|우리는 멀리서 빛나는 불빛을 보았다.|The movie received glowing reviews.|그 영화는 극찬을 받았다.|bright
+glowing|adj|shining|빛나는; 극찬하는|은은하게 빛나거나 칭찬이 담긴 것이에요.|glowing reviews|극찬|We saw glowing lights in the distance.|우리는 멀리서 빛나는 불빛을 보았다.|The movie received glowing reviews from critics around the world.|그 영화는 전 세계 비평가들로부터 극찬을 받았다.|bright
 greedy|adj|selfish|욕심 많은; 탐욕스러운|필요 이상으로 더 갖고 싶어 하는 것이에요.|a greedy king|욕심 많은 왕|The greedy man wanted all the gold for himself.|그 욕심 많은 남자는 금을 모두 독차지하고 싶어 했다.|Do not be greedy; leave some cake for others.|욕심부리지 말고 다른 사람을 위해 케이크를 좀 남겨라.|selfish
 lifelong|adj|lasting-a-lifetime|평생의|일생 동안 이어지는 것이에요.|a lifelong friend|평생 친구|They became lifelong friends after high school.|그들은 고등학교 이후 평생 친구가 되었다.|Reading is a lifelong habit for her.|독서는 그녀의 평생 습관이다.
 noticeable|adj|obvious|눈에 띄는; 뚜렷한|쉽게 알아챌 수 있는 것이에요.|a noticeable change|눈에 띄는 변화|There was a noticeable improvement in his grades.|그의 성적이 눈에 띄게 향상되었다.|The scar on her hand is barely noticeable.|그녀 손의 흉터는 거의 눈에 띄지 않는다.|obvious
@@ -13,20 +13,20 @@ exceptionally|adv|unusually|유난히; 특별히|보통보다 훨씬 더를 뜻�
 groove|n|channel|홈; 리듬|좁고 길게 파인 자국이나 음악의 흥겨운 리듬이에요.|cut a groove|홈을 파다|The door slides along a groove in the floor.|그 문은 바닥의 홈을 따라 미끄러진다.|The band found its groove in the second song.|그 밴드는 두 번째 곡에서 리듬을 탔다.
 overweight|adj|too-heavy|과체중의; 중량 초과의|몸무게나 짐이 기준보다 무거운 것이에요.|overweight luggage|중량 초과 짐|The doctor said he was a little overweight.|의사는 그가 조금 과체중이라고 말했다.|My suitcase was overweight, so I paid extra.|여행 가방이 무게를 초과해서 추가 요금을 냈다.
 rust|n|corrosion|녹|쇠가 공기와 물에 닿아 생기는 붉은 것이에요.|covered in rust|녹이 슨|The old bike was covered in rust.|그 낡은 자전거는 녹으로 덮여 있었다.|Paint protects metal from rust.|페인트는 금속이 녹스는 것을 막아 준다.
-rust|v|corrode|녹슬다|쇠가 녹이 생길 때 써요.|rust quickly|빨리 녹슬다|Iron rusts when it gets wet.|철은 젖으면 녹슨다.|The gate had rusted after years in the rain.|그 문은 여러 해 비를 맞아 녹이 슬었다.
-whereby|adv|by-which|그것에 의하여|그 방법이나 제도로를 뜻하는 격식 있는 말이에요.|a system whereby|~하는 제도|They set up a system whereby students can borrow laptops.|그들은 학생들이 노트북을 빌릴 수 있는 제도를 만들었다.|It is a process whereby plants make food from sunlight.|이는 식물이 햇빛으로 양분을 만드는 과정이다.
+rust|v|corrode|녹슬다|쇠에 녹이 생길 때 써요.|rust quickly|빨리 녹슬다|Iron rusts when it gets wet.|철은 젖으면 녹슨다.|The gate had rusted after years in the rain.|그 문은 여러 해 비를 맞아 녹이 슬었다.
+whereby|adv|by-which|그 방법으로; 그에 따라|앞서 말한 방법이나 제도를 통해서라는 뜻이에요.|a system whereby|~하는 제도|They set up a system whereby students can borrow laptops.|그들은 학생들이 노트북을 빌릴 수 있는 제도를 만들었다.|It is a process whereby plants make food from sunlight.|이는 식물이 햇빛으로 양분을 만드는 과정이다.
 worthwhile|adj|valuable|할 가치가 있는|시간이나 노력을 들일 만한 것이에요.|a worthwhile experience|보람 있는 경험|Volunteering is a worthwhile experience.|자원봉사는 보람 있는 경험이다.|It is worthwhile to read the instructions first.|설명서를 먼저 읽어 볼 가치가 있다.|valuable
-notify|v|inform|(공식적으로) 통지하다; 알리다|공식적으로 소식을 전할 때 써요.|notify the police|경찰에 신고하다|Please notify us if you change your address.|주소가 바뀌면 우리에게 알려 달라.|The school notified parents about the closure.|학교는 학부모에게 휴교를 알렸다.|inform
+notify|v|inform|(공식적으로) 통지하다; 알리다|공식적으로 소식을 전할 때 써요.|notify the police|경찰에 알리다|Please notify us if you change your address.|주소가 바뀌면 우리에게 알려 달라.|The school notified parents about the closure.|학교는 학부모에게 휴교를 알렸다.|inform
 regain|v|recover|(잃은 것을) 다시 얻다; 되찾다|잃었던 것을 다시 얻을 때 써요.|regain consciousness|의식을 되찾다|He slowly regained his strength after the illness.|그는 병을 앓은 뒤 서서히 기운을 되찾았다.|The team regained the lead in the second half.|그 팀은 후반전에 다시 앞서 나갔다.|recover
 renew|v|extend|갱신하다; 새롭게 하다|기간을 늘리거나 다시 시작할 때 써요.|renew a passport|여권을 갱신하다|I need to renew my library card.|나는 도서관 카드를 갱신해야 한다.|The two countries agreed to renew their trade deal.|두 나라는 무역 협정을 갱신하기로 합의했다.|extend
 sorrow|n|sadness|비애; 슬픔|깊은 슬픔이에요.|deep sorrow|깊은 슬픔|She could not hide her sorrow at the funeral.|그녀는 장례식에서 슬픔을 감출 수 없었다.|The song is full of sorrow.|그 노래는 슬픔으로 가득하다.|sadness
 thrive|v|flourish|번성하다; 잘 자라다|건강하게 잘 자라거나 성공할 때 써요.|thrive in|~에서 잘 자라다|These plants thrive in warm weather.|이 식물들은 따뜻한 날씨에서 잘 자란다.|Small businesses are thriving in the town.|그 마을에서는 소상공인들이 번창하고 있다.|flourish
 bleed|v|lose-blood|피를 흘리다|상처에서 피가 날 때 써요.|bleed heavily|피를 많이 흘리다|My finger is bleeding from the paper cut.|종이에 베여 손가락에서 피가 난다.|He bled a lot after the accident.|그는 사고 후 피를 많이 흘렸다.
-disguise|v|hide-identity|변장하다; 위장하다|다른 사람처럼 보이게 꾸밀 때 써요.|be disguised as|~으로 변장하다|The thief disguised himself as a waiter.|도둑은 웨이터로 변장했다.|She tried to disguise her fear with a smile.|그녀는 미소로 두려움을 감추려 했다.
+disguise|v|hide-identity|변장하다; 위장하다|정체를 숨기거나 감정·사실이 드러나지 않게 할 때 써요.|be disguised as|~으로 변장하다|The thief disguised himself as a waiter.|도둑은 웨이터로 변장했다.|She tried to disguise her fear with a smile.|그녀는 미소로 두려움을 감추려 했다.
 disguise|n|costume|변장; 위장|다른 사람처럼 보이려고 꾸민 모습이에요.|in disguise|변장하여|The king traveled in disguise.|왕은 변장을 하고 여행했다.|Nobody recognized him in his disguise.|변장한 그를 아무도 알아보지 못했다.
 hallway|n|corridor|복도; 현관|방과 방을 잇는 통로예요.|a long hallway|긴 복도|Do not run in the hallway.|복도에서 뛰지 마라.|Leave your shoes in the hallway.|신발은 현관에 벗어 두어라.|corridor
 impulse|n|urge|(순간적) 충동|깊이 생각하지 않고 갑자기 하고 싶은 마음이에요.|on impulse|충동적으로|I bought the shoes on impulse.|나는 충동적으로 그 신발을 샀다.|He felt a sudden impulse to laugh.|그는 갑자기 웃고 싶은 충동을 느꼈다.|urge
-insecure|adj|unconfident|불안정한; 자신 없는|안전하지 않거나 스스로에 대해 자신이 없는 것이에요.|feel insecure|불안해하다|Many teenagers feel insecure about their looks.|많은 십 대가 외모에 자신이 없다.|The old bridge looks insecure.|그 낡은 다리는 불안해 보인다.
+insecure|adj|unconfident|불안정한; 자신 없는|안전하지 않거나 스스로에 대해 자신이 없는 것이에요.|feel insecure|불안해하다|Many teenagers feel insecure about their looks.|많은 십 대가 외모에 자신이 없다.|Many workers feel insecure about their jobs.|많은 노동자가 일자리에 대해 불안해한다.
 intentional|adj|deliberate|의도적인; 고의적인|일부러 한 것이에요.|an intentional mistake|고의적인 실수|The referee said the foul was intentional.|심판은 그 반칙이 고의였다고 말했다.|I am sorry; it was not intentional.|미안하다. 일부러 그런 것이 아니었다.|deliberate
 obstacle|n|barrier|장애물; 방해물|앞으로 나아가는 것을 막는 것이에요.|overcome obstacles|장애물을 극복하다|Fear is the biggest obstacle to success.|두려움은 성공의 가장 큰 장애물이다.|The runners jumped over the obstacles.|주자들은 장애물을 뛰어넘었다.|barrier
 plantation|n|large-farm|대농장|커피나 차 등을 대규모로 기르는 농장이에요.|a tea plantation|차 농장|We visited a coffee plantation in the mountains.|우리는 산속의 커피 농장을 방문했다.|Many workers were needed on the cotton plantations.|목화 농장에는 많은 일꾼이 필요했다.
@@ -37,11 +37,11 @@ backward|adv|toward-the-back|뒤로; 거꾸로|뒤쪽 방향이나 반대 순서
 backward|adj|underdeveloped|뒤떨어진; 낙후된|발전이 늦은 것이에요.|a backward region|낙후된 지역|The area was once poor and backward.|그 지역은 한때 가난하고 낙후되어 있었다.|It is a backward idea that girls cannot do science.|여자아이들은 과학을 못한다는 것은 시대에 뒤떨어진 생각이다.
 cosmetic|adj|surface|겉치레의; 미용의|겉모습만 바꾸는 것이나 외모와 관련된 것이에요.|cosmetic surgery|성형 수술|The changes to the plan were only cosmetic.|계획의 변경은 겉치레에 불과했다.|The shop sells cosmetic products.|그 가게는 화장품을 판다.
 digest|v|process-food|소화하다; 이해하다|음식을 소화하거나 정보를 받아들일 때 써요.|digest food|음식을 소화하다|Some people find milk hard to digest.|어떤 사람들은 우유를 소화하기 어려워한다.|It took me a while to digest the news.|그 소식을 받아들이는 데 시간이 좀 걸렸다.
-hopeless|adj|desperate|절망적인; 가망 없는|희망이 전혀 없는 것이에요.|a hopeless situation|절망적인 상황|The situation seemed hopeless.|상황이 절망적으로 보였다.|I am hopeless at drawing.|나는 그림 그리기에 완전히 소질이 없다.
+hopeless|adj|desperate|절망적인; ~에 전혀 소질이 없는|희망이 없거나 어떤 일을 아주 못하는 상태예요.|a hopeless situation|절망적인 상황|The situation seemed hopeless after the rescue team lost contact.|구조대와 연락이 끊긴 뒤 상황은 절망적으로 보였다.|I am hopeless at drawing, so I joined an art class.|나는 그림에 전혀 소질이 없어서 미술 수업을 들었다.
 limitation|n|restriction|한계점; 제약|더 할 수 없는 정도나 제약이에요.|know your limitations|자신의 한계를 알다|Everyone has their own limitations.|누구나 자기만의 한계가 있다.|There are limitations on how much you can carry on the plane.|비행기에 가지고 탈 수 있는 양에는 제한이 있다.|limit
 litter|n|trash|(길에 버린) 쓰레기|길에 함부로 버려진 쓰레기예요.|pick up litter|쓰레기를 줍다|Volunteers picked up litter on the beach.|자원봉사자들이 해변의 쓰레기를 주웠다.|There is a fine for dropping litter.|쓰레기를 버리면 벌금이 있다.|rubbish
 litter|v|drop-trash|어지르다; 쓰레기를 버리다|아무 데나 쓰레기를 버리거나 흩뜨릴 때 써요.|do not litter|쓰레기를 버리지 마시오|Please do not litter in the park.|공원에 쓰레기를 버리지 마라.|Toys littered the floor of the room.|장난감들이 방바닥에 어질러져 있었다.
-milestone|n|important-event|이정표; 중요한 단계|발전 과정에서 중요한 순간이에요.|reach a milestone|중요한 단계에 이르다|Graduating from high school is a big milestone.|고등학교 졸업은 중요한 이정표이다.|The company reached the milestone of one million users.|그 회사는 사용자 백만 명이라는 중요한 고지에 도달했다.
+milestone|n|important-event|이정표; 중요한 단계|발전 과정에서 중요한 순간이에요.|reach a milestone|중요한 단계에 이르다|Graduating from high school is a big milestone.|고등학교 졸업은 중요한 이정표이다.|The company reached the milestone of one million users.|그 회사는 사용자 수 100만 명이라는 이정표를 세웠다.
 pedestrian|n|walker|보행자|길을 걸어가는 사람이에요.|a pedestrian crossing|횡단보도|Drivers must stop for pedestrians.|운전자는 보행자를 위해 멈춰야 한다.|This street is only for pedestrians.|이 거리는 보행자 전용이다.|walker
 respectable|adj|decent|존경할 만한; 꽤 괜찮은|사회적으로 인정받거나 수준이 괜찮은 것이에요.|a respectable job|버젓한 직업|He comes from a respectable family.|그는 훌륭한 집안 출신이다.|She got a respectable score on the test.|그녀는 시험에서 꽤 괜찮은 점수를 받았다.|decent
 volcanic|adj|of-volcanoes|화산의|화산과 관련된 것이에요.|volcanic activity|화산 활동|Jeju Island was formed by volcanic activity.|제주도는 화산 활동으로 만들어졌다.|The soil near the mountain is rich in volcanic ash.|그 산 근처의 흙에는 화산재가 풍부하다.
@@ -57,9 +57,9 @@ defect|n|fault|결함; 흠|제대로 되지 않은 부분이에요.|a birth defe
 durable|adj|long-lasting|내구성 있는; 오래가는|쉽게 닳거나 망가지지 않는 것이에요.|durable goods|내구재|These shoes are made of durable material.|이 신발은 튼튼한 소재로 만들어졌다.|We need a durable bag for the trip.|여행에는 튼튼한 가방이 필요하다.|lasting
 exclusion|n|leaving-out|제외; 배제|어떤 것을 빼거나 끼워 주지 않는 것이에요.|social exclusion|사회적 배제|Social exclusion can hurt young people.|사회적 배제는 젊은이들에게 상처를 줄 수 있다.|He focused on work to the exclusion of everything else.|그는 다른 모든 것을 제쳐 두고 일에만 집중했다.
 honeymoon|n|wedding-trip|신혼여행|결혼한 뒤 떠나는 여행이에요.|go on a honeymoon|신혼여행을 가다|They went to Jeju Island for their honeymoon.|그들은 제주도로 신혼여행을 갔다.|The couple is still on their honeymoon.|그 부부는 아직 신혼여행 중이다.
-navigate|v|find-the-way|길을 찾다; 항해하다|방향을 정해 나아갈 때 써요.|navigate the city|도시에서 길을 찾다|We used a map to navigate the old streets.|우리는 지도를 보고 오래된 거리에서 길을 찾았다.|Sailors once navigated by the stars.|옛날 선원들은 별을 보고 항해했다.
+navigate|v|find-the-way|길을 찾다; 항해하다; (어려움을) 헤쳐 나가다|방향을 정해 나아갈 때 써요.|navigate the city|도시에서 길을 찾다|We used a map to navigate the old streets.|우리는 지도를 보고 오래된 거리에서 길을 찾았다.|Sailors once navigated by the stars.|옛날 선원들은 별을 보고 항해했다.
 obese|adj|very-overweight|비만인|몸무게가 지나치게 많은 것이에요.|become obese|비만이 되다|Eating too much junk food can make you obese.|정크 푸드를 너무 많이 먹으면 비만이 될 수 있다.|The number of obese children is growing.|비만 아동의 수가 늘고 있다.
 intern|n|trainee|인턴; 수습생|일을 배우려고 잠시 일하는 사람이에요.|a summer intern|여름 인턴|She worked as an intern at a bank.|그녀는 은행에서 인턴으로 일했다.|The company hires five interns every summer.|그 회사는 매년 여름 인턴 다섯 명을 뽑는다.|trainee
 mist|n|fog|안개; 엷은 안개|공기 중의 작은 물방울이 뿌옇게 낀 것이에요.|morning mist|아침 안개|The mountains were covered in mist.|산이 안개에 덮여 있었다.|A light mist hung over the lake.|호수 위에 엷은 안개가 끼어 있었다.|fog
 ripe|adj|mature|익은; 무르익은|과일이 먹기 좋게 다 자랐거나 때가 된 것이에요.|ripe fruit|잘 익은 과일|These bananas are not ripe yet.|이 바나나는 아직 익지 않았다.|The time is ripe for change.|변화를 위한 때가 무르익었다.|mature
-casually|adv|informally|편하게; 무심코|격식 없이 또는 대수롭지 않게를 뜻해요.|dress casually|편하게 입다|You can dress casually for the party.|파티에는 편하게 입고 와도 된다.|He casually mentioned that he was moving abroad.|그는 해외로 이사한다고 무심하게 말했다.|informally
+casually|adv|informally|편하게; 무심코|격식 없이 또는 대수롭지 않게를 뜻해요.|dress casually|편하게 입다|You can dress casually for the party.|파티에는 편하게 입고 와도 된다.|He casually mentioned that he was moving abroad.|그는 해외로 이사한다는 말을 가볍게 꺼냈다.|informally

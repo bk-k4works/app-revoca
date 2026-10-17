@@ -1,0 +1,6 @@
+penalty|n|punishment	ko2	'a penalty'를 '페널티킥'으로 옮기면 원문보다 좁아져 '벌칙'을 유지했다.
+custom|n|border-control	sense	표제어 목록은 custom 하나라 '(customs) 세관'을 같은 표제어의 뜻으로 두고, 뜻풀이에 복수형임을 밝혔다.
+fantasy|n|imagination	synonyms	imagination과 뜻이 겹쳐 객관식에서 헷갈릴 수 있어 연결을 유지했다.
+nearby	missing_sense	부사 '근처에'는 형용사 카드로 충분해 넣지 않았다.
+outstanding	missing_sense	'미지급된; 미해결된'은 고등 지문 빈도가 낮아 제외했다.
+bound	missing_sense	'(규칙에) 구속된'은 이번 범위에서 제외했다.

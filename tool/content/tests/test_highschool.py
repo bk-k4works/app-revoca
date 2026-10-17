@@ -85,6 +85,36 @@ class HighSchoolTest(unittest.TestCase):
         self.assertEqual(repeated(lambda r: r[5].lower()), {})
         self.assertEqual([r[0] for r in rows if r[1] != 'phrase' and r[5].lower() in phrases], [])
 
+    def test_human_decisions_need_real_reviewer_and_current_text(self):
+        from tool.content import hs_review
+        from tool.content.review_io import write_csv
+        row = hs_review.senses()[0]
+        base = {f: '' for f in hs_review.CSV_FIELDS}
+        with tempfile.TemporaryDirectory() as temporary:
+            sheet, ledger = Path(temporary) / 'review.csv', Path(temporary) / 'decisions.jsonl'
+
+            def attempt(**values):
+                write_csv(sheet, [{**base, 'senseKey': row['key'], 'inputHash': row['inputHash'], **values}],
+                          hs_review.CSV_FIELDS)
+                return hs_review.import_human(sheet, ledger)
+
+            with self.assertRaises(ValueError):
+                attempt(decision='human_approved', reviewer='codex')
+            with self.assertRaises(ValueError):
+                attempt(decision='rejected', reviewer='편집자A')
+            with self.assertRaises(ValueError):
+                attempt(decision='human_approved', reviewer='편집자A', inputHash='stale')
+            attempt(decision='human_approved', reviewer='편집자A')
+            self.assertEqual(hs_review.ledger(ledger)[row['key']]['decision'], 'human_approved')
+
+    def test_release_refuses_unreviewed_or_unapproved_senses(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            drafts = Path(temporary) / 'drafts.jsonl'
+            highschool.draft(AUTHORED, drafts)
+            with self.assertRaises(ValueError):
+                highschool.build_preview(drafts, Path(temporary) / 'release', release_version='high-1.0.0')
+            self.assertFalse((Path(temporary) / 'release').exists())
+
     def test_authored_rows_pass_and_build_tier_decks(self):
         with tempfile.TemporaryDirectory() as temporary:
             drafts = Path(temporary) / 'drafts.jsonl'

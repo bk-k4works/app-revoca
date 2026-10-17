@@ -1,0 +1,20 @@
+EDIT	once	as-soon-as	expl	어떤 일이 이루어지면 그다음 일이 이어질 때 써요.	Codex fix 수용	설명 '일어나자마자'가 once의 뜻보다 좁음
+EDIT	whole	entirety	col	the whole of	Codex fix 수용	'on the whole'은 명사 '전체'가 아니라 부사구 '대체로'
+EDIT	whole	entirety	colko	~의 전체	Codex fix 수용	연어 교체에 맞춘 번역
+EDIT	whole	entirety	en2	The whole of the book is divided into three parts.	Codex fix 수용	'On the whole' 예문은 명사 뜻과 맞지 않음
+EDIT	whole	entirety	ko2	그 책 전체는 세 부분으로 나뉜다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	court	law-court	colko	법정에 가다	Codex fix 수용	'go to court'가 늘 '소송을 제기하다'는 아님
+EDIT	court	law-court	ko1	그 사건은 다음 달 재판에 회부될 것이다.	Codex fix 수용	'법정으로 간다'는 직역이 부자연스러움
+EDIT	mind	thoughts	en2	A healthy mind can help students cope with stress.	Codex fix 수용	'make up my mind'는 관용구라 '마음; 정신' 뜻을 보여 주지 못함
+EDIT	mind	thoughts	ko2	건강한 정신은 학생들이 스트레스에 대처하는 데 도움이 될 수 있다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	process	handle	en2	Food companies process tomatoes into sauce.	Codex fix 수용	'Processed food'는 형용사적 분사라 동사 용법 예문이 아님
+EDIT	process	handle	ko2	식품 회사들은 토마토를 가공해 소스를 만든다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	cost	require-payment	meaning	(비용이) 들다; (대가로) 잃게 하다	Codex fix 수용	예문 2 'cost you the game'의 '잃게 하다' 용법이 뜻에 없었음
+EDIT	cost	require-payment	expl	돈이 들거나 실수 등으로 무언가를 잃게 될 때 써요.	Codex fix 수용	뜻 확장에 맞춘 설명
+EDIT	view	regard	en2	Many people view exercise as an important part of a healthy life.	Codex fix 수용	'viewed by millions'는 '여기다'가 아니라 '보다'
+EDIT	view	regard	ko2	많은 사람은 운동을 건강한 삶의 중요한 부분으로 여긴다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	amount	total	meaning	(합계가) ~에 달하다; 결국 ~이 되다	Codex fix 수용	'amount to nothing'의 '결국 ~이 되다' 용법이 뜻에 없었음
+EDIT	amount	total	expl	합계가 얼마인지나 결국 어떤 결과가 되는지 나타내요.	Codex fix 수용	뜻 확장에 맞춘 설명
+EDIT	chief	main	meaning	가장 중요한; 주된	Codex fix 일부 수용	'최고의'는 부정확. 제안 '주된; 주요한'은 primary와 대표 뜻이 같아져 '가장 중요한'을 대표 뜻으로 함
+ADD	stand|v|represent|(약자·기호가) 나타내다; 의미하다|stand for로 약자나 기호가 무엇을 뜻하는지 말할 때 써요.|stand for|~을 나타내다|What does the letter "B" stand for?|글자 'B'는 무엇을 나타내니?|In the story, the old tree stands for hope.|그 이야기에서 오래된 나무는 희망을 상징한다.	Codex 빠진 뜻 수용	지문에 자주 나오는 'stand for(나타내다)' 뜻 추가
+EDIT	round	stage	ko2	다음 회차 회담은 내일 시작된다.	Codex minor 일부 수용	번역투 지적은 맞지만 제안(다음 회담)은 round 뜻이 사라져 '회차'를 살림

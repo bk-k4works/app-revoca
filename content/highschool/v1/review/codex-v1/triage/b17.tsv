@@ -1,0 +1,22 @@
+EDIT	synthetic	artificial	expl	자연에서 얻지 않고 인공적으로 만든 것이에요.	Codex fix 수용	‘화학적으로 만든’으로만 한정해 합성의 일반적인 의미를 좁혀 설명해요.
+EDIT	enrollment	registration	col	school enrollment	Codex minor 수용	‘취학’은 학교 교육을 받기 시작한다는 뜻에 가까워 ‘school enrollment’의 등록이나 재학생 수 의미를 충분히 담지 못할 수 있어요.
+EDIT	enrollment	registration	colko	학교 등록; 재학생 수	Codex minor 수용	연어 교체에 맞춘 번역
+EDIT	necessity	need	expl	필요한 상태나 꼭 필요한 물건을 말해요.	Codex fix 수용	‘살아가는 데 꼭 필요한 것’만 설명해 ‘필요성’이라는 뜻을 충분히 풀이하지 못해요.
+EDIT	renewable	sustainable	expl	자연에서 계속 보충되어 다시 쓸 수 있는 것이에요.	Codex fix 수용	‘다 써도 다시 생기는’은 자원이 소모된 뒤 다시 생긴다는 뜻으로 오해될 수 있어요.
+EDIT	sharply	suddenly	expl	급격한 변화나 날카로운 말투를 나타내요.	Codex fix 수용	‘따끔하게’는 이 부사의 주요 쓰임을 정확히 풀이하지 못해요.
+EDIT	surf	ride-waves	col	surf the internet	Codex minor 수용	‘인터넷을 검색하다’는 검색어를 입력해 찾는다는 뜻으로 읽힐 수 있어 ‘surf the internet’의 웹 탐색 의미와 조금 달라요.
+EDIT	surf	ride-waves	colko	인터넷을 둘러보다	Codex minor 수용	연어 교체에 맞춘 번역
+EDIT	grill	cook	en1	We grilled fish at the beach.	Codex minor 수용	‘on the beach’도 가능하지만, 해변에서 요리했다는 뜻에는 ‘at the beach’가 더 자연스러워요.
+EDIT	applause	clapping	col	loud applause	Codex minor 수용	‘loud applause’를 ‘우레 같은 박수’로 옮기면 원문보다 박수의 크기를 과장할 수 있어요.
+EDIT	applause	clapping	colko	큰 박수	Codex minor 수용	연어 교체에 맞춘 번역
+EDIT	assurance	promise	en2	She gave us her assurance that she would return.	Codex fix 수용	‘spoke with great assurance’는 ‘확신을 가지고’라는 뜻으로, 카드에 제시된 ‘보장; 확언’과 달라요.
+EDIT	assurance	promise	ko2	그녀는 돌아오겠다고 우리에게 확언했다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	glimpse	quick-look	meaning	힐끗 봄; 잠깐 엿봄	Codex fix 수용	뜻이 ‘힐끗 봄’에만 한정돼, 예문2의 ‘잠깐 엿봄; 얼핏 알게 됨’ 의미를 담지 못해요.
+EDIT	sympathetic	compassionate	ko1	내가 아팠을 때 선생님은 내 처지를 이해하고 배려해 주셨다.	Codex minor 수용	‘걱정해 주셨다’는 선생님이 걱정했다는 뜻에 가까워, 아픈 사람을 이해하고 배려했다는 의미가 약해요.
+EDIT	temper	mood	expl	사람의 성격이나 화가 난 감정 상태를 말해요.	Codex fix 수용	‘쉽게 화내는 성격’이라고 정의하면 ‘calm temper’ 예문과 맞지 않아요.
+EDIT	harmless	safe	en2	The harmless insect crawled across the page.	Codex fix 수용	‘그 약은 아이들에게 해롭지 않다’고 일반화하면 의약품의 안전성을 근거 없이 단정하게 돼요.
+EDIT	harmless	safe	ko2	그 무해한 곤충이 종이 위를 기어갔다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	dinosaur	ancient-reptile	expl	아주 오래전에 살았던 파충류의 한 무리예요.	Codex fix 수용	모든 공룡이 컸던 것은 아니므로 ‘큰 파충류’라는 설명은 부정확해요.
+EDIT	embarrassment	shame	ko1	그녀는 창피해서 얼굴이 빨개졌다.	Codex fix 수용	‘그녀의 얼굴이 창피해서’는 얼굴이 창피함을 느끼는 것처럼 읽혀요.
+EDIT	immortal	eternal	ko2	그의 음악은 그를 영원히 기억되는 존재로 만들었다.	Codex minor 수용	‘불멸의 존재로 만들었다’는 직역처럼 들려, 음악으로 영원히 기억되게 했다는 비유가 덜 자연스러워요.
+EDIT	grill	cook	ko1	우리는 해변에서 생선을 구웠다.	Codex fix 수용	예문 교체에 맞춘 번역

@@ -1,0 +1,3 @@
+{"kind": "edit", "word": "keenly", "slug": "intensely", "field": "expl", "old": "아주 깊고 강하게를 뜻해요.", "new": "감정이나 인식이 매우 강하거나 예민함을 나타내요.", "category": "Codex fix 수용", "reason": "'아주 깊고 강하게'는 어색하고 인식이 예리하다는 뜻을 설명하지 못함", "file": "part-30.txt"}
+{"kind": "edit", "word": "nonprofitable", "slug": "unprofitable", "field": "col", "old": "an unprofitable business", "new": "a nonprofitable business", "category": "Codex fix 수용", "reason": "연어에 표제어 대신 동의어 unprofitable이 쓰임", "file": "part-30.txt"}
+{"kind": "edit", "word": "nonprofitable", "slug": "unprofitable", "field": "colko", "old": "수익이 나지 않는 사업", "new": "이익이 나지 않는 사업", "category": "Codex fix 수용", "reason": "연어 교체에 맞춘 번역", "file": "part-30.txt"}

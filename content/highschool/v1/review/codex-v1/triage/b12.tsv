@@ -1,0 +1,83 @@
+EDIT	identical	same	en1	The two pictures look almost exactly identical.	Codex fix 수용	예문이 5단어로 최소 6단어 규칙에 미달해요.
+EDIT	identical	same	en2	They are identical twins who look remarkably alike.	Codex fix 수용	예문이 4단어로 최소 6단어 규칙에 미달해요.
+EDIT	skip	miss	en1	You should not skip breakfast before a long school day.	Codex fix 수용	예문이 5단어로 최소 6단어 규칙에 미달해요.
+EDIT	skip	jump	en2	Skipping rope every morning is good exercise.	Codex fix 수용	예문이 5단어로 최소 6단어 규칙에 미달해요.
+EDIT	patience	tolerance	expl	어려움이나 불편을 참고 견디는 능력이에요.	Codex minor 수용	인내심을 기다리는 일과 화를 참는 일로만 좁혀 설명해요.
+EDIT	preserve	protect	ko2	소금은 생선을 보존하는 데 쓰인다.	Codex fix 수용	생선을 상하지 않게 하는 뜻인데 ‘저장’은 의미가 충분히 정확하지 않아요.
+EDIT	uncomfortable	uneasy	en1	These shoes are uncomfortable after a long walk.	Codex fix 수용	예문이 4단어로 최소 6단어 규칙에 미달해요.
+EDIT	weakness	weak-point	en1	Everyone has strengths and weaknesses in different areas.	Codex fix 수용	예문이 5단어로 최소 6단어 규칙에 미달해요.
+EDIT	weakness	weak-point	en2	Chocolate is my weakness when I feel stressed.	Codex fix 수용	예문이 4단어로 최소 6단어 규칙에 미달해요.
+EDIT	accessible	reachable	meaning	접근·이용하기 쉬운; 이해하기 쉬운	Codex fix 수용	두 번째 예문은 accessible이 ‘이해하기 쉬운’ 뜻으로 쓰였는데 뜻에 빠져 있어요.
+EDIT	accessible	reachable	expl	쉽게 접근하거나 이용할 수 있고 이해하기 쉬운 것이에요.	Codex fix 수용	설명이 접근과 이용만 다뤄 예문의 ‘이해하기 쉬운’ 뜻을 설명하지 못해요.
+EDIT	acknowledge	admit	ko2	저자는 자신을 도와준 모든 사람의 공을 인정했다.	Codex minor 수용	도움을 준 사람을 acknowledge했다는 말은 공을 인정하거나 언급했다는 뜻에 가까워요.
+EDIT	collapse	breakdown	en2	The country faced economic collapse after years of conflict.	Codex fix 수용	예문이 5단어로 최소 6단어 규칙에 미달해요.
+EDIT	endless	infinite	en1	The desert seemed endless under the hot afternoon sun.	Codex fix 수용	예문이 4단어로 최소 6단어 규칙에 미달해요.
+EDIT	grain	cereal	en2	A grain of rice was stuck to the bottom of the bowl.	Codex fix 수용	grain이 ‘진실이 조금도 없다’라는 관용적 소량 의미로 쓰여 카드의 ‘곡물; 낟알’ 뜻과 맞지 않아요.
+EDIT	grain	cereal	ko2	밥그릇 바닥에 쌀알 하나가 붙어 있었다.	Codex fix 수용	영어 예문이 카드의 ‘곡물; 낟알’ 뜻을 사용하지 않아 번역도 해당 뜻을 보여 주지 않아요.
+EDIT	patent	invention-right	expl	발명을 일정 기간 독점적으로 이용할 수 있게 하는 권리예요.	Codex fix 수용	특허가 발명한 사람만 쓸 수 있게 하는 권리라고 설명해 특허권의 내용을 부정확하게 좁혀요.
+EDIT	patent	invention-right	en2	The company holds many patents for its new technology.	Codex fix 수용	예문이 5단어로 최소 6단어 규칙에 미달해요.
+EDIT	restore	bring-back	en2	They restored the old palace after years of careful work.	Codex fix 수용	예문이 5단어로 최소 6단어 규칙에 미달해요.
+EDIT	tropical	hot-region	en1	Bananas grow well in many tropical countries.	Codex fix 수용	예문이 5단어로 최소 6단어 규칙에 미달해요.
+EDIT	crush	squeeze	en2	The army crushed the rebellion after several weeks of fighting.	Codex fix 수용	예문이 5단어로 최소 6단어 규칙에 미달해요.
+EDIT	crush	infatuation	expl	누군가에게 강하게 끌리거나 좋아하는 마음이에요.	Codex fix 수용	‘짝사랑’은 상대가 마음을 돌려주지 않는 경우로 뜻을 제한해요. crush는 그런 조건이 없어요.
+EDIT	resolve	solve	en2	The problem was quickly resolved by the school staff.	Codex fix 수용	예문이 5단어로 최소 6단어 규칙에 미달해요.
+EDIT	apologize	say-sorry	en1	He apologized for being late to the meeting.	Codex fix 수용	예문이 5단어로 최소 6단어 규칙에 미달해요.
+EDIT	realistic	practical	en1	Set realistic goals for yourself before the semester begins.	Codex fix 수용	예문이 5단어로 최소 6단어 규칙에 미달해요.
+EDIT	realistic	practical	en2	The painting looks very realistic from a short distance.	Codex fix 수용	예문이 5단어로 최소 6단어 규칙에 미달해요.
+EDIT	satisfaction	contentment	en2	Customer satisfaction is our top priority this year.	Codex fix 수용	예문이 5단어로 최소 6단어 규칙에 미달해요.
+EDIT	accomplished	skilled	en1	She is an accomplished violinist with many awards.	Codex fix 수용	예문이 5단어로 최소 6단어 규칙에 미달해요.
+EDIT	admission	entry	meaning	입장 허가; 입학; 입장료	Codex fix 수용	‘Admission is free’ 예문은 입장 허가보다 입장료를 뜻하므로 해당 뜻이 빠져 있어요.
+EDIT	admission	entry	ko1	일요일에는 박물관 입장료가 무료다.	Codex fix 수용	여기서 admission은 입장료가 무료라는 뜻이에요.
+EDIT	compromise	give-and-take	en2	Both countries refused to compromise during the long negotiations.	Codex fix 수용	예문이 5단어로 최소 6단어 규칙에 미달해요.
+EDIT	strain	stress	col	under strain	Codex minor 수용	‘부담을 받는’은 under strain의 자연스러운 번역이 아니에요.
+EDIT	strain	stress	colko	압박을 받는	Codex minor 수용	연어 교체에 맞춘 번역
+EDIT	strain	overwork	ko2	그는 상자를 들다가 근육을 다쳤다.	Codex fix 수용	근육을 무리했다는 표현은 자연스럽지 않고, strained a muscle은 근육을 다치거나 삔다는 뜻이에요.
+EDIT	vertical	upright	en2	The cliff is almost vertical on this side.	Codex fix 수용	예문이 5단어로 최소 6단어 규칙에 미달해요.
+EDIT	addiction	dependence	ko2	그는 중독 문제로 도움을 받았다.	Codex minor 수용	‘got help’가 반드시 중독 치료를 받았다는 뜻은 아니에요.
+EDIT	beam	ray	expl	건물을 받치는 긴 구조물이나 한 방향으로 나아가는 빛줄기예요.	Codex fix 수용	들보를 나무로 한정해 설명하지만 금속 등 다른 재료의 들보도 있어요.
+EDIT	instruction	direction	en2	The teacher gave clear instructions before the activity began.	Codex fix 수용	예문이 5단어로 최소 6단어 규칙에 미달해요.
+EDIT	justify	defend	en2	Nothing can justify violence against innocent people.	Codex fix 수용	예문이 4단어로 최소 6단어 규칙에 미달해요.
+EDIT	patrol	guard	en2	Guards patrolled the border throughout the night.	Codex fix 수용	예문이 4단어로 최소 6단어 규칙에 미달해요.
+EDIT	acquire	obtain	expl	지식이나 기술을 배우거나 물건을 얻을 때 써요.	Codex fix 수용	‘노력해서’라고 한정하지만 예문처럼 자연스럽게 습득하거나 노력 없이 얻는 경우도 있어요.
+EDIT	acquire	obtain	en1	Children acquire language naturally through daily interaction.	Codex fix 수용	예문이 4단어로 최소 6단어 규칙에 미달해요.
+EDIT	alike	similar	en2	No two snowflakes are exactly alike in shape.	Codex fix 수용	예문이 5단어로 최소 6단어 규칙에 미달해요.
+EDIT	boundary	border	meaning	경계(선); 한계	Codex fix 수용	지식의 경계처럼 추상적인 한계 뜻이 예문에 있지만 뜻과 설명은 지역 경계만 다뤄요.
+EDIT	boundary	border	expl	지역을 나누는 선이나 범위의 한계예요.	Codex fix 수용	설명이 두 지역을 나누는 선으로만 한정되어 추상적 한계를 설명하지 못해요.
+EDIT	courtesy	politeness	expl	공손한 태도나 남을 위해 베푸는 호의예요.	Codex fix 수용	설명은 공손한 태도만 다뤄 호텔이 커피를 호의로 제공하는 용법을 설명하지 못해요.
+EDIT	flexible	adaptable	en1	Rubber is a flexible material used in many products.	Codex fix 수용	예문이 5단어로 최소 6단어 규칙에 미달해요.
+EDIT	flexible	adaptable	en2	My work schedule is flexible during the summer months.	Codex fix 수용	예문이 5단어로 최소 6단어 규칙에 미달해요.
+EDIT	observation	watching	ko2	그녀는 그 이야기에 대해 흥미로운 점을 지적했다.	Codex fix 수용	여기서 observation은 관찰을 바탕으로 한 지적이나 언급이지 단순한 의견과는 달라요.
+EDIT	excessive	too-much	en2	The price seemed excessive for such a small meal.	Codex fix 수용	예문이 4단어로 최소 6단어 규칙에 미달해요.
+EDIT	tribe	group	expl	공통된 문화나 지도 체계로 결속된 사회 집단이에요.	Codex fix 수용	부족 구성원이 모두 같은 조상과 문화를 가진다고 단정해 설명이 지나치게 일반화되어 있어요.
+EDIT	tribe	group	en2	Several tribes live in the region.	Codex fix 수용	모든 부족이 각자 고유한 언어를 가진다고 단정하는 예문은 부정확해요.
+EDIT	lasting	long-term	ko2	그들은 오래 지속되는 평화를 바란다.	Codex fix 수용	lasting은 오래 지속되는 뜻이지 영원한 뜻은 아니에요.
+EDIT	identical	same	ko1	두 그림은 거의 똑같아 보인다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	identical	same	ko2	그들은 놀라울 만큼 닮은 일란성 쌍둥이다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	skip	miss	ko1	긴 학교 일과 전에는 아침을 거르면 안 된다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	skip	jump	ko2	매일 아침 줄넘기를 하는 것은 좋은 운동이다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	uncomfortable	uneasy	ko1	이 신발은 오래 걸으면 불편하다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	weakness	weak-point	ko1	누구에게나 분야마다 강점과 약점이 있다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	weakness	weak-point	ko2	스트레스를 받을 때 나는 초콜릿에 약하다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	collapse	breakdown	ko2	그 나라는 수년간의 분쟁 끝에 경제 붕괴에 직면했다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	endless	infinite	ko1	뜨거운 오후 햇볕 아래 사막은 끝이 없어 보였다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	patent	invention-right	ko2	그 회사는 새 기술에 관한 특허를 많이 보유하고 있다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	restore	bring-back	ko2	그들은 수년간의 세심한 작업 끝에 옛 궁전을 복원했다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	tropical	hot-region	ko1	바나나는 많은 열대 국가에서 잘 자란다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	crush	squeeze	ko2	군대는 몇 주간의 전투 끝에 반란을 진압했다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	resolve	solve	ko2	그 문제는 학교 직원들이 빠르게 해결했다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	apologize	say-sorry	ko1	그는 회의에 늦은 것에 대해 사과했다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	realistic	practical	ko1	학기가 시작되기 전에 스스로 현실적인 목표를 세워라.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	realistic	practical	ko2	그 그림은 가까이서 보면 매우 사실적이다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	satisfaction	contentment	ko2	올해 고객 만족이 우리의 최우선 과제이다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	accomplished	skilled	ko1	그녀는 상을 많이 받은 뛰어난 바이올리니스트이다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	compromise	give-and-take	ko2	두 나라 모두 긴 협상 동안 타협을 거부했다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	vertical	upright	ko2	그 절벽은 이쪽이 거의 수직이다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	instruction	direction	ko2	선생님은 활동이 시작되기 전에 분명하게 지시하셨다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	justify	defend	ko2	어떤 것도 죄 없는 사람들에 대한 폭력을 정당화할 수 없다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	patrol	guard	ko2	경비병들은 밤새 국경을 순찰했다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	acquire	obtain	ko1	아이들은 일상의 상호 작용을 통해 자연스럽게 언어를 습득한다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	alike	similar	ko2	모양이 완전히 똑같은 눈송이는 하나도 없다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	flexible	adaptable	ko1	고무는 여러 제품에 쓰이는 유연한 소재이다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	flexible	adaptable	ko2	내 근무 일정은 여름 몇 달 동안 융통성이 있다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	excessive	too-much	ko2	그렇게 적은 식사치고는 가격이 지나쳐 보였다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	tribe	group	ko2	그 지역에는 여러 부족이 산다.	Codex fix 수용	예문 교체에 맞춘 번역

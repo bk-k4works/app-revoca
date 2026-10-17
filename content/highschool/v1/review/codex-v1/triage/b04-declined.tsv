@@ -1,0 +1,4 @@
+register|v|sign-up	fix	'신고하다'는 출생·차량 등록처럼 쓰이는 뜻이고, 제안한 '(불만을) 제기하다'는 예문이 없어 받지 않았다.
+immediate|adj|nearest	fix	'immediate family'는 국어 사전에서도 '직계 가족'으로 옮기는 표준 번역이라 유지했다.
+switch	missing_sense	명사 '전환' 뜻은 동사 '전환하다' 카드와 shift(전환; 변화)로 다뤄 추가하지 않았다.
+bond	missing_sense	'화학 결합'은 고등 영어 지문 빈도가 낮아 제외했다.
