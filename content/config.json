@@ -1,0 +1,28 @@
+{
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "max_tokens": 8192,
+  "generatePrompt": "generate_v2",
+  "reviewPrompt": "review_v1",
+  "releaseSize": 300,
+  "deckSize": 20,
+  "reviewSampleRate": 0.1,
+  "pilotUneditedApprovalTarget": 0.8,
+  "tts": {
+    "provider": "google",
+    "engine": "google-cloud-tts",
+    "voices": {
+      "en-US": "en-US-Neural2-F",
+      "ko-KR": "ko-KR-Neural2-A"
+    },
+    "includeKorean": false,
+    "speakingRate": 1.0,
+    "pitch": 0.0,
+    "bitrate": "40k",
+    "lufs": -16,
+    "asrModel": "small",
+    "listenSampleRate": 0.1,
+    "phonemes": {},
+    "distributionApproval": null
+  }
+}

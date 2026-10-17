@@ -1,0 +1,216 @@
+{
+  "ids": {
+    "achieve.v.goal": {
+      "headword": "achieve",
+      "pos": "v",
+      "issuedAt": "2026-10-16T00:00:00Z",
+      "origin": "MVP migration; semantic identity reserved, not human approved"
+    },
+    "practice.v.skill": {
+      "headword": "practice",
+      "pos": "v",
+      "issuedAt": "2026-10-16T00:00:00Z",
+      "origin": "MVP migration; semantic identity reserved, not human approved"
+    },
+    "prepare.v.ready": {
+      "headword": "prepare",
+      "pos": "v",
+      "issuedAt": "2026-10-16T00:00:00Z",
+      "origin": "MVP migration; semantic identity reserved, not human approved"
+    },
+    "improve.v.better": {
+      "headword": "improve",
+      "pos": "v",
+      "issuedAt": "2026-10-16T00:00:00Z",
+      "origin": "MVP migration; semantic identity reserved, not human approved"
+    },
+    "effort.n.attempt": {
+      "headword": "effort",
+      "pos": "n",
+      "issuedAt": "2026-10-16T00:00:00Z",
+      "origin": "MVP migration; semantic identity reserved, not human approved"
+    },
+    "focus.v.attention": {
+      "headword": "focus",
+      "pos": "v",
+      "issuedAt": "2026-10-16T00:00:00Z",
+      "origin": "MVP migration; semantic identity reserved, not human approved"
+    },
+    "habit.n.routine": {
+      "headword": "habit",
+      "pos": "n",
+      "issuedAt": "2026-10-16T00:00:00Z",
+      "origin": "MVP migration; semantic identity reserved, not human approved"
+    },
+    "schedule.n.timetable": {
+      "headword": "schedule",
+      "pos": "n",
+      "issuedAt": "2026-10-16T00:00:00Z",
+      "origin": "MVP migration; semantic identity reserved, not human approved"
+    },
+    "complete.v.finish": {
+      "headword": "complete",
+      "pos": "v",
+      "issuedAt": "2026-10-16T00:00:00Z",
+      "origin": "MVP migration; semantic identity reserved, not human approved"
+    },
+    "review.v.study": {
+      "headword": "review",
+      "pos": "v",
+      "issuedAt": "2026-10-16T00:00:00Z",
+      "origin": "MVP migration; semantic identity reserved, not human approved"
+    },
+    "consider.v.think": {
+      "headword": "consider",
+      "pos": "v",
+      "issuedAt": "2026-10-16T00:00:00Z",
+      "origin": "MVP migration; semantic identity reserved, not human approved"
+    },
+    "compare.v.difference": {
+      "headword": "compare",
+      "pos": "v",
+      "issuedAt": "2026-10-16T00:00:00Z",
+      "origin": "MVP migration; semantic identity reserved, not human approved"
+    },
+    "explain.v.clarify": {
+      "headword": "explain",
+      "pos": "v",
+      "issuedAt": "2026-10-16T00:00:00Z",
+      "origin": "MVP migration; semantic identity reserved, not human approved"
+    },
+    "describe.v.details": {
+      "headword": "describe",
+      "pos": "v",
+      "issuedAt": "2026-10-16T00:00:00Z",
+      "origin": "MVP migration; semantic identity reserved, not human approved"
+    },
+    "identify.v.recognize": {
+      "headword": "identify",
+      "pos": "v",
+      "issuedAt": "2026-10-16T00:00:00Z",
+      "origin": "MVP migration; semantic identity reserved, not human approved"
+    },
+    "evidence.n.proof": {
+      "headword": "evidence",
+      "pos": "n",
+      "issuedAt": "2026-10-16T00:00:00Z",
+      "origin": "MVP migration; semantic identity reserved, not human approved"
+    },
+    "reason.n.cause": {
+      "headword": "reason",
+      "pos": "n",
+      "issuedAt": "2026-10-16T00:00:00Z",
+      "origin": "MVP migration; semantic identity reserved, not human approved"
+    },
+    "result.n.outcome": {
+      "headword": "result",
+      "pos": "n",
+      "issuedAt": "2026-10-16T00:00:00Z",
+      "origin": "MVP migration; semantic identity reserved, not human approved"
+    },
+    "suggest.v.idea": {
+      "headword": "suggest",
+      "pos": "v",
+      "issuedAt": "2026-10-16T00:00:00Z",
+      "origin": "MVP migration; semantic identity reserved, not human approved"
+    },
+    "predict.v.forecast": {
+      "headword": "predict",
+      "pos": "v",
+      "issuedAt": "2026-10-16T00:00:00Z",
+      "origin": "MVP migration; semantic identity reserved, not human approved"
+    },
+    "benefit.n.advantage": {
+      "headword": "benefit",
+      "pos": "n",
+      "issuedAt": "2026-10-16T00:00:00Z",
+      "origin": "MVP migration; semantic identity reserved, not human approved"
+    },
+    "support.v.help": {
+      "headword": "support",
+      "pos": "v",
+      "issuedAt": "2026-10-16T00:00:00Z",
+      "origin": "MVP migration; semantic identity reserved, not human approved"
+    },
+    "respect.v.regard": {
+      "headword": "respect",
+      "pos": "v",
+      "issuedAt": "2026-10-16T00:00:00Z",
+      "origin": "MVP migration; semantic identity reserved, not human approved"
+    },
+    "protect.v.safe": {
+      "headword": "protect",
+      "pos": "v",
+      "issuedAt": "2026-10-16T00:00:00Z",
+      "origin": "MVP migration; semantic identity reserved, not human approved"
+    },
+    "reduce.v.less": {
+      "headword": "reduce",
+      "pos": "v",
+      "issuedAt": "2026-10-16T00:00:00Z",
+      "origin": "MVP migration; semantic identity reserved, not human approved"
+    },
+    "increase.v.more": {
+      "headword": "increase",
+      "pos": "v",
+      "issuedAt": "2026-10-16T00:00:00Z",
+      "origin": "MVP migration; semantic identity reserved, not human approved"
+    },
+    "environment.n.surroundings": {
+      "headword": "environment",
+      "pos": "n",
+      "issuedAt": "2026-10-16T00:00:00Z",
+      "origin": "MVP migration; semantic identity reserved, not human approved"
+    },
+    "opportunity.n.chance": {
+      "headword": "opportunity",
+      "pos": "n",
+      "issuedAt": "2026-10-16T00:00:00Z",
+      "origin": "MVP migration; semantic identity reserved, not human approved"
+    },
+    "participate.v.join": {
+      "headword": "participate",
+      "pos": "v",
+      "issuedAt": "2026-10-16T00:00:00Z",
+      "origin": "MVP migration; semantic identity reserved, not human approved"
+    },
+    "responsible.adj.duty": {
+      "headword": "responsible",
+      "pos": "adj",
+      "issuedAt": "2026-10-16T00:00:00Z",
+      "origin": "MVP migration; semantic identity reserved, not human approved"
+    }
+  },
+  "primary": {
+    "achieve": "achieve.v.goal",
+    "practice": "practice.v.skill",
+    "prepare": "prepare.v.ready",
+    "improve": "improve.v.better",
+    "effort": "effort.n.attempt",
+    "focus": "focus.v.attention",
+    "habit": "habit.n.routine",
+    "schedule": "schedule.n.timetable",
+    "complete": "complete.v.finish",
+    "review": "review.v.study",
+    "consider": "consider.v.think",
+    "compare": "compare.v.difference",
+    "explain": "explain.v.clarify",
+    "describe": "describe.v.details",
+    "identify": "identify.v.recognize",
+    "evidence": "evidence.n.proof",
+    "reason": "reason.n.cause",
+    "result": "result.n.outcome",
+    "suggest": "suggest.v.idea",
+    "predict": "predict.v.forecast",
+    "benefit": "benefit.n.advantage",
+    "support": "support.v.help",
+    "respect": "respect.v.regard",
+    "protect": "protect.v.safe",
+    "reduce": "reduce.v.less",
+    "increase": "increase.v.more",
+    "environment": "environment.n.surroundings",
+    "opportunity": "opportunity.n.chance",
+    "participate": "participate.v.join",
+    "responsible": "responsible.adj.duty"
+  }
+}

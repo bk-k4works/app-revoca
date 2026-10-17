@@ -1,0 +1,88 @@
+# 고교 기본 151–200. 표제어 목록만 참고하여 독자 작성.
+degree|n|unit-of-measure|(온도·각도의) 도|온도나 각도를 재는 단위예요.|thirty degrees|30도|Water boils at one hundred degrees Celsius.|물은 섭씨 100도에서 끓는다.|The temperature dropped to five degrees below zero.|기온이 영하 5도까지 떨어졌다.
+degree|n|level|정도|어떤 상태가 얼마나 심한지를 말해요.|to some degree|어느 정도|I agree with you to some degree.|나는 어느 정도 네 말에 동의한다.|The degree of damage was worse than expected.|피해 정도가 예상보다 심했다.|level
+degree|n|academic-title|학위|대학 과정을 마치고 받는 자격이에요.|a college degree|대학 학위|She has a degree in computer science.|그녀는 컴퓨터 과학 학위가 있다.|He went back to school to earn a degree.|그는 학위를 따려고 다시 학교에 다녔다.
+physical|adj|body|신체의; 육체의|몸과 관련된 것이에요.|physical exercise|신체 운동|Physical activity is important for teenagers.|신체 활동은 십 대에게 중요하다.|The job requires a lot of physical strength.|그 일은 많은 체력을 요구한다.
+physical|adj|material|물리적인; 물질의|눈으로 보고 만질 수 있는 세계와 관련된 것이에요.|the physical world|물질세계|Gravity is a physical force that pulls objects down.|중력은 물체를 아래로 끌어당기는 물리적인 힘이다.|Paper books are physical objects you can hold.|종이책은 손에 쥘 수 있는 물리적 물건이다.
+reach|v|arrive|도착하다; 이르다|어떤 장소나 수준에 다다를 때 써요.|reach a goal|목표에 이르다|We reached the top of the mountain at noon.|우리는 정오에 산 정상에 도착했다.|The number of visitors reached one million.|방문객 수가 백만 명에 이르렀다.|arrive
+reach|v|stretch|(손을) 뻗다|무언가를 잡으려고 팔을 뻗을 때 써요.|reach for|~을 향해 손을 뻗다|She reached for the book on the top shelf.|그녀는 맨 위 선반의 책을 향해 손을 뻗었다.|Keep medicine out of children's reach.|약은 아이들의 손이 닿지 않는 곳에 두어라.
+reach|v|contact|(연락이) 닿다; 연락하다|전화나 메시지로 누군가와 닿을 때 써요.|reach someone by phone|전화로 연락이 닿다|I tried to reach you all day yesterday.|나는 어제 하루 종일 너에게 연락하려고 했다.|You can reach the office by email.|이메일로 사무실에 연락할 수 있다.|contact
+rule|n|regulation|규칙; 원칙|지켜야 하는 행동의 기준이에요.|follow the rules|규칙을 따르다|Everyone must follow the safety rules in the lab.|모두가 실험실의 안전 규칙을 따라야 한다.|As a rule, I go to bed before eleven.|대체로 나는 열한 시 전에 잔다.
+rule|v|govern|통치하다; 지배하다|나라나 사람을 다스릴 때 써요.|rule a country|나라를 통치하다|The king ruled the country for forty years.|그 왕은 40년 동안 나라를 통치했다.|Do not let fear rule your life.|두려움이 네 삶을 지배하게 두지 마라.|govern
+approach|v|come-near|다가가다; 접근하다|거리나 시간이 가까워질 때 써요.|approach slowly|천천히 다가가다|A stranger approached us and asked for directions.|낯선 사람이 우리에게 다가와 길을 물었다.|Winter is approaching, so the days are getting shorter.|겨울이 다가오고 있어서 낮이 짧아지고 있다.
+approach|n|method|접근법; 방법|문제를 다루는 방식이에요.|a new approach|새로운 접근법|We need a different approach to this problem.|우리는 이 문제에 대해 다른 접근법이 필요하다.|Her approach to teaching is very creative.|그녀의 교수법은 매우 창의적이다.|method
+master|v|learn-fully|숙달하다; 익히다|기술이나 지식을 완전히 익힐 때 써요.|master a skill|기술을 익히다|It takes years to master a musical instrument.|악기를 숙달하는 데는 수년이 걸린다.|She mastered three languages before she was twenty.|그녀는 스무 살이 되기 전에 세 개의 언어를 익혔다.
+master|n|expert|대가; 주인|어떤 분야에 매우 뛰어난 사람이나 주인이에요.|a master of|~의 대가|He was a master of short stories.|그는 단편 소설의 대가였다.|The dog waited for its master at the door.|그 개는 문 앞에서 주인을 기다렸다.|expert
+wonder|v|ask-oneself|궁금해하다|어떤 것을 알고 싶어 할 때 써요.|wonder why|왜인지 궁금해하다|I wonder why the sky is blue.|나는 하늘이 왜 파란지 궁금하다.|She wondered what her friends were doing.|그녀는 친구들이 무엇을 하고 있는지 궁금했다.
+wonder|n|amazement|경이; 놀라움|매우 놀랍고 감탄스러운 것이나 그 감정이에요.|no wonder|~도 당연하다|The children looked at the stars in wonder.|아이들은 경이로운 눈빛으로 별을 바라보았다.|No wonder you are tired after such a long trip.|그렇게 긴 여행 후에 네가 피곤한 것도 당연하다.
+effort|n|attempt|노력; 수고|무엇을 이루려고 힘을 쓰는 것이에요.|make an effort|노력하다|He made an effort to arrive on time.|그는 제시간에 도착하려고 노력했다.|Learning a new skill takes time and effort.|새로운 기술을 배우는 데는 시간과 노력이 든다.|attempt
+lack|n|shortage|부족; 결핍|필요한 것이 없거나 모자란 상태예요.|lack of sleep|수면 부족|The plants died from lack of water.|식물들은 물 부족으로 죽었다.|His lack of experience made the job difficult.|그는 경험이 부족해서 그 일이 어려웠다.
+lack|v|be-without|~이 없다; 부족하다|필요한 것을 갖고 있지 않을 때 써요.|lack confidence|자신감이 없다|Many students lack the confidence to speak English.|많은 학생이 영어로 말할 자신감이 없다.|The room lacked enough light for reading.|그 방은 책을 읽기에 빛이 충분하지 않았다.
+analysis|n|examination|분석|자세히 나누어 살펴보는 일이에요.|data analysis|자료 분석|A careful analysis of the results is needed.|결과에 대한 신중한 분석이 필요하다.|The scientist sent the water sample for analysis.|그 과학자는 물 표본을 분석하려고 보냈다.
+rich|adj|plentiful|풍부한|'부유한' 외에 무언가가 풍부할 때 써요.|be rich in|~이 풍부하다|Oranges are rich in vitamins that keep us healthy.|오렌지에는 우리를 건강하게 해 주는 비타민이 풍부하다.|The country has a rich history and culture.|그 나라는 역사와 문화가 풍부하다.
+touch|v|move-emotion|(마음을) 움직이다; 감동시키다|'만지다' 외에 마음을 감동시킬 때 써요.|be touched by|~에 감동받다|I was touched by her kind letter.|나는 그녀의 친절한 편지에 감동받았다.|The movie touched the hearts of many viewers.|그 영화는 많은 관객의 마음을 움직였다.|move
+touch|n|contact|연락; 접촉|in touch처럼 서로 소식을 주고받는 상태예요.|keep in touch|연락하고 지내다|Let us keep in touch after the camp ends.|캠프가 끝난 뒤에도 연락하고 지내자.|I lost touch with my old classmates.|나는 옛 반 친구들과 연락이 끊겼다.|contact
+damage|n|harm|피해; 손상|부서지거나 나빠진 상태예요.|serious damage|심각한 피해|The flood caused great damage to the farms.|홍수는 농장에 큰 피해를 입혔다.|Too much sun can cause damage to your skin.|햇빛을 너무 많이 쬐면 피부가 손상될 수 있다.|harm
+damage|v|harm|손상시키다; 해치다|물건이나 몸을 상하게 할 때 써요.|damage your health|건강을 해치다|The storm damaged many houses in the village.|폭풍은 마을의 많은 집을 손상시켰다.|Loud music can damage your hearing.|큰 음악 소리는 청력을 손상시킬 수 있다.|harm
+notice|v|observe|알아차리다|보거나 듣고 무엇을 깨달을 때 써요.|notice a change|변화를 알아차리다|Did you notice that she cut her hair?|그녀가 머리를 자른 것을 알아챘니?|I noticed a strange smell in the kitchen.|나는 부엌에서 이상한 냄새를 알아차렸다.
+notice|n|announcement|공지; 통지|사람들에게 알리려고 써 붙인 글이에요.|give notice|미리 알리다|A notice on the door said the shop was closed.|문에 붙은 공지에는 가게가 문을 닫았다고 쓰여 있었다.|You must give a month's notice before leaving the job.|일을 그만두기 한 달 전에 통지해야 한다.
+overall|adj|total|전반적인; 전체의|모든 것을 합쳐서 본 것이에요.|the overall cost|총비용|The overall cost of the project was very high.|그 프로젝트의 총비용은 매우 높았다.|Her overall health has improved.|그녀의 전반적인 건강이 좋아졌다.
+overall|adv|generally|전반적으로|전체적으로 볼 때를 나타내요.|overall, it was good|전반적으로 좋았다|Overall, the festival was a big success.|전반적으로 그 축제는 큰 성공이었다.|The team played well overall.|그 팀은 전반적으로 경기를 잘했다.
+crime|n|illegal-act|범죄|법을 어기는 나쁜 행동이에요.|a serious crime|심각한 범죄|Crime has decreased in this area.|이 지역에서 범죄가 줄었다.|Stealing is a serious crime.|도둑질은 심각한 범죄이다.
+explain|v|clarify|설명하다|이해하기 쉽게 이유나 내용을 말할 때 써요.|explain why|이유를 설명하다|The teacher explained the rule with an example.|선생님은 예를 들어 그 규칙을 설명했다.|Can you explain why you were late?|왜 늦었는지 설명할 수 있니?
+male|adj|man|남성의; 수컷의|남자이거나 동물의 수컷인 것을 말해요.|a male student|남학생|Male birds often have bright feathers.|수컷 새는 흔히 깃털이 화려하다.|The male nurse helped the patient stand up.|남자 간호사가 환자가 일어서도록 도왔다.
+plant|n|living-thing|식물|땅에 뿌리를 내리고 자라는 생물이에요.|water a plant|식물에 물을 주다|Plants need sunlight and water to grow.|식물은 자라는 데 햇빛과 물이 필요하다.|My grandmother grows many plants in her garden.|할머니는 정원에서 많은 식물을 기르신다.
+plant|v|put-in-ground|심다|씨나 나무를 땅에 묻어 자라게 할 때 써요.|plant a tree|나무를 심다|We planted trees along the river.|우리는 강을 따라 나무를 심었다.|Farmers plant rice in spring.|농부들은 봄에 벼를 심는다.
+plant|n|factory|공장; 시설|물건을 만들거나 에너지를 생산하는 곳이에요.|a power plant|발전소|The new power plant uses solar energy.|새 발전소는 태양 에너지를 이용한다.|Hundreds of people work at the car plant.|수백 명이 그 자동차 공장에서 일한다.|factory
+spot|n|place|장소; 지점|어떤 특정한 곳이에요.|a tourist spot|관광지|We found a good spot for a picnic.|우리는 소풍하기 좋은 장소를 찾았다.|This beach is a popular tourist spot.|이 해변은 인기 있는 관광지이다.|place
+spot|v|notice|알아채다; 발견하다|찾기 어려운 것을 보고 알아낼 때 써요.|spot a mistake|실수를 발견하다|Can you spot the difference between the two pictures?|두 그림의 차이점을 찾을 수 있니?|She spotted her friend in the crowd.|그녀는 군중 속에서 친구를 발견했다.|notice
+spot|n|mark|점; 얼룩|작은 둥근 무늬나 얼룩이에요.|a dark spot|검은 점|The dog has white fur with black spots.|그 개는 흰 털에 검은 점이 있다.|There is a coffee spot on my shirt.|내 셔츠에 커피 얼룩이 있다.|mark
+advice|n|suggestion|조언; 충고|어떻게 하면 좋을지 알려 주는 말이에요.|give advice|조언하다|My teacher gave me some useful advice.|선생님은 나에게 유용한 조언을 해 주셨다.|You should follow the doctor's advice.|너는 의사의 충고를 따라야 한다.|suggestion
+award|n|prize|상|잘한 일에 대해 주는 상이나 상금이에요.|win an award|상을 받다|She won an award for her short film.|그녀는 단편 영화로 상을 받았다.|The award was given to the best student.|그 상은 가장 우수한 학생에게 주어졌다.|prize
+award|v|give-officially|(상을) 수여하다|공식적으로 상이나 돈을 줄 때 써요.|be awarded|수여받다|He was awarded a prize for his research.|그는 연구 성과로 상을 받았다.|The school awarded scholarships to ten students.|학교는 열 명의 학생에게 장학금을 수여했다.
+comment|n|remark|논평; 의견|어떤 일에 대해 짧게 하는 말이에요.|make a comment|논평하다|Thank you for your helpful comments on my essay.|내 에세이에 유용한 의견을 주어 고맙다.|Many readers left comments on the article.|많은 독자가 그 기사에 댓글을 남겼다.|remark
+comment|v|remark|논평하다; 언급하다|comment on으로 의견을 말할 때 써요.|comment on|~에 대해 논평하다|The teacher commented on my handwriting.|선생님은 내 글씨에 대해 한마디 하셨다.|The singer refused to comment on the rumor.|그 가수는 소문에 대해 언급하기를 거부했다.
+otherwise|adv|if-not|그렇지 않으면|앞의 조건을 따르지 않았을 때를 말해요.|or otherwise|그렇지 않으면|Hurry up, otherwise we will be late.|서둘러라. 그렇지 않으면 늦을 것이다.|Wear a coat; otherwise you will catch a cold.|코트를 입어라. 안 그러면 감기에 걸린다.
+otherwise|adv|apart-from-that|그 밖에는; 다르게|그 점을 빼면 또는 다른 방식으로를 나타내요.|think otherwise|다르게 생각하다|The soup was salty, but otherwise the meal was great.|수프가 짰지만 그 밖에는 식사가 훌륭했다.|Many people believe it, but I think otherwise.|많은 사람이 그것을 믿지만 나는 다르게 생각한다.
+purpose|n|aim|목적; 의도|무엇을 하는 이유나 이루려는 목표예요.|the purpose of|~의 목적|The purpose of this trip is to learn about history.|이번 여행의 목적은 역사를 배우는 것이다.|What is the purpose of your visit?|방문 목적이 무엇입니까?|aim
+responsible|adj|accountable|책임이 있는|be responsible for로 맡은 일이나 잘못을 말해요.|be responsible for|~을 책임지다|Parents are responsible for their children's safety.|부모는 자녀의 안전을 책임진다.|Who is responsible for this mess?|이 난장판은 누구 책임이니?
+responsible|adj|causing|원인이 되는|어떤 결과를 일으킨 원인을 나타내요.|be responsible for the change|변화의 원인이 되다|Cars are partly responsible for air pollution.|자동차는 대기 오염의 원인 중 하나이다.|Scientists found the gene responsible for the disease.|과학자들은 그 병의 원인이 되는 유전자를 찾았다.
+theory|n|explanation|이론; 학설|현상을 설명하려고 세운 생각의 체계예요.|a scientific theory|과학 이론|His theory explains why the climate is changing.|그의 이론은 기후가 왜 변하는지 설명한다.|In theory, the plan should work.|이론상으로는 그 계획이 효과가 있어야 한다.
+avoid|v|keep-away|피하다; 막다|좋지 않은 일을 하지 않거나 일어나지 않게 할 때 써요.|avoid mistakes|실수를 피하다|Try to avoid eating too much sugar.|설탕을 너무 많이 먹지 않도록 해라.|We left early to avoid the heavy traffic.|우리는 교통 체증을 피하려고 일찍 떠났다.
+mass|n|large-amount|덩어리; 다량|형태가 뚜렷하지 않은 큰 양이에요.|a mass of|다량의|A mass of dark clouds covered the sky.|거대한 먹구름 덩어리가 하늘을 덮었다.|The mass of an object does not change with gravity.|물체의 질량은 중력에 따라 변하지 않는다.
+mass|adj|large-scale|대량의; 대중의|아주 많은 사람이나 물건에 관련된 것이에요.|mass media|대중 매체|Mass production made cars cheaper.|대량 생산으로 자동차 가격이 낮아졌다.|Mass media can shape public opinion.|대중 매체는 여론을 형성할 수 있다.
+pop|adj|popular|대중적인|많은 사람이 즐기는 음악이나 문화를 말해요.|pop music|대중음악|Pop songs are often about love and friendship.|대중가요는 흔히 사랑과 우정을 노래한다.|Pop culture changes very quickly.|대중문화는 매우 빠르게 변한다.
+pop|v|burst|펑 하고 터지다; 불쑥 나타나다|짧은 소리를 내며 터지거나 갑자기 나타날 때 써요.|pop up|불쑥 나타나다|The balloon popped when it touched the candle.|풍선이 촛불에 닿자 펑 터졌다.|A good idea suddenly popped into my head.|좋은 생각이 갑자기 머릿속에 떠올랐다.|burst
+therefore|adv|as-a-result|그러므로; 따라서|앞 내용의 결과를 말할 때 써요.|and therefore|그러므로|The road was closed; therefore, we took another way.|길이 막혀 있었다. 그래서 우리는 다른 길로 갔다.|He studied hard and therefore passed the exam.|그는 열심히 공부했고 그래서 시험에 합격했다.
+complex|adj|complicated|복잡한|여러 부분이 맞물려 구조가 복잡한 것이에요.|a complex problem|복잡한 문제|The human brain is very complex.|인간의 뇌는 매우 복잡하다.|This is a complex issue with no easy answer.|이것은 쉬운 답이 없는 복잡한 문제이다.|complicated
+complex|n|group-of-buildings|복합 건물; 단지|여러 건물이 모여 있는 곳이에요.|a sports complex|종합 운동장|They live in a large apartment complex.|그들은 대규모 아파트 단지에 산다.|The new sports complex has a pool and a gym.|새 종합 체육 시설에는 수영장과 체육관이 있다.
+accept|v|receive|받아들이다; 수락하다|주는 것이나 제안을 받을 때 써요.|accept an invitation|초대를 수락하다|She accepted the invitation to the party.|그녀는 파티 초대를 수락했다.|This shop does not accept credit cards.|이 가게는 신용 카드를 받지 않는다.
+accept|v|admit|(사실로) 인정하다; 수긍하다|사실이나 상황을 그대로 인정할 때 써요.|accept the truth|진실을 받아들이다|It was hard to accept that we had lost.|우리가 졌다는 것을 받아들이기 어려웠다.|Most scientists accept this theory.|대부분의 과학자는 이 이론을 인정한다.|admit
+appear|v|seem|~처럼 보이다|겉으로 보기에 그런 것 같을 때 써요.|appear to be|~인 것 같다|He appears to be tired after the long trip.|그는 긴 여행 후 피곤해 보인다.|It appears that nobody was at home.|집에 아무도 없었던 것 같다.|seem
+appear|v|show-up|나타나다; 등장하다|보이지 않던 것이 보이게 될 때 써요.|appear on TV|텔레비전에 나오다|A rainbow appeared after the rain.|비가 온 뒤 무지개가 나타났다.|The actor appeared in many famous movies.|그 배우는 많은 유명한 영화에 출연했다.
+attempt|n|try|시도|무엇을 해 보려고 하는 것이에요.|make an attempt|시도하다|He passed the test on his second attempt.|그는 두 번째 시도에서 시험에 합격했다.|Their attempt to climb the mountain failed.|그 산을 오르려던 그들의 시도는 실패했다.|effort
+attempt|v|try|시도하다|어려운 일을 해 보려고 할 때 써요.|attempt to solve|해결하려고 시도하다|She attempted to answer every question.|그녀는 모든 질문에 답하려고 시도했다.|Do not attempt to fix the machine yourself.|기계를 혼자 고치려고 하지 마라.
+exchange|v|swap|주고받다; 교환하다|서로 바꾸거나 주고받을 때 써요.|exchange ideas|의견을 주고받다|We exchanged phone numbers after class.|우리는 수업 후에 전화번호를 주고받았다.|Can I exchange this shirt for a bigger one?|이 셔츠를 더 큰 것으로 교환할 수 있을까?|trade
+exchange|n|swap|교환; 교류|물건이나 생각을 서로 바꾸는 일이에요.|a cultural exchange|문화 교류|The students joined an exchange program in Japan.|학생들은 일본의 교환 프로그램에 참여했다.|An exchange of ideas helps everyone learn.|의견 교류는 모두가 배우는 데 도움이 된다.
+serve|v|give-food|(음식을) 내다; 제공하다|손님에게 음식이나 서비스를 줄 때 써요.|serve dinner|저녁을 차리다|The restaurant serves breakfast until ten.|그 식당은 열 시까지 아침 식사를 제공한다.|She served tea to her guests.|그녀는 손님들에게 차를 대접했다.
+serve|v|work-for|봉사하다; 근무하다|사람이나 나라를 위해 일할 때 써요.|serve the community|지역 사회에 봉사하다|He served in the army for two years.|그는 2년 동안 군에서 복무했다.|Doctors serve people who are sick.|의사는 아픈 사람들을 위해 일한다.
+serve|v|function|~의 역할을 하다|serve as처럼 어떤 용도로 쓰일 때 써요.|serve as|~의 역할을 하다|This room serves as a library and a classroom.|이 방은 도서관이자 교실로 쓰인다.|Her story serves as a warning to others.|그녀의 이야기는 다른 사람들에게 경고가 된다.
+species|n|kind-of-life|(생물의) 종|비슷한 특징을 가진 생물의 무리예요.|a rare species|희귀종|Many species of birds live in this forest.|많은 종의 새가 이 숲에 산다.|Scientists discovered a new species of frog.|과학자들은 새로운 종의 개구리를 발견했다.
+bottom|n|lowest-part|맨 아래; 바닥|어떤 것의 가장 낮은 부분이에요.|at the bottom of|~의 맨 아래에|Write your name at the bottom of the page.|쪽 맨 아래에 이름을 써라.|The ship sank to the bottom of the sea.|그 배는 바다 밑바닥으로 가라앉았다.
+demand|n|request|요구; 수요|강하게 요청하는 것이나 사려는 욕구예요.|supply and demand|공급과 수요|Demand for electric cars is growing fast.|전기 자동차에 대한 수요가 빠르게 늘고 있다.|The workers made a demand for better pay.|노동자들은 임금 인상을 요구했다.
+demand|v|ask-strongly|요구하다|당연한 권리처럼 강하게 요청할 때 써요.|demand an answer|답을 요구하다|The customer demanded his money back.|그 손님은 환불을 요구했다.|This job demands a lot of patience.|이 일은 많은 인내심을 요구한다.|require
+square|n|shape|정사각형; 광장|네 변의 길이가 같은 모양이나 넓은 공간이에요.|a town square|마을 광장|Draw a square with sides of five centimeters.|한 변이 5센티미터인 정사각형을 그려라.|People gathered in the square to watch the parade.|사람들은 행진을 보려고 광장에 모였다.
+square|adj|four-sided|정사각형의; 제곱의|네모난 모양이나 넓이 단위를 말해요.|square meters|제곱미터|The apartment is about eighty square meters.|그 아파트는 약 80제곱미터이다.|She bought a square table for the kitchen.|그녀는 부엌에 둘 정사각형 탁자를 샀다.
+mental|adj|mind|정신의; 마음의|머리나 마음과 관련된 것이에요.|mental health|정신 건강|Exercise is good for your mental health.|운동은 정신 건강에 좋다.|Chess requires a lot of mental effort.|체스는 많은 정신적 노력을 요구한다.
+remain|v|stay|여전히 ~이다; 남다|어떤 상태나 장소에 그대로 있을 때 써요.|remain silent|침묵을 지키다|Please remain seated until the plane stops.|비행기가 멈출 때까지 자리에 앉아 있어라.|Only a few old houses remain in the village.|그 마을에는 오래된 집 몇 채만 남아 있다.|stay
+separate|adj|apart|분리된; 별개의|함께 있지 않고 따로인 것이에요.|separate rooms|각자의 방|The two brothers sleep in separate rooms.|두 형제는 각자 다른 방에서 잔다.|Keep raw meat separate from other food.|날고기는 다른 음식과 따로 보관해라.
+separate|v|divide|분리하다; 나누다|하나를 둘 이상으로 떼어 놓을 때 써요.|separate A from B|A를 B와 분리하다|The teacher separated the class into small groups.|선생님은 반을 작은 모둠으로 나누었다.|A river separates the two countries.|강 하나가 두 나라를 나눈다.|divide
+surface|n|outside-layer|표면; 겉|물체의 가장 바깥 부분이에요.|the surface of the water|수면|Leaves floated on the surface of the pond.|나뭇잎들이 연못의 수면에 떠 있었다.|On the surface, he seemed calm.|겉으로는 그가 침착해 보였다.
+benefit|n|advantage|혜택; 이익|도움이 되거나 좋은 점이에요.|the benefits of|~의 이점|Regular exercise has many health benefits.|규칙적인 운동은 건강에 많은 이점이 있다.|The new park is for the benefit of everyone.|새 공원은 모두의 이익을 위한 것이다.|advantage
+benefit|v|help|이익을 얻다; 도움이 되다|benefit from처럼 좋은 결과를 얻을 때 써요.|benefit from|~에서 이익을 얻다|Students benefit from reading every day.|학생들은 매일 책을 읽는 것에서 도움을 받는다.|The new law will benefit poor families.|새 법은 가난한 가정에 도움이 될 것이다.
+budget|n|plan-for-money|예산|일정 기간 쓸 돈의 계획이에요.|on a budget|적은 예산으로|The school has a limited budget for trips.|학교는 견학에 쓸 예산이 한정되어 있다.|We traveled on a small budget.|우리는 적은 예산으로 여행했다.
+feature|n|characteristic|특징; 특색|눈에 띄는 중요한 부분이나 성질이에요.|a key feature|주요 특징|The best feature of this phone is its camera.|이 휴대전화의 가장 좋은 특징은 카메라이다.|Tall buildings are a common feature of big cities.|높은 건물은 대도시의 흔한 특징이다.|characteristic
+feature|v|include-as-important|특별히 포함하다; 출연시키다|중요한 부분으로 보여 줄 때 써요.|feature a star|스타를 출연시키다|The magazine featured an article about young artists.|그 잡지는 젊은 예술가들에 관한 기사를 특집으로 실었다.|The concert will feature several famous singers.|그 콘서트에는 유명 가수 여러 명이 출연할 것이다.
+fund|n|money-for-purpose|기금; 자금|특정한 목적에 쓰려고 모은 돈이에요.|raise funds|기금을 모으다|The students raised funds for the animal shelter.|학생들은 동물 보호소를 위해 기금을 모았다.|The project stopped because of a lack of funds.|그 프로젝트는 자금 부족으로 중단되었다.
+fund|v|pay-for|자금을 대다|어떤 일에 필요한 돈을 제공할 때 써요.|fund research|연구에 자금을 대다|The government funds research on new energy.|정부는 새로운 에너지 연구에 자금을 지원한다.|The museum is funded by local businesses.|그 박물관은 지역 기업들의 지원을 받는다.
+metal|n|material|금속|철이나 금처럼 단단하고 열을 잘 전하는 물질이에요.|a metal box|금속 상자|Gold is a soft and valuable metal.|금은 무르고 값진 금속이다.|The bridge is made of metal and stone.|그 다리는 금속과 돌로 만들어졌다.

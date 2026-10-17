@@ -1,0 +1,144 @@
+{
+  "type": "object",
+  "properties": {
+    "headword": {
+      "type": "string",
+      "minLength": 1
+    },
+    "senseCandidates": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "pos": {
+            "enum": [
+              "n",
+              "v",
+              "adj",
+              "adv",
+              "pron",
+              "prep",
+              "conj",
+              "det",
+              "interj",
+              "aux",
+              "phrase"
+            ]
+          },
+          "senseSlug": {
+            "type": "string",
+            "pattern": "^[a-z][a-z0-9-]*$"
+          },
+          "meaningKo": {
+            "type": "string",
+            "minLength": 1
+          },
+          "meaningKoAlt": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "whyPrimary": {
+            "type": "string",
+            "minLength": 1
+          },
+          "isPrimaryProposal": {
+            "type": "boolean"
+          },
+          "explanationKo": {
+            "type": "string",
+            "minLength": 1
+          },
+          "collocation": {
+            "type": "string",
+            "minLength": 1
+          },
+          "collocationKo": {
+            "type": "string",
+            "minLength": 1
+          },
+          "examples": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "en": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "ko": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              },
+              "required": [
+                "en",
+                "ko"
+              ],
+              "additionalProperties": false
+            },
+            "minItems": 2,
+            "maxItems": 2
+          },
+          "acceptedSpellings": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            },
+            "minItems": 1,
+            "uniqueItems": true
+          },
+          "confusableHeadwords": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "nearSynonymHeadwords": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        },
+        "required": [
+          "pos",
+          "senseSlug",
+          "meaningKo",
+          "meaningKoAlt",
+          "whyPrimary",
+          "isPrimaryProposal",
+          "explanationKo",
+          "collocation",
+          "collocationKo",
+          "examples",
+          "acceptedSpellings",
+          "confusableHeadwords",
+          "nearSynonymHeadwords"
+        ],
+        "additionalProperties": false
+      },
+      "minItems": 1,
+      "maxItems": 3
+    },
+    "flags": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    }
+  },
+  "required": [
+    "headword",
+    "senseCandidates",
+    "flags"
+  ],
+  "additionalProperties": false,
+  "$schema": "https://json-schema.org/draft/2020-12/schema"
+}

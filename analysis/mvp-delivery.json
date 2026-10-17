@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-15",
+  "status": "working_development_mvp",
+  "platform": "Flutter / Android / iOS",
+  "decisions": {
+    "focusStyle": "기존 포커스 스타일 유지. 주요 행동 하나, 라임 목표 카드, 오늘·단어장·기록 3개 탭.",
+    "content": "30개 독자 작성 미검수 초안으로 학습 흐름을 구현. 300개 출시용 콘텐츠는 아직 준비되지 않음.",
+    "apkReuse": "데이터 구조와 학습·음성 처리 개념을 독립 구현에 참고. APK의 원본 DB·설명·예문·음성·이미지·코드는 제품에 반입하지 않음.",
+    "learning": "새 단어만 익히기, 복습은 회상부터. 뜻·철자 일정 분리. 즉시 재시도와 예정일 전 답변은 연습으로 저장."
+  },
+  "implemented": [
+    "오늘 추천과 이어하기",
+    "단어장 목록·상세·검색",
+    "나의 시험 범위 선택 및 저장",
+    "5개 단위 익히기·뜻 선택·철자 입력·결과·오답 연습",
+    "SQLite 답변·세션·복습 일정·시험 범위 저장",
+    "실제 기록에 기반한 주간 활동과 방식별 통계",
+    "TTS 단어·예문 발음, 전경 반복 듣기, 속도·반복·뜻/예문 설정",
+    "밝은/어두운 테마와 글자 확대 대응"
+  ],
+  "content": {
+    "asset": "assets/content/starter_vocabulary.json",
+    "wordCount": 30,
+    "deckCount": 3,
+    "provenance": "original_draft",
+    "expertReviewComplete": false,
+    "releaseTargetWordCount": 300,
+    "releaseTargetStatus": "planned_not_prepared",
+    "bundledAudioFiles": 0,
+    "textbookMappingPrepared": false
+  },
+  "verification": {
+    "staticAnalysis": "dart analyze lib test integration_test: No issues found",
+    "unitAndWidgetTests": {
+      "passed": 20,
+      "command": "flutter test",
+      "coverage": [
+        "의미·철자별 복습 일정",
+        "예정일 전 연습과 즉시 재시도",
+        "새 단어/복습 혼합 세션",
+        "저장 실패 원자성",
+        "세션 직렬화·복원",
+        "중복 제출",
+        "콘텐츠 필드·고유 ID",
+        "한 라운드·오답 재연습",
+        "320×720·글자 200% 홈/단어장/기록 탭, 밝은/어두운 테마",
+        "시험 범위 선택",
+        "화면 이탈 시 듣기 취소"
+      ]
+    },
+    "nativePersistenceTest": {
+      "passed": 1,
+      "device": "iPhone 18 Pro / iOS 27.0 Simulator",
+      "command": "flutter test integration_test/persistence_test.dart -d <simulator-id>",
+      "scope": "별도 테스트 DB에서 SQLite에 저장 후 연결을 닫고 다시 열어 답변·복습일·세션 위치·시험 범위 복원 확인. 실제 앱 프로세스 강제 종료 테스트는 아님."
+    },
+    "android": {
+      "debugApkBuild": "passed",
+      "artifact": "build/app/outputs/flutter-apk/app-debug.apk",
+      "deviceExecution": "not_verified"
+    },
+    "ios": {
+      "targetedSimulatorBuildAndLaunch": "passed",
+      "screenshot": "analysis/screenshots/ios-home.png",
+      "visualInspection": "실제 시뮬레이터 홈 화면 확인",
+      "genericSimulatorBuild": "Flutter 3.41.6 / Xcode 27.0의 다중 아키텍처 처리 오류. 특정 시뮬레이터를 지정한 flutter run은 성공."
+    },
+    "physicalDeviceAudioQuality": "not_verified",
+    "storeRelease": "not_performed"
+  },
+  "knownScopeDifferencesFromDesignGuidance": [
+    "듣기 위치는 화면 내부에서만 유지하며 화면을 닫으면 초기화.",
+    "현재 세션은 선택된 단어의 뜻/철자를 모두 출제하며 아직 복습일이 아닌 방식은 연습 처리.",
+    "첫 MVP 듣기 속도는 기기 TTS rate 0.3~0.6, 생각 시간 900ms, 반복 1~3회.",
+    "시험 범위는 준비된 30개 중에서 선택. 직접 입력·교과서 연결·외부 가져오기는 미구현.",
+    "위젯 테스트의 작은 화면·큰 글자 검증은 명시된 화면에 한정하며 전체 접근성 인증이 아님."
+  ],
+  "remainingForRelease": [
+    "300개 원고 선정과 영어 교육 전문가 검수",
+    "선택지의 의미 중복·난이도 검수",
+    "음성 품질·기기별 설치 음성·오프라인 사용 검증",
+    "실제 학생 사용성 확인과 실기기 검증",
+    "스토어 식별자·아이콘·릴리스 서명·개인정보 안내·배포 준비"
+  ]
+}

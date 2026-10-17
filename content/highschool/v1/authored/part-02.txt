@@ -1,0 +1,96 @@
+# 고교 기본 51–100. 표제어 목록만 참고하여 독자 작성.
+cost|n|price|비용; 값|무엇을 얻거나 하는 데 드는 돈이에요.|the cost of living|생활비|The cost of the trip was higher than we expected.|여행 비용은 우리가 예상한 것보다 많이 들었다.|We must reduce the cost of energy at school.|우리는 학교의 에너지 비용을 줄여야 한다.|price
+cost|v|require-payment|(비용이) 들다|어떤 일에 돈·시간·노력이 들 때 써요.|cost a lot|비용이 많이 들다|The new bike cost me two hundred dollars.|새 자전거를 사는 데 200달러가 들었다.|One careless mistake can cost you the game.|부주의한 실수 하나로 경기에서 질 수 있다.
+moment|n|instant|순간; 잠깐|아주 짧은 시간이나 특정한 때를 말해요.|at the moment|지금은|Please wait a moment while I find the file.|내가 파일을 찾는 동안 잠깐 기다려 달라.|At the moment, she is too busy to talk.|지금 그녀는 너무 바빠서 이야기할 수 없다.|instant
+force|n|power|힘; 폭력|물리적인 힘이나 강제로 누르는 힘이에요.|by force|강제로|The strong force of the wind broke the window.|강한 바람의 힘에 창문이 깨졌다.|The police had to use force to open the door.|경찰은 문을 열기 위해 힘을 써야 했다.|power
+force|v|compel|억지로 ~하게 하다|원하지 않는 일을 하도록 강요할 때 써요.|be forced to|어쩔 수 없이 ~하다|Heavy rain forced us to cancel the picnic.|폭우 때문에 우리는 소풍을 취소할 수밖에 없었다.|Nobody can force you to change your opinion.|아무도 너에게 의견을 바꾸라고 강요할 수 없다.
+force|n|group|군대; 집단|특정한 일을 하도록 조직된 무리예요.|the air force|공군|He served in the air force for three years.|그는 3년 동안 공군에서 복무했다.|A special force was sent to help after the flood.|홍수 후 도움을 주기 위해 특수 부대가 파견되었다.
+issue|n|problem|쟁점; 문제|사람들이 논의하거나 걱정하는 중요한 주제예요.|an important issue|중요한 쟁점|Climate change is a global issue.|기후 변화는 세계적인 문제이다.|We discussed the issue of school safety in class.|우리는 수업 시간에 학교 안전 문제를 논의했다.|matter
+issue|v|give-out|발행하다; 발표하다|공식적으로 내놓거나 나누어 줄 때 써요.|issue a warning|경고를 발표하다|The city issued a warning about the heat.|시는 더위에 대한 경고를 발표했다.|The school issues new ID cards every spring.|학교는 매년 봄 새 학생증을 발급한다.
+issue|n|edition|(출판물의) 호|잡지나 신문의 한 회분이에요.|the latest issue|최신 호|Her article appeared in the latest issue of the magazine.|그녀의 기사는 그 잡지의 최신 호에 실렸다.|The first issue of the school paper came out today.|교내 신문의 창간호가 오늘 나왔다.
+rest|n|relaxation|휴식|일을 멈추고 쉬는 것이에요.|take a rest|휴식을 취하다|You should take a rest after a long walk.|오래 걸은 뒤에는 휴식을 취해야 한다.|The doctor told him to get plenty of rest.|의사는 그에게 충분히 쉬라고 말했다.
+rest|n|remainder|나머지|어떤 부분을 뺀 남은 것이에요.|the rest of|~의 나머지|I will finish the rest of my homework tomorrow.|나는 숙제의 나머지를 내일 끝낼 것이다.|She ate one apple and gave the rest to her friends.|그녀는 사과 하나를 먹고 나머지는 친구들에게 주었다.
+term|n|word|용어; 말|특정 분야에서 쓰는 단어나 표현이에요.|a technical term|전문 용어|Doctors often use medical terms that are hard to understand.|의사들은 흔히 이해하기 어려운 의학 용어를 쓴다.|What does the term "global warming" mean?|'지구 온난화'라는 용어는 무슨 뜻일까?
+term|n|period|기간; 학기|정해진 일정한 시간이에요.|the spring term|봄 학기|The new term begins in March.|새 학기는 3월에 시작한다.|Smoking can harm your health in the long term.|흡연은 장기적으로 건강을 해칠 수 있다.|period
+term|n|condition|조건; (사람 사이의) 관계|계약의 조건이나 사람 사이의 관계를 말해요.|on good terms|사이가 좋은|Both sides agreed to the terms of the contract.|양측은 계약 조건에 동의했다.|I am on good terms with all my neighbors.|나는 이웃들 모두와 사이가 좋다.
+account|n|record|계좌; 계정|돈이나 정보를 관리하려고 만든 기록이에요.|a bank account|은행 계좌|I opened a bank account to save money.|나는 저축하려고 은행 계좌를 만들었다.|You need an account to use this website.|이 웹사이트를 쓰려면 계정이 필요하다.
+account|n|report|이야기; 설명|일어난 일에 대해 말하거나 쓴 것이에요.|a detailed account|자세한 설명|He gave a clear account of the accident.|그는 사고에 대해 분명하게 설명했다.|Her account of the trip made everyone laugh.|그녀의 여행 이야기에 모두가 웃었다.
+include|v|contain|포함하다|전체의 일부로 넣거나 들어 있을 때 써요.|include tax|세금을 포함하다|The price includes breakfast and dinner.|가격에는 아침과 저녁 식사가 포함되어 있다.|The team includes students from five schools.|그 팀에는 다섯 학교의 학생들이 포함되어 있다.|contain
+record|n|written-account|기록|나중을 위해 적어 두거나 남겨 둔 것이에요.|keep a record|기록하다|Keep a record of what you eat each day.|매일 먹는 것을 기록해 두어라.|She broke the world record in swimming.|그녀는 수영에서 세계 기록을 깼다.
+record|v|save|기록하다; 녹음하다|글로 적거나 소리·영상을 저장할 때 써요.|record a song|노래를 녹음하다|The band recorded a new song last week.|그 밴드는 지난주에 새 노래를 녹음했다.|Scientists recorded the temperature every hour.|과학자들은 매시간 온도를 기록했다.
+above|prep|higher|~위에; ~보다 높은|위치나 양이 어떤 기준보다 높을 때 써요.|above average|평균 이상|The plane flew above the clouds.|비행기는 구름 위로 날았다.|Temperatures rose above thirty degrees today.|오늘 기온이 30도 이상으로 올랐다.
+above|adj|mentioned-earlier|위에서 말한|글에서 앞에 나온 내용을 가리켜요.|the above example|위의 예|Read the above passage and answer the questions.|위의 글을 읽고 질문에 답하라.|The above table shows the results of the survey.|위의 표는 설문 조사 결과를 보여 준다.
+military|adj|armed-forces|군대의; 군사의|군대나 전쟁과 관련된 것이에요.|military service|병역|He finished his military service last year.|그는 작년에 군 복무를 마쳤다.|The country spends a lot on military power.|그 나라는 군사력에 많은 돈을 쓴다.
+share|v|use-together|공유하다; 나누다|함께 쓰거나 자기 것을 남과 나눌 때 써요.|share an idea|생각을 나누다|Thank you for sharing your ideas with the group.|모둠과 생각을 나누어 주어 고맙다.|The two brothers share a love of music.|두 형제는 음악에 대한 사랑을 공유한다.
+share|n|portion|몫; 지분|여럿이 나눌 때 각자 갖는 부분이에요.|a fair share|공정한 몫|Everyone should do their share of the work.|모두가 자기 몫의 일을 해야 한다.|She owns a large share of the company.|그녀는 그 회사 지분을 많이 보유하고 있다.|portion
+return|v|go-back|돌아오다; 돌아가다|원래 있던 곳으로 다시 갈 때 써요.|return home|집에 돌아오다|He returned home after ten years abroad.|그는 10년간의 해외 생활 후 고향에 돌아왔다.|Birds return to this lake every spring.|새들은 매년 봄 이 호수로 돌아온다.
+return|v|give-back|돌려주다; 반납하다|빌린 것을 원래 주인에게 다시 줄 때 써요.|return a book|책을 반납하다|Please return the books by Friday.|금요일까지 책을 반납해라.|I returned the shirt because it was too small.|셔츠가 너무 작아서 나는 그것을 반품했다.
+return|n|profit|수익; 보답|투자나 노력으로 돌아오는 이익이에요.|a high return|높은 수익|Farmers get a small return for their hard work.|농부들은 고된 노동에 비해 적은 보답을 받는다.|The investment brought a high return.|그 투자는 높은 수익을 가져왔다.
+sense|n|feeling|감각; 느낌|보고 듣고 느끼는 능력이나 막연한 느낌이에요.|a sense of humor|유머 감각|Dogs have a strong sense of smell.|개는 후각이 뛰어나다.|Finishing the race gave me a sense of pride.|경주를 끝내자 나는 자부심을 느꼈다.|feeling
+sense|n|meaning|의미; 분별|말의 뜻이나 이치에 맞는 판단이에요.|in a sense|어떤 의미에서는|In a sense, every mistake is a lesson.|어떤 의미에서는 모든 실수가 교훈이다.|The word has a different sense in this sentence.|그 단어는 이 문장에서 다른 의미로 쓰였다.|meaning
+sense|v|feel|감지하다; 느끼다|직접 듣지 않아도 상황을 알아챌 때 써요.|sense danger|위험을 감지하다|Animals can often sense danger before people do.|동물은 흔히 사람보다 먼저 위험을 감지한다.|She sensed that something was wrong.|그녀는 무언가 잘못되었다는 것을 느꼈다.
+view|n|opinion|견해; 관점|어떤 일에 대한 생각이나 태도예요.|in my view|내 생각에는|In my view, the plan is too risky.|내 생각에 그 계획은 너무 위험하다.|People have different views on this issue.|이 문제에 대한 사람들의 견해는 저마다 다르다.|opinion
+view|n|scene|경치; 시야|눈에 보이는 풍경이나 보이는 범위예요.|a beautiful view|아름다운 경치|Our room had a great view of the sea.|우리 방에서는 바다가 멋지게 보였다.|A tall tree blocked the view from the window.|키 큰 나무가 창문의 시야를 가렸다.|scene
+view|v|regard|(~으로) 보다; 여기다|view A as B처럼 어떻게 생각하는지 말해요.|view A as B|A를 B로 여기다|Many people view failure as a chance to learn.|많은 사람은 실패를 배울 기회로 여긴다.|The movie was viewed by millions of people.|그 영화는 수백만 명이 보았다.|regard
+present|adj|current|참석한; 현재의|지금의 것이거나 그 자리에 있음을 말해요.|the present time|현재|All the members were present at the meeting.|모든 회원이 회의에 참석했다.|The present system has many problems.|현재의 제도에는 많은 문제가 있다.|current
+present|v|show|제시하다; 발표하다|보여 주거나 공식적으로 내놓을 때 써요.|present a plan|계획을 제시하다|Each group will present its research in class.|각 모둠은 수업 시간에 연구 내용을 발표할 것이다.|The report presents several solutions to the problem.|그 보고서는 그 문제에 대한 몇 가지 해결책을 제시한다.
+policy|n|plan-of-action|정책; 방침|정부나 단체가 정한 행동 원칙이에요.|government policy|정부 정책|The new policy aims to reduce plastic waste.|새 정책은 플라스틱 쓰레기를 줄이는 것을 목표로 한다.|Our school has a strict policy on phones.|우리 학교에는 휴대전화에 관한 엄격한 방침이 있다.
+average|adj|typical|평균의; 보통의|여럿을 고르게 나눈 값이나 흔한 정도예요.|the average age|평균 나이|The average age of the players is twenty.|선수들의 평균 나이는 스무 살이다.|An average student sleeps about seven hours.|보통의 학생은 약 일곱 시간 잔다.
+average|n|mean|평균|여러 수를 더해 개수로 나눈 값이에요.|on average|평균적으로|On average, we read two books a month.|평균적으로 우리는 한 달에 책 두 권을 읽는다.|His grades are above the class average.|그의 성적은 반 평균보다 높다.
+medical|adj|medicine|의학의; 의료의|병을 치료하거나 건강을 돌보는 일과 관련된 것이에요.|medical care|의료|She wants to study at a medical school.|그녀는 의과 대학에서 공부하고 싶어 한다.|The patient needs medical help right away.|그 환자는 즉시 치료가 필요하다.
+press|v|push|누르다; 압박하다|무언가를 힘주어 밀거나 재촉할 때 써요.|press a button|버튼을 누르다|Press the red button to stop the machine.|기계를 멈추려면 빨간 버튼을 눌러라.|They pressed the government to change the law.|그들은 정부에 법을 바꾸라고 압박했다.|push
+press|n|media|언론; 신문|신문이나 방송 같은 보도 기관을 말해요.|freedom of the press|언론의 자유|The press reported the news the next morning.|언론은 다음 날 아침 그 소식을 보도했다.|The singer refused to talk to the press.|그 가수는 언론과 이야기하기를 거부했다.
+role|n|function|역할|어떤 일에서 맡아 하는 몫이에요.|play a role|역할을 하다|Teachers play an important role in our lives.|교사는 우리 삶에서 중요한 역할을 한다.|Trees have a key role in cleaning the air.|나무는 공기를 깨끗하게 하는 데 핵심적인 역할을 한다.|part
+role|n|character|배역|연극이나 영화에서 배우가 맡는 인물이에요.|a leading role|주연|She got the main role in the school play.|그녀는 학교 연극에서 주인공 역을 맡았다.|He played the role of a brave king.|그는 용감한 왕의 역할을 연기했다.
+worth|adj|deserving|~의 가치가 있는|be worth -ing처럼 할 만한 가치를 나타내요.|be worth visiting|방문할 가치가 있다|This museum is worth visiting at least once.|이 박물관은 적어도 한 번은 방문할 가치가 있다.|The old painting is worth a lot of money.|그 오래된 그림은 많은 돈의 가치가 있다.
+worth|n|value|(진정한) 가치; ~어치|사람이나 물건이 지닌 중요성이에요.|self-worth|자존감|The true worth of a friend appears in hard times.|친구의 진정한 가치는 힘든 시기에 드러난다.|He bought ten dollars' worth of snacks.|그는 10달러어치 간식을 샀다.|value
+provide|v|supply|제공하다; 공급하다|필요한 것을 주거나 마련해 줄 때 써요.|provide information|정보를 제공하다|The school provides free lunch for all students.|학교는 모든 학생에게 무료 점심을 제공한다.|Trees provide shade on hot summer days.|나무는 더운 여름날 그늘을 제공한다.|supply
+source|n|origin|원천; 출처|무엇이 생겨나거나 나오는 곳이에요.|a source of energy|에너지원|The sun is the main source of energy on Earth.|태양은 지구 에너지의 주된 원천이다.|Always check the source of the information you read.|읽는 정보의 출처를 항상 확인해라.|origin
+value|n|worth|가치; 값|중요성이나 물건이 지닌 값이에요.|the value of|~의 가치|The value of the house has doubled.|그 집의 값이 두 배로 올랐다.|Many families place great value on education.|많은 가정은 교육을 매우 중시한다.|worth
+value|v|appreciate|소중히 여기다|중요하게 생각하고 아낄 때 써요.|value friendship|우정을 소중히 여기다|I value your honest advice.|나는 네 솔직한 조언을 소중히 여긴다.|Good leaders value the opinions of others.|훌륭한 지도자는 다른 사람의 의견을 소중히 여긴다.
+evidence|n|proof|증거; 근거|사실임을 보여 주는 자료나 흔적이에요.|scientific evidence|과학적 증거|There is no evidence that the story is true.|그 이야기가 사실이라는 증거는 없다.|The police found new evidence at the scene.|경찰은 현장에서 새로운 증거를 찾았다.|proof
+rate|n|speed-or-ratio|비율; 속도|일정한 기준에 대한 양이나 빠르기예요.|the birth rate|출생률|The birth rate has fallen in recent years.|최근 몇 년 동안 출생률이 떨어졌다.|Prices are rising at a fast rate.|물가가 빠른 속도로 오르고 있다.
+rate|v|judge|(등급·점수로) 평가하다|점수나 등급을 매기며 판단할 때 써요.|rate highly|높이 평가하다|Users rated the app five stars.|사용자들은 그 앱에 별 다섯 개를 주었다.|Critics rated the film as one of the best.|비평가들은 그 영화를 최고 중 하나로 평가했다.|judge
+round|adj|circular|둥근|원이나 공처럼 생긴 모양이에요.|a round table|원탁|We sat around a round table for dinner.|우리는 저녁을 먹으려고 둥근 탁자에 둘러앉았다.|The earth is round like a ball.|지구는 공처럼 둥글다.
+round|n|stage|(경기의) 회; 한 차례|경기나 활동이 진행되는 한 단계예요.|the first round|1회전|Our team won the first round of the contest.|우리 팀은 대회 1차전에서 이겼다.|The next round of talks will begin tomorrow.|다음 차례의 회담은 내일 시작된다.
+stand|v|tolerate|참다; 견디다|'서다' 외에 주로 부정문에서 견딜 때 써요.|cannot stand|참을 수 없다|I cannot stand the noise from the street.|나는 거리의 소음을 참을 수 없다.|She could not stand waiting in long lines.|그녀는 긴 줄에서 기다리는 것을 견딜 수 없었다.|bear
+stand|n|position|입장; 태도|어떤 문제에 대한 의견이나 태도예요.|take a stand|입장을 취하다|The mayor took a strong stand against the plan.|시장은 그 계획에 강하게 반대하는 입장을 취했다.|What is your stand on this issue?|이 문제에 대한 네 입장은 무엇이니?
+stuff|n|things|물건; 것|이름을 굳이 말하지 않는 물건이나 일들이에요.|a lot of stuff|많은 물건|I need to clean the stuff on my desk.|나는 책상 위 물건들을 치워야 한다.|There is a lot of interesting stuff on this website.|이 웹사이트에는 흥미로운 것이 많다.
+stuff|v|fill|채워 넣다|어떤 공간에 무언가를 가득 넣을 때 써요.|stuff a bag|가방에 쑤셔 넣다|He stuffed his clothes into a small bag.|그는 작은 가방에 옷을 쑤셔 넣었다.|The toy bear is stuffed with soft cotton.|그 곰 인형은 부드러운 솜으로 채워져 있다.|fill
+tax|n|money-to-government|세금|정부가 국민에게서 거두는 돈이에요.|pay taxes|세금을 내다|Everyone who works must pay taxes.|일하는 모든 사람은 세금을 내야 한다.|The government plans to raise the tax on sugar.|정부는 설탕에 대한 세금을 올릴 계획이다.
+amount|n|quantity|양; 액수|수나 양이 얼마인지 나타내요.|a large amount of|많은 양의|A large amount of food is wasted every day.|매일 많은 양의 음식이 버려진다.|She paid the full amount at once.|그녀는 전액을 한 번에 지불했다.|quantity
+amount|v|total|(합계가) ~에 달하다|amount to로 전체 양이나 결과를 말해요.|amount to|~에 달하다|The cost of repairs amounted to one thousand dollars.|수리 비용이 1,000달러에 달했다.|His excuses amount to nothing.|그의 변명은 아무 의미가 없다.
+drive|v|push-to-act|몰아가다; ~하게 만들다|'운전하다' 외에 어떤 상태로 몰아갈 때 써요.|drive someone crazy|~을 미치게 하다|The loud music almost drove me crazy.|시끄러운 음악 때문에 나는 거의 미칠 뻔했다.|Curiosity drives scientists to ask new questions.|호기심은 과학자들이 새로운 질문을 하게 만든다.
+drive|n|desire|의욕; 욕구|무언가를 하려는 강한 마음이에요.|a strong drive|강한 의욕|Her drive to succeed made her work very hard.|성공하려는 욕구 때문에 그녀는 매우 열심히 일했다.|Hunger is a basic human drive.|배고픔은 인간의 기본적인 욕구이다.
+fall|v|decrease|(수량이) 줄다|'떨어지다' 중에서도 가격·수치가 내려갈 때 써요.|fall sharply|급격히 떨어지다|The price of oil fell by ten percent.|석유 가격이 10퍼센트 떨어졌다.|Temperatures will fall below zero tonight.|오늘 밤 기온이 영하로 떨어질 것이다.|drop
+fall|n|autumn|가을|여름과 겨울 사이의 계절이에요.|in the fall|가을에|We go hiking in the mountains every fall.|우리는 매년 가을 산으로 하이킹을 간다.|The new school year in America starts in the fall.|미국의 새 학년은 가을에 시작한다.|autumn
+fast|adv|firmly|단단히; 깊이|'빠른' 외에 꽉 붙어 있거나 깊이 잠든 상태예요.|fast asleep|깊이 잠든|The baby was fast asleep in her bed.|아기는 침대에서 깊이 잠들어 있었다.|The boat was stuck fast in the mud.|그 배는 진흙에 단단히 박혀 있었다.
+fast|v|not-eat|단식하다|일정 시간 음식을 먹지 않을 때 써요.|fast for a day|하루 단식하다|Some people fast for religious reasons.|어떤 사람들은 종교적 이유로 단식한다.|You should not fast before a hard exam.|어려운 시험 전에는 굶지 않는 것이 좋다.
+key|n|essential-factor|비결; 핵심|'열쇠' 외에 성공이나 해결의 비결을 뜻해요.|the key to success|성공의 비결|Practice is the key to learning a language.|연습은 언어 학습의 비결이다.|Trust is the key to a good friendship.|신뢰는 좋은 우정의 핵심이다.
+key|adj|important|핵심적인; 중요한|어떤 일에서 가장 중요한 것을 말해요.|a key factor|핵심 요인|Sleep is a key factor in good health.|수면은 건강의 핵심 요인이다.|She played a key part in the team's success.|그녀는 팀의 성공에 중요한 역할을 했다.|major
+range|n|scope|범위; 다양성|일정한 한계 안의 폭이나 여러 종류를 말해요.|an age range|연령대|Children in the age range of six to ten can join.|6세에서 10세 연령대의 아이들이 참여할 수 있다.|The price range of the phones is quite large.|휴대전화의 가격 범위가 꽤 넓다.|scope
+range|v|vary|(범위가) ~에 이르다|range from A to B처럼 폭을 나타내요.|range from A to B|A에서 B에 이르다|The students' ages range from ten to fifteen.|학생들의 나이는 열 살에서 열다섯 살에 이른다.|Prices range from five to twenty dollars.|가격은 5달러에서 20달러까지 다양하다.|vary
+trade|n|commerce|무역; 거래|나라나 사람 사이에 물건을 사고파는 일이에요.|free trade|자유 무역|Trade between the two countries has increased.|두 나라 사이의 무역이 늘어났다.|The city grew rich through trade with other ports.|그 도시는 다른 항구들과의 무역으로 부유해졌다.|commerce
+trade|v|exchange|교환하다; 거래하다|물건을 서로 바꾸거나 사고팔 때 써요.|trade A for B|A를 B와 바꾸다|I traded my sandwich for his apple.|나는 내 샌드위치를 그의 사과와 바꾸었다.|The two countries trade oil and cars.|두 나라는 석유와 자동차를 거래한다.|exchange
+chief|adj|main|최고의; 주요한|가장 중요하거나 높은 자리에 있는 것이에요.|the chief reason|주된 이유|The chief reason for the delay was bad weather.|지연의 주된 이유는 나쁜 날씨였다.|Rice is the chief food in many Asian countries.|쌀은 많은 아시아 국가의 주식이다.|major
+chief|n|leader|우두머리; 장|단체를 이끄는 가장 높은 사람이에요.|the police chief|경찰서장|The chief of the village welcomed the guests.|마을의 우두머리가 손님들을 맞이했다.|She was named chief of the hospital.|그녀는 그 병원의 원장으로 임명되었다.|head
+hate|v|dislike-strongly|몹시 싫어하다|무언가를 아주 싫어할 때 써요.|hate waiting|기다리는 것을 싫어하다|I hate getting up early on weekends.|나는 주말에 일찍 일어나는 것을 몹시 싫어한다.|Many students hate taking tests.|많은 학생이 시험 보는 것을 싫어한다.
+hate|n|hatred|증오|누군가를 몹시 미워하는 감정이에요.|love and hate|사랑과 증오|Hate can destroy a friendship.|증오는 우정을 파괴할 수 있다.|The story shows how love can defeat hate.|그 이야기는 사랑이 어떻게 증오를 이길 수 있는지 보여 준다.
+property|n|possessions|재산; 소유물|어떤 사람이 가진 물건이나 땅이에요.|private property|사유 재산|This land is private property.|이 땅은 사유 재산이다.|The thieves stole property worth thousands of dollars.|도둑들은 수천 달러 가치의 재산을 훔쳤다.
+property|n|quality|속성; 특성|물질이 지닌 고유한 성질이에요.|physical properties|물리적 성질|Water has some unusual properties.|물은 몇 가지 특이한 성질을 지니고 있다.|Some plants have healing properties.|어떤 식물은 치유하는 특성을 지니고 있다.
+quality|n|standard|질; 품질|좋고 나쁜 정도를 말해요.|high quality|고품질|This shop sells clothes of high quality.|이 가게는 품질이 좋은 옷을 판다.|Air quality is poor in big cities.|대도시는 대기 질이 나쁘다.
+quality|n|characteristic|자질; 특성|사람이 지닌 좋은 성격이나 능력이에요.|leadership qualities|지도자의 자질|Patience is an important quality for a teacher.|인내심은 교사에게 중요한 자질이다.|She has many good qualities.|그녀에게는 좋은 자질이 많다.|property
+vote|v|choose-officially|투표하다|선거나 회의에서 찬반이나 사람을 고를 때 써요.|vote for|~에 찬성 투표하다|Citizens over eighteen can vote in the election.|18세 이상 시민은 선거에서 투표할 수 있다.|Most members voted for the new plan.|대부분의 회원이 새 계획에 찬성 투표했다.
+vote|n|ballot|투표; 표|투표하는 일이나 한 사람이 던지는 표예요.|take a vote|표결하다|The class took a vote to choose a leader.|반 학생들은 반장을 뽑으려고 투표했다.|She won the election by fifty votes.|그녀는 50표 차로 선거에서 이겼다.
+add|v|put-together|더하다; 추가하다|무언가를 보태거나 넣을 때 써요.|add sugar|설탕을 넣다|Add some salt to the soup.|수프에 소금을 조금 넣어라.|The school added two new classes this year.|학교는 올해 두 개의 반을 새로 추가했다.
+add|v|say-more|덧붙여 말하다|이미 한 말에 더 말할 때 써요.|add that|~라고 덧붙이다|"And please be on time," she added.|"그리고 제발 시간을 지켜라."라고 그녀가 덧붙였다.|He added that the meeting would be short.|그는 회의가 짧을 것이라고 덧붙여 말했다.
+article|n|written-piece|기사; 글|신문이나 잡지에 실린 글이에요.|a newspaper article|신문 기사|I read an interesting article about space travel.|나는 우주여행에 관한 흥미로운 기사를 읽었다.|She wrote an article for the school paper.|그녀는 교내 신문에 글을 썼다.
+article|n|item|물품; 조항|하나의 물건이나 법·계약의 한 항목이에요.|an article of clothing|옷 한 벌|Each article in the shop has a price tag.|가게의 모든 물품에는 가격표가 붙어 있다.|Article 3 of the rules explains the dress code.|규칙 제3조는 복장 규정을 설명한다.|item
+release|v|set-free|풀어 주다; 방출하다|가두었던 것을 내보낼 때 써요.|release a bird|새를 풀어 주다|They released the bird back into the wild.|그들은 새를 야생으로 다시 풀어 주었다.|Factories release smoke into the air.|공장은 공기 중으로 연기를 내뿜는다.
+release|v|publish|공개하다; 발표하다|영화나 음악, 정보를 세상에 내놓을 때 써요.|release a movie|영화를 개봉하다|The band will release its new album next month.|그 밴드는 다음 달에 새 앨범을 발표할 것이다.|The government released the results of the study.|정부는 그 연구의 결과를 공개했다.
+technology|n|applied-science|기술|과학 지식을 실제 생활에 쓰는 방법이에요.|modern technology|현대 기술|Technology has made our lives easier.|기술 덕분에 우리 삶이 더 편리해졌다.|Schools are using new technology in classrooms.|학교들은 교실에서 새로운 기술을 사용하고 있다.
+code|n|rules|규범; 규정|지켜야 할 행동 기준이에요.|a dress code|복장 규정|The school has a strict dress code.|그 학교는 엄격한 복장 규정이 있다.|Doctors follow a code of ethics.|의사들은 윤리 규범을 따른다.
+code|n|secret-system|암호; 부호|정보를 감추거나 표시하는 기호 체계예요.|a secret code|비밀 암호|The spies sent messages in a secret code.|스파이들은 비밀 암호로 메시지를 보냈다.|Enter the code to open the door.|문을 열려면 비밀번호를 입력해라.
+legal|adj|lawful|합법적인; 법률의|법에 맞거나 법과 관련된 것이에요.|legal advice|법률 자문|Is it legal to park here at night?|밤에 여기 주차하는 것이 합법적일까?|She asked a lawyer for legal advice.|그녀는 변호사에게 법률 자문을 구했다.
+race|n|competition|경주; 경쟁|누가 더 빠른지 겨루는 일이에요.|win a race|경주에서 이기다|He won the race by two seconds.|그는 2초 차로 경주에서 이겼다.|The race to develop new medicine is intense.|신약을 개발하려는 경쟁이 치열하다.|competition
+race|n|ethnic-group|인종; 민족|피부색 등 신체적 특징으로 나눈 사람의 무리예요.|people of all races|모든 인종의 사람들|The law protects people of every race.|그 법은 모든 인종의 사람을 보호한다.|We should not judge others by their race.|우리는 다른 사람을 인종으로 판단해서는 안 된다.

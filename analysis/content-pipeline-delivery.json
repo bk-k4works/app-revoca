@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-16",
+  "implementation": "S0-S7 CLI and Flutter integration",
+  "source": {
+    "headwords": 3000,
+    "elementary": 800,
+    "commonCourse": 1200,
+    "humanComparisons": 0,
+    "status": "awaiting_two_human_checks"
+  },
+  "content": {
+    "unreviewedReferenceExamples": 50,
+    "humanApprovedSenses": 0,
+    "developmentBundleSenses": 30,
+    "paidBatchCalls": 0,
+    "synthesizedProductionAudio": 0
+  },
+  "validation": {
+    "pythonTestsPassed": 32,
+    "flutterTestsPassed": 29,
+    "iosNativeIntegrationTestsPassed": 2,
+    "flutterAnalyze": "passed",
+    "androidDebugBuild": "passed"
+  },
+  "remainingProductionWork": [
+    "Two human source comparisons",
+    "100-word prompt pilot and human approvals",
+    "300 approved release senses and independent 10% sample",
+    "TTS provider rights/voice confirmation and production synthesis",
+    "ASR and required listening review",
+    "Release package build/install and optional audio-pack hosting"
+  ],
+  "operationsGuide": "docs/content-pipeline-operations.md",
+  "pilotExecution": {
+    "mode": "codex-local",
+    "summary": "content/pilots/pilot-v1/execution.json",
+    "headwords": 100,
+    "senseCandidates": 154,
+    "examples": 308,
+    "automaticPassed": 100,
+    "codexReviewed": 100,
+    "humanApproved": 0
+  }
+}

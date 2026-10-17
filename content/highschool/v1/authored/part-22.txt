@@ -1,0 +1,71 @@
+# 고교 핵심 741–800위. 표제어 목록만 참고하여 독자 작성.
+headache|n|head-pain|두통; 골칫거리|머리가 아픈 것이나 귀찮은 문제예요.|have a headache|두통이 있다|I have a terrible headache today.|나는 오늘 두통이 심하다.|Finding a parking space is always a headache.|주차 공간을 찾는 것은 늘 골칫거리이다.
+incentive|n|motivation|장려책; 동기|무엇을 하게 만드는 보상이나 이유예요.|an incentive to|~할 동기|The company offers incentives to its best workers.|그 회사는 우수한 직원에게 장려금을 준다.|Lower taxes give people an incentive to save.|세금이 낮아지면 사람들이 저축할 동기가 생긴다.|motivation
+scholar|n|academic|학자|어떤 분야를 깊이 연구하는 사람이에요.|a famous scholar|유명한 학자|He is a scholar of ancient history.|그는 고대사를 연구하는 학자이다.|Scholars from many countries attended the meeting.|여러 나라의 학자들이 그 회의에 참석했다.
+absurd|adj|ridiculous|터무니없는; 불합리한|말이 안 될 만큼 어리석은 것이에요.|an absurd idea|터무니없는 생각|It is absurd to wear a coat in summer.|여름에 코트를 입는 것은 터무니없다.|The idea sounded absurd at first, but it worked.|그 생각은 처음엔 터무니없게 들렸지만 효과가 있었다.|ridiculous
+ambitious|adj|determined|야심 있는; 야심 찬|크게 성공하려는 마음이 강한 것이에요.|an ambitious plan|야심 찬 계획|She is an ambitious young scientist.|그녀는 야심 있는 젊은 과학자이다.|The city has ambitious plans for a new park.|그 도시는 새 공원을 짓는 야심 찬 계획을 세웠다.
+critic|n|reviewer|비평가; 비판하는 사람|작품을 평가하거나 무엇을 비판하는 사람이에요.|a film critic|영화 평론가|The critic gave the movie five stars.|그 평론가는 영화에 별 다섯 개를 주었다.|Critics of the plan say it is too expensive.|그 계획을 비판하는 사람들은 너무 비싸다고 말한다.
+sigh|v|breathe-out|한숨 쉬다|지치거나 실망해서 숨을 길게 내쉴 때 써요.|sigh deeply|깊이 한숨 쉬다|She sighed when she saw the long line.|그녀는 긴 줄을 보고 한숨을 쉬었다.|He sighed with relief after the exam.|그는 시험이 끝나자 안도의 한숨을 쉬었다.
+sigh|n|deep-breath|한숨|길게 내쉬는 숨이에요.|a sigh of relief|안도의 한숨|She let out a long sigh.|그녀는 긴 한숨을 내쉬었다.|We all breathed a sigh of relief.|우리는 모두 안도의 한숨을 쉬었다.
+spouse|n|husband-or-wife|배우자|결혼한 상대인 남편이나 아내예요.|your spouse|당신의 배우자|Employees can bring their spouses to the party.|직원들은 배우자를 파티에 데려올 수 있다.|Please write your spouse's name on the form.|양식에 배우자의 이름을 적어라.
+consist|v|be-made-up|이루어져 있다|consist of로 무엇으로 구성되어 있음을 말해요.|consist of|~으로 구성되다|The team consists of ten players.|그 팀은 선수 열 명으로 구성되어 있다.|A healthy breakfast consists of fruit, eggs, and bread.|건강한 아침 식사는 과일, 달걀, 빵으로 이루어진다.
+illusion|n|false-idea|환상; 착각|사실이 아닌 생각이나 눈의 착각이에요.|an optical illusion|착시|The mirror creates the illusion of a bigger room.|거울은 방이 더 넓어 보이는 착각을 일으킨다.|She has no illusions about how hard the job is.|그녀는 그 일이 얼마나 힘든지에 대해 환상을 갖고 있지 않다.
+profound|adj|deep|깊은; 심오한|영향이나 생각이 아주 깊은 것이에요.|a profound effect|깊은 영향|The book had a profound effect on me.|그 책은 나에게 깊은 영향을 미쳤다.|He asked a profound question about life.|그는 삶에 관한 심오한 질문을 했다.|deep
+squeeze|v|press|짜다; 꽉 쥐다|세게 눌러 짜거나 좁은 곳에 밀어 넣을 때 써요.|squeeze a lemon|레몬을 짜다|Squeeze the juice from two oranges.|오렌지 두 개에서 즙을 짜라.|We squeezed five people into the small car.|우리는 작은 차에 다섯 명이 꽉 끼어 탔다.|press
+arise|v|occur|생기다; 발생하다|문제나 상황이 나타날 때 써요.|problems arise|문제가 생기다|Call me if any problems arise.|문제가 생기면 나에게 전화해라.|A new question arose during the meeting.|회의 중에 새로운 질문이 생겼다.|occur
+bundle|n|bunch|묶음; 꾸러미|여러 개를 함께 묶은 것이에요.|a bundle of|한 묶음의|She carried a bundle of old letters.|그녀는 오래된 편지 한 묶음을 들고 있었다.|He tied the sticks into a bundle.|그는 나뭇가지들을 한 다발로 묶었다.|bunch
+discharge|v|release|퇴원시키다; 배출하다|병원에서 내보내거나 밖으로 흘려보낼 때 써요.|be discharged from hospital|퇴원하다|She was discharged from the hospital yesterday.|그녀는 어제 퇴원했다.|The factory discharged waste into the river.|그 공장은 강으로 폐수를 배출했다.|release
+occupy|v|take-up|차지하다; 점령하다|공간이나 시간을 쓰거나 장소를 장악할 때 써요.|occupy a seat|자리를 차지하다|The big sofa occupies most of the room.|큰 소파가 방의 대부분을 차지한다.|Enemy soldiers occupied the city.|적군이 그 도시를 점령했다.
+affection|n|love|애정; 호감|누군가를 좋아하고 아끼는 마음이에요.|show affection|애정을 표현하다|She looked at her baby with great affection.|그녀는 깊은 애정을 담아 아기를 바라보았다.|Dogs show affection by wagging their tails.|개는 꼬리를 흔들어 애정을 표현한다.|love
+exceed|v|go-beyond|넘다; 초과하다|정해진 양이나 기대를 넘어설 때 써요.|exceed the speed limit|제한 속도를 넘다|Do not exceed the speed limit.|제한 속도를 넘지 마라.|The results exceeded our expectations.|결과는 우리의 기대를 넘어섰다.
+outline|n|summary|개요; 윤곽|중요한 내용만 간단히 정리한 것이나 겉모양의 선이에요.|a brief outline|간단한 개요|Write an outline before you start your essay.|에세이를 쓰기 전에 개요를 작성해라.|We could see the outline of the mountains in the fog.|안개 속에서 산의 윤곽이 보였다.|summary
+outline|v|summarize|개요를 설명하다|핵심을 간단히 말할 때 써요.|outline a plan|계획을 간략히 설명하다|The manager outlined the plan for next year.|관리자는 내년 계획을 간략히 설명했다.|The report outlines the main problems.|그 보고서는 주요 문제들을 개괄한다.
+receipt|n|proof-of-payment|영수증; 수령|물건을 산 것을 증명하는 종이예요.|keep the receipt|영수증을 보관하다|Keep the receipt in case you want to return it.|반품할 경우를 대비해 영수증을 보관해라.|Please sign to confirm receipt of the package.|소포를 받았음을 확인하려면 서명해라.
+ambition|n|goal|야망; 포부|크게 이루고 싶은 목표예요.|achieve an ambition|야망을 이루다|Her ambition is to become a pilot.|그녀의 포부는 조종사가 되는 것이다.|He lacks ambition.|그는 야망이 부족하다.|goal
+toss|v|throw|던지다; 뒤척이다|가볍게 던지거나 이리저리 움직일 때 써요.|toss a coin|동전을 던지다|She tossed the ball to her brother.|그녀는 동생에게 공을 던졌다.|I tossed and turned all night.|나는 밤새 뒤척였다.|throw
+conclude|v|decide|결론짓다|생각한 끝에 판단을 내릴 때 써요.|conclude that|~라고 결론짓다|The scientists concluded that the water was safe.|과학자들은 그 물이 안전하다고 결론지었다.|What can you conclude from this data?|이 자료에서 어떤 결론을 내릴 수 있니?|decide
+conclude|v|end|끝내다; 마치다|말이나 행사를 끝낼 때 써요.|conclude a speech|연설을 마치다|She concluded her speech with a short poem.|그녀는 짧은 시로 연설을 마무리했다.|The meeting concluded at five o'clock.|회의는 다섯 시에 끝났다.|end
+sensation|n|feeling|느낌; 감각|몸으로 느끼는 것이에요.|a burning sensation|타는 듯한 느낌|I had a strange sensation in my fingers.|손가락에 이상한 느낌이 들었다.|There was no sensation in his left leg.|그의 왼쪽 다리에는 감각이 없었다.|feeling
+sensation|n|big-excitement|센세이션; 돌풍|많은 사람을 흥분시키는 일이나 사람이에요.|cause a sensation|센세이션을 일으키다|The new singer became an overnight sensation.|그 신인 가수는 하룻밤 사이에 돌풍을 일으켰다.|The news caused a sensation around the world.|그 소식은 전 세계에 큰 반향을 일으켰다.
+stiff|adj|rigid|뻣뻣한; 결리는|잘 구부러지지 않거나 근육이 굳은 것이에요.|a stiff neck|뻐근한 목|My neck is stiff from sleeping badly.|잠을 잘못 자서 목이 뻐근하다.|The new shoes feel stiff.|새 신발이 뻣뻣하게 느껴진다.|rigid
+terrific|adj|great|아주 좋은; 굉장한|매우 훌륭하거나 엄청난 것이에요.|a terrific idea|아주 좋은 생각|That is a terrific idea!|그거 정말 좋은 생각이다!|We had a terrific time at the beach.|우리는 해변에서 아주 즐거운 시간을 보냈다.|fantastic
+emerge|v|appear|드러나다; 나타나다|안에서 밖으로 나오거나 사실이 알려질 때 써요.|emerge from|~에서 나오다|The sun emerged from behind the clouds.|해가 구름 뒤에서 나타났다.|New facts emerged during the investigation.|조사 중에 새로운 사실이 드러났다.|appear
+interfere|v|get-in-the-way|간섭하다; 방해하다|남의 일에 끼어들거나 방해할 때 써요.|interfere with|~을 방해하다|Do not let games interfere with your studies.|게임이 공부를 방해하지 않도록 해라.|My parents never interfere in my decisions.|부모님은 내 결정에 절대 간섭하지 않으신다.
+consult|v|ask-advice|상담하다; 참고하다|전문가에게 묻거나 자료를 찾아볼 때 써요.|consult a doctor|의사와 상담하다|You should consult a doctor if the pain continues.|통증이 계속되면 의사와 상담해야 한다.|I consulted a dictionary to check the meaning.|나는 뜻을 확인하려고 사전을 찾아보았다.
+distinguish|v|differentiate|식별하다; 구별하다|차이를 알아보고 나눌 때 써요.|distinguish A from B|A를 B와 구별하다|Some people cannot distinguish red from green.|어떤 사람들은 빨간색과 초록색을 구별하지 못한다.|It is important to distinguish facts from opinions.|사실과 의견을 구별하는 것이 중요하다.|tell
+fade|v|disappear-slowly|희미해지다; 바래다|색이나 소리, 기억이 점점 약해질 때 써요.|fade away|사라지다|The colors of the old photo have faded.|오래된 사진의 색이 바랬다.|The sound of the music slowly faded.|음악 소리가 서서히 희미해졌다.
+instinct|n|natural-sense|본능; 직감|배우지 않아도 타고난 행동이나 느낌이에요.|by instinct|본능적으로|Birds build nests by instinct.|새는 본능적으로 둥지를 짓는다.|Trust your instincts.|네 직감을 믿어라.
+prompt|adj|quick|신속한; 즉각적인|기다리지 않고 바로 하는 것이에요.|a prompt reply|신속한 답장|Thank you for your prompt reply.|빨리 답장해 주어 고맙다.|The illness needs prompt treatment.|그 병은 즉각적인 치료가 필요하다.|quick
+prompt|v|cause|유도하다; 촉발하다|어떤 행동을 하게 만들 때 써요.|prompt someone to|~가 ~하도록 하다|The accident prompted the city to build a new road.|그 사고를 계기로 시는 새 도로를 건설했다.|What prompted you to change schools?|무엇 때문에 학교를 옮기게 되었니?|cause
+clarify|v|explain|분명히 하다; 명확하게 설명하다|헷갈리는 것을 분명하게 할 때 써요.|clarify a point|요점을 분명히 하다|Could you clarify what you mean?|무슨 뜻인지 분명히 말해 줄 수 있니?|The teacher clarified the rules of the game.|선생님은 게임 규칙을 명확하게 설명하셨다.|explain
+dismiss|v|reject|묵살하다; 일축하다|생각이나 말을 중요하지 않다고 무시할 때 써요.|dismiss an idea|생각을 일축하다|She dismissed the rumor as nonsense.|그녀는 그 소문을 터무니없다며 일축했다.|Do not dismiss his advice so quickly.|그의 충고를 그렇게 성급히 무시하지 마라.|reject
+dismiss|v|let-go|해산시키다; 해고하다|모인 사람을 보내거나 일에서 내보낼 때 써요.|dismiss a class|수업을 끝내다|The teacher dismissed the class early.|선생님은 수업을 일찍 끝내 주셨다.|He was dismissed for being late too often.|그는 너무 자주 지각해서 해고되었다.|fire
+analyze|v|examine|분석하다|자세히 나누어 살펴볼 때 써요.|analyze data|자료를 분석하다|Scientists analyzed the samples in the lab.|과학자들은 실험실에서 표본을 분석했다.|Let us analyze why the plan failed.|그 계획이 왜 실패했는지 분석해 보자.|examine
+enthusiastic|adj|eager|열렬한; 열정적인|매우 신이 나서 적극적인 것이에요.|be enthusiastic about|~에 열성적이다|The students were enthusiastic about the trip.|학생들은 그 여행에 큰 기대를 보였다.|The crowd gave the band an enthusiastic welcome.|관중은 밴드를 열렬히 환영했다.|eager
+envy|n|jealousy|부러움; 질투|남이 가진 것을 갖고 싶은 마음이에요.|feel envy|부러워하다|She felt a little envy when her friend won the prize.|친구가 상을 받자 그녀는 조금 부러웠다.|His new car is the envy of his neighbors.|그의 새 차는 이웃들의 부러움을 산다.|jealousy
+envy|v|be-jealous|부러워하다|남이 가진 것을 탐낼 때 써요.|envy someone|~을 부러워하다|I envy people who can speak many languages.|나는 여러 언어를 할 줄 아는 사람들이 부럽다.|Many people envied her success.|많은 사람이 그녀의 성공을 부러워했다.
+convey|v|communicate|전달하다; 운반하다|생각이나 물건을 다른 곳에 전할 때 써요.|convey a message|메시지를 전달하다|The painting conveys a feeling of peace.|그 그림은 평화로운 느낌을 전한다.|Pipes convey water to the city.|관이 도시로 물을 운반한다.|communicate
+decay|v|rot|썩다; 쇠퇴하다|시간이 지나며 상하거나 약해질 때 써요.|tooth decay|충치|Sugar can cause your teeth to decay.|설탕은 이를 썩게 할 수 있다.|The old building has started to decay.|그 오래된 건물이 허물어지기 시작했다.|rot
+decay|n|rotting|부패; 쇠퇴|썩거나 약해지는 것이에요.|in decay|쇠퇴하는|Brushing your teeth prevents decay.|이를 닦으면 충치를 막을 수 있다.|The town fell into decay after the factory closed.|공장이 문을 닫은 뒤 그 마을은 쇠퇴했다.
+imply|v|suggest|넌지시 말하다; 암시하다|직접 말하지 않고 뜻을 드러낼 때 써요.|imply that|~을 암시하다|Are you implying that I am lazy?|내가 게으르다고 말하고 싶은 거니?|His silence implied that he agreed.|그의 침묵은 그가 동의한다는 것을 암시했다.|suggest
+obey|v|follow|따르다; 복종하다|규칙이나 명령대로 할 때 써요.|obey the rules|규칙을 따르다|Drivers must obey traffic laws.|운전자는 교통 법규를 지켜야 한다.|The dog obeyed every command.|그 개는 모든 명령에 따랐다.|follow
+confess|v|admit|고백하다; 자백하다|잘못이나 숨긴 것을 털어놓을 때 써요.|confess to a crime|범죄를 자백하다|He confessed that he had broken the vase.|그는 꽃병을 깨뜨렸다고 고백했다.|I must confess I was a little nervous.|솔직히 나는 조금 긴장했다.|admit
+despair|n|hopelessness|절망|희망이 전혀 없는 상태예요.|in despair|절망하여|He shook his head in despair.|그는 절망하며 고개를 저었다.|The news filled her with despair.|그 소식은 그녀를 절망에 빠뜨렸다.|hopelessness
+endure|v|tolerate|견디다; 참다|힘든 상황을 오래 참아 낼 때 써요.|endure pain|고통을 견디다|They had to endure a long, cold winter.|그들은 길고 추운 겨울을 견뎌야 했다.|I cannot endure this noise any longer.|나는 이 소음을 더 이상 참을 수 없다.|bear
+persuade|v|convince|설득하다|이유를 들어 생각이나 행동을 바꾸게 할 때 써요.|persuade someone to|~가 ~하도록 설득하다|She persuaded her parents to let her go camping.|그녀는 부모님을 설득해 캠핑을 허락받았다.|It is hard to persuade him to change his mind.|그의 마음을 바꾸도록 설득하기는 어렵다.|convince
+vocabulary|n|words|어휘|알고 쓰는 단어들이에요.|expand your vocabulary|어휘를 늘리다|Reading helps you expand your vocabulary.|독서는 어휘를 늘리는 데 도움이 된다.|The book uses simple vocabulary for children.|그 책은 아이들을 위해 쉬운 어휘를 쓴다.
+absorb|v|soak-up|흡수하다; 받아들이다|액체나 정보를 빨아들일 때 써요.|absorb water|물을 흡수하다|Plants absorb water through their roots.|식물은 뿌리로 물을 흡수한다.|Children absorb new information quickly.|아이들은 새로운 정보를 빨리 받아들인다.|soak up
+accompany|v|go-with|동행하다; 동반하다|함께 가거나 함께 일어날 때 써요.|accompany someone|~와 동행하다|Children must be accompanied by an adult.|아이들은 어른과 함께 와야 한다.|Thunder often accompanies heavy rain.|천둥은 흔히 폭우를 동반한다.
+flee|v|escape|달아나다; 피하다|위험을 피해 급히 떠날 때 써요.|flee the country|나라를 떠나 피신하다|Thousands of people fled the war.|수천 명이 전쟁을 피해 달아났다.|The thief fled when he heard the alarm.|도둑은 경보 소리를 듣고 달아났다.|escape
+pupil|n|student|학생; 제자|선생님에게 배우는 사람이에요.|a former pupil|옛 제자|The school has about five hundred pupils.|그 학교에는 학생이 약 500명 있다.|She was a pupil of a famous painter.|그녀는 유명한 화가의 제자였다.|student
+pupil|n|eye-part|눈동자; 동공|눈 가운데의 검은 부분이에요.|dilated pupils|확대된 동공|Your pupils get bigger in the dark.|어두운 곳에서는 동공이 커진다.|The doctor shined a light into my pupils.|의사가 내 동공에 빛을 비췄다.
+reluctant|adj|unwilling|꺼리는; 마지못한|하고 싶지 않아 망설이는 것이에요.|be reluctant to|~하기를 꺼리다|He was reluctant to talk about his past.|그는 자신의 과거에 대해 이야기하기를 꺼렸다.|She gave a reluctant smile.|그녀는 마지못해 미소를 지었다.|unwilling
+undergo|v|go-through|겪다; 받다|변화나 치료, 시험 등을 거칠 때 써요.|undergo surgery|수술을 받다|He underwent surgery on his knee.|그는 무릎 수술을 받았다.|The city is undergoing big changes.|그 도시는 큰 변화를 겪고 있다.|experience
+evolve|v|develop|진화하다; 발전하다|오랜 시간에 걸쳐 조금씩 변할 때 써요.|evolve over time|시간이 지나며 발전하다|Humans evolved over millions of years.|인간은 수백만 년에 걸쳐 진화했다.|The company has evolved into a global business.|그 회사는 세계적인 기업으로 발전했다.|develop
+explode|v|blow-up|폭발하다; 급증하다|갑자기 터지거나 수가 크게 늘 때 써요.|explode suddenly|갑자기 폭발하다|The firework exploded in the night sky.|불꽃이 밤하늘에서 터졌다.|The number of online users exploded last year.|작년에 온라인 사용자 수가 폭증했다.|burst
+peel|v|remove-skin|껍질을 벗기다|과일이나 채소의 껍질을 벗길 때 써요.|peel an orange|오렌지 껍질을 벗기다|Peel the potatoes before you cook them.|요리하기 전에 감자 껍질을 벗겨라.|The paint is peeling off the wall.|벽의 페인트가 벗겨지고 있다.
+peel|n|skin|껍질|과일이나 채소의 겉껍질이에요.|orange peel|오렌지 껍질|Throw the banana peel in the trash.|바나나 껍질을 쓰레기통에 버려라.|Lemon peel gives the cake a nice smell.|레몬 껍질은 케이크에 좋은 향을 낸다.|skin
+restrict|v|limit|제약하다; 제한하다|양이나 범위를 정해 넘지 못하게 할 때 써요.|restrict access|접근을 제한하다|The school restricts phone use during class.|학교는 수업 중 휴대전화 사용을 제한한다.|Access to the area is restricted.|그 지역은 출입이 제한된다.|limit
+cooperate|v|work-together|협력하다; 협조하다|함께 힘을 모아 일할 때 써요.|cooperate with|~와 협력하다|The two schools cooperated on the project.|두 학교는 그 프로젝트에 협력했다.|Please cooperate with the police.|경찰에 협조해 달라.
+distribute|v|hand-out|나누어 주다; 분배하다|여러 사람에게 나누어 줄 때 써요.|distribute food|음식을 나누어 주다|Volunteers distributed food to the homeless.|자원봉사자들이 노숙인들에게 음식을 나누어 주었다.|The teacher distributed the test papers.|선생님이 시험지를 나누어 주셨다.|hand out
+mechanic|n|repair-worker|정비공; 기계공|자동차나 기계를 고치는 사람이에요.|a car mechanic|자동차 정비공|The mechanic fixed the engine in an hour.|정비공이 한 시간 만에 엔진을 고쳤다.|My uncle works as a mechanic.|삼촌은 정비공으로 일하신다.

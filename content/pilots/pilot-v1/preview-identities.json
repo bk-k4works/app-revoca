@@ -1,0 +1,7 @@
+{
+  "achieve.v.goal": {"id": "achieve.v.goal", "note": "기존 달성하다와 같은 목표 달성 의미."},
+  "compare.v.differences": {"id": "compare.v.difference", "note": "기존 비교하다와 같은 유사점·차이점 비교 의미."},
+  "describe.v.details": {"id": "describe.v.details", "note": "기존 묘사하다와 같은 특징을 말로 설명하는 의미."},
+  "practice.v.train": {"id": "practice.v.skill", "note": "기존 연습하다와 같은 기술 습득을 위한 반복 행동. 명사 연습에는 연결하지 않음."},
+  "prepare.v.ready": {"id": "prepare.v.ready", "note": "기존 준비하다와 같은 사전 준비 의미."}
+}

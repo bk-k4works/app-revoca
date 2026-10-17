@@ -1,0 +1,65 @@
+{
+  "checkedAt": "2026-10-16",
+  "status": "source_extraction_verified_not_editorially_approved",
+  "manifestPath": "content/imports/pdf-books-v1/manifest.json",
+  "manifestSha256": "a2033aa03798c196180274337940f3eb7187dba0d9d5aca47ad3b099c057fb96",
+  "checks": {
+    "sourceEntrySequence": "2000 high + 300 middle without missing/duplicate numbers",
+    "highIndex": "2000 headword/page references matched one-to-one",
+    "completeExampleAndCollocationPairs": true,
+    "contentHashes": true,
+    "outputHashes": true,
+    "twentyEntryUnitsPartitionSourceEntries": true,
+    "halfResourceAssociation": true,
+    "sqliteIntegrity": "ok",
+    "sqliteForeignKeyErrors": 0,
+    "repeatImportByteIdentical": true,
+    "gradeAndApprovalNotInferred": true
+  },
+  "sqliteCounts": {
+    "books": 2,
+    "source_entries": 2300,
+    "examples": 3642,
+    "collocations": 300,
+    "related_words": 153,
+    "resources": 697,
+    "units": 115,
+    "unit_entries": 2300,
+    "study_supplements": 6
+  },
+  "testRun": {
+    "command": ".venv-content/bin/python -m unittest discover -s tool/content/tests -v",
+    "passed": 51,
+    "pdfTests": 12
+  },
+  "reviewQueueEntries": 265,
+  "fullEditorialReviewPending": 2300,
+  "appContentSha256": "ef0a9dab4df7e4794d05421be574c519178022df2baa6797e9897da40b9acdec",
+  "visualChecks": {
+    "highPhysicalPages": [
+      5,
+      21,
+      411
+    ],
+    "middlePhysicalPages": [
+      2,
+      25,
+      26,
+      39,
+      42,
+      49,
+      62
+    ],
+    "ipaTranscriptionEntryIds": [
+      "ebs-middle-excerpt:0110",
+      "ebs-middle-excerpt:0182",
+      "ebs-middle-excerpt:0264"
+    ]
+  },
+  "scopeLimitations": [
+    "Questions and answer keys retained by page; item pairing pending.",
+    "Etymology source claims not independently verified.",
+    "Grade classification deferred to full editorial review.",
+    "PDF redistribution rights not verified; source import is not app release approval."
+  ]
+}

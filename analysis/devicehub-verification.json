@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-16",
+  "target": {
+    "name": "iPhone 18 Pro",
+    "os": "iOS 27.0",
+    "type": "simulator",
+    "deviceId": "CBC49297-9B96-47AE-9605-DEE2AD9A83D4",
+    "viewer": "Device Hub"
+  },
+  "build": {
+    "command": "flutter run -d CBC49297-9B96-47AE-9605-DEE2AD9A83D4 --debug",
+    "result": "passed",
+    "xcodeBuildSeconds": 7.7,
+    "warning": "Target native_assets required define SdkRoot but it was not provided",
+    "warningImpact": "Did not prevent build or launch."
+  },
+  "integrationTests": {
+    "command": "flutter test integration_test/persistence_test.dart -d CBC49297-9B96-47AE-9605-DEE2AD9A83D4",
+    "passed": 2,
+    "failed": 0,
+    "coverage": [
+      "Content SQLite lazy detail loading and atomic legacy migration",
+      "Native SQLite answer, review date, and session position restoration"
+    ]
+  },
+  "manualChecks": [
+    "Home, deck list, deck detail, and empty learning records rendered without visible layout errors.",
+    "Search for ach filtered the deck to achieve using the simulator software keyboard.",
+    "Word detail displayed meaning, collocation, example, translation, and expandable explanation.",
+    "Pronunciation control changed to stop while device TTS was active.",
+    "Continuous listening advanced from achieve to practice and prepare; pause restored the play control.",
+    "Learning revealed the meaning and advanced from achieve at 1/5 to practice at 2/5.",
+    "After Flutter hot restart, resume restored practice at 2/5.",
+    "No Flutter runtime exception appeared in the attached run output during these checks."
+  ],
+  "content": {
+    "version": "dev-starter-1",
+    "senseCount": 30,
+    "deckCount": 3,
+    "developmentOnly": true,
+    "pilot100Included": false
+  },
+  "limitations": [
+    "Simulator debug verification only; no physical-device or release build verification in this run.",
+    "Audio state and progression were observed; audible output quality was not assessed.",
+    "Meaning and spelling quiz completion was not manually exercised in this smoke check."
+  ],
+  "handoff": "Returned to home and detached Flutter, leaving the app open with a resumable learning session at 2/5."
+}

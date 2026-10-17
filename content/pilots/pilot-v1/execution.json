@@ -1,0 +1,47 @@
+{
+  "updatedAt": "2026-10-16T08:27:52.854196+00:00",
+  "mode": "codex-local",
+  "status": "awaiting_human_review",
+  "headwords": 100,
+  "senseCandidates": 154,
+  "examples": 308,
+  "automaticChecks": {
+    "passed": 100,
+    "failed": 0,
+    "singleCandidateWarnings": 46,
+    "otherWarnings": 0
+  },
+  "codexReviewed": 100,
+  "independentModel": false,
+  "externalApiCalls": 0,
+  "extraEditorialFlagHeadwords": 16,
+  "humanApproved": 0,
+  "humanUneditedApprovalRate": null,
+  "pilotTargetMet": null,
+  "sourceHumanComparisons": 0,
+  "validation": {
+    "pythonTestsPassed": 39,
+    "htmlStructure": "passed",
+    "htmlRendering": "not_verified_browser_policy_blocks_file_protocol",
+    "flutterTestsPassed": 31,
+    "iosIntegrationTestsPassed": 3
+  },
+  "artifacts": {
+    "authored": "codex.authored.jsonl",
+    "reviewed": "codex.reviewed.jsonl",
+    "humanReviewCsv": "codex.review.csv",
+    "preview": "review.html",
+    "editorialLedger": "editorial-ledger-v2.jsonl",
+    "appAudit": "audit-editorial-v2/snapshot.json"
+  },
+  "hashes": {
+    "reviewedSha256": "c07df06893824e7ff55302b86f16e9ec8c1dc205416bd3a33b41983237db3638",
+    "humanReviewCsvSha256": "f658e862ecc00e7b0f1a8f1861da3b9a38b5d6a63f5a300d83deecee9a5c170c"
+  },
+  "nextSteps": [
+    "Actual human review of the 100 entries",
+    "Two actual source comparisons",
+    "Assess 80 percent unedited approval target; revise flagged content before release"
+  ],
+  "editorialPass": "v2"
+}

@@ -1,0 +1,640 @@
+{
+  "version": 2,
+  "method": "conservative lexicon-constrained rules; unknown forms require editorial review",
+  "allowedTokens": [
+    "English",
+    "Korean",
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday",
+    "Sunday",
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December",
+    "TV",
+    "AI"
+  ],
+  "irregular": {
+    "am": [
+      "be"
+    ],
+    "is": [
+      "be"
+    ],
+    "are": [
+      "be"
+    ],
+    "was": [
+      "be"
+    ],
+    "were": [
+      "be"
+    ],
+    "been": [
+      "be"
+    ],
+    "being": [
+      "be"
+    ],
+    "has": [
+      "have"
+    ],
+    "had": [
+      "have"
+    ],
+    "does": [
+      "do"
+    ],
+    "did": [
+      "do"
+    ],
+    "done": [
+      "do"
+    ],
+    "went": [
+      "go"
+    ],
+    "gone": [
+      "go"
+    ],
+    "came": [
+      "come"
+    ],
+    "got": [
+      "get"
+    ],
+    "gotten": [
+      "get"
+    ],
+    "made": [
+      "make"
+    ],
+    "took": [
+      "take"
+    ],
+    "taken": [
+      "take"
+    ],
+    "gave": [
+      "give"
+    ],
+    "given": [
+      "give"
+    ],
+    "saw": [
+      "see"
+    ],
+    "seen": [
+      "see"
+    ],
+    "knew": [
+      "know"
+    ],
+    "known": [
+      "know"
+    ],
+    "thought": [
+      "think"
+    ],
+    "said": [
+      "say"
+    ],
+    "told": [
+      "tell"
+    ],
+    "found": [
+      "find"
+    ],
+    "left": [
+      "leave"
+    ],
+    "felt": [
+      "feel"
+    ],
+    "kept": [
+      "keep"
+    ],
+    "met": [
+      "meet"
+    ],
+    "brought": [
+      "bring"
+    ],
+    "bought": [
+      "buy"
+    ],
+    "taught": [
+      "teach"
+    ],
+    "caught": [
+      "catch"
+    ],
+    "wrote": [
+      "write"
+    ],
+    "written": [
+      "write"
+    ],
+    "read": [
+      "read"
+    ],
+    "spoke": [
+      "speak"
+    ],
+    "spoken": [
+      "speak"
+    ],
+    "ate": [
+      "eat"
+    ],
+    "eaten": [
+      "eat"
+    ],
+    "drank": [
+      "drink"
+    ],
+    "drunk": [
+      "drink"
+    ],
+    "ran": [
+      "run"
+    ],
+    "sat": [
+      "sit"
+    ],
+    "stood": [
+      "stand"
+    ],
+    "understood": [
+      "understand"
+    ],
+    "chose": [
+      "choose"
+    ],
+    "chosen": [
+      "choose"
+    ],
+    "began": [
+      "begin"
+    ],
+    "begun": [
+      "begin"
+    ],
+    "became": [
+      "become"
+    ],
+    "built": [
+      "build"
+    ],
+    "spent": [
+      "spend"
+    ],
+    "sent": [
+      "send"
+    ],
+    "heard": [
+      "hear"
+    ],
+    "lost": [
+      "lose"
+    ],
+    "won": [
+      "win"
+    ],
+    "paid": [
+      "pay"
+    ],
+    "slept": [
+      "sleep"
+    ],
+    "held": [
+      "hold"
+    ],
+    "led": [
+      "lead"
+    ],
+    "grew": [
+      "grow"
+    ],
+    "grown": [
+      "grow"
+    ],
+    "drew": [
+      "draw"
+    ],
+    "drawn": [
+      "draw"
+    ],
+    "broke": [
+      "break"
+    ],
+    "broken": [
+      "break"
+    ],
+    "wore": [
+      "wear"
+    ],
+    "worn": [
+      "wear"
+    ],
+    "drove": [
+      "drive"
+    ],
+    "driven": [
+      "drive"
+    ],
+    "rode": [
+      "ride"
+    ],
+    "ridden": [
+      "ride"
+    ],
+    "flew": [
+      "fly"
+    ],
+    "flown": [
+      "fly"
+    ],
+    "fell": [
+      "fall"
+    ],
+    "fallen": [
+      "fall"
+    ],
+    "forgot": [
+      "forget"
+    ],
+    "forgotten": [
+      "forget"
+    ],
+    "rose": [
+      "rise"
+    ],
+    "risen": [
+      "rise"
+    ],
+    "children": [
+      "child"
+    ],
+    "people": [
+      "person"
+    ],
+    "feet": [
+      "foot"
+    ],
+    "teeth": [
+      "tooth"
+    ],
+    "mice": [
+      "mouse"
+    ],
+    "men": [
+      "man"
+    ],
+    "women": [
+      "woman"
+    ],
+    "better": [
+      "good"
+    ],
+    "best": [
+      "good"
+    ],
+    "worse": [
+      "bad"
+    ],
+    "worst": [
+      "bad"
+    ],
+    "them": [
+      "they"
+    ],
+    "their": [
+      "they"
+    ],
+    "theirs": [
+      "they"
+    ],
+    "themselves": [
+      "they"
+    ],
+    "us": [
+      "we"
+    ],
+    "our": [
+      "we"
+    ],
+    "ours": [
+      "we"
+    ],
+    "ourselves": [
+      "we"
+    ],
+    "me": [
+      "i"
+    ],
+    "my": [
+      "i"
+    ],
+    "mine": [
+      "i"
+    ],
+    "myself": [
+      "i"
+    ],
+    "him": [
+      "he"
+    ],
+    "his": [
+      "he"
+    ],
+    "himself": [
+      "he"
+    ],
+    "her": [
+      "she"
+    ],
+    "hers": [
+      "she"
+    ],
+    "herself": [
+      "she"
+    ],
+    "your": [
+      "you"
+    ],
+    "yours": [
+      "you"
+    ],
+    "yourself": [
+      "you"
+    ],
+    "yourselves": [
+      "you"
+    ],
+    "its": [
+      "it"
+    ],
+    "itself": [
+      "it"
+    ],
+    "more": [
+      "many",
+      "much"
+    ],
+    "most": [
+      "many",
+      "much"
+    ],
+    "less": [
+      "little"
+    ],
+    "least": [
+      "little"
+    ],
+    "these": [
+      "this"
+    ],
+    "those": [
+      "that"
+    ],
+    "whose": [
+      "who"
+    ],
+    "blew": [
+      "blow"
+    ],
+    "blown": [
+      "blow"
+    ],
+    "wound": [
+      "wind"
+    ]
+  },
+  "contractions": {
+    "can't": [
+      "can",
+      "not"
+    ],
+    "won't": [
+      "will",
+      "not"
+    ],
+    "don't": [
+      "do",
+      "not"
+    ],
+    "doesn't": [
+      "do",
+      "not"
+    ],
+    "didn't": [
+      "do",
+      "not"
+    ],
+    "isn't": [
+      "be",
+      "not"
+    ],
+    "aren't": [
+      "be",
+      "not"
+    ],
+    "wasn't": [
+      "be",
+      "not"
+    ],
+    "weren't": [
+      "be",
+      "not"
+    ],
+    "i'm": [
+      "i",
+      "be"
+    ],
+    "it's": [
+      "it",
+      "be"
+    ],
+    "that's": [
+      "that",
+      "be"
+    ],
+    "let's": [
+      "let",
+      "us"
+    ],
+    "i've": [
+      "i",
+      "have"
+    ],
+    "i'll": [
+      "i",
+      "will"
+    ],
+    "i'd": [
+      "i",
+      "would"
+    ],
+    "you're": [
+      "you",
+      "be"
+    ],
+    "you've": [
+      "you",
+      "have"
+    ],
+    "you'll": [
+      "you",
+      "will"
+    ],
+    "you'd": [
+      "you",
+      "would"
+    ],
+    "we're": [
+      "we",
+      "be"
+    ],
+    "we've": [
+      "we",
+      "have"
+    ],
+    "we'll": [
+      "we",
+      "will"
+    ],
+    "we'd": [
+      "we",
+      "would"
+    ],
+    "they're": [
+      "they",
+      "be"
+    ],
+    "they've": [
+      "they",
+      "have"
+    ],
+    "they'll": [
+      "they",
+      "will"
+    ],
+    "they'd": [
+      "they",
+      "would"
+    ],
+    "he'll": [
+      "he",
+      "will"
+    ],
+    "he'd": [
+      "he",
+      "would"
+    ],
+    "she'll": [
+      "she",
+      "will"
+    ],
+    "she'd": [
+      "she",
+      "would"
+    ],
+    "it'll": [
+      "it",
+      "will"
+    ],
+    "it'd": [
+      "it",
+      "would"
+    ],
+    "cannot": [
+      "can",
+      "not"
+    ]
+  },
+  "prefixes": [
+    "un",
+    "in",
+    "il",
+    "im",
+    "ir",
+    "en",
+    "em",
+    "inter",
+    "mis",
+    "re",
+    "dis"
+  ],
+  "suffixes": [
+    "able",
+    "er",
+    "ish",
+    "less",
+    "ly",
+    "ness",
+    "or",
+    "th",
+    "y",
+    "al",
+    "ical",
+    "ual",
+    "ation",
+    "ication",
+    "ful",
+    "ist",
+    "ity",
+    "ism",
+    "ize",
+    "ise",
+    "ment",
+    "ous",
+    "ance",
+    "ant",
+    "icant",
+    "ary",
+    "ence",
+    "ent",
+    "ship",
+    "ic",
+    "ify",
+    "ion",
+    "ive",
+    "ure"
+  ],
+  "scopeDerivations": {
+    "freedom": [
+      "free"
+    ],
+    "wooden": [
+      "wood"
+    ],
+    "scientist": [
+      "science"
+    ],
+    "carefully": [
+      "care"
+    ],
+    "solution": [
+      "solve"
+    ],
+    "storage": [
+      "store"
+    ],
+    "explanation": [
+      "explain"
+    ]
+  }
+}

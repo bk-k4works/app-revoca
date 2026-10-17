@@ -1,0 +1,42 @@
+{
+  "updatedAt": "2026-10-16T02:15:02.293240+00:00",
+  "mode": "codex-local",
+  "status": "awaiting_human_review",
+  "headwords": 100,
+  "senseCandidates": 154,
+  "examples": 308,
+  "automaticChecks": {
+    "passed": 100,
+    "failed": 0,
+    "singleCandidateWarnings": 46,
+    "otherWarnings": 0
+  },
+  "codexReviewed": 100,
+  "independentModel": false,
+  "externalApiCalls": 0,
+  "extraEditorialFlagHeadwords": 16,
+  "humanApproved": 0,
+  "humanUneditedApprovalRate": null,
+  "pilotTargetMet": null,
+  "sourceHumanComparisons": 0,
+  "validation": {
+    "pythonTestsPassed": 32,
+    "htmlStructure": "passed",
+    "htmlRendering": "not_verified_browser_policy_blocks_file_protocol"
+  },
+  "artifacts": {
+    "authored": "codex.authored.jsonl",
+    "reviewed": "codex.reviewed.jsonl",
+    "humanReviewCsv": "codex.review.csv",
+    "preview": "review.html"
+  },
+  "hashes": {
+    "reviewedSha256": "d90c1aee29c1a511ac1926b49aca645c5c779b90aafd103b85ca9dbb394d4655",
+    "humanReviewCsvSha256": "bc7d2fe4f122a3c08b1638236d3eea693c1c88da561459152d50ada52a4dd809"
+  },
+  "nextSteps": [
+    "Actual human review of the 100 entries",
+    "Two actual source comparisons",
+    "Assess 80 percent unedited approval target; revise flagged content before release"
+  ]
+}

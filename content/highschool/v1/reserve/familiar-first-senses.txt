@@ -1,0 +1,28 @@
+# 아는 단어, 새로운 뜻 단계에서 뺀 기본 뜻. 중학 트랙에서 다시 검토해 쓸 수 있음.
+very|adv|degree|매우|형용사·부사 앞에서 정도를 강조해요.|very important|매우 중요한|The final exam was very difficult for most students.|기말고사는 대부분의 학생에게 매우 어려웠다.|She spoke very clearly so that everyone could follow.|그녀는 모두가 따라올 수 있도록 매우 또렷하게 말했다.
+right|adj|correct|옳은; 맞는|사실이나 기준에 맞을 때 써요.|the right answer|정답|Choosing the right answer requires careful reading.|정답을 고르려면 꼼꼼히 읽어야 한다.|You were right about the weather because it did rain.|날씨에 대한 네 말이 맞았다. 정말 비가 왔다.|correct
+last|adj|final|마지막의|순서상 맨 끝에 오는 것을 말해요.|the last chapter|마지막 장|She was the last person to leave the office.|그녀는 사무실을 마지막으로 떠난 사람이었다.|In the last chapter, the hero finally returns home.|마지막 장에서 주인공은 마침내 집으로 돌아온다.|final
+long|adj|length|긴|길이나 시간이 길 때 써요.|a long time|오랜 시간|It took a long time to finish the project.|그 프로젝트를 끝내는 데 오랜 시간이 걸렸다.|The bridge is about two kilometers long.|그 다리는 길이가 약 2킬로미터이다.
+part|n|portion|부분; 일부|전체 중 하나의 조각이나 일부를 말해요.|part of the plan|계획의 일부|Reading is an important part of learning a language.|독서는 언어 학습의 중요한 부분이다.|Only part of the forest was damaged by the fire.|숲의 일부만 화재로 피해를 입었다.
+tell|v|say|말하다; 알려 주다|정보나 이야기를 다른 사람에게 전할 때 써요.|tell the truth|진실을 말하다|My grandmother told us stories about her school days.|할머니는 우리에게 학창 시절 이야기를 들려주셨다.|Always tell the truth, even when it is hard.|힘들 때조차 항상 진실을 말해라.
+head|n|top-body|머리|몸의 머리 부분이나 생각하는 능력을 말해요.|nod your head|고개를 끄덕이다|She nodded her head to show that she agreed.|그녀는 동의한다는 뜻으로 고개를 끄덕였다.|The ball hit him on the head during the game.|경기 중에 공이 그의 머리에 맞았다.
+party|n|celebration|파티|사람들이 모여 즐기는 모임이에요.|a birthday party|생일 파티|We held a surprise party for our teacher.|우리는 선생님을 위해 깜짝 파티를 열었다.|Many guests came to the party last night.|어젯밤 파티에 많은 손님이 왔다.
+run|v|move-fast|달리다|발을 빠르게 움직여 나아갈 때 써요.|run fast|빨리 달리다|He ran to the station to catch the train.|그는 기차를 타려고 역까지 달렸다.|Our dog loves to run along the beach.|우리 개는 해변을 따라 달리는 것을 좋아한다.
+face|n|front-head|얼굴|머리의 앞부분이에요.|a smiling face|웃는 얼굴|She washed her face with cold water.|그녀는 찬물로 얼굴을 씻었다.|His face turned red with anger.|그의 얼굴은 화가 나서 빨개졌다.
+book|n|volume|책|읽거나 공부하려고 글을 묶은 것이에요.|read a book|책을 읽다|I borrowed a book about space from the library.|나는 도서관에서 우주에 관한 책을 빌렸다.|Her first book sold millions of copies.|그녀의 첫 책은 수백만 부가 팔렸다.
+room|n|space-in-building|방|건물 안에서 벽으로 나뉜 공간이에요.|a living room|거실|My younger brother and I share a room.|남동생과 나는 방을 함께 쓴다.|The meeting room is on the third floor.|회의실은 3층에 있다.
+class|n|lesson|수업; 학급|함께 배우는 학생 무리나 수업 시간을 말해요.|in class|수업 중에|We have a math class after lunch.|우리는 점심 후에 수학 수업이 있다.|She is the tallest student in her class.|그녀는 반에서 키가 가장 큰 학생이다.
+move|v|change-place|움직이다; 옮기다|위치를 바꾸거나 이사할 때 써요.|move to a new city|새 도시로 이사하다|My family moved to a new city last year.|우리 가족은 작년에 새 도시로 이사했다.|We moved the table closer to the window.|우리는 탁자를 창문 쪽으로 더 가까이 옮겼다.
+ask|v|question|묻다|궁금한 것을 알려 달라고 할 때 써요.|ask a question|질문하다|Do not be afraid to ask questions in class.|수업 시간에 질문하는 것을 두려워하지 마라.|She asked me where the station was.|그녀는 나에게 역이 어디인지 물었다.
+short|adj|not-long|짧은; 키가 작은|길이·거리·시간이 짧거나 키가 작을 때 써요.|a short trip|짧은 여행|We took a short break between classes.|우리는 수업 사이에 잠깐 쉬었다.|Life is too short to worry about small things.|인생은 사소한 일을 걱정하기에는 너무 짧다.
+fire|n|flames|불; 화재|타오르는 불꽃이나 불이 난 사고예요.|catch fire|불이 붙다|The fire destroyed three houses in the village.|그 화재로 마을의 집 세 채가 불탔다.|We sat around the fire and sang songs.|우리는 모닥불 주위에 앉아 노래를 불렀다.
+meet|v|encounter|만나다|사람을 만나거나 처음 알게 될 때 써요.|meet a friend|친구를 만나다|I met an old friend at the bookstore.|나는 서점에서 옛 친구를 만났다.|We meet every Friday to practice music.|우리는 음악을 연습하려고 매주 금요일에 만난다.
+present|n|gift|선물|축하하거나 고마움을 표하려고 주는 물건이에요.|a birthday present|생일 선물|I bought a present for my mother's birthday.|나는 어머니 생신 선물을 샀다.|The children opened their presents in the morning.|아이들은 아침에 선물을 열어 보았다.|gift
+stand|v|be-upright|서다; 서 있다|발로 몸을 세우고 있을 때 써요.|stand up|일어서다|Everyone stood up when the teacher came in.|선생님이 들어오시자 모두 일어섰다.|A tall tower stands in the middle of the park.|공원 한가운데에 높은 탑이 서 있다.
+drive|v|operate-vehicle|운전하다|자동차 같은 탈것을 움직일 때 써요.|drive a car|차를 운전하다|My father drives to work every day.|아버지는 매일 차를 운전해서 출근하신다.|She learned to drive when she was twenty.|그녀는 스무 살 때 운전을 배웠다.
+fall|v|drop|떨어지다; 넘어지다|아래로 내려가거나 쓰러질 때 써요.|fall down|넘어지다|Leaves fall from the trees in autumn.|가을에는 나무에서 나뭇잎이 떨어진다.|He fell and hurt his knee on the ice.|그는 빙판에서 넘어져 무릎을 다쳤다.|drop
+fast|adj|quick|빠른|속도가 빠를 때 써요.|a fast runner|빠른 주자|She is the fastest runner on our team.|그녀는 우리 팀에서 가장 빠른 주자이다.|Technology is changing at a fast pace.|기술이 빠른 속도로 변하고 있다.|quick
+key|n|tool-for-lock|열쇠|자물쇠를 열고 잠그는 도구예요.|lose a key|열쇠를 잃어버리다|I lost the key to my bike lock.|나는 자전거 자물쇠 열쇠를 잃어버렸다.|She turned the key and opened the door.|그녀는 열쇠를 돌려 문을 열었다.
+store|n|shop|가게; 상점|물건을 파는 곳이에요.|a grocery store|식료품점|I bought some milk at the store.|나는 가게에서 우유를 조금 샀다.|The new store opens at nine in the morning.|새 가게는 아침 아홉 시에 문을 연다.|shop
+rich|adj|wealthy|부유한|돈이나 재산이 많은 것이에요.|rich and poor|부자와 가난한 사람|He became rich by selling his invention.|그는 발명품을 팔아서 부자가 되었다.|The gap between rich and poor countries is growing.|부유한 나라와 가난한 나라 사이의 격차가 커지고 있다.|wealthy
+touch|v|feel-with-hand|만지다; 닿다|손이나 몸의 일부가 무엇에 닿을 때 써요.|touch the screen|화면을 만지다|Please do not touch the paintings.|그림을 만지지 마라.|Her long hair touched her shoulders.|그녀의 긴 머리카락이 어깨에 닿았다.

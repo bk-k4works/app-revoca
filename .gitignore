@@ -1,0 +1,67 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+/coverage/
+.venv-content/
+__pycache__/
+.env
+.env.*
+content/audio/
+content/releases/
+content/drafts/*.raw.jsonl
+content/drafts/*.requests.jsonl
+content/review/*.requests.jsonl
+content/pilots/**/*.requests.jsonl
+content/pilots/**/*.raw.jsonl
+
+# 제3자 교재 원본과 추출본: 로컬 대조용으로만 쓰고 저장소에 올리지 않는다
+content/sources/user-provided/
+content/imports/
+content/sources/highschool_v1.provenance.json
+tool/content/tests/fixtures/pdf-books-layout.json.gz
+
+# 지난 개발용 미리보기 패키지 (현재 설치본 high-v12와 중학 파일럿 pilot-v2만 보관)
+content/previews/*
+!content/previews/high-v12/
+!content/previews/pilot-v2/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release

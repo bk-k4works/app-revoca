@@ -1,0 +1,1670 @@
+{
+  "stage": "generate",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "promptVersion": "generate_v1",
+  "promptHash": "68cfc82d05ad5e2774f1c0822d971032d3574c05fbbb7ae4cb8d9788fbea6eee",
+  "schemaHash": "5f61f8d5d43c3b1dda11c5f99ebf4f3d57074e92bf12f4f8656c8451b93418df",
+  "sourceHash": "a1b2d85f5333a71ea928e97eabc69c77bdda7d7b84b72b5b7d1f9b447d12d888",
+  "requestsHash": "95b43f7bef73d21f05cab75a496ddebfbe391685c87213f7d0dae8e8a53999d7",
+  "createdAt": "2026-10-16T01:48:35.758241+00:00",
+  "entries": {
+    "a": {
+      "headword": "a",
+      "requestHash": "073bf4462f6c388e6ff3ba74d9c2c2c0f980df16a30c9746ee74c4fd981a04c9",
+      "input": {
+        "headword": "a",
+        "source": {
+          "headword": "a",
+          "variants": [],
+          "elementary": true,
+          "source_page": 7,
+          "source_marker": "*",
+          "related_forms": [
+            "an"
+          ],
+          "original": "a* (an)"
+        }
+      }
+    },
+    "able": {
+      "headword": "able",
+      "requestHash": "b5bec16f56c9893fe2cb91c3ee02a7d8a30840617fe1d94bfa442e2577f24292",
+      "input": {
+        "headword": "able",
+        "source": {
+          "headword": "able",
+          "variants": [],
+          "elementary": false,
+          "source_page": 7,
+          "source_marker": "**",
+          "related_forms": [
+            "disabled"
+          ],
+          "original": "able** (disabled)"
+        }
+      }
+    },
+    "abstract": {
+      "headword": "abstract",
+      "requestHash": "39d7ef80d42386618b13d3fce07a302b6f6954327dca4d2f683b72a64d3553c4",
+      "input": {
+        "headword": "abstract",
+        "source": {
+          "headword": "abstract",
+          "variants": [],
+          "elementary": false,
+          "source_page": 7,
+          "source_marker": "",
+          "related_forms": [],
+          "original": "abstract"
+        }
+      }
+    },
+    "achieve": {
+      "headword": "achieve",
+      "requestHash": "3ab1dedf709d25867435132ce0538392dfea11eb42d349159c7828b6da3ed106",
+      "input": {
+        "headword": "achieve",
+        "source": {
+          "headword": "achieve",
+          "variants": [],
+          "elementary": false,
+          "source_page": 7,
+          "source_marker": "**",
+          "related_forms": [],
+          "original": "achieve**"
+        }
+      }
+    },
+    "advertize": {
+      "headword": "advertize",
+      "requestHash": "8a105986756644016b747db374e39053152b59959e9111a7c019f39d21954967",
+      "input": {
+        "headword": "advertize",
+        "source": {
+          "headword": "advertize",
+          "variants": [
+            "advertise"
+          ],
+          "elementary": false,
+          "source_page": 7,
+          "source_marker": "**",
+          "related_forms": [],
+          "original": "advertize** / advertise**"
+        }
+      }
+    },
+    "although": {
+      "headword": "although",
+      "requestHash": "814dd08c90991df4b8d0134fcdca7014828a2b72f5ec4194bebe6f323e2827c6",
+      "input": {
+        "headword": "although",
+        "source": {
+          "headword": "although",
+          "variants": [],
+          "elementary": false,
+          "source_page": 8,
+          "source_marker": "**",
+          "related_forms": [],
+          "original": "although**"
+        }
+      }
+    },
+    "among": {
+      "headword": "among",
+      "requestHash": "c04a8d73b38367461cc2fadfe7c8689a55f663b372e1f189b75a477b3f227ba9",
+      "input": {
+        "headword": "among",
+        "source": {
+          "headword": "among",
+          "variants": [],
+          "elementary": false,
+          "source_page": 8,
+          "source_marker": "**",
+          "related_forms": [],
+          "original": "among**"
+        }
+      }
+    },
+    "analyze": {
+      "headword": "analyze",
+      "requestHash": "d4e1d8cc278d85b3abefb5ca498984b230ce2830cdac9a523eedd82e82bba854",
+      "input": {
+        "headword": "analyze",
+        "source": {
+          "headword": "analyze",
+          "variants": [
+            "analyse"
+          ],
+          "elementary": false,
+          "source_page": 8,
+          "source_marker": "",
+          "related_forms": [],
+          "original": "analyze / analyse"
+        }
+      }
+    },
+    "argue": {
+      "headword": "argue",
+      "requestHash": "5ac7ed0262bac0017bf1942edb7efc84e0abae22738a7237bbf2f935a48ac871",
+      "input": {
+        "headword": "argue",
+        "source": {
+          "headword": "argue",
+          "variants": [],
+          "elementary": false,
+          "source_page": 8,
+          "source_marker": "**",
+          "related_forms": [],
+          "original": "argue**"
+        }
+      }
+    },
+    "attention": {
+      "headword": "attention",
+      "requestHash": "68369374d5ea8bc8af6fe6cbdfe87b238de4259585cc03be8695944172bb1ec8",
+      "input": {
+        "headword": "attention",
+        "source": {
+          "headword": "attention",
+          "variants": [],
+          "elementary": false,
+          "source_page": 8,
+          "source_marker": "**",
+          "related_forms": [],
+          "original": "attention**"
+        }
+      }
+    },
+    "bad": {
+      "headword": "bad",
+      "requestHash": "ec0981436f39fb4a0074a5b216b18ff38cd001a218f3af75405cda2fd33630a1",
+      "input": {
+        "headword": "bad",
+        "source": {
+          "headword": "bad",
+          "variants": [],
+          "elementary": true,
+          "source_page": 9,
+          "source_marker": "*",
+          "related_forms": [],
+          "original": "bad*"
+        }
+      }
+    },
+    "bank": {
+      "headword": "bank",
+      "requestHash": "9af63bee9ad48ae977516f1e64198b07927aebcc3e77ff0da320ffbe47ad6395",
+      "input": {
+        "headword": "bank",
+        "source": {
+          "headword": "bank",
+          "variants": [],
+          "elementary": true,
+          "source_page": 9,
+          "source_marker": "*",
+          "related_forms": [],
+          "original": "bank*"
+        }
+      }
+    },
+    "be": {
+      "headword": "be",
+      "requestHash": "b58e59fca7ffea3c7f46e5f1ff3c8f7bca18bc0f250e30c9daa58e8c3765e2c4",
+      "input": {
+        "headword": "be",
+        "source": {
+          "headword": "be",
+          "variants": [],
+          "elementary": true,
+          "source_page": 9,
+          "source_marker": "*",
+          "related_forms": [],
+          "original": "be*"
+        }
+      }
+    },
+    "bow": {
+      "headword": "bow",
+      "requestHash": "48b7eab739c6096df978c94391608618ea8b5c24b5eb3cdb7dedeec981b3c306",
+      "input": {
+        "headword": "bow",
+        "source": {
+          "headword": "bow",
+          "variants": [],
+          "elementary": false,
+          "source_page": 10,
+          "source_marker": "**",
+          "related_forms": [],
+          "original": "bow**"
+        }
+      }
+    },
+    "brilliant": {
+      "headword": "brilliant",
+      "requestHash": "45ff4a958a9b7b7d53462dfc320c6bcfc10bc5fbba6e1138b2c419df7b60ffbd",
+      "input": {
+        "headword": "brilliant",
+        "source": {
+          "headword": "brilliant",
+          "variants": [],
+          "elementary": false,
+          "source_page": 10,
+          "source_marker": "**",
+          "related_forms": [],
+          "original": "brilliant**"
+        }
+      }
+    },
+    "calendar": {
+      "headword": "calendar",
+      "requestHash": "a9e668c8d5d7d727d39e5c218f725b791d15ab4866ead7cee0d638822726bdfb",
+      "input": {
+        "headword": "calendar",
+        "source": {
+          "headword": "calendar",
+          "variants": [],
+          "elementary": false,
+          "source_page": 10,
+          "source_marker": "**",
+          "related_forms": [],
+          "original": "calendar**"
+        }
+      }
+    },
+    "can": {
+      "headword": "can",
+      "requestHash": "9378636086273e94f75063fde20a1aac6c5e7af56c720caaec33cba6209c4923",
+      "input": {
+        "headword": "can",
+        "source": {
+          "headword": "can",
+          "variants": [],
+          "elementary": true,
+          "source_page": 10,
+          "source_marker": "*",
+          "related_forms": [],
+          "original": "can*"
+        }
+      }
+    },
+    "catalogue": {
+      "headword": "catalogue",
+      "requestHash": "2068b7bda7eb792c50c6ef7b83cee3d9c99e59f2151d46ff79ec5747fc5294a8",
+      "input": {
+        "headword": "catalogue",
+        "source": {
+          "headword": "catalogue",
+          "variants": [
+            "catalog"
+          ],
+          "elementary": false,
+          "source_page": 11,
+          "source_marker": "**",
+          "related_forms": [],
+          "original": "catalogue** / catalog**"
+        }
+      }
+    },
+    "chase": {
+      "headword": "chase",
+      "requestHash": "18eb99a8b139e9e9ef8548c3b531261857ac2e0c516455a20b2281215543481d",
+      "input": {
+        "headword": "chase",
+        "source": {
+          "headword": "chase",
+          "variants": [],
+          "elementary": false,
+          "source_page": 11,
+          "source_marker": "**",
+          "related_forms": [],
+          "original": "chase**"
+        }
+      }
+    },
+    "check": {
+      "headword": "check",
+      "requestHash": "8aedb5ae9cddcf4612527d7d0dfc23f23d51c194e519e7be32cbe60c37fbe915",
+      "input": {
+        "headword": "check",
+        "source": {
+          "headword": "check",
+          "variants": [
+            "cheque"
+          ],
+          "elementary": true,
+          "source_page": 11,
+          "source_marker": "*",
+          "related_forms": [],
+          "original": "check* / cheque*"
+        }
+      }
+    },
+    "circumstance": {
+      "headword": "circumstance",
+      "requestHash": "76f39056588cc7b70b8c884e82986f5572cabfb3ddca47f96aaa77700fe82cb9",
+      "input": {
+        "headword": "circumstance",
+        "source": {
+          "headword": "circumstance",
+          "variants": [],
+          "elementary": false,
+          "source_page": 11,
+          "source_marker": "**",
+          "related_forms": [],
+          "original": "circumstance**"
+        }
+      }
+    },
+    "cliff": {
+      "headword": "cliff",
+      "requestHash": "5960458ae67097f3293df83759906356c32a0a4815bd8c3021a64a2123c134df",
+      "input": {
+        "headword": "cliff",
+        "source": {
+          "headword": "cliff",
+          "variants": [],
+          "elementary": false,
+          "source_page": 11,
+          "source_marker": "**",
+          "related_forms": [],
+          "original": "cliff**"
+        }
+      }
+    },
+    "close": {
+      "headword": "close",
+      "requestHash": "113ac3ea83fe8c0bf72e126af0fac92b0a48423e33ad534410f4f39c1667de0e",
+      "input": {
+        "headword": "close",
+        "source": {
+          "headword": "close",
+          "variants": [],
+          "elementary": true,
+          "source_page": 12,
+          "source_marker": "*",
+          "related_forms": [
+            "disclose",
+            "enclose"
+          ],
+          "original": "close* (disclose, enclose)"
+        }
+      }
+    },
+    "color": {
+      "headword": "color",
+      "requestHash": "c7ef1572338ee7bf31578a0e8718afd5b6d11431d58b07589d7a56ea975d0a8e",
+      "input": {
+        "headword": "color",
+        "source": {
+          "headword": "color",
+          "variants": [
+            "colour"
+          ],
+          "elementary": true,
+          "source_page": 12,
+          "source_marker": "*",
+          "related_forms": [],
+          "original": "color* / colour*"
+        }
+      }
+    },
+    "comedy": {
+      "headword": "comedy",
+      "requestHash": "022bfc7aac5a1e4dc7f35d0d39331a33acc798975f0456c0b5bee6793f744817",
+      "input": {
+        "headword": "comedy",
+        "source": {
+          "headword": "comedy",
+          "variants": [],
+          "elementary": false,
+          "source_page": 12,
+          "source_marker": "**",
+          "related_forms": [],
+          "original": "comedy**"
+        }
+      }
+    },
+    "compare": {
+      "headword": "compare",
+      "requestHash": "7720a2a1b03a0bdf2c0bdae5225806e00575c178730cb8f9d1056789501ed01d",
+      "input": {
+        "headword": "compare",
+        "source": {
+          "headword": "compare",
+          "variants": [],
+          "elementary": false,
+          "source_page": 12,
+          "source_marker": "**",
+          "related_forms": [],
+          "original": "compare**"
+        }
+      }
+    },
+    "congress": {
+      "headword": "congress",
+      "requestHash": "6ecea510ed7f3efc4ff6d318b74dc4faf3514a85c2e217520fc0f0c35bbcef78",
+      "input": {
+        "headword": "congress",
+        "source": {
+          "headword": "congress",
+          "variants": [],
+          "elementary": false,
+          "source_page": 12,
+          "source_marker": "",
+          "related_forms": [],
+          "original": "congress"
+        }
+      }
+    },
+    "consume": {
+      "headword": "consume",
+      "requestHash": "9e08a5c2c548a31aa876fb0608d685c1655d86bd8e80a024679899b2a6fc1442",
+      "input": {
+        "headword": "consume",
+        "source": {
+          "headword": "consume",
+          "variants": [],
+          "elementary": false,
+          "source_page": 12,
+          "source_marker": "**",
+          "related_forms": [
+            "consumer",
+            "consumption"
+          ],
+          "original": "consume** (consumer, consumption)"
+        }
+      }
+    },
+    "courage": {
+      "headword": "courage",
+      "requestHash": "cae5320c7ee9bb5afcd49dc7161c6cf8d3bc0c291f0bb7d46f869d85e2e0bc08",
+      "input": {
+        "headword": "courage",
+        "source": {
+          "headword": "courage",
+          "variants": [],
+          "elementary": false,
+          "source_page": 13,
+          "source_marker": "",
+          "related_forms": [
+            "discourage",
+            "encourage"
+          ],
+          "original": "courage (discourage, encourage)"
+        }
+      }
+    },
+    "crucial": {
+      "headword": "crucial",
+      "requestHash": "0a5c397877d086959dd9801f49a1615e341afceea821a52c62a3885b4f2145ff",
+      "input": {
+        "headword": "crucial",
+        "source": {
+          "headword": "crucial",
+          "variants": [],
+          "elementary": false,
+          "source_page": 13,
+          "source_marker": "",
+          "related_forms": [],
+          "original": "crucial"
+        }
+      }
+    },
+    "describe": {
+      "headword": "describe",
+      "requestHash": "a8e93b50fd25a91e77dc1c106c9d144131a8a14d503ca528c2d42dc5beb89ab0",
+      "input": {
+        "headword": "describe",
+        "source": {
+          "headword": "describe",
+          "variants": [],
+          "elementary": false,
+          "source_page": 14,
+          "source_marker": "**",
+          "related_forms": [
+            "description"
+          ],
+          "original": "describe** (description)"
+        }
+      }
+    },
+    "drill": {
+      "headword": "drill",
+      "requestHash": "5100b50222a055f7ab180d06768e7595f8925add087850a44868686cca223a7a",
+      "input": {
+        "headword": "drill",
+        "source": {
+          "headword": "drill",
+          "variants": [],
+          "elementary": false,
+          "source_page": 15,
+          "source_marker": "",
+          "related_forms": [],
+          "original": "drill"
+        }
+      }
+    },
+    "environ": {
+      "headword": "environ",
+      "requestHash": "5209a445d280e7edab24f933cf44507c0d50676d571694c30274de2f0f4bca83",
+      "input": {
+        "headword": "environ",
+        "source": {
+          "headword": "environ",
+          "variants": [],
+          "elementary": false,
+          "source_page": 16,
+          "source_marker": "",
+          "related_forms": [
+            "environment"
+          ],
+          "original": "environ (environment)"
+        }
+      }
+    },
+    "explode": {
+      "headword": "explode",
+      "requestHash": "f8e7676b3c42d8a44f2a1aa936bb1ea3733033c579b079e189119e1df60291ec",
+      "input": {
+        "headword": "explode",
+        "source": {
+          "headword": "explode",
+          "variants": [],
+          "elementary": false,
+          "source_page": 16,
+          "source_marker": "",
+          "related_forms": [],
+          "original": "explode"
+        }
+      }
+    },
+    "fasten": {
+      "headword": "fasten",
+      "requestHash": "718ca53d9a4b935eaa0d45796bbc0182b21b18df4711d97cce02ce5931c21692",
+      "input": {
+        "headword": "fasten",
+        "source": {
+          "headword": "fasten",
+          "variants": [],
+          "elementary": false,
+          "source_page": 17,
+          "source_marker": "",
+          "related_forms": [],
+          "original": "fasten"
+        }
+      }
+    },
+    "fate": {
+      "headword": "fate",
+      "requestHash": "73fb6fe2e67e218493830fc72560022229c3b3c6652a72f127ed0189bae4d908",
+      "input": {
+        "headword": "fate",
+        "source": {
+          "headword": "fate",
+          "variants": [],
+          "elementary": false,
+          "source_page": 17,
+          "source_marker": "",
+          "related_forms": [
+            "fatal"
+          ],
+          "original": "fate (fatal)"
+        }
+      }
+    },
+    "flag": {
+      "headword": "flag",
+      "requestHash": "d3fe85ce300f6108a301b474eea378562bb4d7bdf7442d94c2cba0d430c96e3c",
+      "input": {
+        "headword": "flag",
+        "source": {
+          "headword": "flag",
+          "variants": [],
+          "elementary": false,
+          "source_page": 17,
+          "source_marker": "**",
+          "related_forms": [],
+          "original": "flag**"
+        }
+      }
+    },
+    "funeral": {
+      "headword": "funeral",
+      "requestHash": "89804123402ba31adfde1e215a85c0b73a06424e29466fa7ff11d9f7395ba1ec",
+      "input": {
+        "headword": "funeral",
+        "source": {
+          "headword": "funeral",
+          "variants": [],
+          "elementary": false,
+          "source_page": 18,
+          "source_marker": "",
+          "related_forms": [],
+          "original": "funeral"
+        }
+      }
+    },
+    "gasoline": {
+      "headword": "gasoline",
+      "requestHash": "7a3550a9454774d80b92ea2a2edeadc235263d1b8af9ec3b5f50cb982c61c075",
+      "input": {
+        "headword": "gasoline",
+        "source": {
+          "headword": "gasoline",
+          "variants": [
+            "petrol"
+          ],
+          "elementary": false,
+          "source_page": 18,
+          "source_marker": "",
+          "related_forms": [],
+          "original": "gasoline / petrol"
+        }
+      }
+    },
+    "get": {
+      "headword": "get",
+      "requestHash": "d5dd262ae4fab0239ffd6f6480bce5d7d89441b3e54208a52c7146d93fbba7c1",
+      "input": {
+        "headword": "get",
+        "source": {
+          "headword": "get",
+          "variants": [],
+          "elementary": true,
+          "source_page": 18,
+          "source_marker": "*",
+          "related_forms": [],
+          "original": "get*"
+        }
+      }
+    },
+    "go": {
+      "headword": "go",
+      "requestHash": "65e9b092ce8a70ea5b04579b9688b28fac1004bf96892338dea1f6675042845d",
+      "input": {
+        "headword": "go",
+        "source": {
+          "headword": "go",
+          "variants": [],
+          "elementary": true,
+          "source_page": 19,
+          "source_marker": "*",
+          "related_forms": [],
+          "original": "go*"
+        }
+      }
+    },
+    "hall": {
+      "headword": "hall",
+      "requestHash": "4d1e1f5ef536fc609d400175c2b7c736aedcb86f7c35f9e8df4476606ad90286",
+      "input": {
+        "headword": "hall",
+        "source": {
+          "headword": "hall",
+          "variants": [],
+          "elementary": false,
+          "source_page": 19,
+          "source_marker": "**",
+          "related_forms": [],
+          "original": "hall**"
+        }
+      }
+    },
+    "identity": {
+      "headword": "identity",
+      "requestHash": "a8a36fe3897132de16766019e2f0dbcaed9fb9e2c33cb32771c0a590d6fa0ff7",
+      "input": {
+        "headword": "identity",
+        "source": {
+          "headword": "identity",
+          "variants": [],
+          "elementary": false,
+          "source_page": 20,
+          "source_marker": "**",
+          "related_forms": [
+            "identify"
+          ],
+          "original": "identity** (identify)"
+        }
+      }
+    },
+    "install": {
+      "headword": "install",
+      "requestHash": "b9991b37925b01b6d2963203ef27d04915805ea5691eeb9fd40668087a16653f",
+      "input": {
+        "headword": "install",
+        "source": {
+          "headword": "install",
+          "variants": [],
+          "elementary": false,
+          "source_page": 21,
+          "source_marker": "",
+          "related_forms": [],
+          "original": "install"
+        }
+      }
+    },
+    "join": {
+      "headword": "join",
+      "requestHash": "9d90fdf37d3272750b13cc55a4df9f712ac7d1ee9155a460bda7100361379b46",
+      "input": {
+        "headword": "join",
+        "source": {
+          "headword": "join",
+          "variants": [],
+          "elementary": true,
+          "source_page": 21,
+          "source_marker": "*",
+          "related_forms": [],
+          "original": "join*"
+        }
+      }
+    },
+    "knot": {
+      "headword": "knot",
+      "requestHash": "f00f82c4c05c7792584a401ecbbf4a440cf70e94f07f009d19f772a073119d81",
+      "input": {
+        "headword": "knot",
+        "source": {
+          "headword": "knot",
+          "variants": [],
+          "elementary": false,
+          "source_page": 21,
+          "source_marker": "",
+          "related_forms": [],
+          "original": "knot"
+        }
+      }
+    },
+    "laser": {
+      "headword": "laser",
+      "requestHash": "72606b128f6eed365028dfe99c3172d994a1af6b6c6739b72e6c9235b136f3c4",
+      "input": {
+        "headword": "laser",
+        "source": {
+          "headword": "laser",
+          "variants": [],
+          "elementary": true,
+          "source_page": 22,
+          "source_marker": "*",
+          "related_forms": [],
+          "original": "laser*"
+        }
+      }
+    },
+    "lead": {
+      "headword": "lead",
+      "requestHash": "8e0961372a6017c9d49e8a5d9c6a937ee9321d520facefccc833ddd40d655857",
+      "input": {
+        "headword": "lead",
+        "source": {
+          "headword": "lead",
+          "variants": [],
+          "elementary": false,
+          "source_page": 22,
+          "source_marker": "**",
+          "related_forms": [],
+          "original": "lead**"
+        }
+      }
+    },
+    "light": {
+      "headword": "light",
+      "requestHash": "119955486f4789be21d9448dc087919d2126f07ac578f0a6dda0e0733e3e8fd8",
+      "input": {
+        "headword": "light",
+        "source": {
+          "headword": "light",
+          "variants": [],
+          "elementary": true,
+          "source_page": 22,
+          "source_marker": "*",
+          "related_forms": [],
+          "original": "light*"
+        }
+      }
+    },
+    "live": {
+      "headword": "live",
+      "requestHash": "73b9c82921157a79d553e2e250b50ce28185720d2534b12990c81b5816f064dd",
+      "input": {
+        "headword": "live",
+        "source": {
+          "headword": "live",
+          "variants": [],
+          "elementary": true,
+          "source_page": 22,
+          "source_marker": "*",
+          "related_forms": [],
+          "original": "live*"
+        }
+      }
+    },
+    "luxury": {
+      "headword": "luxury",
+      "requestHash": "2f29ea0c35bb4d593461534aa9b63837486ff8fec5347a5b8f77df8b049a9b6d",
+      "input": {
+        "headword": "luxury",
+        "source": {
+          "headword": "luxury",
+          "variants": [],
+          "elementary": false,
+          "source_page": 22,
+          "source_marker": "",
+          "related_forms": [],
+          "original": "luxury"
+        }
+      }
+    },
+    "mathematics": {
+      "headword": "mathematics",
+      "requestHash": "b58cfcce7d2ee97c22f54323678690b705fb4f1a8f8bee6e2a26ca8234ec8715",
+      "input": {
+        "headword": "mathematics",
+        "source": {
+          "headword": "mathematics",
+          "variants": [
+            "maths",
+            "math"
+          ],
+          "elementary": true,
+          "source_page": 23,
+          "source_marker": "*",
+          "related_forms": [],
+          "original": "mathematics* / maths* / math*"
+        }
+      }
+    },
+    "migrate": {
+      "headword": "migrate",
+      "requestHash": "3f9f4ad6d7bcd64e2e470501c47fe87ec82fce5d7bd98a6d2f6e05bb22b0bead",
+      "input": {
+        "headword": "migrate",
+        "source": {
+          "headword": "migrate",
+          "variants": [],
+          "elementary": false,
+          "source_page": 23,
+          "source_marker": "",
+          "related_forms": [
+            "migrant"
+          ],
+          "original": "migrate (migrant)"
+        }
+      }
+    },
+    "minute": {
+      "headword": "minute",
+      "requestHash": "663bd4dcf55803fd6589d0583d77713e3f61dcbba341dc5693f119a43503a405",
+      "input": {
+        "headword": "minute",
+        "source": {
+          "headword": "minute",
+          "variants": [],
+          "elementary": false,
+          "source_page": 23,
+          "source_marker": "**",
+          "related_forms": [],
+          "original": "minute**"
+        }
+      }
+    },
+    "moon": {
+      "headword": "moon",
+      "requestHash": "1a255d8316421d6c2e2dec00a8bc1cf541fee61cdac8eaef52584be4a50106a9",
+      "input": {
+        "headword": "moon",
+        "source": {
+          "headword": "moon",
+          "variants": [],
+          "elementary": true,
+          "source_page": 24,
+          "source_marker": "*",
+          "related_forms": [
+            "half­moon"
+          ],
+          "original": "moon* (half­moon)"
+        }
+      }
+    },
+    "motor": {
+      "headword": "motor",
+      "requestHash": "3cc69abf608b4f29f4d443e7bb7de704fcfd5032a363bb6175340d31a0e17911",
+      "input": {
+        "headword": "motor",
+        "source": {
+          "headword": "motor",
+          "variants": [],
+          "elementary": false,
+          "source_page": 24,
+          "source_marker": "**",
+          "related_forms": [],
+          "original": "motor**"
+        }
+      }
+    },
+    "neat": {
+      "headword": "neat",
+      "requestHash": "a0e98ebbee28e131f366e5ae3c2366af6bd877435f7af605808107cc77c2da81",
+      "input": {
+        "headword": "neat",
+        "source": {
+          "headword": "neat",
+          "variants": [],
+          "elementary": false,
+          "source_page": 24,
+          "source_marker": "**",
+          "related_forms": [],
+          "original": "neat**"
+        }
+      }
+    },
+    "opportune": {
+      "headword": "opportune",
+      "requestHash": "92067dabf2e8a20ac10add418bbff271f5cc86afb05aa63fe7098d230b389745",
+      "input": {
+        "headword": "opportune",
+        "source": {
+          "headword": "opportune",
+          "variants": [],
+          "elementary": false,
+          "source_page": 25,
+          "source_marker": "",
+          "related_forms": [
+            "opportunity"
+          ],
+          "original": "opportune (opportunity)"
+        }
+      }
+    },
+    "palm": {
+      "headword": "palm",
+      "requestHash": "ef73ee4c8c58134bf6a2e06b16991cc4ac85ea49214228d4e11c4efeb6dcbf03",
+      "input": {
+        "headword": "palm",
+        "source": {
+          "headword": "palm",
+          "variants": [],
+          "elementary": false,
+          "source_page": 25,
+          "source_marker": "",
+          "related_forms": [],
+          "original": "palm"
+        }
+      }
+    },
+    "particular": {
+      "headword": "particular",
+      "requestHash": "cab88f5de8622285d7fdde75b6f9862707268d17f3e7603db8b7bed27ff0d97e",
+      "input": {
+        "headword": "particular",
+        "source": {
+          "headword": "particular",
+          "variants": [],
+          "elementary": false,
+          "source_page": 25,
+          "source_marker": "**",
+          "related_forms": [
+            "particularly"
+          ],
+          "original": "particular** (particularly)"
+        }
+      }
+    },
+    "pat": {
+      "headword": "pat",
+      "requestHash": "223bb0d711945bb2aae3f106eeada21cbf371cc8731c5a95be4a1b038a29afc3",
+      "input": {
+        "headword": "pat",
+        "source": {
+          "headword": "pat",
+          "variants": [],
+          "elementary": false,
+          "source_page": 26,
+          "source_marker": "",
+          "related_forms": [],
+          "original": "pat"
+        }
+      }
+    },
+    "practice": {
+      "headword": "practice",
+      "requestHash": "721b6faa7cea73077d79c0197115997fb395a2e207072527f5dd897f8cbbfdbb",
+      "input": {
+        "headword": "practice",
+        "source": {
+          "headword": "practice",
+          "variants": [
+            "practise"
+          ],
+          "elementary": false,
+          "source_page": 27,
+          "source_marker": "**",
+          "related_forms": [],
+          "original": "practice** / practise**"
+        }
+      }
+    },
+    "prepare": {
+      "headword": "prepare",
+      "requestHash": "bbba67dd8a3ad8457369a04f4c0756fbca03798925232c0073d331c201dd58a3",
+      "input": {
+        "headword": "prepare",
+        "source": {
+          "headword": "prepare",
+          "variants": [],
+          "elementary": false,
+          "source_page": 27,
+          "source_marker": "**",
+          "related_forms": [],
+          "original": "prepare**"
+        }
+      }
+    },
+    "press": {
+      "headword": "press",
+      "requestHash": "5bcf30275bcd9c41afd4a520d1e60c222b7304bbe1194769b9fba165655fc967",
+      "input": {
+        "headword": "press",
+        "source": {
+          "headword": "press",
+          "variants": [],
+          "elementary": false,
+          "source_page": 27,
+          "source_marker": "**",
+          "related_forms": [],
+          "original": "press**"
+        }
+      }
+    },
+    "principal": {
+      "headword": "principal",
+      "requestHash": "b050aaf7a2ecd203a8a199ac7849ed448f1545bd19030d6f6a3257cb3befc1f6",
+      "input": {
+        "headword": "principal",
+        "source": {
+          "headword": "principal",
+          "variants": [],
+          "elementary": false,
+          "source_page": 27,
+          "source_marker": "",
+          "related_forms": [],
+          "original": "principal"
+        }
+      }
+    },
+    "prohibit": {
+      "headword": "prohibit",
+      "requestHash": "3ad70684e9212af308a90cc328f875c08d0eddd542349033f3ad76f5776350b5",
+      "input": {
+        "headword": "prohibit",
+        "source": {
+          "headword": "prohibit",
+          "variants": [],
+          "elementary": false,
+          "source_page": 27,
+          "source_marker": "",
+          "related_forms": [],
+          "original": "prohibit"
+        }
+      }
+    },
+    "quite": {
+      "headword": "quite",
+      "requestHash": "f50105a287707d6c227ef0c45ab7c8851bb0057349e2db1355db2de3c23cb230",
+      "input": {
+        "headword": "quite",
+        "source": {
+          "headword": "quite",
+          "variants": [],
+          "elementary": false,
+          "source_page": 28,
+          "source_marker": "**",
+          "related_forms": [],
+          "original": "quite**"
+        }
+      }
+    },
+    "rat": {
+      "headword": "rat",
+      "requestHash": "7ec51de1645533fd31fd1dc708a859d59f0961805938113ba4e8a9ba5109f395",
+      "input": {
+        "headword": "rat",
+        "source": {
+          "headword": "rat",
+          "variants": [],
+          "elementary": false,
+          "source_page": 28,
+          "source_marker": "**",
+          "related_forms": [],
+          "original": "rat**"
+        }
+      }
+    },
+    "read": {
+      "headword": "read",
+      "requestHash": "cac7dab8ac77e33285a793622944b1d3415d6f9bf2325dbceb4c919e7cded08d",
+      "input": {
+        "headword": "read",
+        "source": {
+          "headword": "read",
+          "variants": [],
+          "elementary": true,
+          "source_page": 28,
+          "source_marker": "*",
+          "related_forms": [],
+          "original": "read*"
+        }
+      }
+    },
+    "record": {
+      "headword": "record",
+      "requestHash": "ac20c1af52e0c54b0c3f52d7a622b33a08a05815e93cd5977bfa4f602cc88369",
+      "input": {
+        "headword": "record",
+        "source": {
+          "headword": "record",
+          "variants": [],
+          "elementary": false,
+          "source_page": 28,
+          "source_marker": "**",
+          "related_forms": [],
+          "original": "record**"
+        }
+      }
+    },
+    "relax": {
+      "headword": "relax",
+      "requestHash": "231bd060ddc1e24571cb1b5800f8aea5ef16831a6349191986d35972117ee813",
+      "input": {
+        "headword": "relax",
+        "source": {
+          "headword": "relax",
+          "variants": [],
+          "elementary": false,
+          "source_page": 28,
+          "source_marker": "**",
+          "related_forms": [],
+          "original": "relax**"
+        }
+      }
+    },
+    "request": {
+      "headword": "request",
+      "requestHash": "aeac9e369ce093835cd727a7b87bde7b56fb944ecc634e2d888db15ed4ac6581",
+      "input": {
+        "headword": "request",
+        "source": {
+          "headword": "request",
+          "variants": [],
+          "elementary": false,
+          "source_page": 28,
+          "source_marker": "**",
+          "related_forms": [],
+          "original": "request**"
+        }
+      }
+    },
+    "revenge": {
+      "headword": "revenge",
+      "requestHash": "6154cd913f8064dfe3bb0929d108a2a876ac1fdb05c77f41d3ecc98117891e6d",
+      "input": {
+        "headword": "revenge",
+        "source": {
+          "headword": "revenge",
+          "variants": [],
+          "elementary": false,
+          "source_page": 29,
+          "source_marker": "",
+          "related_forms": [],
+          "original": "revenge"
+        }
+      }
+    },
+    "revive": {
+      "headword": "revive",
+      "requestHash": "8927990125d77def87480999566aed7e963bc70e770b6517f883edfe0beca35b",
+      "input": {
+        "headword": "revive",
+        "source": {
+          "headword": "revive",
+          "variants": [],
+          "elementary": false,
+          "source_page": 29,
+          "source_marker": "",
+          "related_forms": [],
+          "original": "revive"
+        }
+      }
+    },
+    "right": {
+      "headword": "right",
+      "requestHash": "74b637fdd33a4be52fc90fb51a682c012ec561ea310547b006e286209f603bd4",
+      "input": {
+        "headword": "right",
+        "source": {
+          "headword": "right",
+          "variants": [],
+          "elementary": true,
+          "source_page": 29,
+          "source_marker": "*",
+          "related_forms": [],
+          "original": "right*"
+        }
+      }
+    },
+    "run": {
+      "headword": "run",
+      "requestHash": "9cbfc275638aa7e5e598b76001930d3d3e6a48edc67091f32288c9ef353b21c4",
+      "input": {
+        "headword": "run",
+        "source": {
+          "headword": "run",
+          "variants": [],
+          "elementary": true,
+          "source_page": 29,
+          "source_marker": "*",
+          "related_forms": [],
+          "original": "run*"
+        }
+      }
+    },
+    "sacred": {
+      "headword": "sacred",
+      "requestHash": "dfb76674fdcc15deb1c9269a6c38353d7c11f591f4a332108347169cf9a42078",
+      "input": {
+        "headword": "sacred",
+        "source": {
+          "headword": "sacred",
+          "variants": [],
+          "elementary": false,
+          "source_page": 29,
+          "source_marker": "",
+          "related_forms": [],
+          "original": "sacred"
+        }
+      }
+    },
+    "set": {
+      "headword": "set",
+      "requestHash": "01791af87a39094f113eb7a8964f0ebdaf549b686368fac10aacf1d2d82ef988",
+      "input": {
+        "headword": "set",
+        "source": {
+          "headword": "set",
+          "variants": [],
+          "elementary": true,
+          "source_page": 30,
+          "source_marker": "*",
+          "related_forms": [],
+          "original": "set*"
+        }
+      }
+    },
+    "spoil": {
+      "headword": "spoil",
+      "requestHash": "77c60ca92b945f8c9cddb35fe2c4bca0e75e2f0c0a8ce5ee5040227da35df90a",
+      "input": {
+        "headword": "spoil",
+        "source": {
+          "headword": "spoil",
+          "variants": [],
+          "elementary": false,
+          "source_page": 31,
+          "source_marker": "**",
+          "related_forms": [],
+          "original": "spoil**"
+        }
+      }
+    },
+    "sport": {
+      "headword": "sport",
+      "requestHash": "25fd2937851129aca5fe612e075b12ebc89258fab9f81da2ae0ddc9395651844",
+      "input": {
+        "headword": "sport",
+        "source": {
+          "headword": "sport",
+          "variants": [],
+          "elementary": true,
+          "source_page": 31,
+          "source_marker": "*",
+          "related_forms": [],
+          "original": "sport*"
+        }
+      }
+    },
+    "stain": {
+      "headword": "stain",
+      "requestHash": "4f5627c6b734d487099586382acac50add08eaddf25c48a2f2ea7ddccc016c12",
+      "input": {
+        "headword": "stain",
+        "source": {
+          "headword": "stain",
+          "variants": [],
+          "elementary": false,
+          "source_page": 31,
+          "source_marker": "",
+          "related_forms": [],
+          "original": "stain"
+        }
+      }
+    },
+    "starve": {
+      "headword": "starve",
+      "requestHash": "8052cbd10ad7f028accafc7bfe59da93dae846f4e470c9b88d4977eaf7eb27cb",
+      "input": {
+        "headword": "starve",
+        "source": {
+          "headword": "starve",
+          "variants": [],
+          "elementary": false,
+          "source_page": 32,
+          "source_marker": "",
+          "related_forms": [],
+          "original": "starve"
+        }
+      }
+    },
+    "take": {
+      "headword": "take",
+      "requestHash": "21595c9cef560d77e8e9086f3adf953b7720e64b9e64121fda6947f112097e05",
+      "input": {
+        "headword": "take",
+        "source": {
+          "headword": "take",
+          "variants": [],
+          "elementary": true,
+          "source_page": 33,
+          "source_marker": "*",
+          "related_forms": [
+            "mistake"
+          ],
+          "original": "take* (mistake)"
+        }
+      }
+    },
+    "territory": {
+      "headword": "territory",
+      "requestHash": "2015b62d1ad62bfe7900a24d42714f80af7f408799a3b7fcccd4ab13086dc453",
+      "input": {
+        "headword": "territory",
+        "source": {
+          "headword": "territory",
+          "variants": [],
+          "elementary": false,
+          "source_page": 33,
+          "source_marker": "",
+          "related_forms": [],
+          "original": "territory"
+        }
+      }
+    },
+    "that": {
+      "headword": "that",
+      "requestHash": "395b2dd5af35651dd1495f9ad0529c4dc14376fc9b6c9713f6a8d464407fb8bf",
+      "input": {
+        "headword": "that",
+        "source": {
+          "headword": "that",
+          "variants": [],
+          "elementary": true,
+          "source_page": 33,
+          "source_marker": "*",
+          "related_forms": [],
+          "original": "that*"
+        }
+      }
+    },
+    "threat": {
+      "headword": "threat",
+      "requestHash": "d31eff5a3adf6de0b66d90e5e10d408572ea483930425cbdd8fcd291aa2e0bcc",
+      "input": {
+        "headword": "threat",
+        "source": {
+          "headword": "threat",
+          "variants": [],
+          "elementary": false,
+          "source_page": 33,
+          "source_marker": "**",
+          "related_forms": [],
+          "original": "threat**"
+        }
+      }
+    },
+    "toxic": {
+      "headword": "toxic",
+      "requestHash": "86529f523b63a0968b6ae714ed406da6bfbbd1cb0d30a492ab2450c1a9060350",
+      "input": {
+        "headword": "toxic",
+        "source": {
+          "headword": "toxic",
+          "variants": [],
+          "elementary": false,
+          "source_page": 34,
+          "source_marker": "",
+          "related_forms": [],
+          "original": "toxic"
+        }
+      }
+    },
+    "transmit": {
+      "headword": "transmit",
+      "requestHash": "e93c543a883d5b0a2644e86d2a18e93c857dc73b0bf8f30d88ddf9e45f279887",
+      "input": {
+        "headword": "transmit",
+        "source": {
+          "headword": "transmit",
+          "variants": [],
+          "elementary": false,
+          "source_page": 34,
+          "source_marker": "",
+          "related_forms": [],
+          "original": "transmit"
+        }
+      }
+    },
+    "twenty-first": {
+      "headword": "twenty-first",
+      "requestHash": "8204bf31aed37999185782f18b8275af8b14f8cf7229e5537c6f6b079dc5b6b3",
+      "input": {
+        "headword": "twenty-first",
+        "source": {
+          "headword": "twenty-first",
+          "variants": [],
+          "elementary": true,
+          "source_page": 34,
+          "source_marker": "*",
+          "related_forms": [],
+          "original": "twenty-first*"
+        }
+      }
+    },
+    "twin": {
+      "headword": "twin",
+      "requestHash": "bbe13a6bdc528633cdeb2ee9455e17f712a49fca6710b6e9379ae15fddba6c68",
+      "input": {
+        "headword": "twin",
+        "source": {
+          "headword": "twin",
+          "variants": [],
+          "elementary": false,
+          "source_page": 34,
+          "source_marker": "**",
+          "related_forms": [],
+          "original": "twin**"
+        }
+      }
+    },
+    "upward": {
+      "headword": "upward",
+      "requestHash": "d4b50f1868e610bd61fea7604ea13051ab7b31e6b6ad5caeb83cc7b9e9e65e12",
+      "input": {
+        "headword": "upward",
+        "source": {
+          "headword": "upward",
+          "variants": [
+            "upwards"
+          ],
+          "elementary": false,
+          "source_page": 35,
+          "source_marker": "",
+          "related_forms": [],
+          "original": "upward / upwards"
+        }
+      }
+    },
+    "vague": {
+      "headword": "vague",
+      "requestHash": "2bd4771d4ae07ce21d91f0a5246503fc0de216a007afd5a8f2c6a05957712e59",
+      "input": {
+        "headword": "vague",
+        "source": {
+          "headword": "vague",
+          "variants": [],
+          "elementary": false,
+          "source_page": 35,
+          "source_marker": "",
+          "related_forms": [],
+          "original": "vague"
+        }
+      }
+    },
+    "view": {
+      "headword": "view",
+      "requestHash": "46910b6652eed4528f292202c7e37fa8bdacba72b7ce0d2e43709fdb7a5e44c1",
+      "input": {
+        "headword": "view",
+        "source": {
+          "headword": "view",
+          "variants": [],
+          "elementary": false,
+          "source_page": 35,
+          "source_marker": "**",
+          "related_forms": [
+            "interview",
+            "review"
+          ],
+          "original": "view** (interview, review)"
+        }
+      }
+    },
+    "vivid": {
+      "headword": "vivid",
+      "requestHash": "b9e879eed8b2f807ae45593dd6dd2c52945c88198eb395866a9cd1dd4fdc147a",
+      "input": {
+        "headword": "vivid",
+        "source": {
+          "headword": "vivid",
+          "variants": [],
+          "elementary": false,
+          "source_page": 35,
+          "source_marker": "",
+          "related_forms": [],
+          "original": "vivid"
+        }
+      }
+    },
+    "while": {
+      "headword": "while",
+      "requestHash": "33592cc68b7d86dad2f7d393599015584602fdfe7ee30a1c9d989b07d3e70312",
+      "input": {
+        "headword": "while",
+        "source": {
+          "headword": "while",
+          "variants": [],
+          "elementary": false,
+          "source_page": 36,
+          "source_marker": "**",
+          "related_forms": [],
+          "original": "while**"
+        }
+      }
+    },
+    "wind": {
+      "headword": "wind",
+      "requestHash": "05ac047346ea48c1eccd6b1d569f449c375f723bde4f56760801ff6000fdc6d2",
+      "input": {
+        "headword": "wind",
+        "source": {
+          "headword": "wind",
+          "variants": [],
+          "elementary": true,
+          "source_page": 36,
+          "source_marker": "*",
+          "related_forms": [],
+          "original": "wind*"
+        }
+      }
+    },
+    "would": {
+      "headword": "would",
+      "requestHash": "450835da386ca58394aea8d5f508eae1adba318b822ff8c7253b725b44b69a87",
+      "input": {
+        "headword": "would",
+        "source": {
+          "headword": "would",
+          "variants": [],
+          "elementary": false,
+          "source_page": 36,
+          "source_marker": "**",
+          "related_forms": [],
+          "original": "would**"
+        }
+      }
+    },
+    "write": {
+      "headword": "write",
+      "requestHash": "637367c18e939ba66284854cc568343d799374c14977f71729301b17dc55e2e6",
+      "input": {
+        "headword": "write",
+        "source": {
+          "headword": "write",
+          "variants": [],
+          "elementary": true,
+          "source_page": 36,
+          "source_marker": "*",
+          "related_forms": [],
+          "original": "write*"
+        }
+      }
+    },
+    "yes": {
+      "headword": "yes",
+      "requestHash": "b4eb476e17d0d1bad80be65c6d6683f7c98c49a0ef41560b0fb4215fdf21738f",
+      "input": {
+        "headword": "yes",
+        "source": {
+          "headword": "yes",
+          "variants": [
+            "yeah",
+            "yep"
+          ],
+          "elementary": true,
+          "source_page": 36,
+          "source_marker": "*",
+          "related_forms": [],
+          "original": "yes* / yeah* / yep*"
+        }
+      }
+    },
+    "zone": {
+      "headword": "zone",
+      "requestHash": "2868af88c54af6c11b6125fc33893d48df9c536d9a1435d74e3eef78c7d78765",
+      "input": {
+        "headword": "zone",
+        "source": {
+          "headword": "zone",
+          "variants": [],
+          "elementary": false,
+          "source_page": 36,
+          "source_marker": "",
+          "related_forms": [],
+          "original": "zone"
+        }
+      }
+    }
+  },
+  "submissionState": "prepared"
+}

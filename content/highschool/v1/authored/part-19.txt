@@ -1,0 +1,78 @@
+# 고교 핵심 541–600위. 표제어 목록만 참고하여 독자 작성.
+resolve|v|solve|(문제를) 풀다; 해결하다|문제나 다툼을 풀 때 써요.|resolve a conflict|갈등을 해결하다|The two sides resolved their differences through talks.|양측은 대화를 통해 의견 차이를 해결했다.|The problem was quickly resolved.|그 문제는 빠르게 해결되었다.|solve
+resolve|v|decide-firmly|결심하다|어떤 일을 하기로 굳게 마음먹을 때 써요.|resolve to|~하기로 결심하다|She resolved to study harder this year.|그녀는 올해 더 열심히 공부하기로 결심했다.|He resolved never to make the same mistake again.|그는 같은 실수를 다시는 하지 않기로 다짐했다.|decide
+scandal|n|disgrace|추문; 스캔들|사람들을 분노하게 하는 부끄러운 사건이에요.|a political scandal|정치 스캔들|The scandal forced the minister to quit.|그 스캔들로 장관은 물러나야 했다.|The newspaper reported a scandal about the company.|그 신문은 회사에 관한 추문을 보도했다.
+substitute|n|replacement|대체물; 대리인|다른 것을 대신하는 사람이나 물건이에요.|a substitute teacher|대체 교사|We had a substitute teacher today.|오늘은 대신 들어온 선생님이 수업하셨다.|There is no substitute for hard work.|노력을 대신할 것은 없다.|replacement
+substitute|v|replace|대신하다; 대체하다|substitute A for B로 다른 것을 대신 쓸 때 써요.|substitute A for B|B 대신 A를 쓰다|You can substitute honey for sugar in this recipe.|이 요리법에서는 설탕 대신 꿀을 써도 된다.|The coach substituted a new player in the second half.|감독은 후반전에 새 선수를 교체 투입했다.|replace
+acceptance|n|approval|수락; 수용|받아들이거나 인정하는 것이에요.|gain acceptance|인정받다|She received a letter of acceptance from the university.|그녀는 대학에서 합격 통지서를 받았다.|The new idea slowly gained acceptance.|그 새로운 생각은 서서히 받아들여졌다.|approval
+apologize|v|say-sorry|사과하다|잘못에 대해 미안하다고 말할 때 써요.|apologize for|~에 대해 사과하다|He apologized for being late.|그는 늦은 것에 대해 사과했다.|You should apologize to your sister.|너는 여동생에게 사과해야 한다.
+ash|n|powder|재|불에 타고 남은 가루예요.|volcanic ash|화산재|The volcano covered the town in ash.|화산이 마을을 재로 뒤덮었다.|Clean the ash out of the fireplace.|벽난로의 재를 치워라.
+embrace|v|hug|(기꺼이) 수용하다; 껴안다|꼭 안거나 생각을 기꺼이 받아들일 때 써요.|embrace change|변화를 받아들이다|The mother embraced her son at the airport.|엄마는 공항에서 아들을 껴안았다.|Young people quickly embrace new technology.|젊은이들은 새 기술을 빠르게 받아들인다.|hug
+politician|n|political-figure|정치인|정치를 직업으로 하는 사람이에요.|a local politician|지역 정치인|The politician promised to build a new hospital.|그 정치인은 새 병원을 짓겠다고 약속했다.|Many people do not trust politicians.|많은 사람이 정치인을 믿지 않는다.
+realistic|adj|practical|현실적인; 사실적인|실제로 이룰 수 있거나 진짜 같은 것이에요.|a realistic goal|현실적인 목표|Set realistic goals for yourself.|스스로 현실적인 목표를 세워라.|The painting looks very realistic.|그 그림은 매우 사실적으로 보인다.|practical
+satisfaction|n|contentment|만족(감)|원하는 것이 채워졌을 때의 기쁨이에요.|job satisfaction|직업 만족도|She felt great satisfaction after finishing the project.|그녀는 프로젝트를 끝낸 뒤 큰 만족감을 느꼈다.|Customer satisfaction is our priority.|고객 만족이 우리의 최우선 과제이다.
+accomplished|adj|skilled|숙달된; 뛰어난|기술이나 재능이 아주 좋은 것이에요.|an accomplished pianist|뛰어난 피아니스트|She is an accomplished violinist.|그녀는 뛰어난 바이올리니스트이다.|He is an accomplished writer of short stories.|그는 단편 소설을 잘 쓰는 작가이다.|skilled
+admission|n|entry|입장 허가; 입학|들어가는 것이나 들어가는 데 내는 돈이에요.|free admission|무료 입장|Admission to the museum is free on Sundays.|일요일에는 박물관 입장이 무료이다.|She applied for admission to a medical school.|그녀는 의대 입학을 지원했다.|entry
+admission|n|confession|자백; 시인|잘못이나 사실을 인정하는 것이에요.|an admission of guilt|죄의 시인|His silence was an admission that he was wrong.|그의 침묵은 자신이 틀렸다는 인정이었다.|She made an admission of her mistake.|그녀는 자신의 실수를 인정했다.
+compromise|n|agreement|타협; 절충|서로 조금씩 양보해서 합의하는 것이에요.|reach a compromise|타협에 이르다|After hours of talks, they reached a compromise.|몇 시간의 대화 끝에 그들은 타협에 이르렀다.|A good compromise makes both sides happy.|좋은 타협은 양쪽 모두를 만족시킨다.
+compromise|v|give-and-take|타협하다|서로 양보해서 합의할 때 써요.|be willing to compromise|타협할 의향이 있다|My brother and I compromised on which movie to watch.|형과 나는 어떤 영화를 볼지 타협했다.|Both countries refused to compromise.|두 나라 모두 타협을 거부했다.
+convenient|adj|handy|편리한; 형편이 좋은|쓰기 쉽거나 때가 알맞은 것이에요.|a convenient time|편한 시간|The hotel is in a convenient location.|그 호텔은 편리한 곳에 있다.|Is three o'clock convenient for you?|세 시가 너에게 편하니?|handy
+elderly|adj|old|연세가 드신; 나이 든|나이가 많은 사람을 정중하게 말할 때 써요.|elderly people|노인들|Please give your seat to elderly passengers.|나이 드신 승객에게 자리를 양보해라.|She takes care of her elderly parents.|그녀는 연로하신 부모님을 돌본다.
+harbor|n|port|항구; 항만|배가 머무는 안전한 곳이에요.|a fishing harbor|어항|Many boats were tied up in the harbor.|많은 배가 항구에 묶여 있었다.|We watched the sunset from the harbor.|우리는 항구에서 노을을 바라보았다.|port
+scholarship|n|grant|장학금|공부를 돕기 위해 주는 돈이에요.|win a scholarship|장학금을 받다|She won a scholarship to study in Canada.|그녀는 캐나다에서 공부할 장학금을 받았다.|The school offers scholarships to top students.|그 학교는 우수 학생에게 장학금을 준다.
+strain|n|stress|부담; 압박|몸이나 마음에 가해지는 큰 압력이에요.|under strain|부담을 받는|The long hours put a strain on her health.|긴 근무 시간이 그녀의 건강에 부담을 주었다.|Money problems put a strain on the family.|돈 문제가 그 가족에게 압박을 주었다.|stress
+strain|v|overwork|무리하게 쓰다; 혹사하다|몸의 일부를 너무 많이 쓸 때 써요.|strain your eyes|눈을 혹사하다|Do not strain your eyes by reading in the dark.|어두운 곳에서 책을 읽어 눈을 혹사하지 마라.|He strained a muscle while lifting the box.|그는 상자를 들다가 근육을 무리했다.
+urgent|adj|pressing|긴급한; 시급한|바로 처리해야 하는 것이에요.|an urgent message|긴급한 메시지|I have an urgent message for the manager.|관리자에게 전할 급한 메시지가 있다.|The patient needs urgent care.|그 환자는 긴급한 치료가 필요하다.|pressing
+vertical|adj|upright|수직의; 세로의|위아래로 곧게 선 것이에요.|a vertical line|수직선|Draw a vertical line down the middle of the page.|쪽 가운데에 세로선을 그어라.|The cliff is almost vertical.|그 절벽은 거의 수직이다.
+violation|n|breach|위반; 침해|규칙이나 권리를 어기는 것이에요.|a violation of|~의 위반|Parking here is a violation of the law.|여기 주차하는 것은 법 위반이다.|The report describes violations of human rights.|그 보고서는 인권 침해 사례를 설명한다.|breach
+abstract|adj|conceptual|추상적인|직접 보거나 만질 수 없는 생각인 것이에요.|an abstract idea|추상적인 생각|Love and justice are abstract ideas.|사랑과 정의는 추상적인 개념이다.|She likes abstract paintings with bright colors.|그녀는 밝은 색의 추상화를 좋아한다.
+abstract|n|summary|요약; 개요|논문의 핵심을 짧게 정리한 글이에요.|read the abstract|요약을 읽다|Read the abstract before you read the whole paper.|논문 전체를 읽기 전에 요약을 읽어라.|The abstract explains the main findings.|요약은 주요 연구 결과를 설명한다.|summary
+addiction|n|dependence|중독|어떤 것을 끊지 못하는 상태예요.|internet addiction|인터넷 중독|Smartphone addiction is common among teenagers.|스마트폰 중독은 십 대들 사이에서 흔하다.|He got help for his addiction.|그는 중독 치료를 받았다.|dependence
+beam|n|ray|빛줄기; 들보|한 방향으로 나가는 빛이나 건물을 받치는 긴 나무예요.|a beam of light|한 줄기 빛|A beam of light came through the window.|한 줄기 빛이 창문으로 들어왔다.|The roof is supported by wooden beams.|그 지붕은 나무 들보가 받치고 있다.|ray
+beam|v|smile|환하게 웃다|기뻐서 환하게 웃을 때 써요.|beam with pride|자랑스러워 활짝 웃다|She beamed with pride when she won the prize.|그녀는 상을 받자 자랑스럽게 활짝 웃었다.|The baby beamed at his mother.|아기가 엄마를 보고 방긋 웃었다.|smile
+curve|n|bend|곡선; 커브|둥글게 휜 선이나 길이에요.|a sharp curve|급커브|The road has many sharp curves.|그 길에는 급커브가 많다.|Draw a smooth curve between the two points.|두 점 사이에 부드러운 곡선을 그려라.|bend
+curve|v|bend|구부러지다; 곡선을 그리다|둥글게 휘어질 때 써요.|curve around|돌아서 휘다|The river curves around the town.|강이 마을을 둘러 휘어 흐른다.|The path curves to the left.|그 길은 왼쪽으로 휘어진다.|bend
+depressed|adj|very-sad|우울한; 침체된|기분이 몹시 가라앉거나 경제가 나쁜 것이에요.|feel depressed|우울하다|She felt depressed after losing her job.|그녀는 일자리를 잃은 뒤 우울했다.|The town has a depressed economy.|그 마을은 경제가 침체되어 있다.|sad
+inflation|n|rising-prices|물가 상승; 인플레이션|돈의 가치가 떨어지고 물가가 오르는 것이에요.|high inflation|높은 물가 상승률|Inflation has made food more expensive.|물가 상승으로 음식값이 비싸졌다.|The government is trying to control inflation.|정부는 물가 상승을 억제하려고 노력하고 있다.
+install|v|set-up|설치하다|기계나 프로그램을 쓸 수 있게 놓을 때 써요.|install software|소프트웨어를 설치하다|We installed solar panels on the roof.|우리는 지붕에 태양광 패널을 설치했다.|You need to install the app first.|먼저 앱을 설치해야 한다.
+instruction|n|direction|지시; 설명|무엇을 어떻게 하라는 말이나 글이에요.|follow instructions|지시를 따르다|Read the instructions carefully before you start.|시작하기 전에 설명서를 주의 깊게 읽어라.|The teacher gave clear instructions.|선생님은 분명하게 지시하셨다.|direction
+instruction|n|teaching|교육; 수업|지식이나 기술을 가르치는 것이에요.|language instruction|언어 교육|The school offers instruction in three languages.|그 학교는 세 가지 언어로 수업을 제공한다.|She received swimming instruction as a child.|그녀는 어렸을 때 수영 강습을 받았다.|teaching
+justify|v|defend|정당화하다; 해명하다|옳다는 이유를 댈 때 써요.|justify a decision|결정을 정당화하다|How can you justify spending so much money?|그렇게 많은 돈을 쓴 것을 어떻게 정당화할 수 있니?|Nothing can justify violence.|어떤 것도 폭력을 정당화할 수 없다.|defend
+migration|n|movement|이주; 이동|사람이나 동물이 다른 곳으로 옮겨 가는 것이에요.|bird migration|새의 이동|The migration of birds happens every autumn.|새들의 이동은 매년 가을에 일어난다.|Migration from the countryside to cities is increasing.|시골에서 도시로의 이주가 늘고 있다.|movement
+organ|n|body-part|기관; 장기|몸속에서 특별한 일을 하는 부분이에요.|organ donation|장기 기증|The heart is the organ that pumps blood.|심장은 피를 내보내는 기관이다.|She decided to donate her organs.|그녀는 장기를 기증하기로 결심했다.
+organ|n|instrument|오르간|건반을 눌러 소리를 내는 큰 악기예요.|play the organ|오르간을 연주하다|He plays the organ at church.|그는 교회에서 오르간을 연주한다.|The sound of the organ filled the hall.|오르간 소리가 강당을 가득 채웠다.
+patrol|v|guard|순찰하다|지역을 돌아다니며 지킬 때 써요.|patrol the streets|거리를 순찰하다|Police officers patrol the park at night.|경찰관들이 밤에 공원을 순찰한다.|Guards patrolled the border.|경비병들이 국경을 순찰했다.|guard
+patrol|n|guard-duty|순찰(대)|돌아다니며 지키는 일이나 사람들이에요.|on patrol|순찰 중인|A police patrol stopped the car.|경찰 순찰대가 그 차를 멈춰 세웠다.|Two soldiers were on patrol.|군인 두 명이 순찰 중이었다.
+peer|n|equal|또래; 동료|나이나 지위가 비슷한 사람이에요.|peer pressure|또래 압력|Teenagers often feel pressure from their peers.|십 대는 흔히 또래 친구들에게서 압박을 느낀다.|She is respected by her peers.|그녀는 동료들에게 존경받는다.|equal
+peer|v|look-closely|자세히 들여다보다|잘 안 보여서 눈을 가늘게 뜨고 볼 때 써요.|peer through|~ 사이로 들여다보다|She peered through the window into the dark room.|그녀는 창문 너머로 어두운 방을 들여다보았다.|He peered at the small letters on the box.|그는 상자에 적힌 작은 글자를 자세히 들여다보았다.
+sweat|n|perspiration|땀|더울 때 피부에서 나오는 물이에요.|covered in sweat|땀에 젖은|He was covered in sweat after the race.|경주 후 그는 땀범벅이 되었다.|Wipe the sweat off your face.|얼굴의 땀을 닦아라.
+sweat|v|perspire|땀을 흘리다; 애태우다|땀이 나거나 몹시 걱정할 때 써요.|sweat a lot|땀을 많이 흘리다|I always sweat a lot when I play soccer.|나는 축구를 할 때 항상 땀을 많이 흘린다.|Do not sweat the small stuff.|사소한 일에 애태우지 마라.
+trauma|n|shock|정신적 충격; 외상|큰 사고나 사건 후에 남는 상처예요.|emotional trauma|정신적 충격|The children suffered trauma after the earthquake.|아이들은 지진 후 정신적 충격을 겪었다.|Doctors treated him for head trauma.|의사들은 그의 머리 외상을 치료했다.|shock
+acquire|v|obtain|습득하다; 얻다|노력해서 지식이나 물건을 갖게 될 때 써요.|acquire skills|기술을 습득하다|Children acquire language naturally.|아이들은 자연스럽게 언어를 습득한다.|The museum acquired a rare painting.|그 박물관은 희귀한 그림을 손에 넣었다.|obtain
+alike|adj|similar|비슷한; 닮은|서로 많이 같은 것이에요.|look alike|닮아 보이다|The two sisters look very much alike.|두 자매는 정말 많이 닮았다.|No two snowflakes are alike.|똑같은 눈송이는 하나도 없다.|similar
+alike|adv|equally|똑같이; 마찬가지로|모두에게 같게를 뜻해요.|young and old alike|노소를 막론하고|The show is loved by children and adults alike.|그 공연은 아이와 어른 모두에게 사랑받는다.|Teachers and students alike enjoyed the trip.|교사와 학생 모두 그 여행을 즐겼다.|equally
+arrow|n|pointed-stick|화살; 화살표|활로 쏘는 것이나 방향을 가리키는 표시예요.|follow the arrows|화살표를 따라가다|Follow the arrows to find the exit.|출구를 찾으려면 화살표를 따라가라.|He shot an arrow at the target.|그는 과녁을 향해 화살을 쏘았다.
+availability|n|being-available|이용 가능성; 구할 수 있음|쓰거나 얻을 수 있는 정도예요.|check availability|이용 가능 여부를 확인하다|Please check the availability of rooms for next week.|다음 주 객실이 있는지 확인해 달라.|The availability of clean water is a problem in some areas.|일부 지역에서는 깨끗한 물을 구하기가 문제이다.
+boundary|n|border|경계(선)|두 지역을 나누는 선이에요.|national boundaries|국경|The river forms the boundary between the two towns.|그 강이 두 마을의 경계를 이룬다.|Science keeps pushing the boundaries of knowledge.|과학은 계속해서 지식의 경계를 넓혀 간다.|border
+courtesy|n|politeness|예의; 호의|남을 존중하는 공손한 태도예요.|common courtesy|기본 예의|It is common courtesy to say thank you.|고맙다고 말하는 것은 기본 예의이다.|The hotel offers free coffee as a courtesy.|그 호텔은 서비스로 무료 커피를 제공한다.|politeness
+flexible|adj|adaptable|유연한; 융통성 있는|쉽게 구부러지거나 상황에 맞게 바뀌는 것이에요.|flexible hours|유연 근무 시간|Rubber is a flexible material.|고무는 유연한 물질이다.|My work schedule is flexible.|내 근무 일정은 융통성이 있다.|adaptable
+observation|n|watching|관찰; 의견|주의 깊게 보는 것이나 그 결과 하는 말이에요.|careful observation|세심한 관찰|Scientists learn through careful observation.|과학자들은 세심한 관찰을 통해 배운다.|She made an interesting observation about the story.|그녀는 그 이야기에 대해 흥미로운 의견을 말했다.
+owe|v|be-in-debt|빚지다; 신세 지다|돈이나 은혜를 갚아야 할 때 써요.|owe money|돈을 빚지다|I owe my brother ten dollars.|나는 형에게 10달러를 빚졌다.|She owes her success to her teacher.|그녀의 성공은 선생님 덕분이다.
+phenomenon|n|occurrence|현상|관찰할 수 있는 일이나 사건이에요.|a natural phenomenon|자연 현상|A rainbow is a natural phenomenon.|무지개는 자연 현상이다.|Online shopping has become a global phenomenon.|온라인 쇼핑은 세계적인 현상이 되었다.|occurrence
+precise|adj|exact|정밀한; 정확한|조금도 틀림이 없는 것이에요.|precise measurements|정밀한 측정|We need precise measurements for the experiment.|그 실험에는 정밀한 측정이 필요하다.|Can you give me the precise time of the accident?|사고가 난 정확한 시간을 알려 줄 수 있니?|exact
+deadline|n|time-limit|마감 시한|일을 끝내야 하는 날짜나 시간이에요.|meet a deadline|마감을 지키다|The deadline for the essay is Friday.|에세이 마감은 금요일이다.|We worked late to meet the deadline.|우리는 마감을 지키려고 늦게까지 일했다.
+excessive|adj|too-much|지나친; 과도한|적당한 정도를 넘는 것이에요.|excessive use|과도한 사용|Excessive screen time can hurt your eyes.|화면을 지나치게 오래 보면 눈이 상할 수 있다.|The price seemed excessive.|그 가격은 지나쳐 보였다.|extreme
+heal|v|cure|낫다; 치유하다|상처나 병이 나아지거나 낫게 할 때 써요.|heal a wound|상처를 치유하다|The cut on my finger healed quickly.|손가락의 베인 상처가 빨리 나았다.|Time can heal a broken heart.|시간은 상처받은 마음을 치유할 수 있다.|cure
+oriented|adj|focused|~지향의; ~중심의|어떤 쪽에 초점을 둔 것이에요.|family-oriented|가족 중심의|The company is very customer oriented.|그 회사는 매우 고객 중심적이다.|The course is oriented toward beginners.|그 강좌는 초보자를 대상으로 한다.|focused
+tribe|n|group|종족; 부족(部族)|같은 조상과 문화를 가진 사람들의 무리예요.|a native tribe|원주민 부족|The tribe has lived in the forest for centuries.|그 부족은 수 세기 동안 숲에서 살아왔다.|Each tribe has its own language.|부족마다 고유한 언어가 있다.|group
+variable|n|changing-factor|변수|바뀔 수 있는 요소예요.|control the variables|변수를 통제하다|In an experiment, you should change only one variable.|실험에서는 변수를 하나만 바꿔야 한다.|Weather is an important variable in farming.|날씨는 농사에서 중요한 변수이다.|factor
+variable|adj|changeable|변하기 쉬운|자주 바뀌는 것이에요.|variable weather|변덕스러운 날씨|The weather here is very variable in spring.|이곳 날씨는 봄에 매우 변덕스럽다.|Prices are variable depending on the season.|가격은 계절에 따라 달라진다.|changeable
+attraction|n|tourist-site|명소; 관광지|사람들이 구경하러 가는 곳이에요.|a tourist attraction|관광 명소|The castle is the town's main attraction.|그 성은 마을의 주요 관광 명소이다.|Theme parks are popular attractions for families.|놀이공원은 가족에게 인기 있는 명소이다.
+attraction|n|appeal|끌림; 매력|마음을 끄는 힘이에요.|the attraction of|~의 매력|The attraction of city life is hard to resist.|도시 생활의 매력은 거부하기 어렵다.|There was an immediate attraction between them.|그들은 서로에게 바로 끌렸다.|appeal
+convert|v|change|개조하다; 전환하다|다른 형태나 용도로 바꿀 때 써요.|convert A into B|A를 B로 바꾸다|They converted the old factory into apartments.|그들은 낡은 공장을 아파트로 개조했다.|Solar panels convert sunlight into electricity.|태양광 패널은 햇빛을 전기로 바꾼다.|change
+grip|n|hold|꽉 잡음; 장악|단단히 잡는 것이나 통제하는 힘이에요.|lose your grip|손을 놓치다|Keep a firm grip on the rope.|밧줄을 꽉 잡고 있어라.|The country was in the grip of a cold winter.|그 나라는 혹독한 겨울에 휩싸여 있었다.|hold
+grip|v|hold-tightly|꽉 잡다; 사로잡다|단단히 쥐거나 마음을 사로잡을 때 써요.|grip the handle|손잡이를 꽉 잡다|She gripped my hand during the scary movie.|그녀는 무서운 영화를 보는 동안 내 손을 꽉 잡았다.|The story gripped readers from the first page.|그 이야기는 첫 장부터 독자를 사로잡았다.
+humble|adj|modest|겸손한; 소박한|자신을 낮추거나 화려하지 않은 것이에요.|a humble attitude|겸손한 태도|Despite his success, he remained humble.|성공했는데도 그는 겸손함을 잃지 않았다.|She grew up in a humble home.|그녀는 소박한 집에서 자랐다.|modest
+hybrid|adj|mixed|혼합형의; 잡종의|두 가지가 섞인 것이에요.|a hybrid car|하이브리드 자동차|My father drives a hybrid car.|아버지는 하이브리드 자동차를 운전하신다.|The school uses a hybrid model of online and classroom learning.|그 학교는 온라인과 교실 수업을 섞은 방식을 쓴다.|mixed
+lasting|adj|long-term|오래 지속되는; 영속적인|오랫동안 이어지는 것이에요.|a lasting effect|지속적인 효과|The trip left a lasting impression on me.|그 여행은 나에게 오래 남는 인상을 주었다.|They hope for a lasting peace.|그들은 영원한 평화를 바란다.|permanent
+preference|n|liking|선호; 좋아함|여럿 중 더 좋아하는 것이에요.|a preference for|~에 대한 선호|Do you have a preference for tea or coffee?|차와 커피 중에 더 좋아하는 것이 있니?|Children show a strong preference for sweet foods.|아이들은 단 음식을 강하게 선호한다.|taste

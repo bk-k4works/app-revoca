@@ -1,0 +1,125 @@
+{
+  "analysis_date": "2026-10-15",
+  "purpose": "중·고등학생 내신·수능용 Flutter 단어장 앱의 콘텐츠, 학습 기록, 음성 재생 설계 참고",
+  "selected_direction": {
+    "design": "포커스",
+    "framework": "Flutter"
+  },
+  "method": {
+    "type": "local_static_analysis",
+    "tools": ["ZIP inspection", "Android SDK aapt 35.0.0", "SQLite read-only queries", "JADX 1.5.6"],
+    "apk_executed": false,
+    "competitor_server_requests": false,
+    "limitations": [
+      "사용자가 제공한 두 버전에 한정한 정적 분석이며 실행 시 동작을 검증하지 않았다.",
+      "서버에 저장된 전체 단어장, 콘텐츠 제작 출처, 실제 추천·복습 정책은 확인하지 않았다.",
+      "디컴파일은 원본 소스의 완전한 복원이 아니다. JADX가 클래스카드 14건, 암기고래 148건의 오류를 보고했다.",
+      "모델에 필드가 존재해도 모든 단어에 해당 콘텐츠가 채워져 있다는 의미는 아니다.",
+      "라이브러리 포함 여부만으로 사용 중인 기능이나 사용자 경험을 확정하지 않았다."
+    ]
+  },
+  "inputs": [
+    {
+      "app": "클래스카드",
+      "path": "/Users/bkkwon/Downloads/classcard.net_1.0.548.apk",
+      "package": "classcard.net",
+      "version_name": "1.0.548",
+      "version_code": 548,
+      "sha256": "e8e33fb7acb54df617ea6d5cfd1d1f5f61459c91c16780e6b15dcaa1d1fdb1e5"
+    },
+    {
+      "app": "암기고래",
+      "path": "/Users/bkkwon/Downloads/com.belugaedu.amgigorae_6.1.3.xapk",
+      "package": "com.belugaedu.amgigorae",
+      "version_name": "6.1.3",
+      "version_code": 413,
+      "sha256": "85fe0f569d9b315e7f623e7e84fb7988b2cf8ba9a0a6453f3a7cb143dcc2ea19",
+      "base_apk_sha256": "a280710db0733c02f64c044c09bf57ee4c4a14c36eba7a3ede663a19e3dc84c5",
+      "container_entries": ["com.belugaedu.amgigorae.apk", "config.arm64_v8a.apk", "config.en.apk", "config.xxhdpi.apk", "manifest.json", "icon.png"]
+    }
+  ],
+  "confirmed_findings": [
+    {
+      "id": "CC_CONTENT_DB",
+      "app": "클래스카드",
+      "observation": "APK 내부에 11,577개 행, 11,577개 서로 다른 word 값을 가진 SQLite 사전이 있다. 서비스 전체 단어장 수나 교육과정 필수 어휘 수를 의미하지 않는다.",
+      "evidence": {
+        "archive_entry": "res/Ww.sqlite",
+        "table": "fm_dictionary",
+        "row_count": 11577,
+        "selected_columns": ["dic_idx", "dic_type", "word", "meaning", "word_lang", "meaning_lang", "rank", "is_idiom", "audio_path", "audio_status"],
+        "verification": "sqlite_master, PRAGMA-compatible schema inspection, SELECT count(*), SELECT count(distinct word)"
+      },
+      "application": "자체 제작 또는 사용권을 확보한 기본 단어 데이터를 오프라인 DB로 배포하는 설계에 참고한다."
+    },
+    {
+      "id": "CC_MODE_PROGRESS",
+      "app": "클래스카드",
+      "observation": "세트의 암기·리콜·스펠 진행량과 마지막 학습 위치를 별도 필드로 보관한다. 카드별 기록에는 activity, score, ts가 있다.",
+      "evidence": [
+        {"decompiled_file": "classcard/net/model/DBFMUserSetLog.java", "lines": [10, 30], "fields": ["mem_learn_card_cnt", "recall_learn_card_cnt", "spell_learn_card_cnt", "last_section", "last_round", "last_card"]},
+        {"decompiled_file": "classcard/net/model/DBFMUserCardLog.java", "lines": [8, 17], "fields": ["user_idx", "set_idx", "activity", "card_idx", "score", "ts"]},
+        {"decompiled_file": "y3/a.java", "lines": [86, 100], "detail": "콘텐츠 테이블과 카드·세트 학습 로그의 별도 CREATE TABLE 문"}
+      ],
+      "application": "뜻 회상과 철자 성취도를 분리하고, 학습 세션의 중단 위치를 저장한다."
+    },
+    {
+      "id": "CC_AUDIO_FILES",
+      "app": "클래스카드",
+      "observation": "카드 모델에 음성 URL·로컬 경로·파일 존재 확인 함수가 있고, 재생 도우미에 다운로드와 MediaPlayer 재생 경로가 있다.",
+      "evidence": [
+        {"decompiled_file": "classcard/net/model/DBFMCard.java", "symbols": ["checkAudio", "getAudioUrl", "getLocalAudio"]},
+        {"decompiled_file": "b4/v.java", "lines": [360, 363], "detail": "RetroNetwork.DownloadFile 호출"},
+        {"decompiled_file": "b4/v.java", "lines": [469, 493], "detail": "MediaPlayer 생성 및 반복 재생 설정"}
+      ],
+      "application": "단어 콘텐츠와 음성 자산을 분리하고, 다운로드한 음성을 로컬에서 재생한다."
+    },
+    {
+      "id": "AG_RICH_WORD_CONTENT",
+      "app": "암기고래",
+      "observation": "단어 모델이 뜻·상세 설명·발음·복수 예문·파생어·유의어·반의어·혼동어·어원·뉘앙스·전치사·메모·음성 경로를 구분한다.",
+      "evidence": {
+        "decompiled_file": "com/belugaedu/amgigorae/model/Deck.java",
+        "symbol": "Deck.Word",
+        "lines": [249, 302],
+        "selected_fields": ["wordName", "wordSolution", "wordSolutionDetail", "wordPronunciation", "wordExample1", "wordExample2", "wordExample3", "wordDerivative", "wordConfusion", "wordEtymology", "wordNuance", "wordPreposition", "wordMemo", "wordSoundUrl"]
+      },
+      "application": "핵심 뜻·표현·예문은 기본 콘텐츠로, 혼동어·뉘앙스 등은 선택 콘텐츠로 설계한다. 예문은 고정 번호 필드 대신 별도 목록으로 관리한다."
+    },
+    {
+      "id": "AG_AUDIO_AND_TTS",
+      "app": "암기고래",
+      "observation": "같은 재생 서비스가 Android TextToSpeech와 음성 파일 재생을 지원한다. 읽을 내용별 반복 횟수 설정도 존재한다.",
+      "evidence": [
+        {"decompiled_file": "com/belugaedu/amgigorae/service/PlayService.java", "lines": [1898, 1934], "symbols": ["playTTS", "playSDCard"]},
+        {"decompiled_file": "com/belugaedu/amgigorae/service/PlayService.java", "lines": [1124, 1237], "detail": "WORD, SOLUTION, SPELLING, EXAMPLE 등에 따른 반복 횟수 설정 조회"},
+        {"decompiled_file": "com/belugaedu/amgigorae/service/PlayService.java", "lines": [732, 859], "detail": "미디어 세션, 재생 상태, TTS 속도·피치 제어"}
+      ],
+      "application": "우리 기본 콘텐츠는 미리 준비한 음성 파일로, 사용자 추가 단어는 기기 TTS로 제공한다. 이는 우리 제품의 제안이며 경쟁 앱의 정확한 우선순위 규칙을 복제한 것이 아니다."
+    }
+  ],
+  "proposed_architecture": {
+    "status": "proposal_not_implemented",
+    "entities": [
+      {"name": "WordEntry", "purpose": "표제어, 언어, 기본 발음"},
+      {"name": "WordSense", "purpose": "품사, 뜻, 짧은 설명, 표현·혼동어 연결"},
+      {"name": "Example", "purpose": "의미에 연결된 예문, 번역, 음성 연결"},
+      {"name": "Deck", "purpose": "기본 단어장·시험 범위 단어장"},
+      {"name": "DeckItem", "purpose": "단어장과 학습할 의미의 연결 및 순서"},
+      {"name": "ReviewEvent", "purpose": "학습 방식, 정오답, 답변 시각, 힌트 사용 여부 기록"},
+      {"name": "LearningState", "purpose": "사용자·의미·학습 방식별 상태 및 다음 복습 시각"},
+      {"name": "StudySession", "purpose": "선택 범위, 진행 위치, 재시도 목록, 이어하기"},
+      {"name": "AudioAsset", "purpose": "콘텐츠 연결, 언어·음색, 원격 및 로컬 위치, 버전·다운로드 상태"}
+    ],
+    "audio_policy": [
+      "기본 콘텐츠: 검수한 단어·예문 음성 파일을 배포하고 단어장별 다운로드를 지원한다.",
+      "사용자 추가 콘텐츠: 해당 언어의 기기 TTS 사용 가능 여부를 확인해 읽어준다.",
+      "듣기 큐: 단어, 생각할 시간, 뜻, 예문을 조합하고 반복 횟수·속도를 설정한다.",
+      "듣기 이력은 회상·철자 정답 이력과 분리한다.",
+      "전체 오프라인 이용 가능 상태는 텍스트와 필요한 음성 파일의 준비 여부를 함께 확인한다."
+    ],
+    "focus_ui": "단어와 발음 버튼을 먼저 보여주고, 회상 후 뜻·표현·예문을 펼친다. 추가 설명은 선택적으로 연다.",
+    "initial_content_scope": "자체 제작 또는 사용권 확보 후 검수한 300개 어휘. 20개씩 15세트는 초기 제안이며 경쟁 앱에서 확인한 구성은 아니다.",
+    "content_policy": "배포할 뜻·예문·설명·이미지·음성은 별도 제작하거나 사용권을 확보한다. 이 기록에는 경쟁 앱의 단어 데이터, 미디어, 구현 소스를 포함하지 않는다."
+  }
+}

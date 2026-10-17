@@ -1,0 +1,26 @@
+{
+  "createdAt": "2026-10-16T01:48:35.773177+00:00",
+  "status": "prepared_not_submitted",
+  "uniqueHeadwords": 100,
+  "generationRequestsPerEffort": 100,
+  "preparedEfforts": [
+    "medium",
+    "high"
+  ],
+  "model": "claude-opus-5-5",
+  "sourceCsvSha256": "956524bcea244a6711efbacf361134d2e2852416e1e72ee4c140af2de0bd9ba4",
+  "sourceVerificationStatus": "awaiting_two_human_checks",
+  "sourceHumanComparisons": 0,
+  "submissionStateAtPreparation": "prepared",
+  "nextAction": "Set ANTHROPIC_API_KEY locally and submit generate.medium.requests.jsonl.",
+  "humanReviewTarget": {
+    "reviewedPerEffort": 100,
+    "uneditedApprovalRate": 0.8
+  },
+  "notes": [
+    "The two effort arms use exactly the same headwords. high is a separate paid comparison.",
+    "Source worksheets are comparison aids; only actual completed human checks may be attested.",
+    "Keep each effort arm in separate review output and approved files until choosing a winner.",
+    "No text generation, independent LLM review, human approval, or production audio has occurred."
+  ]
+}

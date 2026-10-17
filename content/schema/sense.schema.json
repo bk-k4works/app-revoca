@@ -1,0 +1,208 @@
+{
+  "type": "object",
+  "properties": {
+    "pos": {
+      "enum": [
+        "n",
+        "v",
+        "adj",
+        "adv",
+        "pron",
+        "prep",
+        "conj",
+        "det",
+        "interj",
+        "aux",
+        "phrase"
+      ]
+    },
+    "meaningKo": {
+      "type": "string",
+      "minLength": 1
+    },
+    "meaningKoAlt": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "explanationKo": {
+      "type": "string",
+      "minLength": 1
+    },
+    "collocation": {
+      "type": "string",
+      "minLength": 1
+    },
+    "collocationKo": {
+      "type": "string",
+      "minLength": 1
+    },
+    "examples": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "en": {
+            "type": "string",
+            "minLength": 1
+          },
+          "ko": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "required": [
+          "en",
+          "ko"
+        ],
+        "additionalProperties": false
+      },
+      "minItems": 2,
+      "maxItems": 2
+    },
+    "acceptedSpellings": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "confusableHeadwords": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "nearSynonymHeadwords": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z][a-z0-9-]*\\.(n|v|adj|adv|pron|prep|conj|det|interj|aux|phrase)\\.[a-z][a-z0-9-]*$"
+    },
+    "headword": {
+      "type": "string",
+      "minLength": 1
+    },
+    "headwordId": {
+      "type": "string",
+      "minLength": 1
+    },
+    "status": {
+      "const": "human_approved"
+    },
+    "selectedExampleIndex": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "source": {
+      "type": "object"
+    },
+    "generation": {
+      "type": "object"
+    },
+    "review": {
+      "type": "object",
+      "properties": {
+        "reviewer": {
+          "type": "string",
+          "minLength": 1
+        },
+        "reviewedAt": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "decision": {
+          "const": "human_approved"
+        },
+        "editedFields": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "note": {
+          "type": "string"
+        },
+        "inputHash": {
+          "type": "string",
+          "minLength": 1
+        },
+        "contentHash": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "reviewer",
+        "reviewedAt",
+        "decision",
+        "editedFields",
+        "note",
+        "inputHash",
+        "contentHash"
+      ],
+      "additionalProperties": false
+    },
+    "reviewHistory": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    },
+    "distractorExclusions": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "flags": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "contentHash": {
+      "type": "string",
+      "minLength": 1
+    }
+  },
+  "required": [
+    "pos",
+    "meaningKo",
+    "meaningKoAlt",
+    "explanationKo",
+    "collocation",
+    "collocationKo",
+    "examples",
+    "acceptedSpellings",
+    "confusableHeadwords",
+    "nearSynonymHeadwords",
+    "id",
+    "headword",
+    "headwordId",
+    "status",
+    "selectedExampleIndex",
+    "source",
+    "generation",
+    "review",
+    "reviewHistory",
+    "distractorExclusions",
+    "flags",
+    "contentHash"
+  ],
+  "additionalProperties": false
+}

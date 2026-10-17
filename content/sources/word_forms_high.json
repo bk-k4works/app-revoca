@@ -1,0 +1,360 @@
+{
+  "version": "high-v1",
+  "method": "High-school extension merged over word_forms.json. Everyday compounds and irregular forms that the conservative middle-school rules do not derive.",
+  "allowDigits": true,
+  "allowedTokens": [
+    "everyone",
+    "everything",
+    "everybody",
+    "everywhere",
+    "someone",
+    "something",
+    "somebody",
+    "somewhere",
+    "sometimes",
+    "anyone",
+    "anything",
+    "anywhere",
+    "nothing",
+    "nobody",
+    "outside",
+    "inside",
+    "online",
+    "website",
+    "internet",
+    "bookstore",
+    "weekend",
+    "grandmother",
+    "grandfather",
+    "grandparents",
+    "kilometer",
+    "kilometers",
+    "dollar",
+    "dollars",
+    "sofa",
+    "classmate",
+    "classmates",
+    "homework",
+    "nearby",
+    "percent",
+    "smartphone",
+    "teenager",
+    "teenagers",
+    "himself",
+    "herself",
+    "korea",
+    "seoul",
+    "app",
+    "apps",
+    "download",
+    "meter",
+    "meters",
+    "length",
+    "email",
+    "video",
+    "videos",
+    "cafe"
+  ],
+  "irregular": {
+    "sold": [
+      "sell"
+    ],
+    "sang": [
+      "sing"
+    ],
+    "sung": [
+      "sing"
+    ],
+    "meant": [
+      "mean"
+    ],
+    "fought": [
+      "fight"
+    ],
+    "threw": [
+      "throw"
+    ],
+    "thrown": [
+      "throw"
+    ],
+    "rang": [
+      "ring"
+    ],
+    "swam": [
+      "swim"
+    ],
+    "hid": [
+      "hide"
+    ],
+    "hidden": [
+      "hide"
+    ],
+    "shook": [
+      "shake"
+    ],
+    "struck": [
+      "strike"
+    ],
+    "bent": [
+      "bend"
+    ],
+    "dealt": [
+      "deal"
+    ],
+    "lent": [
+      "lend"
+    ],
+    "sought": [
+      "seek"
+    ],
+    "fed": [
+      "feed"
+    ],
+    "lay": [
+      "lie"
+    ],
+    "laid": [
+      "lay"
+    ],
+    "led": [
+      "lead"
+    ],
+    "shot": [
+      "shoot"
+    ],
+    "stuck": [
+      "stick"
+    ],
+    "spread": [
+      "spread"
+    ],
+    "split": [
+      "split"
+    ],
+    "set": [
+      "set"
+    ],
+    "cost": [
+      "cost"
+    ],
+    "hurt": [
+      "hurt"
+    ],
+    "put": [
+      "put"
+    ],
+    "quit": [
+      "quit"
+    ],
+    "beat": [
+      "beat"
+    ],
+    "beaten": [
+      "beat"
+    ],
+    "arose": [
+      "arise"
+    ],
+    "arisen": [
+      "arise"
+    ],
+    "withdrew": [
+      "withdraw"
+    ],
+    "forgave": [
+      "forgive"
+    ],
+    "overcame": [
+      "overcome"
+    ],
+    "undertook": [
+      "undertake"
+    ],
+    "bound": [
+      "bind"
+    ],
+    "bore": [
+      "bear"
+    ],
+    "born": [
+      "bear"
+    ],
+    "wept": [
+      "weep"
+    ],
+    "swept": [
+      "sweep"
+    ],
+    "fled": [
+      "flee"
+    ],
+    "froze": [
+      "freeze"
+    ],
+    "frozen": [
+      "freeze"
+    ],
+    "stole": [
+      "steal"
+    ],
+    "stolen": [
+      "steal"
+    ],
+    "woke": [
+      "wake"
+    ],
+    "woken": [
+      "wake"
+    ],
+    "mistook": [
+      "mistake"
+    ],
+    "data": [
+      "datum"
+    ],
+    "lives": [
+      "life"
+    ],
+    "knives": [
+      "knife"
+    ],
+    "wolves": [
+      "wolf"
+    ],
+    "halves": [
+      "half"
+    ],
+    "hung": [
+      "hang"
+    ],
+    "dug": [
+      "dig"
+    ],
+    "stung": [
+      "sting"
+    ],
+    "swung": [
+      "swing"
+    ],
+    "clung": [
+      "cling"
+    ],
+    "slid": [
+      "slide"
+    ],
+    "bit": [
+      "bite"
+    ],
+    "bitten": [
+      "bite"
+    ],
+    "tore": [
+      "tear"
+    ],
+    "torn": [
+      "tear"
+    ],
+    "proven": [
+      "prove"
+    ],
+    "sank": [
+      "sink"
+    ],
+    "sunk": [
+      "sink"
+    ],
+    "ground": [
+      "grind"
+    ],
+    "overtook": [
+      "overtake"
+    ],
+    "underwent": [
+      "undergo"
+    ],
+    "withheld": [
+      "withhold"
+    ],
+    "upheld": [
+      "uphold"
+    ],
+    "forbade": [
+      "forbid"
+    ],
+    "forbidden": [
+      "forbid"
+    ],
+    "spun": [
+      "spin"
+    ],
+    "leapt": [
+      "leap"
+    ],
+    "knelt": [
+      "kneel"
+    ],
+    "shrank": [
+      "shrink"
+    ],
+    "shrunk": [
+      "shrink"
+    ],
+    "sewn": [
+      "sew"
+    ],
+    "blown": [
+      "blow"
+    ],
+    "drew": [
+      "draw"
+    ],
+    "drawn": [
+      "draw"
+    ],
+    "shone": [
+      "shine"
+    ],
+    "strove": [
+      "strive"
+    ],
+    "wove": [
+      "weave"
+    ],
+    "woven": [
+      "weave"
+    ],
+    "bled": [
+      "bleed"
+    ],
+    "bred": [
+      "breed"
+    ],
+    "sped": [
+      "speed"
+    ],
+    "stank": [
+      "stink"
+    ],
+    "sown": [
+      "sow"
+    ],
+    "mown": [
+      "mow"
+    ],
+    "misled": [
+      "mislead"
+    ],
+    "overate": [
+      "overeat"
+    ],
+    "overeaten": [
+      "overeat"
+    ],
+    "misunderstood": [
+      "misunderstand"
+    ],
+    "reaped": [
+      "reap"
+    ]
+  }
+}

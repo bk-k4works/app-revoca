@@ -1,0 +1,278 @@
+{
+  "method": "codex-local-editorial-review",
+  "independentModel": false,
+  "humanApproval": false,
+  "changes": [
+    {
+      "candidate": "be.v.state",
+      "before": [
+        "be",
+        "v",
+        "state",
+        "~이다",
+        "주어가 누구인지 또는 어떤 상태인지 나타내요.",
+        "be happy",
+        "행복하다",
+        "My younger sister is happy with her new room.",
+        "여동생은 새 방이 마음에 들어서 행복해요.",
+        "These shoes are too small for my feet.",
+        "이 신발은 제 발에 너무 작아요."
+      ],
+      "after": [
+        "be",
+        "v",
+        "state",
+        "~이다; ~한 상태이다",
+        "주어가 누구인지 또는 어떤 상태인지 나타내요.",
+        "be happy",
+        "행복하다",
+        "My younger sister is a student at this school.",
+        "여동생은 이 학교의 학생이에요.",
+        "These shoes are too small for my feet.",
+        "이 신발은 제 발에 너무 작아요."
+      ]
+    },
+    {
+      "candidate": "can.aux.ability",
+      "before": [
+        "can",
+        "aux",
+        "ability",
+        "~할 수 있다",
+        "어떤 일을 할 능력이 있음을 나타내요.",
+        "can swim",
+        "수영할 수 있다",
+        "My little brother can count to one hundred.",
+        "남동생은 백까지 셀 수 있어요.",
+        "Can you carry these books to the library?",
+        "이 책들을 도서관으로 옮길 수 있나요?"
+      ],
+      "after": [
+        "can",
+        "aux",
+        "ability",
+        "~할 수 있다",
+        "어떤 일을 할 능력이 있음을 나타내요.",
+        "can swim",
+        "수영할 수 있다",
+        "My little brother can count to one hundred.",
+        "남동생은 백까지 셀 수 있어요.",
+        "My sister can carry these books without any help.",
+        "여동생은 아무 도움 없이 이 책들을 옮길 수 있어요."
+      ]
+    },
+    {
+      "candidate": "congress.n.conference",
+      "before": [
+        "congress",
+        "n",
+        "conference",
+        "대회",
+        "여러 사람이 모여 전문적인 주제를 논의하는 모임이에요.",
+        "an international congress",
+        "국제 대회",
+        "Scientists shared their research at an international congress.",
+        "과학자들은 국제 대회에서 연구 내용을 나눴어요.",
+        "The congress brought teachers together from many countries.",
+        "그 대회에는 여러 나라의 교사들이 모였어요."
+      ],
+      "after": [
+        "congress",
+        "n",
+        "conference",
+        "학술 대회",
+        "전문가들이 모여 연구나 전문 주제를 논의하는 공식 모임이에요.",
+        "an international congress",
+        "국제 학술 대회",
+        "Scientists shared their research at an international congress.",
+        "과학자들은 국제 학술 대회에서 연구 내용을 나눴어요.",
+        "The congress brought teachers together from many countries.",
+        "그 학술 대회에는 여러 나라의 교사들이 모였어요."
+      ]
+    },
+    {
+      "candidate": "environ.v.surround",
+      "before": [
+        "environ",
+        "v",
+        "surround",
+        "둘러싸다",
+        "어떤 장소를 사방에서 둘러싸는 것을 나타내요.",
+        "environ a village",
+        "마을을 둘러싸다",
+        "Tall mountains environ the small village in the story.",
+        "이야기 속 작은 마을을 높은 산들이 둘러싸고 있어요.",
+        "The old house was environed by thick green woods.",
+        "오래된 집은 울창한 푸른 숲에 둘러싸여 있었어요."
+      ],
+      "after": [
+        "environ",
+        "v",
+        "surround",
+        "둘러싸다",
+        "장소를 사방에서 둘러싼다는 뜻의 문어적인 표현이에요.",
+        "environ a village",
+        "마을을 둘러싸다",
+        "Tall mountains environ the small village in the story.",
+        "이야기 속 작은 마을을 높은 산들이 둘러싸고 있어요.",
+        "The old house was environed by thick green woods.",
+        "오래된 집은 울창한 푸른 숲에 둘러싸여 있었어요."
+      ]
+    },
+    {
+      "candidate": "minute.n.time",
+      "before": [
+        "minute",
+        "n",
+        "time",
+        "분",
+        "한 시간의 육십 분의 일인 시간 단위예요.",
+        "wait a minute",
+        "일 분 기다리다",
+        "Please wait a minute while I find my keys.",
+        "열쇠를 찾는 동안 일 분만 기다려 주세요.",
+        "The bus will arrive in about ten minutes.",
+        "버스는 십 분쯤 뒤에 도착할 거예요."
+      ],
+      "after": [
+        "minute",
+        "n",
+        "time",
+        "분",
+        "한 시간의 육십 분의 일인 시간 단위예요.",
+        "ten minutes",
+        "십 분",
+        "Please wait a minute while I find my keys.",
+        "열쇠를 찾는 동안 잠깐만 기다려 주세요.",
+        "The bus will arrive in about ten minutes.",
+        "버스는 십 분쯤 뒤에 도착할 거예요."
+      ]
+    },
+    {
+      "candidate": "quite.adv.fairly",
+      "before": [
+        "quite",
+        "adv",
+        "fairly",
+        "꽤",
+        "어떤 정도가 제법 높다고 말할 때 써요.",
+        "quite difficult",
+        "꽤 어려운",
+        "The puzzle was quite difficult for our group.",
+        "그 퍼즐은 우리 모둠에게 꽤 어려웠어요.",
+        "I felt quite tired after the long walk.",
+        "오랫동안 걸은 뒤 꽤 피곤했어요."
+      ],
+      "after": [
+        "quite",
+        "adv",
+        "fairly",
+        "꽤",
+        "주로 영국 영어에서 정도가 꽤 높음을 나타내요. 문맥과 지역에 따라 강도가 달라져요.",
+        "quite difficult",
+        "꽤 어려운",
+        "The puzzle was quite difficult for our group.",
+        "그 퍼즐은 우리 모둠에게 꽤 어려웠어요.",
+        "I felt quite tired after the long walk.",
+        "오랫동안 걸은 뒤 꽤 피곤했어요."
+      ]
+    },
+    {
+      "candidate": "starve.v.hunger",
+      "before": [
+        "starve",
+        "v",
+        "hunger",
+        "굶주리다",
+        "음식을 충분히 먹지 못해 몹시 배고픈 상태예요.",
+        "starve without food",
+        "먹을 것이 없어 굶주리다",
+        "Animals may starve when they cannot find enough food.",
+        "동물은 먹이를 충분히 찾지 못하면 굶주릴 수 있어요.",
+        "The story describes how the lost travelers nearly starved.",
+        "그 이야기는 길을 잃은 여행자들이 거의 굶어 죽을 뻔한 일을 묘사해요."
+      ],
+      "after": [
+        "starve",
+        "v",
+        "hunger",
+        "굶주리다",
+        "먹을 것이 부족해 심하게 굶거나 굶어 죽는 것을 말해요.",
+        "starve without food",
+        "먹을 것이 없어 굶주리다",
+        "Animals may starve when they cannot find enough food.",
+        "동물은 먹이를 충분히 찾지 못하면 굶주릴 수 있어요.",
+        "The story describes how the lost travelers nearly starved.",
+        "그 이야기는 길을 잃은 여행자들이 거의 굶어 죽을 뻔한 일을 묘사해요."
+      ]
+    },
+    {
+      "candidate": "close.adj.near",
+      "before": [
+        "close",
+        "adj",
+        "near",
+        "가까운",
+        "거리나 사이가 멀지 않다고 말할 때 써요.",
+        "close to school",
+        "학교에 가까운",
+        "Our new house is close to the station.",
+        "우리 새 집은 역에 가까워요.",
+        "Keep your bag close so you can see it.",
+        "가방이 보이도록 가까이 두세요."
+      ],
+      "after": [
+        "close",
+        "adj",
+        "near",
+        "가까운",
+        "거리나 사이가 멀지 않다고 말할 때 써요.",
+        "close to school",
+        "학교에 가까운",
+        "Our new house is close to the station.",
+        "우리 새 집은 역에 가까워요.",
+        "Our seats were close to the front of the hall.",
+        "우리 자리는 강당 앞쪽에서 가까웠어요."
+      ]
+    },
+    {
+      "candidate": "revive.v.recover",
+      "before": [
+        "revive",
+        "v",
+        "recover",
+        "회복시키다",
+        "힘이나 생기를 되찾게 하는 것을 말해요.",
+        "revive energy",
+        "기운을 되찾게 하다",
+        "A short rest helped revive our energy.",
+        "잠깐 쉰 덕분에 기운을 되찾았어요.",
+        "Fresh air revived us after hours indoors.",
+        "오랫동안 실내에 있던 우리는 신선한 공기로 활력을 되찾았어요."
+      ],
+      "after": [
+        "revive",
+        "v",
+        "recover",
+        "회복시키다",
+        "힘이나 생기를 되찾게 하는 것을 말해요.",
+        "revive a tired team",
+        "지친 팀의 활력을 되찾게 하다",
+        "A short break helped revive our tired team.",
+        "잠깐 쉰 덕분에 지친 우리 팀은 활력을 되찾았어요.",
+        "Fresh air revived us after hours indoors.",
+        "오랫동안 실내에 있던 우리는 신선한 공기로 활력을 되찾았어요."
+      ]
+    }
+  ],
+  "metadataChanges": {
+    "brilliant": "neat/vivid를 유사 의미의 오답 제외 관계에 추가; 연결된 후보도 상호 제외",
+    "that.det.specific": "그를 보조 뜻으로 기록"
+  },
+  "references": [
+    "https://www.merriam-webster.com/dictionary/pat",
+    "https://www.merriam-webster.com/dictionary/revive",
+    "https://www.merriam-webster.com/dictionary/close",
+    "https://www.merriam-webster.com/dictionary/quite"
+  ]
+}

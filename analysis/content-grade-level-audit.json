@@ -1,0 +1,136 @@
+{
+  "auditedOn": "2026-10-16",
+  "status": "design_audited_classification_not_implemented",
+  "method": "Read canonical CSV and read-only bundled SQLite; verify source/catalog hashes; inspect sense schema, deck builder, release gates and app model. No per-word grade assignments made.",
+  "inputs": {
+    "content/sources/curriculum_2022_basic.pdf": {
+      "sha256": "6e3e2272a2858b916f7982cc0ab8afee1af540e0baf900f23332be552ff2a4bf"
+    },
+    "content/sources/curriculum_2022_basic.csv": {
+      "sha256": "956524bcea244a6711efbacf361134d2e2852416e1e72ee4c140af2de0bd9ba4"
+    },
+    "content/schema/sense.schema.json": {
+      "sha256": "038c0931e9ec8c9c438805e2f9ae42b4dac57e174484e5adc93fbd8759aa05b5"
+    },
+    "assets/content/catalog.json": {
+      "sha256": "299d373881f36f9450651b4f4b80f7a3eb2470f4a78f233941fe43ae3f67114c"
+    },
+    "assets/content/content.sqlite": {
+      "sha256": "ef0a9dab4df7e4794d05421be574c519178022df2baa6797e9897da40b9acdec"
+    },
+    "tool/content/build.py": {
+      "sha256": "8a67cfede9d14ae002772da6f25ab103494c7f5c4fec96b3ed2879c02ca539e0"
+    },
+    "tool/content/__main__.py": {
+      "sha256": "e9c462c9b9c72f9d68dd8bc10d3f41999f306998d11a055cec841f6476e69ea3"
+    },
+    "tool/content/audit.py": {
+      "sha256": "4e73c7c3f156f63eee8da20c1281f4cf04413c06f9e28069b328ea25e87c8cb7"
+    },
+    "lib/domain/vocabulary.dart": {
+      "sha256": "6e2154f4eb3acaab825709ba118503984bf25d1e8257f86cccf9490f27b62fff"
+    }
+  },
+  "source": {
+    "headwordCount": 3000,
+    "countsByOfficialMarker": {
+      "": 1000,
+      "*": 800,
+      "**": 1200
+    },
+    "columns": [
+      "headword",
+      "variants",
+      "elementary",
+      "source_page",
+      "source_marker",
+      "related_forms",
+      "original"
+    ],
+    "humanCheckStatus": "awaiting_two_human_checks",
+    "humanChecks": 0
+  },
+  "pilot": {
+    "contentVersion": "dev-pilot-cc755e7d3bee",
+    "developmentOnly": true,
+    "headwordCount": 100,
+    "senseCount": 154,
+    "exampleCount": 308,
+    "deckCount": 9,
+    "countsByOfficialMarker": {
+      "": 33,
+      "*": 27,
+      "**": 40
+    },
+    "humanApproved": 0,
+    "sensesContainingProposedClassificationFields": {
+      "firstStudyTrack": 0,
+      "reviewTracks": 0,
+      "difficulty": 0,
+      "prerequisiteSenseIds": 0,
+      "evidenceRefs": 0,
+      "classificationReview": 0
+    },
+    "representativeOfGradeCurriculum": false
+  },
+  "officialEvidence": [
+    {
+      "url": "https://www.goe.go.kr/resource/old/BBSMSTR_000000030136/BBS_202307111028067791.pdf",
+      "localPath": "content/sources/curriculum_2022_basic.pdf",
+      "physicalPages": [
+        3,
+        37,
+        38,
+        39,
+        40
+      ],
+      "visuallyInspectedPhysicalPages": [
+        3,
+        38
+      ],
+      "finding": "Official recommended bands are elementary (800), middle plus high common courses (1200), and other courses (1000). Middle grades 1-3 share a total vocabulary limit of 1500, not 1500 new words per grade. No fixed per-grade allocation is supplied by this list."
+    },
+    {
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=141&boardSeq=93458&lev=0&m=0404&opType=N&s=moe&statusYN=W",
+      "section": "부칙 1",
+      "middleGradeApplicationDates": {
+        "1": "2025-03-01",
+        "2": "2026-03-01",
+        "3": "2027-03-01"
+      }
+    }
+  ],
+  "implementationGaps": [
+    {
+      "component": "content/schema/sense.schema.json",
+      "finding": "No grade/difficulty/evidence classification fields."
+    },
+    {
+      "component": "tool/content/build.py:make_decks",
+      "finding": "Only elementary/non-elementary groups; no grade, level or prerequisite ordering."
+    },
+    {
+      "component": "tool/content/build.py:build",
+      "finding": "Requires one primary sense per headword; expected_count defaults to 300 senses. Grade coverage is not validated."
+    },
+    {
+      "component": "tool/content/__main__.py",
+      "finding": "Build CLI separately defaults expected-count to 300; this is not an approved release scope."
+    },
+    {
+      "component": "content/config.json",
+      "finding": "releaseSize=300 is a legacy unused setting, not the actual CLI default source."
+    },
+    {
+      "component": "tool/content/audit.py",
+      "finding": "Content and quiz changes are audited; classification and study-track changes still require integration."
+    }
+  ],
+  "notPerformed": [
+    "Publisher textbook corpus comparison",
+    "Individual grade or difficulty assignment",
+    "Independent teacher review",
+    "App or content package changes"
+  ],
+  "followupDesign": "docs/content-grade-level-plan.md"
+}

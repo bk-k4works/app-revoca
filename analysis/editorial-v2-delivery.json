@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-10-16T08:28:19.907724+00:00",
+  "contentVersion": "dev-pilot-cc755e7d3bee",
+  "headwordsReviewed": 100,
+  "sensesReviewed": 154,
+  "examplesReviewed": 308,
+  "multipleChoiceReviewed": 142,
+  "selfAssessmentReviewed": 12,
+  "humanApproved": 0,
+  "independentModel": false,
+  "externalApiCalls": 0,
+  "validation": {
+    "pythonTests": 39,
+    "flutterTests": 31,
+    "nativeIosTests": 3,
+    "analyze": "passed",
+    "all154AppChoicesMatchAudit": true,
+    "unchangedAuditQueueEmpty": true,
+    "iosDebugBuild": "passed, 7.0 seconds",
+    "deviceHub": "Revised app launched; first pilot deck displayed; Flutter detached"
+  },
+  "comparison": {
+    "basis": "Previous and revised content both evaluated with the NEW choice rules; not an old-app choice comparison",
+    "contentChanged": 16,
+    "quizChanged": 15
+  },
+  "report": "docs/content-editorial-review.md",
+  "ledger": "content/pilots/pilot-v1/editorial-ledger-v2.jsonl",
+  "remaining": "Actual human approval, source comparisons, editorial scope decisions and audio quality verification remain separate."
+}

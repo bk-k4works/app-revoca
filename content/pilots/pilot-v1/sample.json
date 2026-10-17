@@ -1,0 +1,1630 @@
+{
+  "version": "pilot-v1",
+  "createdAt": "2026-10-16T01:48:35.428728+00:00",
+  "sourceCsvSha256": "956524bcea244a6711efbacf361134d2e2852416e1e72ee4c140af2de0bd9ba4",
+  "selectionHash": "b4374e15e3b7221fd59dfb6bd4ad4c18b555d4a287f2d32b895aa1c8b35a4f5f",
+  "count": 100,
+  "markerCounts": {
+    "*": 27,
+    "**": 40,
+    "": 33
+  },
+  "pageCoverage": [
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36
+  ],
+  "initialCoverage": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "o",
+    "p",
+    "q",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z"
+  ],
+  "selectionNote": "Source-proportional sample with editorial stress cases; not a frequency ranking or release order.",
+  "entries": [
+    {
+      "headword": "a",
+      "selectionReasons": [
+        "function_word"
+      ],
+      "source": {
+        "headword": "a",
+        "variants": [],
+        "elementary": true,
+        "source_page": 7,
+        "source_marker": "*",
+        "related_forms": [
+          "an"
+        ],
+        "original": "a* (an)"
+      }
+    },
+    {
+      "headword": "able",
+      "selectionReasons": [
+        "related_form"
+      ],
+      "source": {
+        "headword": "able",
+        "variants": [],
+        "elementary": false,
+        "source_page": 7,
+        "source_marker": "**",
+        "related_forms": [
+          "disabled"
+        ],
+        "original": "able** (disabled)"
+      }
+    },
+    {
+      "headword": "abstract",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "abstract",
+        "variants": [],
+        "elementary": false,
+        "source_page": 7,
+        "source_marker": "",
+        "related_forms": [],
+        "original": "abstract"
+      }
+    },
+    {
+      "headword": "achieve",
+      "selectionReasons": [
+        "legacy_identity"
+      ],
+      "source": {
+        "headword": "achieve",
+        "variants": [],
+        "elementary": false,
+        "source_page": 7,
+        "source_marker": "**",
+        "related_forms": [],
+        "original": "achieve**"
+      }
+    },
+    {
+      "headword": "advertize",
+      "selectionReasons": [
+        "variant"
+      ],
+      "source": {
+        "headword": "advertize",
+        "variants": [
+          "advertise"
+        ],
+        "elementary": false,
+        "source_page": 7,
+        "source_marker": "**",
+        "related_forms": [],
+        "original": "advertize** / advertise**"
+      }
+    },
+    {
+      "headword": "although",
+      "selectionReasons": [
+        "function_word"
+      ],
+      "source": {
+        "headword": "although",
+        "variants": [],
+        "elementary": false,
+        "source_page": 8,
+        "source_marker": "**",
+        "related_forms": [],
+        "original": "although**"
+      }
+    },
+    {
+      "headword": "among",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "among",
+        "variants": [],
+        "elementary": false,
+        "source_page": 8,
+        "source_marker": "**",
+        "related_forms": [],
+        "original": "among**"
+      }
+    },
+    {
+      "headword": "analyze",
+      "selectionReasons": [
+        "variant"
+      ],
+      "source": {
+        "headword": "analyze",
+        "variants": [
+          "analyse"
+        ],
+        "elementary": false,
+        "source_page": 8,
+        "source_marker": "",
+        "related_forms": [],
+        "original": "analyze / analyse"
+      }
+    },
+    {
+      "headword": "argue",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "argue",
+        "variants": [],
+        "elementary": false,
+        "source_page": 8,
+        "source_marker": "**",
+        "related_forms": [],
+        "original": "argue**"
+      }
+    },
+    {
+      "headword": "attention",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "attention",
+        "variants": [],
+        "elementary": false,
+        "source_page": 8,
+        "source_marker": "**",
+        "related_forms": [],
+        "original": "attention**"
+      }
+    },
+    {
+      "headword": "bad",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "bad",
+        "variants": [],
+        "elementary": true,
+        "source_page": 9,
+        "source_marker": "*",
+        "related_forms": [],
+        "original": "bad*"
+      }
+    },
+    {
+      "headword": "bank",
+      "selectionReasons": [
+        "polysemy"
+      ],
+      "source": {
+        "headword": "bank",
+        "variants": [],
+        "elementary": true,
+        "source_page": 9,
+        "source_marker": "*",
+        "related_forms": [],
+        "original": "bank*"
+      }
+    },
+    {
+      "headword": "be",
+      "selectionReasons": [
+        "function_word"
+      ],
+      "source": {
+        "headword": "be",
+        "variants": [],
+        "elementary": true,
+        "source_page": 9,
+        "source_marker": "*",
+        "related_forms": [],
+        "original": "be*"
+      }
+    },
+    {
+      "headword": "bow",
+      "selectionReasons": [
+        "homograph"
+      ],
+      "source": {
+        "headword": "bow",
+        "variants": [],
+        "elementary": false,
+        "source_page": 10,
+        "source_marker": "**",
+        "related_forms": [],
+        "original": "bow**"
+      }
+    },
+    {
+      "headword": "brilliant",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "brilliant",
+        "variants": [],
+        "elementary": false,
+        "source_page": 10,
+        "source_marker": "**",
+        "related_forms": [],
+        "original": "brilliant**"
+      }
+    },
+    {
+      "headword": "calendar",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "calendar",
+        "variants": [],
+        "elementary": false,
+        "source_page": 10,
+        "source_marker": "**",
+        "related_forms": [],
+        "original": "calendar**"
+      }
+    },
+    {
+      "headword": "can",
+      "selectionReasons": [
+        "function_word"
+      ],
+      "source": {
+        "headword": "can",
+        "variants": [],
+        "elementary": true,
+        "source_page": 10,
+        "source_marker": "*",
+        "related_forms": [],
+        "original": "can*"
+      }
+    },
+    {
+      "headword": "catalogue",
+      "selectionReasons": [
+        "variant"
+      ],
+      "source": {
+        "headword": "catalogue",
+        "variants": [
+          "catalog"
+        ],
+        "elementary": false,
+        "source_page": 11,
+        "source_marker": "**",
+        "related_forms": [],
+        "original": "catalogue** / catalog**"
+      }
+    },
+    {
+      "headword": "chase",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "chase",
+        "variants": [],
+        "elementary": false,
+        "source_page": 11,
+        "source_marker": "**",
+        "related_forms": [],
+        "original": "chase**"
+      }
+    },
+    {
+      "headword": "check",
+      "selectionReasons": [
+        "variant"
+      ],
+      "source": {
+        "headword": "check",
+        "variants": [
+          "cheque"
+        ],
+        "elementary": true,
+        "source_page": 11,
+        "source_marker": "*",
+        "related_forms": [],
+        "original": "check* / cheque*"
+      }
+    },
+    {
+      "headword": "circumstance",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "circumstance",
+        "variants": [],
+        "elementary": false,
+        "source_page": 11,
+        "source_marker": "**",
+        "related_forms": [],
+        "original": "circumstance**"
+      }
+    },
+    {
+      "headword": "cliff",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "cliff",
+        "variants": [],
+        "elementary": false,
+        "source_page": 11,
+        "source_marker": "**",
+        "related_forms": [],
+        "original": "cliff**"
+      }
+    },
+    {
+      "headword": "close",
+      "selectionReasons": [
+        "homograph"
+      ],
+      "source": {
+        "headword": "close",
+        "variants": [],
+        "elementary": true,
+        "source_page": 12,
+        "source_marker": "*",
+        "related_forms": [
+          "disclose",
+          "enclose"
+        ],
+        "original": "close* (disclose, enclose)"
+      }
+    },
+    {
+      "headword": "color",
+      "selectionReasons": [
+        "variant"
+      ],
+      "source": {
+        "headword": "color",
+        "variants": [
+          "colour"
+        ],
+        "elementary": true,
+        "source_page": 12,
+        "source_marker": "*",
+        "related_forms": [],
+        "original": "color* / colour*"
+      }
+    },
+    {
+      "headword": "comedy",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "comedy",
+        "variants": [],
+        "elementary": false,
+        "source_page": 12,
+        "source_marker": "**",
+        "related_forms": [],
+        "original": "comedy**"
+      }
+    },
+    {
+      "headword": "compare",
+      "selectionReasons": [
+        "legacy_identity"
+      ],
+      "source": {
+        "headword": "compare",
+        "variants": [],
+        "elementary": false,
+        "source_page": 12,
+        "source_marker": "**",
+        "related_forms": [],
+        "original": "compare**"
+      }
+    },
+    {
+      "headword": "congress",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "congress",
+        "variants": [],
+        "elementary": false,
+        "source_page": 12,
+        "source_marker": "",
+        "related_forms": [],
+        "original": "congress"
+      }
+    },
+    {
+      "headword": "consume",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "consume",
+        "variants": [],
+        "elementary": false,
+        "source_page": 12,
+        "source_marker": "**",
+        "related_forms": [
+          "consumer",
+          "consumption"
+        ],
+        "original": "consume** (consumer, consumption)"
+      }
+    },
+    {
+      "headword": "courage",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "courage",
+        "variants": [],
+        "elementary": false,
+        "source_page": 13,
+        "source_marker": "",
+        "related_forms": [
+          "discourage",
+          "encourage"
+        ],
+        "original": "courage (discourage, encourage)"
+      }
+    },
+    {
+      "headword": "crucial",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "crucial",
+        "variants": [],
+        "elementary": false,
+        "source_page": 13,
+        "source_marker": "",
+        "related_forms": [],
+        "original": "crucial"
+      }
+    },
+    {
+      "headword": "describe",
+      "selectionReasons": [
+        "legacy_identity"
+      ],
+      "source": {
+        "headword": "describe",
+        "variants": [],
+        "elementary": false,
+        "source_page": 14,
+        "source_marker": "**",
+        "related_forms": [
+          "description"
+        ],
+        "original": "describe** (description)"
+      }
+    },
+    {
+      "headword": "drill",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "drill",
+        "variants": [],
+        "elementary": false,
+        "source_page": 15,
+        "source_marker": "",
+        "related_forms": [],
+        "original": "drill"
+      }
+    },
+    {
+      "headword": "environ",
+      "selectionReasons": [
+        "legacy_identity"
+      ],
+      "source": {
+        "headword": "environ",
+        "variants": [],
+        "elementary": false,
+        "source_page": 16,
+        "source_marker": "",
+        "related_forms": [
+          "environment"
+        ],
+        "original": "environ (environment)"
+      }
+    },
+    {
+      "headword": "explode",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "explode",
+        "variants": [],
+        "elementary": false,
+        "source_page": 16,
+        "source_marker": "",
+        "related_forms": [],
+        "original": "explode"
+      }
+    },
+    {
+      "headword": "fasten",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "fasten",
+        "variants": [],
+        "elementary": false,
+        "source_page": 17,
+        "source_marker": "",
+        "related_forms": [],
+        "original": "fasten"
+      }
+    },
+    {
+      "headword": "fate",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "fate",
+        "variants": [],
+        "elementary": false,
+        "source_page": 17,
+        "source_marker": "",
+        "related_forms": [
+          "fatal"
+        ],
+        "original": "fate (fatal)"
+      }
+    },
+    {
+      "headword": "flag",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "flag",
+        "variants": [],
+        "elementary": false,
+        "source_page": 17,
+        "source_marker": "**",
+        "related_forms": [],
+        "original": "flag**"
+      }
+    },
+    {
+      "headword": "funeral",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "funeral",
+        "variants": [],
+        "elementary": false,
+        "source_page": 18,
+        "source_marker": "",
+        "related_forms": [],
+        "original": "funeral"
+      }
+    },
+    {
+      "headword": "gasoline",
+      "selectionReasons": [
+        "variant"
+      ],
+      "source": {
+        "headword": "gasoline",
+        "variants": [
+          "petrol"
+        ],
+        "elementary": false,
+        "source_page": 18,
+        "source_marker": "",
+        "related_forms": [],
+        "original": "gasoline / petrol"
+      }
+    },
+    {
+      "headword": "get",
+      "selectionReasons": [
+        "polysemy"
+      ],
+      "source": {
+        "headword": "get",
+        "variants": [],
+        "elementary": true,
+        "source_page": 18,
+        "source_marker": "*",
+        "related_forms": [],
+        "original": "get*"
+      }
+    },
+    {
+      "headword": "go",
+      "selectionReasons": [
+        "irregular"
+      ],
+      "source": {
+        "headword": "go",
+        "variants": [],
+        "elementary": true,
+        "source_page": 19,
+        "source_marker": "*",
+        "related_forms": [],
+        "original": "go*"
+      }
+    },
+    {
+      "headword": "hall",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "hall",
+        "variants": [],
+        "elementary": false,
+        "source_page": 19,
+        "source_marker": "**",
+        "related_forms": [],
+        "original": "hall**"
+      }
+    },
+    {
+      "headword": "identity",
+      "selectionReasons": [
+        "legacy_identity"
+      ],
+      "source": {
+        "headword": "identity",
+        "variants": [],
+        "elementary": false,
+        "source_page": 20,
+        "source_marker": "**",
+        "related_forms": [
+          "identify"
+        ],
+        "original": "identity** (identify)"
+      }
+    },
+    {
+      "headword": "install",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "install",
+        "variants": [],
+        "elementary": false,
+        "source_page": 21,
+        "source_marker": "",
+        "related_forms": [],
+        "original": "install"
+      }
+    },
+    {
+      "headword": "join",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "join",
+        "variants": [],
+        "elementary": true,
+        "source_page": 21,
+        "source_marker": "*",
+        "related_forms": [],
+        "original": "join*"
+      }
+    },
+    {
+      "headword": "knot",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "knot",
+        "variants": [],
+        "elementary": false,
+        "source_page": 21,
+        "source_marker": "",
+        "related_forms": [],
+        "original": "knot"
+      }
+    },
+    {
+      "headword": "laser",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "laser",
+        "variants": [],
+        "elementary": true,
+        "source_page": 22,
+        "source_marker": "*",
+        "related_forms": [],
+        "original": "laser*"
+      }
+    },
+    {
+      "headword": "lead",
+      "selectionReasons": [
+        "homograph"
+      ],
+      "source": {
+        "headword": "lead",
+        "variants": [],
+        "elementary": false,
+        "source_page": 22,
+        "source_marker": "**",
+        "related_forms": [],
+        "original": "lead**"
+      }
+    },
+    {
+      "headword": "light",
+      "selectionReasons": [
+        "polysemy"
+      ],
+      "source": {
+        "headword": "light",
+        "variants": [],
+        "elementary": true,
+        "source_page": 22,
+        "source_marker": "*",
+        "related_forms": [],
+        "original": "light*"
+      }
+    },
+    {
+      "headword": "live",
+      "selectionReasons": [
+        "homograph"
+      ],
+      "source": {
+        "headword": "live",
+        "variants": [],
+        "elementary": true,
+        "source_page": 22,
+        "source_marker": "*",
+        "related_forms": [],
+        "original": "live*"
+      }
+    },
+    {
+      "headword": "luxury",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "luxury",
+        "variants": [],
+        "elementary": false,
+        "source_page": 22,
+        "source_marker": "",
+        "related_forms": [],
+        "original": "luxury"
+      }
+    },
+    {
+      "headword": "mathematics",
+      "selectionReasons": [
+        "variant"
+      ],
+      "source": {
+        "headword": "mathematics",
+        "variants": [
+          "maths",
+          "math"
+        ],
+        "elementary": true,
+        "source_page": 23,
+        "source_marker": "*",
+        "related_forms": [],
+        "original": "mathematics* / maths* / math*"
+      }
+    },
+    {
+      "headword": "migrate",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "migrate",
+        "variants": [],
+        "elementary": false,
+        "source_page": 23,
+        "source_marker": "",
+        "related_forms": [
+          "migrant"
+        ],
+        "original": "migrate (migrant)"
+      }
+    },
+    {
+      "headword": "minute",
+      "selectionReasons": [
+        "homograph"
+      ],
+      "source": {
+        "headword": "minute",
+        "variants": [],
+        "elementary": false,
+        "source_page": 23,
+        "source_marker": "**",
+        "related_forms": [],
+        "original": "minute**"
+      }
+    },
+    {
+      "headword": "moon",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "moon",
+        "variants": [],
+        "elementary": true,
+        "source_page": 24,
+        "source_marker": "*",
+        "related_forms": [
+          "half­moon"
+        ],
+        "original": "moon* (half­moon)"
+      }
+    },
+    {
+      "headword": "motor",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "motor",
+        "variants": [],
+        "elementary": false,
+        "source_page": 24,
+        "source_marker": "**",
+        "related_forms": [],
+        "original": "motor**"
+      }
+    },
+    {
+      "headword": "neat",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "neat",
+        "variants": [],
+        "elementary": false,
+        "source_page": 24,
+        "source_marker": "**",
+        "related_forms": [],
+        "original": "neat**"
+      }
+    },
+    {
+      "headword": "opportune",
+      "selectionReasons": [
+        "legacy_identity"
+      ],
+      "source": {
+        "headword": "opportune",
+        "variants": [],
+        "elementary": false,
+        "source_page": 25,
+        "source_marker": "",
+        "related_forms": [
+          "opportunity"
+        ],
+        "original": "opportune (opportunity)"
+      }
+    },
+    {
+      "headword": "palm",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "palm",
+        "variants": [],
+        "elementary": false,
+        "source_page": 25,
+        "source_marker": "",
+        "related_forms": [],
+        "original": "palm"
+      }
+    },
+    {
+      "headword": "particular",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "particular",
+        "variants": [],
+        "elementary": false,
+        "source_page": 25,
+        "source_marker": "**",
+        "related_forms": [
+          "particularly"
+        ],
+        "original": "particular** (particularly)"
+      }
+    },
+    {
+      "headword": "pat",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "pat",
+        "variants": [],
+        "elementary": false,
+        "source_page": 26,
+        "source_marker": "",
+        "related_forms": [],
+        "original": "pat"
+      }
+    },
+    {
+      "headword": "practice",
+      "selectionReasons": [
+        "variant"
+      ],
+      "source": {
+        "headword": "practice",
+        "variants": [
+          "practise"
+        ],
+        "elementary": false,
+        "source_page": 27,
+        "source_marker": "**",
+        "related_forms": [],
+        "original": "practice** / practise**"
+      }
+    },
+    {
+      "headword": "prepare",
+      "selectionReasons": [
+        "legacy_identity"
+      ],
+      "source": {
+        "headword": "prepare",
+        "variants": [],
+        "elementary": false,
+        "source_page": 27,
+        "source_marker": "**",
+        "related_forms": [],
+        "original": "prepare**"
+      }
+    },
+    {
+      "headword": "press",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "press",
+        "variants": [],
+        "elementary": false,
+        "source_page": 27,
+        "source_marker": "**",
+        "related_forms": [],
+        "original": "press**"
+      }
+    },
+    {
+      "headword": "principal",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "principal",
+        "variants": [],
+        "elementary": false,
+        "source_page": 27,
+        "source_marker": "",
+        "related_forms": [],
+        "original": "principal"
+      }
+    },
+    {
+      "headword": "prohibit",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "prohibit",
+        "variants": [],
+        "elementary": false,
+        "source_page": 27,
+        "source_marker": "",
+        "related_forms": [],
+        "original": "prohibit"
+      }
+    },
+    {
+      "headword": "quite",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "quite",
+        "variants": [],
+        "elementary": false,
+        "source_page": 28,
+        "source_marker": "**",
+        "related_forms": [],
+        "original": "quite**"
+      }
+    },
+    {
+      "headword": "rat",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "rat",
+        "variants": [],
+        "elementary": false,
+        "source_page": 28,
+        "source_marker": "**",
+        "related_forms": [],
+        "original": "rat**"
+      }
+    },
+    {
+      "headword": "read",
+      "selectionReasons": [
+        "homograph"
+      ],
+      "source": {
+        "headword": "read",
+        "variants": [],
+        "elementary": true,
+        "source_page": 28,
+        "source_marker": "*",
+        "related_forms": [],
+        "original": "read*"
+      }
+    },
+    {
+      "headword": "record",
+      "selectionReasons": [
+        "homograph"
+      ],
+      "source": {
+        "headword": "record",
+        "variants": [],
+        "elementary": false,
+        "source_page": 28,
+        "source_marker": "**",
+        "related_forms": [],
+        "original": "record**"
+      }
+    },
+    {
+      "headword": "relax",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "relax",
+        "variants": [],
+        "elementary": false,
+        "source_page": 28,
+        "source_marker": "**",
+        "related_forms": [],
+        "original": "relax**"
+      }
+    },
+    {
+      "headword": "request",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "request",
+        "variants": [],
+        "elementary": false,
+        "source_page": 28,
+        "source_marker": "**",
+        "related_forms": [],
+        "original": "request**"
+      }
+    },
+    {
+      "headword": "revenge",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "revenge",
+        "variants": [],
+        "elementary": false,
+        "source_page": 29,
+        "source_marker": "",
+        "related_forms": [],
+        "original": "revenge"
+      }
+    },
+    {
+      "headword": "revive",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "revive",
+        "variants": [],
+        "elementary": false,
+        "source_page": 29,
+        "source_marker": "",
+        "related_forms": [],
+        "original": "revive"
+      }
+    },
+    {
+      "headword": "right",
+      "selectionReasons": [
+        "polysemy"
+      ],
+      "source": {
+        "headword": "right",
+        "variants": [],
+        "elementary": true,
+        "source_page": 29,
+        "source_marker": "*",
+        "related_forms": [],
+        "original": "right*"
+      }
+    },
+    {
+      "headword": "run",
+      "selectionReasons": [
+        "polysemy"
+      ],
+      "source": {
+        "headword": "run",
+        "variants": [],
+        "elementary": true,
+        "source_page": 29,
+        "source_marker": "*",
+        "related_forms": [],
+        "original": "run*"
+      }
+    },
+    {
+      "headword": "sacred",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "sacred",
+        "variants": [],
+        "elementary": false,
+        "source_page": 29,
+        "source_marker": "",
+        "related_forms": [],
+        "original": "sacred"
+      }
+    },
+    {
+      "headword": "set",
+      "selectionReasons": [
+        "polysemy"
+      ],
+      "source": {
+        "headword": "set",
+        "variants": [],
+        "elementary": true,
+        "source_page": 30,
+        "source_marker": "*",
+        "related_forms": [],
+        "original": "set*"
+      }
+    },
+    {
+      "headword": "spoil",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "spoil",
+        "variants": [],
+        "elementary": false,
+        "source_page": 31,
+        "source_marker": "**",
+        "related_forms": [],
+        "original": "spoil**"
+      }
+    },
+    {
+      "headword": "sport",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "sport",
+        "variants": [],
+        "elementary": true,
+        "source_page": 31,
+        "source_marker": "*",
+        "related_forms": [],
+        "original": "sport*"
+      }
+    },
+    {
+      "headword": "stain",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "stain",
+        "variants": [],
+        "elementary": false,
+        "source_page": 31,
+        "source_marker": "",
+        "related_forms": [],
+        "original": "stain"
+      }
+    },
+    {
+      "headword": "starve",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "starve",
+        "variants": [],
+        "elementary": false,
+        "source_page": 32,
+        "source_marker": "",
+        "related_forms": [],
+        "original": "starve"
+      }
+    },
+    {
+      "headword": "take",
+      "selectionReasons": [
+        "polysemy"
+      ],
+      "source": {
+        "headword": "take",
+        "variants": [],
+        "elementary": true,
+        "source_page": 33,
+        "source_marker": "*",
+        "related_forms": [
+          "mistake"
+        ],
+        "original": "take* (mistake)"
+      }
+    },
+    {
+      "headword": "territory",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "territory",
+        "variants": [],
+        "elementary": false,
+        "source_page": 33,
+        "source_marker": "",
+        "related_forms": [],
+        "original": "territory"
+      }
+    },
+    {
+      "headword": "that",
+      "selectionReasons": [
+        "function_word"
+      ],
+      "source": {
+        "headword": "that",
+        "variants": [],
+        "elementary": true,
+        "source_page": 33,
+        "source_marker": "*",
+        "related_forms": [],
+        "original": "that*"
+      }
+    },
+    {
+      "headword": "threat",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "threat",
+        "variants": [],
+        "elementary": false,
+        "source_page": 33,
+        "source_marker": "**",
+        "related_forms": [],
+        "original": "threat**"
+      }
+    },
+    {
+      "headword": "toxic",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "toxic",
+        "variants": [],
+        "elementary": false,
+        "source_page": 34,
+        "source_marker": "",
+        "related_forms": [],
+        "original": "toxic"
+      }
+    },
+    {
+      "headword": "transmit",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "transmit",
+        "variants": [],
+        "elementary": false,
+        "source_page": 34,
+        "source_marker": "",
+        "related_forms": [],
+        "original": "transmit"
+      }
+    },
+    {
+      "headword": "twenty-first",
+      "selectionReasons": [
+        "hyphenated"
+      ],
+      "source": {
+        "headword": "twenty-first",
+        "variants": [],
+        "elementary": true,
+        "source_page": 34,
+        "source_marker": "*",
+        "related_forms": [],
+        "original": "twenty-first*"
+      }
+    },
+    {
+      "headword": "twin",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "twin",
+        "variants": [],
+        "elementary": false,
+        "source_page": 34,
+        "source_marker": "**",
+        "related_forms": [],
+        "original": "twin**"
+      }
+    },
+    {
+      "headword": "upward",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "upward",
+        "variants": [
+          "upwards"
+        ],
+        "elementary": false,
+        "source_page": 35,
+        "source_marker": "",
+        "related_forms": [],
+        "original": "upward / upwards"
+      }
+    },
+    {
+      "headword": "vague",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "vague",
+        "variants": [],
+        "elementary": false,
+        "source_page": 35,
+        "source_marker": "",
+        "related_forms": [],
+        "original": "vague"
+      }
+    },
+    {
+      "headword": "view",
+      "selectionReasons": [
+        "legacy_identity"
+      ],
+      "source": {
+        "headword": "view",
+        "variants": [],
+        "elementary": false,
+        "source_page": 35,
+        "source_marker": "**",
+        "related_forms": [
+          "interview",
+          "review"
+        ],
+        "original": "view** (interview, review)"
+      }
+    },
+    {
+      "headword": "vivid",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "vivid",
+        "variants": [],
+        "elementary": false,
+        "source_page": 35,
+        "source_marker": "",
+        "related_forms": [],
+        "original": "vivid"
+      }
+    },
+    {
+      "headword": "while",
+      "selectionReasons": [
+        "function_word"
+      ],
+      "source": {
+        "headword": "while",
+        "variants": [],
+        "elementary": false,
+        "source_page": 36,
+        "source_marker": "**",
+        "related_forms": [],
+        "original": "while**"
+      }
+    },
+    {
+      "headword": "wind",
+      "selectionReasons": [
+        "homograph"
+      ],
+      "source": {
+        "headword": "wind",
+        "variants": [],
+        "elementary": true,
+        "source_page": 36,
+        "source_marker": "*",
+        "related_forms": [],
+        "original": "wind*"
+      }
+    },
+    {
+      "headword": "would",
+      "selectionReasons": [
+        "function_word"
+      ],
+      "source": {
+        "headword": "would",
+        "variants": [],
+        "elementary": false,
+        "source_page": 36,
+        "source_marker": "**",
+        "related_forms": [],
+        "original": "would**"
+      }
+    },
+    {
+      "headword": "write",
+      "selectionReasons": [
+        "irregular"
+      ],
+      "source": {
+        "headword": "write",
+        "variants": [],
+        "elementary": true,
+        "source_page": 36,
+        "source_marker": "*",
+        "related_forms": [],
+        "original": "write*"
+      }
+    },
+    {
+      "headword": "yes",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "yes",
+        "variants": [
+          "yeah",
+          "yep"
+        ],
+        "elementary": true,
+        "source_page": 36,
+        "source_marker": "*",
+        "related_forms": [],
+        "original": "yes* / yeah* / yep*"
+      }
+    },
+    {
+      "headword": "zone",
+      "selectionReasons": [
+        "source_stratified"
+      ],
+      "source": {
+        "headword": "zone",
+        "variants": [],
+        "elementary": false,
+        "source_page": 36,
+        "source_marker": "",
+        "related_forms": [],
+        "original": "zone"
+      }
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "type": "object",
+  "properties": {
+    "headword": {
+      "type": "string",
+      "minLength": 1
+    },
+    "criteria": {
+      "type": "object",
+      "properties": {
+        "primaryMeaning": {
+          "type": "object",
+          "properties": {
+            "rating": {
+              "enum": [
+                "pass",
+                "warn",
+                "fail"
+              ]
+            },
+            "reason": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "required": [
+            "rating",
+            "reason"
+          ],
+          "additionalProperties": false
+        },
+        "semanticAlignment": {
+          "type": "object",
+          "properties": {
+            "rating": {
+              "enum": [
+                "pass",
+                "warn",
+                "fail"
+              ]
+            },
+            "reason": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "required": [
+            "rating",
+            "reason"
+          ],
+          "additionalProperties": false
+        },
+        "englishGrammar": {
+          "type": "object",
+          "properties": {
+            "rating": {
+              "enum": [
+                "pass",
+                "warn",
+                "fail"
+              ]
+            },
+            "reason": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "required": [
+            "rating",
+            "reason"
+          ],
+          "additionalProperties": false
+        },
+        "koreanTranslation": {
+          "type": "object",
+          "properties": {
+            "rating": {
+              "enum": [
+                "pass",
+                "warn",
+                "fail"
+              ]
+            },
+            "reason": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "required": [
+            "rating",
+            "reason"
+          ],
+          "additionalProperties": false
+        },
+        "ageAppropriateness": {
+          "type": "object",
+          "properties": {
+            "rating": {
+              "enum": [
+                "pass",
+                "warn",
+                "fail"
+              ]
+            },
+            "reason": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "required": [
+            "rating",
+            "reason"
+          ],
+          "additionalProperties": false
+        },
+        "uniqueAnswer": {
+          "type": "object",
+          "properties": {
+            "rating": {
+              "enum": [
+                "pass",
+                "warn",
+                "fail"
+              ]
+            },
+            "reason": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "required": [
+            "rating",
+            "reason"
+          ],
+          "additionalProperties": false
+        }
+      },
+      "required": [
+        "primaryMeaning",
+        "semanticAlignment",
+        "englishGrammar",
+        "koreanTranslation",
+        "ageAppropriateness",
+        "uniqueAnswer"
+      ],
+      "additionalProperties": false
+    },
+    "severity": {
+      "enum": [
+        "pass",
+        "warn",
+        "fail"
+      ]
+    },
+    "criticalError": {
+      "type": "boolean"
+    },
+    "issues": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    }
+  },
+  "required": [
+    "headword",
+    "criteria",
+    "severity",
+    "criticalError",
+    "issues"
+  ],
+  "additionalProperties": false
+}

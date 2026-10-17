@@ -1,0 +1,124 @@
+# 고교 기본 271–341위. 표제어 목록만 참고하여 독자 작성.
+diet|n|food-habits|식단; 식습관|평소에 먹는 음식의 종류와 양이에요.|a balanced diet|균형 잡힌 식단|A healthy diet includes lots of vegetables.|건강한 식단에는 채소가 많이 들어간다.|Rice is the main part of the Korean diet.|쌀은 한국인 식단의 주된 부분이다.
+diet|n|weight-loss|다이어트; 식이 요법|살을 빼거나 건강을 위해 먹는 것을 조절하는 일이에요.|go on a diet|다이어트를 하다|She went on a diet before summer.|그녀는 여름이 오기 전에 다이어트를 시작했다.|The doctor put him on a low-salt diet.|의사는 그에게 저염식 식이 요법을 처방했다.
+item|n|thing|항목; 물품|목록에 있는 하나하나의 물건이나 내용이에요.|an item on the list|목록의 항목|Each item in the store is on sale today.|그 가게의 모든 물품이 오늘 할인 중이다.|The first item on the agenda is the school trip.|회의의 첫 번째 안건은 수학여행이다.|article
+mess|n|untidy-state|엉망; 난장판|지저분하거나 어질러진 상태예요.|make a mess|어지르다|Your room is a mess.|네 방은 엉망이다.|The kids made a mess in the kitchen.|아이들이 부엌을 어질러 놓았다.
+mess|v|spoil|엉망으로 만들다; 망치다|mess up으로 일을 그르칠 때 써요.|mess up|망치다|I messed up my presentation because I was nervous.|나는 긴장해서 발표를 망쳤다.|Do not mess up the plan by being late.|늦어서 계획을 망치지 마라.|ruin
+prefer|v|like-better|더 좋아하다; 선호하다|둘 중 하나를 더 좋아할 때 써요.|prefer A to B|B보다 A를 더 좋아하다|I prefer tea to coffee.|나는 커피보다 차를 더 좋아한다.|Many students prefer studying in the library.|많은 학생이 도서관에서 공부하는 것을 선호한다.
+shift|v|move|바뀌다; 옮기다|위치나 방향, 생각이 달라질 때 써요.|shift the focus|초점을 옮기다|Public opinion has shifted on this issue.|이 문제에 대한 여론이 바뀌었다.|He shifted the heavy box to the other side.|그는 무거운 상자를 다른 쪽으로 옮겼다.|move
+shift|n|work-period|교대 근무|정해진 시간에 돌아가며 하는 일이에요.|a night shift|야간 근무|The nurses work in three shifts.|간호사들은 3교대로 일한다.|My father works the night shift at the factory.|아버지는 공장에서 야간 근무를 하신다.
+shift|n|change|전환; 변화|방향이나 상태가 바뀌는 것이에요.|a shift in|~의 변화|There has been a shift in how people shop.|사람들이 쇼핑하는 방식에 변화가 있었다.|The new law caused a major shift in policy.|새 법은 정책에 큰 전환을 가져왔다.|change
+tend|v|be-likely|~하는 경향이 있다|tend to로 자주 그렇게 되는 성향을 말해요.|tend to|~하는 경향이 있다|People tend to eat more when they are stressed.|사람들은 스트레스를 받으면 더 많이 먹는 경향이 있다.|Prices tend to rise in winter.|겨울에는 물가가 오르는 경향이 있다.
+tend|v|look-after|돌보다|사람이나 식물을 보살필 때 써요.|tend a garden|정원을 돌보다|She tends her garden every morning.|그녀는 매일 아침 정원을 가꾼다.|Nurses tended the wounded soldiers.|간호사들은 부상당한 군인들을 돌보았다.
+tight|adj|close-fitting|꽉 끼는; 단단한|틈이 없이 꼭 맞거나 단단한 것이에요.|tight jeans|꽉 끼는 청바지|These shoes are too tight for me.|이 신발은 나에게 너무 꽉 낀다.|Hold the rope tight and do not let go.|밧줄을 꽉 잡고 놓지 마라.
+tight|adj|limited|빠듯한; 엄격한|시간·돈이 부족하거나 규칙이 엄할 때 써요.|a tight schedule|빠듯한 일정|We are on a tight budget this month.|우리는 이번 달 예산이 빠듯하다.|Security was tight at the airport.|공항의 보안이 엄격했다.
+describe|v|explain-in-words|묘사하다; 설명하다|어떤 모습이나 일을 말이나 글로 나타낼 때 써요.|describe a person|사람을 묘사하다|Can you describe the man you saw?|네가 본 남자를 묘사할 수 있니?|The book describes life in a small village.|그 책은 작은 마을의 삶을 그린다.|explain
+excuse|n|reason|변명; 핑계|잘못을 감추거나 피하려고 대는 이유예요.|make an excuse|핑계를 대다|He always has an excuse for being late.|그는 늦을 때마다 늘 핑계를 댄다.|There is no excuse for being rude.|무례한 행동에는 어떤 변명도 통하지 않는다.
+excuse|v|forgive|너그러이 봐주다; 면제하다|잘못을 너그럽게 봐주거나 의무를 덜어 줄 때 써요.|excuse me|실례합니다|Please excuse my late reply.|답장이 늦은 것을 용서해 달라.|She was excused from the exam because she was sick.|그녀는 아파서 시험을 면제받았다.|forgive
+expert|n|specialist|전문가|어떤 분야에 대해 많이 아는 사람이에요.|an expert on|~의 전문가|She is an expert on ancient history.|그녀는 고대사 전문가이다.|Experts say that the economy will improve.|전문가들은 경제가 나아질 것이라고 말한다.|master
+object|n|thing|물체; 대상|눈에 보이고 만질 수 있는 것이에요.|a small object|작은 물체|The baby put a small object in her mouth.|아기가 작은 물건을 입에 넣었다.|He became the object of everyone's attention.|그는 모든 사람의 관심 대상이 되었다.
+object|n|goal|(이루려는) 목적|이루려고 하는 것이에요.|the object of the game|게임의 목표|The object of the game is to collect all the cards.|그 게임의 목표는 모든 카드를 모으는 것이다.|Our main object is to help young readers.|우리의 주된 목적은 어린 독자들을 돕는 것이다.|purpose
+object|v|oppose|이의를 제기하다; 반대하다|object to로 싫다고 이의를 말할 때 써요.|object to|~에 반대하다|Many residents objected to the new airport.|많은 주민이 새 공항에 반대했다.|Does anyone object to this plan?|이 계획에 반대하는 사람이 있니?|oppose
+pattern|n|regular-way|양식; 패턴|일정하게 되풀이되는 방식이에요.|sleep patterns|수면 양식|Scientists study the sleep patterns of animals.|과학자들은 동물의 수면 양식을 연구한다.|There is a clear pattern in the data.|그 자료에는 뚜렷한 패턴이 있다.
+pattern|n|design|무늬|반복되는 모양이나 장식이에요.|a flower pattern|꽃무늬|She wore a dress with a flower pattern.|그녀는 꽃무늬 원피스를 입었다.|The floor has a simple square pattern.|그 바닥에는 단순한 네모 무늬가 있다.
+promote|v|encourage|촉진하다; 홍보하다|어떤 일이 잘 되도록 돕거나 알릴 때 써요.|promote health|건강을 증진하다|The campaign promotes healthy eating.|그 캠페인은 건강한 식습관을 장려한다.|The band toured to promote its new album.|그 밴드는 새 앨범을 홍보하려고 순회공연을 했다.|encourage
+promote|v|raise-rank|승진시키다|더 높은 직위로 올릴 때 써요.|be promoted to|~로 승진하다|She was promoted to manager last year.|그녀는 작년에 관리자로 승진했다.|The company promotes workers based on their skills.|그 회사는 실력에 따라 직원을 승진시킨다.
+suppose|v|assume|생각하다; 가정하다|아마 그렇다고 여길 때 써요.|I suppose|~인 것 같다|I suppose you are right.|네 말이 맞는 것 같다.|Suppose you won the lottery. What would you do?|복권에 당첨되었다고 가정해 봐라. 무엇을 하겠니?|assume
+victim|n|sufferer|희생자; 피해자|사고나 범죄로 피해를 입은 사람이에요.|a victim of|~의 피해자|The victims of the flood need food and water.|홍수 피해자들은 음식과 물이 필요하다.|She was a victim of online bullying.|그녀는 온라인 괴롭힘의 피해자였다.
+arrest|v|seize|체포하다|경찰이 범인을 잡아갈 때 써요.|be arrested for|~로 체포되다|The police arrested two men for stealing.|경찰은 절도 혐의로 두 남자를 체포했다.|He was arrested at the airport.|그는 공항에서 체포되었다.
+arrest|n|seizure|체포|경찰이 사람을 붙잡는 일이에요.|under arrest|체포된|You are under arrest.|당신을 체포한다.|The arrest of the leader surprised everyone.|그 지도자의 체포는 모두를 놀라게 했다.
+attend|v|go-to|참석하다; 다니다|모임에 가거나 학교에 다닐 때 써요.|attend a meeting|회의에 참석하다|Over a hundred people attended the concert.|백 명이 넘는 사람이 콘서트에 참석했다.|She attends a high school near her home.|그녀는 집 근처 고등학교에 다닌다.
+attend|v|take-care|보살피다; 처리하다|attend to로 일이나 사람을 보살필 때 써요.|attend to|~을 처리하다|I have some business to attend to this afternoon.|나는 오늘 오후에 처리할 일이 좀 있다.|Nurses attended to the injured.|간호사들이 부상자들을 돌보았다.
+brilliant|adj|very-clever|뛰어난; 훌륭한|아주 똑똑하거나 솜씨가 뛰어난 것이에요.|a brilliant idea|훌륭한 생각|She is a brilliant scientist.|그녀는 뛰어난 과학자이다.|What a brilliant idea!|정말 훌륭한 생각이다!|excellent
+brilliant|adj|very-bright|눈부신; 선명한|빛이나 색이 아주 밝은 것이에요.|brilliant sunshine|눈부신 햇살|The sky was a brilliant blue.|하늘은 눈부시게 파랬다.|The room was full of brilliant light.|방은 눈부신 빛으로 가득했다.|bright
+crash|n|accident|추락; 충돌|탈것이 부딪치거나 떨어지는 사고예요.|a car crash|자동차 충돌 사고|Nobody was hurt in the crash.|그 충돌 사고에서 아무도 다치지 않았다.|The plane crash was caused by bad weather.|비행기 추락은 악천후 때문에 일어났다.|accident
+crash|v|collide|충돌하다; (컴퓨터가) 멈추다|세게 부딪치거나 기계가 갑자기 멈출 때 써요.|crash into|~에 충돌하다|The truck crashed into a tree.|트럭이 나무에 충돌했다.|My computer crashed before I saved the file.|파일을 저장하기 전에 컴퓨터가 멈췄다.
+deliver|v|bring|배달하다; 전달하다|물건이나 소식을 가져다줄 때 써요.|deliver a package|소포를 배달하다|The store delivers food to your door.|그 가게는 음식을 집 앞까지 배달한다.|She delivered the message to the teacher.|그녀는 그 메시지를 선생님께 전달했다.
+deliver|v|give-speech|(연설을) 하다|연설이나 발표를 할 때 써요.|deliver a speech|연설하다|The principal delivered a speech at graduation.|교장 선생님은 졸업식에서 연설을 하셨다.|He delivered his report clearly and confidently.|그는 보고를 분명하고 자신 있게 했다.
+mate|n|friend|친구; 동료|함께 지내거나 일하는 사람이에요.|my mates|내 친구들|I went to the movies with my mates.|나는 친구들과 영화를 보러 갔다.|He shares a room with a mate from work.|그는 직장 동료와 방을 함께 쓴다.|friend
+mate|n|partner|(동물의) 짝|새끼를 낳으려고 짝을 이룬 상대예요.|find a mate|짝을 찾다|Male birds sing to attract a mate.|수컷 새는 짝을 끌려고 노래한다.|Some animals stay with one mate for life.|어떤 동물은 평생 한 짝과 함께 지낸다.|partner
+prepare|v|get-ready|준비하다|어떤 일을 위해 미리 갖출 때 써요.|prepare for|~을 준비하다|We are preparing for the final exam.|우리는 기말고사를 준비하고 있다.|My father prepared dinner for the whole family.|아버지는 온 가족을 위해 저녁을 준비하셨다.
+tip|n|advice|요령; 조언|도움이 되는 짧은 정보예요.|useful tips|유용한 조언|Here are some tips for better sleep.|숙면을 위한 몇 가지 조언이 있다.|My teacher gave me a tip for remembering words.|선생님은 나에게 단어를 기억하는 비결을 알려 주셨다.|advice
+tip|n|end|(뾰족한) 끝|가늘고 긴 물건의 끝부분이에요.|the tip of|~의 끝|The word is on the tip of my tongue.|그 단어가 혀끝에서 맴돈다.|He cut the tip of his finger.|그는 손가락 끝을 베였다.
+tip|n|extra-money|팁; 봉사료|서비스에 고마워서 더 주는 돈이에요.|leave a tip|팁을 남기다|We left a tip for the waiter.|우리는 웨이터에게 팁을 남겼다.|In some countries, a tip is not expected.|어떤 나라에서는 팁을 기대하지 않는다.
+calm|adj|peaceful|침착한; 고요한|마음이 흔들리지 않거나 날씨가 잔잔한 것이에요.|stay calm|침착함을 유지하다|Try to stay calm during the test.|시험 중에는 침착함을 유지하려고 노력해라.|The sea was calm this morning.|오늘 아침 바다는 잔잔했다.|peaceful
+calm|v|make-quiet|진정시키다|calm down으로 마음을 가라앉힐 때 써요.|calm down|진정하다|Take a deep breath and calm down.|심호흡을 하고 진정해라.|The mother calmed her crying baby.|엄마는 우는 아기를 달랬다.
+client|n|customer|고객; 의뢰인|전문가의 서비스를 받는 사람이에요.|meet a client|고객을 만나다|The lawyer met with her client in the morning.|그 변호사는 아침에 의뢰인을 만났다.|The designer has many famous clients.|그 디자이너에게는 유명한 고객이 많다.|customer
+constant|adj|continuous|끊임없는; 일정한|계속되거나 변하지 않는 것이에요.|constant noise|끊임없는 소음|The constant noise made it hard to sleep.|끊임없는 소음 때문에 잠들기 어려웠다.|Keep the room at a constant temperature.|방을 일정한 온도로 유지해라.|continuous
+manage|v|succeed|그럭저럭 해내다|어렵지만 결국 해낼 때 써요.|manage to|용케 ~하다|We managed to finish the project on time.|우리는 용케 제시간에 프로젝트를 끝냈다.|How did you manage to carry all those books?|그 책들을 어떻게 다 들고 왔니?
+manage|v|control|관리하다; 운영하다|사람·돈·시간을 맡아 다룰 때 써요.|manage time|시간을 관리하다|It is important to manage your time well.|시간을 잘 관리하는 것이 중요하다.|She manages a team of ten people.|그녀는 열 명으로 된 팀을 관리한다.|run
+quit|v|stop|그만두다; 끊다|하던 일이나 습관을 멈출 때 써요.|quit smoking|담배를 끊다|My uncle quit smoking last year.|삼촌은 작년에 담배를 끊으셨다.|She quit her job to start her own business.|그녀는 자기 사업을 시작하려고 일을 그만두었다.
+sight|n|vision|시력; 보기|눈으로 보는 능력이나 보는 일이에요.|at first sight|첫눈에|He lost his sight in an accident.|그는 사고로 시력을 잃었다.|She fell in love with the city at first sight.|그녀는 첫눈에 그 도시에 반했다.|vision
+sight|n|view|광경; 명소|눈에 보이는 장면이나 구경할 만한 곳이에요.|see the sights|명소를 구경하다|The sunset over the sea was a beautiful sight.|바다 위의 노을은 아름다운 광경이었다.|We visited all the famous sights of the city.|우리는 그 도시의 유명한 명소를 모두 둘러보았다.|view
+weapon|n|arms|무기|싸우거나 공격하는 데 쓰는 도구예요.|nuclear weapons|핵무기|The guards carried weapons.|경비병들은 무기를 지니고 있었다.|Many countries agreed to reduce nuclear weapons.|많은 나라가 핵무기를 줄이기로 합의했다.
+broad|adj|wide|넓은; 폭넓은|폭이 넓거나 범위가 큰 것이에요.|a broad range|폭넓은 범위|The river is broad and deep here.|이곳에서 강은 넓고 깊다.|The book covers a broad range of topics.|그 책은 폭넓은 주제를 다룬다.|wide
+respond|v|answer|대답하다; 반응하다|질문에 답하거나 어떤 일에 반응할 때 써요.|respond to|~에 반응하다|She did not respond to my message.|그녀는 내 메시지에 답하지 않았다.|Plants respond to light by growing toward it.|식물은 빛 쪽으로 자라며 빛에 반응한다.|reply
+grab|v|seize|붙잡다; 급히 먹다|재빨리 움켜잡거나 급하게 할 때 써요.|grab someone's arm|~의 팔을 붙잡다|He grabbed my arm to stop me from falling.|그는 내가 넘어지지 않게 내 팔을 붙잡았다.|Let us grab a sandwich before class.|수업 전에 샌드위치를 간단히 먹자.
+immediate|adj|instant|즉각적인|바로 일어나는 것이에요.|an immediate answer|즉각적인 대답|The medicine had an immediate effect.|그 약은 즉각적인 효과가 있었다.|We need an immediate decision.|우리는 즉시 결정을 내려야 한다.|instant
+immediate|adj|nearest|가장 가까운; 직계의|시간·공간·관계가 바로 가까운 것이에요.|immediate family|직계 가족|Only immediate family members came to the wedding.|직계 가족만 결혼식에 왔다.|There is no hospital in the immediate area.|바로 인근에는 병원이 없다.
+license|n|permit|면허(증); 허가|어떤 일을 해도 된다는 공식 허가예요.|a driver's license|운전면허증|You need a license to drive a car.|자동차를 운전하려면 면허가 필요하다.|The restaurant lost its license.|그 식당은 영업 허가를 잃었다.|permit
+recognize|v|identify|알아보다; 인식하다|전에 본 적이 있어 누구인지 알 때 써요.|recognize a face|얼굴을 알아보다|I did not recognize her with short hair.|머리가 짧아서 나는 그녀를 알아보지 못했다.|Babies can recognize their mother's voice.|아기들은 엄마의 목소리를 알아들을 수 있다.|identify
+recognize|v|accept|(공식적으로) 인정하다|사실이나 가치를 받아들일 때 써요.|recognize the need|필요성을 인정하다|The school recognized her hard work with an award.|학교는 그녀의 노력을 인정해 상을 주었다.|We must recognize that the problem is serious.|우리는 그 문제가 심각하다는 것을 인정해야 한다.|admit
+survive|v|stay-alive|살아남다; 견뎌 내다|위험한 상황에서 죽지 않고 살아남을 때 써요.|survive an accident|사고에서 살아남다|Only three people survived the crash.|그 충돌 사고에서 세 명만 살아남았다.|Camels can survive for days without water.|낙타는 물 없이 며칠 동안 살 수 있다.
+aim|n|goal|목표; 목적|이루려고 하는 일이에요.|the aim of|~의 목표|The aim of this class is to improve your writing.|이 수업의 목표는 여러분의 글쓰기 실력을 높이는 것이다.|Her aim is to become a doctor.|그녀의 목표는 의사가 되는 것이다.|goal
+aim|v|intend|목표로 하다; 겨냥하다|aim to나 aim at으로 무엇을 노릴 때 써요.|aim to|~하는 것을 목표로 하다|We aim to finish the project by May.|우리는 5월까지 프로젝트를 끝내는 것을 목표로 한다.|The program is aimed at young children.|그 프로그램은 어린아이들을 대상으로 한다.
+fee|n|charge|수수료; 요금|서비스를 받거나 들어갈 때 내는 돈이에요.|an entrance fee|입장료|The museum has no entrance fee.|그 박물관은 입장료가 없다.|The school fee is due at the end of the month.|학비는 이달 말까지 내야 한다.|charge
+quote|v|repeat-words|인용하다|다른 사람의 말이나 글을 그대로 옮길 때 써요.|quote a writer|작가의 말을 인용하다|He quoted a famous poet in his speech.|그는 연설에서 유명한 시인의 말을 인용했다.|Please quote the source of your information.|정보의 출처를 밝혀라.
+quote|n|quotation|인용구; 견적|옮겨 쓴 말이나 미리 낸 가격이에요.|get a quote|견적을 받다|This book starts with a quote from a famous scientist.|이 책은 유명한 과학자의 인용구로 시작한다.|We got a quote for fixing the roof.|우리는 지붕 수리 견적을 받았다.
+suspect|v|think-likely|의심하다; ~이라고 생각하다|아마 그럴 것이라고 짐작할 때 써요.|suspect that|~이라고 짐작하다|I suspect that he forgot about the meeting.|나는 그가 회의를 잊었다고 짐작한다.|The police suspect him of stealing the car.|경찰은 그가 차를 훔쳤다고 의심한다.
+suspect|n|accused-person|용의자|범죄를 저질렀다고 의심받는 사람이에요.|a murder suspect|살인 용의자|The police caught the suspect near the bank.|경찰은 은행 근처에서 용의자를 붙잡았다.|There are three suspects in the case.|그 사건에는 용의자가 세 명 있다.
+tie|v|fasten|묶다; 매다|끈이나 줄로 묶을 때 써요.|tie a knot|매듭을 묶다|Tie your shoes before you go out.|나가기 전에 신발 끈을 매라.|He tied the boat to the tree.|그는 배를 나무에 묶었다.
+tie|n|connection|관계; 유대|사람이나 나라 사이의 관계예요.|family ties|가족 간의 유대|The two countries have strong economic ties.|두 나라는 강한 경제적 유대를 맺고 있다.|She kept close ties with her old friends.|그녀는 옛 친구들과 가까운 관계를 유지했다.|bond
+tie|n|draw|동점|경기에서 점수가 같은 것이에요.|end in a tie|동점으로 끝나다|The game ended in a tie.|그 경기는 동점으로 끝났다.|There was a tie for first place.|1등 자리를 두고 동점이 나왔다.|draw
+contain|v|hold|들어 있다; 포함하다|안에 무엇을 담고 있을 때 써요.|contain sugar|설탕이 들어 있다|This drink contains a lot of sugar.|이 음료에는 설탕이 많이 들어 있다.|The box contained old photos and letters.|그 상자에는 오래된 사진과 편지가 들어 있었다.|include
+contain|v|control|억제하다; 막다|퍼지거나 커지지 않게 막을 때 써요.|contain a fire|불길을 잡다|Firefighters worked hard to contain the fire.|소방관들은 불길을 잡으려고 애썼다.|She could not contain her excitement.|그녀는 흥분을 감출 수 없었다.
+document|n|paper|서류; 문서|정보를 담은 공식적인 글이에요.|an important document|중요한 서류|Please sign this document.|이 서류에 서명해라.|I saved the document on my computer.|나는 그 문서를 컴퓨터에 저장했다.
+document|v|record|(문서로) 기록하다|사실을 자세히 남길 때 써요.|document a process|과정을 기록하다|The scientist documented every step of the experiment.|그 과학자는 실험의 모든 단계를 기록했다.|The film documents the life of a famous artist.|그 영화는 유명한 예술가의 삶을 기록한다.|record
+lift|v|raise|들어 올리다|무엇을 위로 올릴 때 써요.|lift a box|상자를 들어 올리다|He lifted the heavy box onto the table.|그는 무거운 상자를 탁자 위로 들어 올렸다.|Lift your arms above your head.|팔을 머리 위로 들어 올려라.|raise
+lift|n|ride|태워 주기|차로 다른 사람을 데려다주는 일이에요.|give a lift|태워 주다|Can you give me a lift to the station?|나를 역까지 태워 줄 수 있니?|My neighbor offered me a lift home.|이웃이 집까지 태워 주겠다고 했다.|ride
+operate|v|work|(기계를) 작동하다; 운영하다|기계를 움직이거나 사업을 할 때 써요.|operate a machine|기계를 작동하다|Do you know how to operate this machine?|이 기계를 어떻게 작동하는지 아니?|The company operates in thirty countries.|그 회사는 서른 개 나라에서 사업을 한다.|run
+operate|v|do-surgery|수술하다|operate on으로 환자를 수술할 때 써요.|operate on|~을 수술하다|The doctors operated on her heart.|의사들은 그녀의 심장을 수술했다.|They had to operate immediately.|그들은 즉시 수술해야 했다.
+reply|v|answer|답장하다; 대답하다|질문이나 편지에 답할 때 써요.|reply to|~에 답하다|Please reply to my email as soon as possible.|가능한 한 빨리 내 이메일에 답장해라.|He replied that he was busy.|그는 바쁘다고 대답했다.|respond
+reply|n|answer|대답; 답장|질문이나 편지에 대한 답이에요.|in reply|대답으로|I am still waiting for a reply from the school.|나는 아직 학교의 답장을 기다리고 있다.|Her reply was short and polite.|그녀의 대답은 짧고 공손했다.
+coal|n|fuel|석탄|땅에서 캐내어 연료로 쓰는 검은 돌이에요.|burn coal|석탄을 태우다|Burning coal pollutes the air.|석탄을 태우면 공기가 오염된다.|Many workers used to dig coal in this town.|예전에는 많은 노동자가 이 마을에서 석탄을 캤다.
+rough|adj|uneven|거친; 울퉁불퉁한|표면이 고르지 않거나 부드럽지 않은 것이에요.|rough skin|거친 피부|The road was rough and full of holes.|그 길은 울퉁불퉁하고 구멍투성이였다.|His hands were rough from hard work.|그의 손은 힘든 일로 거칠었다.
+rough|adj|approximate|대략적인|정확하지 않고 대강인 것이에요.|a rough idea|대략적인 생각|Give me a rough idea of the cost.|비용이 대략 얼마인지 알려 달라.|This is only a rough plan.|이것은 대략적인 계획일 뿐이다.
+rough|adj|difficult|힘든; (바다가) 사나운|상황이 어렵거나 날씨가 사나울 때 써요.|a rough day|힘든 하루|I had a rough day at school.|나는 학교에서 힘든 하루를 보냈다.|The sea was too rough for the boats.|바다가 너무 거칠어서 배가 다닐 수 없었다.
+tone|n|voice-quality|어조; 말투|말할 때 드러나는 느낌이나 태도예요.|tone of voice|목소리 어조|Her tone was friendly but serious.|그녀의 말투는 친절하지만 진지했다.|The writer uses a funny tone in this essay.|글쓴이는 이 수필에서 재미있는 어조를 쓴다.
+tone|n|shade|색조; 음색|색의 짙고 옅음이나 소리의 느낌이에요.|warm tones|따뜻한 색조|The room is painted in warm tones.|그 방은 따뜻한 색조로 칠해져 있다.|The old piano has a beautiful tone.|그 오래된 피아노는 음색이 아름답다.
+earn|v|get-money|(돈을) 벌다|일한 대가로 돈을 받을 때 써요.|earn money|돈을 벌다|She earns money by teaching piano.|그녀는 피아노를 가르쳐서 돈을 번다.|How much does a nurse earn a month?|간호사는 한 달에 얼마를 벌까?
+earn|v|deserve|(노력으로) 얻다; 받을 만하다|노력이나 행동으로 무엇을 얻을 때 써요.|earn respect|존경을 얻다|He earned the respect of his classmates.|그는 반 친구들의 존경을 얻었다.|You have earned a good rest.|너는 푹 쉴 만한 자격이 있다.
+ignore|v|pay-no-attention|무시하다|일부러 신경 쓰지 않을 때 써요.|ignore advice|충고를 무시하다|He ignored my advice and went out in the storm.|그는 내 충고를 무시하고 폭풍 속에 나갔다.|You cannot ignore the problem forever.|그 문제를 영원히 외면할 수는 없다.
+practical|adj|useful|실용적인; 현실적인|실제로 쓸모 있거나 현실에 맞는 것이에요.|practical advice|실용적인 조언|These shoes are not pretty, but they are practical.|이 신발은 예쁘지는 않지만 실용적이다.|We need a practical solution to the problem.|우리는 그 문제에 대한 현실적인 해결책이 필요하다.
+sharp|adj|pointed|날카로운|끝이나 날이 잘 드는 것이에요.|a sharp knife|날카로운 칼|Be careful with that sharp knife.|그 날카로운 칼을 조심해라.|The cat has sharp claws.|고양이는 발톱이 날카롭다.
+sharp|adj|sudden|급격한; 뚜렷한|변화가 갑작스럽고 큰 것이에요.|a sharp rise|급격한 상승|There was a sharp rise in prices.|가격이 급격히 올랐다.|The road makes a sharp turn to the left.|그 길은 왼쪽으로 급하게 꺾인다.|sudden
+sharp|adv|exactly|정각에|시각 뒤에서 정확히 그 시간을 말해요.|at six sharp|6시 정각에|The class starts at nine sharp.|수업은 9시 정각에 시작한다.|Please be here at three o'clock sharp.|3시 정각에 여기에 와라.
+stable|adj|steady|안정된|흔들리거나 변하지 않는 것이에요.|a stable job|안정된 직업|The patient is now in stable condition.|그 환자는 지금 안정된 상태이다.|Prices have remained stable this year.|올해 물가는 안정세를 유지했다.|steady
+stable|n|horse-building|마구간|말을 기르는 건물이에요.|clean the stable|마구간을 청소하다|The horses are in the stable.|말들은 마구간에 있다.|She helps clean the stable on weekends.|그녀는 주말마다 마구간 청소를 돕는다.
+occur|v|happen|일어나다; 발생하다|사건이나 일이 생길 때 써요.|occur suddenly|갑자기 일어나다|The accident occurred late at night.|그 사고는 밤늦게 일어났다.|Earthquakes occur often in this area.|이 지역에서는 지진이 자주 일어난다.|happen
+occur|v|come-to-mind|(생각이) 떠오르다|occur to로 생각이 갑자기 들 때 써요.|occur to|~에게 생각이 떠오르다|It never occurred to me that she was sad.|그녀가 슬퍼한다는 생각은 한 번도 해 보지 못했다.|A good idea occurred to him in the shower.|샤워하다가 그에게 좋은 생각이 떠올랐다.
+technique|n|method|기법; 기술|무엇을 하는 특별한 방법이에요.|a new technique|새로운 기법|The artist used a new painting technique.|그 화가는 새로운 그림 기법을 사용했다.|Good breathing technique helps swimmers.|좋은 호흡법은 수영 선수에게 도움이 된다.|method
+adventure|n|exciting-experience|모험|위험하지만 흥미진진한 경험이에요.|an adventure story|모험 이야기|Our trip to the jungle was a real adventure.|정글 여행은 진짜 모험이었다.|He loves reading adventure stories.|그는 모험 이야기를 읽는 것을 좋아한다.
+argue|v|quarrel|말다툼하다|의견이 달라 화내며 다툴 때 써요.|argue with|~와 다투다|My brother and I often argue about small things.|형과 나는 자주 사소한 일로 다툰다.|They argued about who should pay.|그들은 누가 돈을 내야 하는지를 두고 다투었다.|quarrel
+argue|v|claim|논하다; 주장하다|이유를 들어 생각을 내세울 때 써요.|argue that|~라고 주장하다|Some scientists argue that the earth is warming faster than expected.|일부 과학자들은 지구가 예상보다 빨리 더워지고 있다고 주장한다.|The writer argues for free public transport.|글쓴이는 무료 대중교통을 지지하는 주장을 편다.|claim
+establish|v|set-up|설립하다; 세우다|조직이나 제도를 새로 만들 때 써요.|establish a company|회사를 설립하다|The school was established in 1950.|그 학교는 1950년에 설립되었다.|They established a fund to help poor students.|그들은 가난한 학생들을 돕는 기금을 만들었다.|found
+establish|v|prove|확립하다; 밝히다|사실이나 관계를 분명히 할 때 써요.|establish the facts|사실을 밝히다|The police are trying to establish the cause of the fire.|경찰은 화재 원인을 밝히려 하고 있다.|She quickly established herself as a good leader.|그녀는 빠르게 좋은 지도자로 자리 잡았다.
+gear|n|equipment|용품; 장비|어떤 활동에 필요한 도구나 옷이에요.|camping gear|캠핑 장비|We packed all our camping gear into the car.|우리는 캠핑 장비를 모두 차에 실었다.|Wear the right gear when you ride a bike.|자전거를 탈 때는 알맞은 보호 장비를 착용해라.|equipment
+gear|n|machine-part|기어; 톱니바퀴|기계의 속도를 바꾸는 장치예요.|change gear|기어를 바꾸다|The bike has twenty gears.|그 자전거에는 기어가 스무 개 있다.|Shift into a lower gear on the hill.|언덕에서는 낮은 기어로 바꿔라.
+loose|adj|not-tight|느슨한; 헐렁한|꽉 조이지 않거나 고정되지 않은 것이에요.|loose clothes|헐렁한 옷|Wear loose clothes when you exercise.|운동할 때는 헐렁한 옷을 입어라.|One of the screws is loose.|나사 하나가 헐거워졌다.
+loose|adj|free|풀려난|묶여 있지 않고 자유롭게 돌아다니는 것이에요.|break loose|풀려나다|The dog got loose and ran into the street.|개가 풀려나 거리로 뛰어나갔다.|A tiger was loose in the town for an hour.|호랑이가 한 시간 동안 마을을 돌아다녔다.|free
+moral|adj|ethical|도덕적인|옳고 그름에 관련된 것이에요.|a moral choice|도덕적 선택|Doctors face difficult moral questions.|의사들은 어려운 도덕적 문제에 부딪힌다.|We have a moral duty to help others.|우리에게는 다른 사람을 도울 도덕적 의무가 있다.
+moral|n|lesson|교훈|이야기가 알려 주는 가르침이에요.|the moral of the story|이야기의 교훈|The moral of the story is never to give up.|그 이야기의 교훈은 절대 포기하지 말라는 것이다.|Every fable ends with a simple moral.|모든 우화는 간단한 교훈으로 끝난다.|lesson
+violent|adj|using-force|폭력적인; 격렬한|힘으로 해치거나 매우 거센 것이에요.|violent crime|강력 범죄|Violent movies are not good for young children.|폭력적인 영화는 어린아이들에게 좋지 않다.|A violent storm hit the coast last night.|어젯밤 격렬한 폭풍이 해안을 덮쳤다.
+compare|v|examine-differences|비교하다|둘 이상의 같은 점과 다른 점을 볼 때 써요.|compare A with B|A를 B와 비교하다|Compare your answers with your partner's.|짝의 답과 네 답을 비교해 보아라.|Prices here are low compared to the city.|이곳 물가는 도시에 비해 낮다.
+compare|v|liken|비유하다|compare A to B로 닮았다고 말할 때 써요.|compare A to B|A를 B에 비유하다|Poets often compare life to a journey.|시인들은 흔히 인생을 여행에 비유한다.|Her voice has been compared to an angel's.|그녀의 목소리는 천사의 목소리에 비유되어 왔다.
+innocent|adj|not-guilty|무죄의; 결백한|죄를 짓지 않은 것이에요.|prove someone innocent|무죄를 증명하다|The court found the man innocent.|법원은 그 남자에게 무죄를 선고했다.|He kept saying that he was innocent.|그는 자신이 결백하다고 계속 말했다.
+innocent|adj|naive|순진한; 천진한|세상의 나쁜 일을 잘 모르는 것이에요.|an innocent smile|천진한 미소|The child gave an innocent smile.|그 아이는 천진한 미소를 지었다.|She asked an innocent question about money.|그녀는 돈에 관해 순진한 질문을 했다.
+protest|n|demonstration|시위; 항의|반대 의견을 공개적으로 나타내는 일이에요.|a peaceful protest|평화 시위|Thousands joined the protest against the war.|수천 명이 전쟁 반대 시위에 참여했다.|The students wrote a letter of protest.|학생들은 항의 편지를 썼다.
+protest|v|object|항의하다; 반대하다|옳지 않다고 공개적으로 말할 때 써요.|protest against|~에 항의하다|Workers protested against the low pay.|노동자들은 낮은 임금에 항의했다.|Residents protested the plan to close the school.|주민들은 학교를 닫으려는 계획에 반대했다.|object
+refer|v|mention|지칭하다; 언급하다|refer to로 어떤 것을 말하거나 지칭할 때 써요.|refer to|~을 언급하다|The teacher referred to the book several times.|선생님은 그 책을 여러 번 언급하셨다.|The word refers to a kind of fish.|그 단어는 물고기의 한 종류를 가리킨다.|mention
+refer|v|consult|참고하다; 보내다|정보를 찾아보거나 다른 곳으로 안내할 때 써요.|refer to a dictionary|사전을 참고하다|Refer to the map if you get lost.|길을 잃으면 지도를 참고해라.|The doctor referred me to a specialist.|의사는 나를 전문의에게 보냈다.
+suffer|v|feel-pain|고통받다; 겪다|아픔이나 어려움을 겪을 때 써요.|suffer from|~으로 고통받다|Many people suffer from back pain.|많은 사람이 허리 통증으로 고생한다.|The city suffered heavy damage in the war.|그 도시는 전쟁에서 큰 피해를 입었다.
+guarantee|v|promise|보장하다; 장담하다|틀림없이 그렇게 되도록 약속할 때 써요.|guarantee success|성공을 보장하다|Hard work does not always guarantee success.|노력이 언제나 성공을 보장하지는 않는다.|I guarantee that you will enjoy the movie.|네가 그 영화를 즐길 거라고 장담한다.|promise
+guarantee|n|warranty|보증; 보증서|품질이나 약속을 책임지겠다는 것이에요.|a one-year guarantee|1년 보증|The phone comes with a two-year guarantee.|그 휴대전화는 2년 보증이 딸려 있다.|There is no guarantee that it will work.|그것이 효과가 있으리라는 보장은 없다.
+mood|n|feeling|기분; 분위기|어떤 때의 마음 상태나 주변의 느낌이에요.|in a good mood|기분이 좋은|She is in a good mood today.|그녀는 오늘 기분이 좋다.|The music changed the mood of the party.|음악이 파티의 분위기를 바꾸었다.|feeling

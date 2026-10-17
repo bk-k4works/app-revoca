@@ -1,0 +1,15 @@
+{
+  "sourceList": "curriculum_2022_basic",
+  "sourceUrl": "https://www.goe.go.kr/resource/old/BBSMSTR_000000030136/BBS_202307111028067791.pdf",
+  "documentTitle": "2022 개정 교육과정에 따른 영어 어휘 검색 프로그램 (KICE Word Lister)",
+  "originalCitation": "교육부 고시 제2022-33호 [별책 14] pp.254–290",
+  "pageNumbering": "1-based physical pages of linked KICE PDF (7–36)",
+  "pdfSha256": "6e3e2272a2858b916f7982cc0ab8afee1af540e0baf900f23332be552ff2a4bf",
+  "csvSha256": "956524bcea244a6711efbacf361134d2e2852416e1e72ee4c140af2de0bd9ba4",
+  "count": 3000,
+  "elementaryCount": 800,
+  "commonCourseCount": 1200,
+  "extractedAt": "2026-10-16T00:13:35.854137+00:00",
+  "status": "awaiting_two_human_checks",
+  "checks": []
+}

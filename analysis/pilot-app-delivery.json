@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-16",
+  "contentVersion": "dev-pilot-9ca06de5c007",
+  "headwords": 100,
+  "senses": 154,
+  "examples": 308,
+  "decks": 9,
+  "developmentOnly": true,
+  "humanApprovals": 0,
+  "externalApiCalls": 0,
+  "changes": [
+    "Reproducible dev-preview/dev-install commands with source and review hash checks",
+    "Five explicitly matched legacy sense IDs retained; new candidates use preview IDs",
+    "Meaning-specific accepted spellings preserved in both startup index and details",
+    "Second examples, translations, and TTS exposed in word details",
+    "Recall prompts include part of speech and collocation",
+    "Twelve sparse-choice cards require reveal and explicit self assessment"
+  ],
+  "validation": {
+    "pythonTests": 35,
+    "flutterTests": 30,
+    "iosIntegrationTests": 3,
+    "flutterAnalyze": "passed",
+    "device": "iPhone 18 Pro / iOS 27.0 simulator",
+    "xcodeDebugBuildSeconds": 6.7,
+    "nativeChecks": [
+      "154 senses and 308 examples loaded",
+      "check verb rejects cheque; noun accepts it before and after detail load",
+      "Five-card pilot round completed with ten persisted recall/spelling events and next-day schedules",
+      "Legacy history migration and restoration passed"
+    ],
+    "manualChecks": [
+      "Pilot deck and 100-headword/154-sense content notice displayed",
+      "bank meaning, both examples and translations displayed",
+      "Second example TTS entered playing state"
+    ],
+    "buildWarning": "Target native_assets required define SdkRoot but it was not provided; launch succeeded"
+  },
+  "limitations": [
+    "Not release-approved content",
+    "Recorded audio not generated; device TTS used",
+    "Audio quality not auditioned",
+    "No physical-device verification"
+  ],
+  "handoff": "App left open on first pilot deck in Device Hub; Flutter detached."
+}
