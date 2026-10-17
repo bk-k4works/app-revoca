@@ -91,7 +91,7 @@ class _BootstrapState extends State<Bootstrap> {
                 mainAxisSize: MainAxisSize.min,
                 children: [
                   const Text(
-                    'voca.',
+                    're:voca',
                     style: TextStyle(fontSize: 40, fontWeight: FontWeight.w800),
                   ),
                   const SizedBox(height: 24),
@@ -151,7 +151,7 @@ class _FocusVocaAppState extends State<FocusVocaApp>
 
   @override
   Widget build(BuildContext context) => MaterialApp(
-    title: '포커스 보카',
+    title: '리보카',
     debugShowCheckedModeBanner: false,
     locale: const Locale('ko'),
     supportedLocales: const [Locale('ko'), Locale('en')],

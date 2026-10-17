@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <uses-permission android:name="android.permission.INTERNET" />
     <application
-        android:label="포커스 보카"
+        android:label="리보카"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

@@ -30,16 +30,17 @@ class _HomeShellState extends State<HomeShell> {
         appBar: AppBar(
           toolbarHeight: headerHeight < 64 ? 64 : headerHeight,
           title: Semantics(
-            label: '포커스 보카',
+            label: '리보카',
             child: ExcludeSemantics(
               child: Text.rich(
                 TextSpan(
-                  text: 'voca',
+                  text: 're',
                   children: [
                     TextSpan(
-                      text: '.',
+                      text: ':',
                       style: TextStyle(color: colors.warning),
                     ),
+                    const TextSpan(text: 'voca'),
                   ],
                 ),
                 textScaler: TextScaler.noScaling,
