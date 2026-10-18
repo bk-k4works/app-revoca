@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "senseKey": "custom|n|border-control",
+      "inputHash": "27563758c11bb6f5",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "atlantic|adj|ocean",
+      "inputHash": "9ba9deb0d1c5f0ab",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "belonging|n|possessions",
+      "inputHash": "413f95a173dbe014",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "in respect to|phrase|concerning",
+      "inputHash": "bbebcffe133971eb",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "antarctica|n|south-pole-continent",
+      "inputHash": "0ffa2f63a3077b49",
+      "verdict": "ok",
+      "issues": []
+    }
+  ],
+  "missingSenses": [
+    {
+      "headword": "customs",
+      "reason": "무역·경제 지문에서 쓰이는 '관세' 의미가 빠져 있어요.",
+      "suggestion": "명사 뜻 '관세' 추가. 설명: '국경을 넘어 거래되는 물품에 붙는 세금이에요.'"
+    }
+  ]
+}

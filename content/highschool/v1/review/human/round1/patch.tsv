@@ -1,0 +1,217 @@
+# 사람 검수 1차(웹 승인 화면, 2026-10-18) 수정 필요 반영. hs_patch.py 형식.
+EDIT	abnormally	unusually	expl	정상이나 보통의 상태에서 벗어난 모습을 나타내요.	사람 검수 수정 반영	설명 어색함
+EDIT	abruptly	suddenly	expl	예고 없이 갑자기 일어나거나 말투가 퉁명스러운 모습이에요.	사람 검수 수정 반영	설명 어색함·퉁명스러운 뜻 누락
+EDIT	absent	not-present	expl	자리에 나오지 않았거나 어떤 것이 존재하지 않는 상태예요.	사람 검수 수정 반영	설명이 결석에 한정됨
+EDIT	absolutely	completely	meaning	절대적으로; 완전히; 정말; 아주	사람 검수 수정 반영	강조 용법(정말·아주) 보완
+EDIT	abstract	conceptual@adj	expl	구체적인 사물이나 사례가 아닌 생각·개념으로 나타낸 것이에요.	사람 검수 수정 반영	추상화 용법까지 설명
+EDIT	abstract	summary@n	meaning	초록; 요약	사람 검수 수정 반영	논문 문맥은 초록
+EDIT	abstract	summary@n	colko	초록을 읽다	사람 검수 수정 반영	초록 반영
+EDIT	abstract	summary@n	ko1	논문 전체를 읽기 전에 초록을 읽어라.	사람 검수 수정 반영	초록 반영
+EDIT	abstract	summary@n	ko2	초록은 주요 연구 결과를 설명한다.	사람 검수 수정 반영	초록 반영
+EDIT	acceptance	approval	meaning	수락; 수용; (입학) 허가	사람 검수 수정 반영	합격·입학 허가 용례 보완
+EDIT	acceptance	approval	expl	받아들이거나 인정하는 것, 또는 입학 허가예요.	사람 검수 수정 반영	합격·입학 허가 용례 보완
+EDIT	accessible	reachable	syn		사람 검수 수정 반영	available은 유의어가 아님
+EDIT	accurately	precisely	expl	실수나 오차 없이 바르게 하는 모습을 나타내요.	사람 검수 수정 반영	설명 어색함
+EDIT	adhesive	glue	en2	The label is attached with adhesive.	사람 검수 수정 반영	예문이 접착력 뜻이었음
+EDIT	adhesive	glue	ko2	라벨은 접착제로 붙어 있다.	사람 검수 수정 반영	예문 교체
+EDIT	administration	management	meaning	관리; 행정; 행정부	사람 검수 수정 반영	정부 조직 의미 보완
+EDIT	administration	management	expl	조직이나 나라의 일을 운영하는 것이나 그 정부 조직이에요.	사람 검수 수정 반영	정부 조직 의미 보완
+EDIT	aggressive	hostile	syn		사람 검수 수정 반영	violent는 유의어가 아님
+EDIT	aging	growing-old	col	the aging of the population	사람 검수 수정 반영	명사 용법 연어로 교체
+EDIT	aging	growing-old	colko	인구의 고령화	사람 검수 수정 반영	명사 용법 연어로 교체
+EDIT	aging	growing-old	en2	The aging of the population is changing Korean society.	사람 검수 수정 반영	명사 용법 예문으로 교체
+EDIT	aging	growing-old	ko2	인구 고령화가 한국 사회를 바꾸고 있다.	사람 검수 수정 반영	명사 용법 예문으로 교체
+EDIT	agreement	deal	syn		사람 검수 수정 반영	contract는 일반 유의어가 아님
+EDIT	alike	equally	expl	모두에게 똑같이 적용되거나 모두 마찬가지임을 나타내요.	사람 검수 수정 반영	설명 어색함
+EDIT	all the time	always	expl	어떤 일이 늘 일어나거나 내내 이어짐을 나타내요.	사람 검수 수정 반영	설명 어색함
+EDIT	annoyance	irritation	meaning	성가심; 짜증; 골칫거리	사람 검수 수정 반영	성가신 일 의미 보완
+EDIT	annoyance	irritation	expl	귀찮아서 생기는 불쾌한 감정이나 그런 성가신 일이에요.	사람 검수 수정 반영	성가신 일 의미 보완
+EDIT	apparent	obvious	en2	Despite his apparent calm, he was very nervous.	사람 검수 수정 반영	겉보기의 예문 추가
+EDIT	apparent	obvious	ko2	그는 겉으로는 침착해 보였지만 매우 긴장하고 있었다.	사람 검수 수정 반영	겉보기의 예문 추가
+EDIT	as soon as	immediately-after	col	as soon as you arrive	사람 검수 수정 반영	표제 의미를 보여 주는 연어
+EDIT	as soon as	immediately-after	colko	도착하자마자	사람 검수 수정 반영	표제 의미를 보여 주는 연어
+EDIT	as soon as	immediately-after	en1	Please text me as soon as you get home.	사람 검수 수정 반영	연어와 겹치지 않게 예문 교체
+EDIT	as soon as	immediately-after	ko1	집에 도착하자마자 나에게 문자를 보내라.	사람 검수 수정 반영	연어와 겹치지 않게 예문 교체
+EDIT	assistant	helper	meaning	조수; 보조원; 점원	사람 검수 수정 반영	점원 의미 보완
+EDIT	assistant	helper	expl	다른 사람의 일을 돕거나 가게에서 손님을 돕는 사람이에요.	사람 검수 수정 반영	점원 의미 보완
+EDIT	attach	fasten	ko1	지원서에 사진을 첨부해라.	사람 검수 수정 반영	붙이다 → 첨부하다 (평서체 규칙 유지)
+EDIT	awful	terrible	meaning	지독한; 끔찍한; (마음이) 몹시 미안한	사람 검수 수정 반영	feel awful 용례 보완
+EDIT	awful	terrible	expl	아주 나쁘고 불쾌하거나 마음이 몹시 불편한 상태예요.	사람 검수 수정 반영	feel awful 용례 보완
+EDIT	backward	toward-the-back	expl	뒤쪽으로 움직이거나 순서를 거꾸로 따르는 것을 나타내요.	사람 검수 수정 반영	설명 어색함
+EDIT	balance	remaining-money	meaning	잔액; 잔금	사람 검수 수정 반영	미지급 잔금 의미 보완
+EDIT	balance	remaining-money	expl	계좌에 남은 돈이나 아직 내지 않은 나머지 금액이에요.	사람 검수 수정 반영	미지급 잔금 의미 보완
+EDIT	blank	empty	meaning	빈; 공백의; (머릿속이) 텅 빈	사람 검수 수정 반영	머릿속이 하얘지다 용례 보완
+EDIT	blank	empty	expl	아무것도 쓰여 있지 않거나 아무 생각이 나지 않는 상태예요.	사람 검수 수정 반영	머릿속이 하얘지다 용례 보완
+EDIT	briskly	quickly	expl	움직임이 기운차고 빠르거나 거래가 활발한 모습이에요.	사람 검수 수정 반영	설명 어색함·판매 예문 반영
+EDIT	casually	informally	expl	격식에 얽매이지 않거나 대수롭지 않게 하는 모습이에요.	사람 검수 수정 반영	설명 어색함
+EDIT	commute	daily-trip@n	meaning	통근(길); 통학(길)	사람 검수 수정 반영	통학 의미 보완
+EDIT	commute	travel-to-work@v	meaning	통근하다; 통학하다	사람 검수 수정 반영	통학 의미 보완
+EDIT	comprise	consist-of	expl	여러 부분으로 이루어지거나 어떤 부분이 전체를 이룰 때 써요.	사람 검수 수정 반영	차지하다 용법까지 설명
+EDIT	conservation	protection	meaning	보존; 보호; 절약	사람 검수 수정 반영	에너지 절약 용례 보완
+EDIT	conservation	protection	expl	자연이나 자원을 지키고 아껴 쓰는 것이에요.	사람 검수 수정 반영	에너지 절약 용례 보완
+EDIT	conservative	traditional	meaning	보수적인; (옷차림이) 수수한	사람 검수 수정 반영	옷차림 용례 보완
+EDIT	conservative	traditional	expl	전통을 중시하거나 변화에 신중하고 튀지 않는 것이에요.	사람 검수 수정 반영	옷차림 용례 보완
+EDIT	contagiousness	infectiousness	expl	병이나 감정·행동이 다른 사람에게 쉽게 옮는 정도예요.	사람 검수 수정 반영	비유적 용례까지 설명
+EDIT	contain	control@v	meaning	억제하다; 막다; (감정을) 억누르다	사람 검수 수정 반영	감정을 억누르다 의미 보완
+EDIT	contain	control@v	expl	퍼지거나 커지지 않게 막거나 감정을 억누를 때 써요.	사람 검수 수정 반영	감정을 억누르다 의미 보완
+EDIT	contemporary	modern	en2	The diary is a contemporary record of the war.	사람 검수 수정 반영	동시대의 예문 추가
+EDIT	contemporary	modern	ko2	그 일기는 전쟁 당시에 쓰인 동시대의 기록이다.	사람 검수 수정 반영	동시대의 예문 추가
+EDIT	controversy	dispute	syn		사람 검수 수정 반영	debate는 일반 유의어가 아님
+EDIT	convenience	ease	ko1	온라인 쇼핑은 바쁜 사람들에게 큰 편리함을 준다.	사람 검수 수정 반영	직역투 다듬기
+EDIT	critical	crucial	meaning	중대한; 결정적인; 위독한	사람 검수 수정 반영	의료 문맥 위독한 의미 보완
+EDIT	critical	crucial	expl	매우 중요하거나 목숨이 위험할 만큼 상태가 나쁜 것이에요.	사람 검수 수정 반영	의료 문맥 위독한 의미 보완
+EDIT	crush	squeeze	meaning	으깨다; 짓밟다; 진압하다	사람 검수 수정 반영	반란 진압 의미 보완
+EDIT	crush	squeeze	expl	세게 눌러 부수거나 저항을 힘으로 진압할 때 써요.	사람 검수 수정 반영	반란 진압 의미 보완
+EDIT	decay	rot	ko2	그 오래된 건물이 점점 낡아 가기 시작했다.	사람 검수 수정 반영	허물어지다는 너무 강함
+EDIT	decent	honest	meaning	점잖은; 예의 바른; 선량한; 괜찮은	사람 검수 수정 반영	뜻 넓히기
+EDIT	decent	honest	expl	도덕적으로 올바르거나 만족할 만한 수준인 것이에요.	사람 검수 수정 반영	뜻 넓히기
+EDIT	decent	honest	ko1	그는 남을 돕는 선량한 사람이다.	사람 검수 수정 반영	a decent man 번역 다듬기
+EDIT	desperately	urgently	expl	매우 간절하고 절박한 마음으로 하는 모습을 나타내요.	사람 검수 수정 반영	설명 어색함
+EDIT	diaper	nappy	expl	대소변을 받아내도록 몸에 차는 천이나 일회용품이에요.	사람 검수 수정 반영	표제 뜻 반복 대신 기능 설명
+EDIT	difference	unlikeness	meaning	차이; 차이점; (큰) 영향	사람 검수 수정 반영	make a difference 의미 보완
+EDIT	difference	unlikeness	expl	서로 같지 않은 점이나 어떤 일이 가져오는 영향이에요.	사람 검수 수정 반영	make a difference 의미 보완
+EDIT	difference	unlikeness	ko2	작은 행동이 큰 변화를 가져올 수 있다.	사람 검수 수정 반영	관용 표현 번역 다듬기
+EDIT	disaster	catastrophe	meaning	재난; 참사; 완전한 실패	사람 검수 수정 반영	비유적 용례 보완
+EDIT	disaster	catastrophe	expl	큰 피해를 주는 끔찍한 일이나 완전히 실패한 일이에요.	사람 검수 수정 반영	비유적 용례 보완
+EDIT	discourage	dishearten	ko2	비싼 가격은 사람들이 그것을 사기를 꺼리게 한다.	사람 검수 수정 반영	단정적 번역 수정
+EDIT	donation	gift	expl	돈·물건·혈액 등을 대가 없이 주는 일이나 그렇게 준 것이에요.	사람 검수 수정 반영	기부 행위까지 설명
+EDIT	doze	nap	ko2	할아버지는 점심 후 의자에서 자주 졸곤 하신다.	사람 검수 수정 반영	조신다는 졸다의 바른 높임형이지만 주무신다는 자다라서 뜻이 바뀜. 졸곤 하신다로 다듬음
+EDIT	drag	pull	meaning	끌다; 질질 끌다; (시간이) 질질 이어지다	사람 검수 수정 반영	시간이 이어지다 의미 보완
+EDIT	drag	pull	expl	무거운 것을 끌거나 일·시간이 지루하게 이어질 때 써요.	사람 검수 수정 반영	시간이 이어지다 의미 보완
+EDIT	drift	float	meaning	떠다니다; 표류하다; (바람에 밀려) 쌓이다	사람 검수 수정 반영	눈이 쌓이다 의미 보완
+EDIT	drift	float	expl	물이나 바람에 실려 움직이거나 바람에 밀려 쌓일 때 써요.	사람 검수 수정 반영	눈이 쌓이다 의미 보완
+EDIT	drown	die-in-water	ko1	물에 빠져 목숨을 잃지 않도록 항상 구명조끼를 입어라.	사람 검수 수정 반영	익사 의미 번역
+EDIT	efficient	effective	syn		사람 검수 수정 반영	effective는 뜻이 다름
+EDIT	elderly	old	ko1	나이 드신 승객에게 자리를 양보해 드려라.	사람 검수 수정 반영	공손한 어조 반영 (평서체 규칙 유지)
+EDIT	enrollment	registration	meaning	입학; 등록; 등록자 수; 재학생 수	사람 검수 수정 반영	등록자 수 의미 보완
+EDIT	evaluate	assess	meaning	평가하다	사람 검수 수정 반영	꼼꼼히는 필수 의미가 아님
+EDIT	exceptionally	unusually	expl	보통 수준을 훨씬 넘어 특별히 두드러짐을 나타내요.	사람 검수 수정 반영	설명 어색함
+EDIT	executive	manager	syn		사람 검수 수정 반영	manager는 의미 범위가 다름
+EDIT	exhausted	very-tired	ko2	우리가 비축한 물이 거의 바닥났다.	사람 검수 수정 반영	supply 번역 수정
+EDIT	explanation	reason	meaning	설명; 해명; (납득할 만한) 이유	사람 검수 수정 반영	이유 의미 보완
+EDIT	exposure	being-exposed	meaning	노출; (경험으로) 접함	사람 검수 수정 반영	접함 의미 보완
+EDIT	exposure	being-exposed	expl	어떤 환경이나 영향에 놓이거나 무언가를 접하는 것이에요.	사람 검수 수정 반영	접함 의미 보완
+EDIT	extinction	dying-out	en2	Scientists study the causes of dinosaur extinction.	사람 검수 수정 반영	단정적 예문 교체
+EDIT	extinction	dying-out	ko2	과학자들은 공룡 멸종의 원인을 연구한다.	사람 검수 수정 반영	단정적 예문 교체
+EDIT	fame	being-famous	syn		사람 검수 수정 반영	reputation은 뜻이 다름
+EDIT	fantasy	imagination	syn		사람 검수 수정 반영	imagination은 뜻이 다름
+EDIT	financially	money-wise	expl	돈이나 재정과 관련된 측면을 나타내요.	사람 검수 수정 반영	설명 어색함
+EDIT	firmly	strongly	expl	흔들림 없이 강하거나 단단하게 하는 모습을 나타내요.	사람 검수 수정 반영	설명 어색함
+EDIT	flood	overflow@n	meaning	홍수; 쇄도	사람 검수 수정 반영	쇄도 의미 보완
+EDIT	flood	overflow@n	expl	물이 넘쳐 땅을 덮거나 무엇이 한꺼번에 밀려드는 것이에요.	사람 검수 수정 반영	쇄도 의미 보완
+EDIT	format	layout	expl	정보나 내용이 정리되어 있는 방식이에요.	사람 검수 수정 반영	설명 어색함
+EDIT	fortune	luck	meaning	운; 행운; 운세	사람 검수 수정 반영	점괘·운세 의미 보완
+EDIT	fortune	luck	expl	좋거나 나쁜 일이 우연히 생기는 것이나 점쳐 본 운이에요.	사람 검수 수정 반영	점괘·운세 의미 보완
+EDIT	fort	stronghold	expl	적을 막으려 튼튼히 지은 건물이나 그렇게 꾸민 공간이에요.	사람 검수 수정 반영	놀이용 요새까지 설명
+EDIT	frantically	wildly	expl	몹시 다급하거나 불안해서 정신없이 하는 모습이에요.	사람 검수 수정 반영	설명 어색함
+EDIT	given	fixed	meaning	정해진; 주어진; 특정한	사람 검수 수정 반영	특정한 의미 보완
+EDIT	given	fixed	expl	미리 정해져 있거나 어느 특정한 것을 가리켜요.	사람 검수 수정 반영	특정한 의미 보완
+EDIT	govern	rule@v	meaning	다스리다; 통치하다; (법·원칙이) 좌우하다	사람 검수 수정 반영	규제·좌우 의미 보완
+EDIT	govern	rule@v	expl	나라를 다스리거나 법·원칙이 어떤 일을 정하고 규제할 때 써요.	사람 검수 수정 반영	규제·좌우 의미 보완
+EDIT	habitually	regularly	expl	어떤 행동을 버릇처럼 반복하는 모습을 나타내요.	사람 검수 수정 반영	설명 어색함
+EDIT	hallway	corridor	expl	방과 방을 잇는 복도나 집에 들어서면 있는 현관이에요.	사람 검수 수정 반영	현관 의미까지 설명
+EDIT	heart attack	cardiac-arrest	colko	심장 발작이 오다	사람 검수 수정 반영	심정지와 혼동되지 않게 통일
+EDIT	heart attack	cardiac-arrest	ko1	삼촌은 작년에 심근 경색을 겪으셨다.	사람 검수 수정 반영	심정지와 혼동되지 않게 통일
+EDIT	heart attack	cardiac-arrest	ko2	운동은 심장 발작의 위험을 낮춘다.	사람 검수 수정 반영	심정지와 혼동되지 않게 통일
+EDIT	hire	employ	meaning	(사람을) 쓰다; 고용하다; (돈을 내고) 빌리다	사람 검수 수정 반영	빌리다 의미 보완
+EDIT	hurdle	obstacle	expl	경주에서 뛰어넘는 장애물이나 해결해야 할 어려움이에요.	사람 검수 수정 반영	실제 허들까지 설명
+EDIT	immediate	nearest	meaning	가장 가까운; 바로 인근의	사람 검수 수정 반영	직계 → 가까운
+EDIT	immediate	nearest	colko	가까운 가족	사람 검수 수정 반영	직계 → 가까운
+EDIT	immediate	nearest	ko1	가까운 가족만 결혼식에 왔다.	사람 검수 수정 반영	직계 → 가까운
+EDIT	import	imported-goods	expl	다른 나라에서 물건을 들여오는 일이나 그 물건이에요.	사람 검수 수정 반영	수입 행위까지 설명
+EDIT	in accordance with	following	expl	규칙이나 누군가의 바람을 따라 행동할 때 써요.	사람 검수 수정 반영	설명 어색함
+EDIT	in advance	beforehand	expl	어떤 일이 일어나기 전에 미리 준비하거나 행동할 때 써요.	사람 검수 수정 반영	조사 연결 어색함
+EDIT	individually	separately	expl	여럿을 한꺼번에 다루지 않고 하나씩 따로 하는 것이에요.	사람 검수 수정 반영	설명 어색함
+EDIT	inertia	inactivity	expl	멈추거나 움직이던 상태를 유지하려는 성질이나 무기력이에요.	사람 검수 수정 반영	정지 상태 유지까지 설명
+EDIT	ingredient	component	expl	음식에 들어가는 재료나 어떤 것을 이루는 요소예요.	사람 검수 수정 반영	비유적 요소까지 설명
+EDIT	intake	consumption	en2	She keeps track of her daily water intake.	사람 검수 수정 반영	개인 필요량 단정 예문 교체
+EDIT	intake	consumption	ko2	그녀는 매일 물 섭취량을 기록한다.	사람 검수 수정 반영	개인 필요량 단정 예문 교체
+EDIT	interrupt	break-in	meaning	끼어들다; 방해하다; 중단시키다	사람 검수 수정 반영	중단시키다 의미 보완
+EDIT	interrupt	break-in	expl	말이나 진행 중인 일을 도중에 끊거나 멈추게 할 때 써요.	사람 검수 수정 반영	중단시키다 의미 보완
+EDIT	irritation	annoyance	meaning	짜증; (피부 등의) 자극	사람 검수 수정 반영	염증 → 자극
+EDIT	irritation	annoyance	expl	화가 나는 감정이나 피부 등이 따갑고 자극받는 상태예요.	사람 검수 수정 반영	염증 → 자극
+EDIT	issue	give-out@v	meaning	발행하다; 발표하다; 발급하다	사람 검수 수정 반영	발급하다 의미 보완
+EDIT	ladder	climbing-steps	meaning	사다리; (출세의) 단계	사람 검수 수정 반영	비유적 단계 의미 보완
+EDIT	ladder	climbing-steps	expl	높은 곳에 오르는 도구나 지위가 오르는 단계를 말해요.	사람 검수 수정 반영	비유적 단계 의미 보완
+EDIT	logically	rationally	expl	이치와 논리에 맞추어 생각하거나 판단하는 모습이에요.	사람 검수 수정 반영	설명 어색함
+EDIT	lottery	draw	expl	복권으로 당첨자를 뽑는 제도나 무작위로 뽑는 방식이에요.	사람 검수 수정 반영	일반 추첨까지 설명
+EDIT	lung	breathing-organ	en2	Unlike humans, most fish do not breathe with lungs.	사람 검수 수정 반영	모든 물고기 단정 수정
+EDIT	lung	breathing-organ	ko2	사람과 달리 대부분의 물고기는 폐로 숨을 쉬지 않는다.	사람 검수 수정 반영	모든 물고기 단정 수정
+EDIT	management	control	meaning	경영; 관리; 경영자 측	사람 검수 수정 반영	under new management 용례 보완
+EDIT	management	control	expl	일이나 조직을 운영하는 것이나 그 일을 맡은 사람들이에요.	사람 검수 수정 반영	under new management 용례 보완
+EDIT	miserable	unhappy	meaning	비참한; 아주 불행한; (날씨가) 궂은	사람 검수 수정 반영	날씨 용례 보완
+EDIT	miserable	unhappy	expl	몹시 괴롭고 불행하거나 날씨 등이 아주 불쾌한 것이에요.	사람 검수 수정 반영	날씨 용례 보완
+EDIT	nature	natural-world@n	ko2	그녀는 자연 풍경을 사진에 담는 것을 좋아한다.	사람 검수 수정 반영	번역 어색함
+EDIT	neglect	lack-of-care@n	ko1	길고 건조한 여름 동안 돌보지 않아 정원의 식물들이 시들어 죽었다.	사람 검수 수정 반영	번역 어색함
+EDIT	obese	very-overweight	expl	건강에 영향을 줄 만큼 체지방이 지나치게 많은 것이에요.	사람 검수 수정 반영	체중이 아닌 체지방 기준 (WHO)
+EDIT	obesity	being-overweight	expl	건강에 영향을 줄 만큼 체지방이 과도하게 쌓인 상태예요.	사람 검수 수정 반영	체중이 아닌 체지방 기준 (WHO)
+EDIT	official	formal@adj	syn		사람 검수 수정 반영	formal은 일반 유의어가 아님
+EDIT	organize	arrange	meaning	조직하다; 준비하다; 정리하다	사람 검수 수정 반영	정리하다 의미 보완
+EDIT	outdated	old-fashioned	expl	시대에 뒤떨어지거나 최신 상황에 맞지 않는 것이에요.	사람 검수 수정 반영	더 이상 쓰이지 않는 → 뒤떨어진
+EDIT	passenger	traveler	syn		사람 검수 수정 반영	traveler는 더 넓은 말
+EDIT	peel	remove-skin	expl	껍질이나 겉면을 벗기거나 그것이 벗겨질 때 써요.	사람 검수 수정 반영	페인트가 벗겨지는 용례까지 설명
+EDIT	penalty	punishment	ko2	심판은 그 팀에 페널티를 선언했다.	사람 검수 수정 반영	스포츠 문맥 번역
+EDIT	poisonous	toxic	expl	먹거나 들이마시거나 닿으면 몸에 해로운 것이에요.	사람 검수 수정 반영	흡입까지 설명
+EDIT	productive	efficient	syn		사람 검수 수정 반영	efficient는 동의어로 일반화하기 어려움
+EDIT	prohibit	forbid	meaning	(법·규칙 등으로) 금지하다	사람 검수 수정 반영	법에 한정되지 않음
+EDIT	prohibit	forbid	expl	법이나 규칙 등으로 공식적으로 금지할 때 써요.	사람 검수 수정 반영	법에 한정되지 않음
+EDIT	purposely	deliberately	expl	실수가 아니라 의도를 가지고 행동할 때 써요.	사람 검수 수정 반영	설명 어색함
+EDIT	pursue	chase-goal	ko2	경찰은 거리 곳곳을 누비며 도둑을 뒤쫓았다.	사람 검수 수정 반영	번역 어색함
+EDIT	put up with	tolerate	expl	불쾌하거나 싫은 상황을 참고 견딜 때 써요.	사람 검수 수정 반영	불평 없이는 필수 조건 아님
+EDIT	quarrel	argument@n	meaning	언쟁; 말다툼	사람 검수 수정 반영	사소한 다툼에 한정되지 않음. argument(말다툼)와 대표 뜻이 겹치지 않게 언쟁을 앞에 둠
+EDIT	quarrel	argue@v	meaning	언쟁하다; 말다툼하다	사람 검수 수정 반영	사소한 일 제한 삭제. argue(말다툼하다)와 대표 뜻이 겹치지 않게 언쟁하다를 앞에 둠
+EDIT	radically	completely	expl	변화나 차이가 근본적이거나 매우 크다는 것을 나타내요.	사람 검수 수정 반영	근본적 차이 용법까지 설명
+EDIT	rating	score	expl	점수나 순위로 매긴 평가나 방송의 시청률이에요.	사람 검수 수정 반영	시청률 의미까지 설명
+EDIT	rectangular	oblong	expl	네 각이 모두 직각인 사각형 모양이에요.	사람 검수 수정 반영	가로세로 길이 조건은 잘못
+EDIT	reduction	decrease	meaning	축소; 감소; (가격) 인하	사람 검수 수정 반영	할인·인하 의미 보완
+EDIT	reflection	mirror-image	en2	The moon's reflection shone on the calm lake.	사람 검수 수정 반영	영어 예문 다듬기 (shimmered는 어휘 범위 밖이라 shone)
+EDIT	reflection	mirror-image	ko2	잔잔한 호수 위에 달의 모습이 비쳐 빛났다.	사람 검수 수정 반영	번역 다듬기
+EDIT	regardless of	despite	expl	어떤 조건이 달라져도 영향을 받지 않음을 나타내요.	사람 검수 수정 반영	조사 연결 어색함
+EDIT	register	sign-up@v	meaning	등록하다; (불만·의견 등을) 제기하다	사람 검수 수정 반영	신고하다는 모호함
+EDIT	registration	signing-up	meaning	등록; 등록증	사람 검수 수정 반영	등록증 의미 보완
+EDIT	registration	signing-up	expl	사람이나 물건을 공식적으로 등록하는 일이나 그 증서예요.	사람 검수 수정 반영	등록증 의미 보완
+EDIT	related	connected	meaning	관련된; 친척인	사람 검수 수정 반영	친척의 → 친척인
+EDIT	remind	cause-to-remember	ko2	내가 우유 사는 걸 잊지 않도록 꼭 알려 달라.	사람 검수 수정 반영	번역투 다듬기 (평서체 규칙 유지)
+EDIT	renewable	sustainable	ko1	태양 에너지와 풍력은 재생 가능한 에너지원이다.	사람 검수 수정 반영	태양열은 의미가 좁음
+EDIT	reproduce	breed	ko2	그 사진은 여러 신문에 전재되었다.	사람 검수 수정 반영	복제 → 전재
+EDIT	reproduction	breeding	meaning	번식; 복제; 복제품	사람 검수 수정 반영	복제품 의미 보완
+EDIT	reproduction	breeding	expl	생물이 새 개체를 만들거나 원본을 똑같이 만든 것이에요.	사람 검수 수정 반영	식물 번식·복제품까지 설명
+EDIT	resistant	unaffected	colko	내수성 있는; 생활 방수의	사람 검수 수정 반영	완전 방수가 아님
+EDIT	sigh	breathe-out	expl	피로·실망·안도 등으로 숨을 길게 내쉴 때 써요.	사람 검수 수정 반영	안도의 한숨까지 설명
+EDIT	skinny	very-thin	col	a skinny cat	사람 검수 수정 반영	skinny jeans는 다른 뜻
+EDIT	skinny	very-thin	colko	깡마른 고양이	사람 검수 수정 반영	skinny jeans는 다른 뜻
+EDIT	skinny	very-thin	en1	The skinny dog was waiting outside the shop.	사람 검수 수정 반영	연어와 겹치지 않게 예문 교체
+EDIT	skinny	very-thin	ko1	깡마른 개 한 마리가 가게 밖에서 기다리고 있었다.	사람 검수 수정 반영	연어와 겹치지 않게 예문 교체
+EDIT	spontaneously	naturally	expl	강요나 사전 계획 없이 스스로 또는 저절로 하는 모습이에요.	사람 검수 수정 반영	설명 어색함
+EDIT	stability	steadiness	syn	steadiness	사람 검수 수정 반영	balance는 동의어가 아님
+EDIT	status	position@n	syn		사람 검수 수정 반영	position은 범위가 다름
+EDIT	steadily	constantly	expl	속도나 정도가 크게 바뀌지 않고 꾸준히 이어지는 모습이에요.	사람 검수 수정 반영	설명 어색함
+EDIT	strain	overwork@v	meaning	무리하게 쓰다; 혹사하다; (무리해서) 다치다	사람 검수 수정 반영	다치다 의미 보완
+EDIT	strain	overwork@v	expl	몸의 일부를 너무 많이 써서 지치게 하거나 다칠 때 써요.	사람 검수 수정 반영	다치다 의미 보완
+EDIT	substance	meaning	ko2	그들이 한 논쟁의 요지는 무엇이었니?	사람 검수 수정 반영	조사 연결 어색함
+EDIT	suspicious	doubtful	meaning	수상한; 의심스러운; 의심하는	사람 검수 수정 반영	의심을 품은 의미 보완
+EDIT	suspicious	doubtful	expl	수상해 보이거나 무언가를 의심하는 마음을 품은 상태예요.	사람 검수 수정 반영	의심을 품은 의미 보완
+EDIT	tempt	attract	expl	매력적인 것을 내보여 어떤 일을 하고 싶게 만들 때 써요.	사람 검수 수정 반영	하면 안 되는 일에 한정되지 않음
+EDIT	thorn	sharp-point	col	a rose thorn	사람 검수 수정 반영	골칫거리 숙어 대신 가시 뜻 연어
+EDIT	thorn	sharp-point	colko	장미 가시	사람 검수 수정 반영	골칫거리 숙어 대신 가시 뜻 연어
+EDIT	tissue	paper	meaning	티슈	사람 검수 수정 반영	화장지 → 티슈
+EDIT	tissue	paper	colko	티슈 한 상자	사람 검수 수정 반영	화장지 → 티슈
+EDIT	tissue	paper	ko1	내가 울기 시작하자 그녀는 티슈를 건넸다.	사람 검수 수정 반영	화장지 → 티슈
+EDIT	tissue	paper	ko2	책상마다 티슈 한 상자씩을 놓아라.	사람 검수 수정 반영	화장지 → 티슈
+EDIT	tragic	very-sad	ko2	그 가족에게는 큰 비극이었다.	사람 검수 수정 반영	번역 부자연스러움
+EDIT	trap	device	expl	동물이나 사람을 잡는 장치나 빠지기 쉬운 위험이에요.	사람 검수 수정 반영	비유적 함정까지 설명
+EDIT	treatment	medical-care	meaning	치료; 치료법	사람 검수 수정 반영	치료법 의미 보완
+EDIT	treatment	medical-care	expl	병을 고치기 위한 의료 행위나 그 방법이에요.	사람 검수 수정 반영	치료법 의미 보완
+EDIT	tremble	shake	expl	몸이나 물체가 작고 빠르게 떨리거나 흔들릴 때 써요.	사람 검수 수정 반영	땅이 흔들리는 용례까지 설명
+EDIT	upside down	inverted	meaning	거꾸로; 뒤집혀; (삶·상황이) 완전히 뒤바뀌어	사람 검수 수정 반영	비유적 용법 보완
+EDIT	upside down	inverted	expl	위아래가 바뀌거나 삶·상황이 완전히 뒤바뀐 상태예요.	사람 검수 수정 반영	비유적 용법 보완
+EDIT	useless	worthless	meaning	쓸모없는; 소용없는; 헛된	사람 검수 수정 반영	소용없는 의미 보완
+EDIT	venture	risky-project	meaning	모험적 사업; (위험한) 모험	사람 검수 수정 반영	사업에 한정되지 않음
+EDIT	venture	risky-project	expl	위험이 따르는 새로운 사업이나 시도예요.	사람 검수 수정 반영	사업에 한정되지 않음
+EDIT	version	side-of-story	colko	네가 설명하는 사건 경위	사람 검수 수정 반영	기억에 초점을 더한 번역 수정
+EDIT	vice versa	the-other-way	ko2	나는 남자 형제를 돕고 그도 나를 돕는다.	사람 검수 수정 반영	brother를 형으로 단정하지 않음
+EDIT	wander	roam	meaning	돌아다니다; 헤매다; (생각이) 딴 데로 흐르다	사람 검수 수정 반영	생각이 흐르다 의미 보완
+EDIT	wander	roam	expl	목적 없이 걸어 다니거나 생각이 딴 데로 흐를 때 써요.	사람 검수 수정 반영	생각이 흐르다 의미 보완
+EDIT	wander	roam	ko2	긴 강의 동안 나는 딴생각을 했다.	사람 검수 수정 반영	번역 다듬기
+EDIT	welfare	well-being	meaning	복지; 안녕; 행복	사람 검수 수정 반영	뜻 넓히기
+EDIT	welfare	well-being	ko2	부모는 자녀의 안녕을 걱정한다.	사람 검수 수정 반영	번역 다듬기

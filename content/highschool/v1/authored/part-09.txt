@@ -66,7 +66,7 @@ shade|n|shadowy-area|그늘|햇빛이 가려진 시원한 곳이에요.|in the s
 shade|n|tone-of-color|음영; 색조|같은 색의 짙고 옅은 정도예요.|a shade of blue|푸른 색조|The room is painted in a light shade of green.|그 방은 연한 초록빛으로 칠해져 있다.|Leaves turn many shades of red in autumn.|가을에 나뭇잎은 여러 빛깔의 붉은색으로 변한다.|tone
 burst|v|explode|터지다; 갑자기 ~하다|갑자기 터지거나 감정이 터져 나올 때 써요.|burst into tears|울음을 터뜨리다|The balloon burst with a loud pop.|풍선이 큰 소리를 내며 터졌다.|She burst into tears when she heard the news.|그녀는 그 소식을 듣고 울음을 터뜨렸다.|explode
 inform|v|tell|알리다; 통지하다|정보나 소식을 공식적으로 전할 때 써요.|inform A of B|A에게 B를 알리다|Please inform us of any changes.|변경 사항이 있으면 우리에게 알려 달라.|The school informed parents about the new schedule.|학교는 학부모에게 새 일정을 알렸다.|tell
-blank|adj|empty|빈; 공백의|아무것도 쓰여 있지 않은 것이에요.|a blank page|빈 쪽|Write your answer in the blank space.|빈칸에 답을 써라.|My mind went blank during the test.|시험 중에 머릿속이 하얘졌다.|empty
+blank|adj|empty|빈; 공백의; (머릿속이) 텅 빈|아무것도 쓰여 있지 않거나 아무 생각이 나지 않는 상태예요.|a blank page|빈 페이지|Write your answer in the blank space.|빈칸에 답을 써라.|My mind went blank during the test.|시험 중에 머릿속이 하얘졌다.|empty
 blank|n|empty-space|빈칸|채워 넣어야 하는 비어 있는 곳이에요.|fill in the blanks|빈칸을 채우다|Fill in the blanks with the correct words.|알맞은 단어로 빈칸을 채워라.|There are five blanks in this sentence.|이 문장에는 빈칸이 다섯 개 있다.
 lean|v|incline|기대다; 기울다|몸을 굽히거나 무엇에 몸을 댈 때 써요.|lean against|~에 기대다|He leaned against the wall and closed his eyes.|그는 벽에 기대어 눈을 감았다.|The old tower leans to one side.|그 오래된 탑은 한쪽으로 기울어 있다.
 lean|adj|thin|군살 없는; 기름기 없는|살이 없고 마른 것이에요.|lean meat|기름기 없는 고기|Choose lean meat for a healthy diet.|건강한 식단을 위해 기름기 없는 고기를 골라라.|The runner has a lean and strong body.|그 달리기 선수는 군살 없이 튼튼한 몸을 가졌다.|thin

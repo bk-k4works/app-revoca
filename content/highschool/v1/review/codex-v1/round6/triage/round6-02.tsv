@@ -1,0 +1,31 @@
+EDIT	donation	gift	en2	Blood donations save many lives every year.	Codex fix 수용	5단어로 최소 6단어 규칙에 미달한다.
+EDIT	donation	gift	ko2	헌혈은 매년 많은 생명을 구한다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	firmly	strongly	en2	Hold the rope firmly with both hands.	Codex fix 수용	4단어로 최소 6단어 규칙에 미달한다.
+EDIT	firmly	strongly	ko2	밧줄을 두 손으로 단단히 잡아라.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	decay	rot	col	decay slowly	Codex fix 수용	'tooth decay'의 decay는 명사이므로 동사 카드의 용법을 보여 주지 못한다.
+EDIT	decay	rot	colko	서서히 썩다	Codex fix 수용	연어 교체에 맞춘 번역
+EDIT	drown	die-in-water	expl	물에 빠져 죽거나 큰 소리로 다른 소리를 묻히게 할 때 써요.	Codex minor 수용	익사한다는 뜻과 다른 소리를 묻히게 한다는 뜻을 더 명확하게 풀어 쓰면 좋다.
+EDIT	resistant	unaffected	meaning	저항력 있는; ~에 강한; (변화 등에) 저항하는	Codex fix 수용	예문2는 변화를 받아들이려 하지 않는다는 뜻이다. '저항력 있는; ~에 강한'만으로는 이 용법을 설명하지 못한다.
+EDIT	resistant	unaffected	expl	외부 영향을 잘 견디거나 변화를 받아들이지 않으려는 성질이에요.	Codex fix 수용	현재 설명에는 예문2의 변화에 대한 거부감이나 반대의 뜻이 빠져 있다.
+EDIT	enrollment	registration	expl	학교나 강좌에 등록하는 일이나 등록한 사람 수예요.	Codex minor 수용	'등록한 수'보다 등록한 사람의 수라고 명시하는 편이 자연스럽고 정확하다.
+EDIT	individually	separately	en2	The cookies in this box are wrapped individually.	Codex fix 수용	5단어로 최소 6단어 규칙에 미달한다.
+EDIT	individually	separately	ko2	이 상자에 든 쿠키들은 하나씩 포장되어 있다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	steadily	constantly	en1	Her English has improved steadily this year.	Codex fix 수용	5단어로 최소 6단어 규칙에 미달한다.
+EDIT	steadily	constantly	ko1	올해 그녀의 영어 실력은 꾸준히 늘었다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	drift	float	en2	Snow drifted against the door all night.	Codex fix 수용	5단어로 최소 6단어 규칙에 미달한다.
+EDIT	drift	float	ko2	밤새 눈이 바람에 날려 문 앞에 쌓였다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	reproduction	breeding	ko1	벌은 식물이 번식하는 데 한몫을 한다.	Codex minor 수용	'번식에 역할을 한다'는 결합이 어색하다.
+EDIT	extinction	dying-out	en1	Many animal species are facing extinction.	Codex fix 수용	5단어로 최소 6단어 규칙에 미달한다.
+EDIT	extinction	dying-out	ko1	많은 동물 종이 멸종에 직면해 있다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	backward	toward-the-back	en1	He slowly took a step backward.	Codex fix 수용	5단어로 최소 6단어 규칙에 미달한다.
+EDIT	backward	toward-the-back	ko1	그는 천천히 한 걸음 뒤로 물러섰다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	outdated	old-fashioned	colko	최신이 아닌 정보	Codex fix 일부 수용	'오래된 정보'만으로는 현재 상황에 맞지 않는다는 의미가 충분히 전달되지 않는다.
+EDIT	outdated	old-fashioned	en1	This map is outdated and needs replacing.	Codex fix 수용	4단어로 최소 6단어 규칙에 미달한다.
+EDIT	outdated	old-fashioned	ko1	이 지도는 최신 정보를 반영하지 못해 교체해야 한다.	Codex fix 일부 수용	'outdated'는 단순히 오래되었다는 뜻이 아니라 최신 상황을 반영하지 못한다는 뜻이다.
+EDIT	outdated	old-fashioned	en2	Some school rules are outdated and need revision.	Codex fix 수용	5단어로 최소 6단어 규칙에 미달한다.
+EDIT	outdated	old-fashioned	ko2	일부 교칙은 시대에 뒤떨어져 개정이 필요하다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	rectangular	oblong	en2	A soccer field is rectangular in shape.	Codex fix 수용	5단어로 최소 6단어 규칙에 미달한다.
+EDIT	rectangular	oblong	ko2	축구장은 직사각형 모양이다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	poisonous	toxic	en2	The factory released poisonous gas into the surrounding air.	Codex minor 수용	공장 주변의 공기를 가리킬 때 'the nearby air'보다 'the surrounding air'가 자연스럽다.
+EDIT	poisonous	toxic	ko2	그 공장은 주변 대기에 유독 가스를 배출했다.	Codex minor 수용	예문 교체에 맞춘 번역
+EDIT	thorn	sharp-point	meaning	(식물 줄기의) 가시	Codex fix 수용	'가시'만 제시하면 생선 가시나 동물의 가시와도 구분되지 않아 철자 문제의 단서가 모호하다.

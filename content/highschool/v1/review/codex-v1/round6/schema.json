@@ -1,0 +1,46 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["items", "missingSenses"],
+  "properties": {
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["senseKey", "inputHash", "verdict", "issues"],
+        "properties": {
+          "senseKey": {"type": "string"},
+          "inputHash": {"type": "string"},
+          "verdict": {"type": "string", "enum": ["ok", "minor", "fix", "reject"]},
+          "issues": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": ["field", "problem", "suggestion"],
+              "properties": {
+                "field": {"type": "string", "enum": ["meaning", "explanation", "collocation", "collocationKo", "en1", "ko1", "en2", "ko2", "synonyms", "sense"]},
+                "problem": {"type": "string"},
+                "suggestion": {"type": "string"}
+              }
+            }
+          }
+        }
+      }
+    },
+    "missingSenses": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["headword", "reason", "suggestion"],
+        "properties": {
+          "headword": {"type": "string"},
+          "reason": {"type": "string"},
+          "suggestion": {"type": "string"}
+        }
+      }
+    }
+  }
+}

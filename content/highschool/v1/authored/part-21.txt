@@ -1,7 +1,7 @@
 # 고교 핵심 671–740위. 표제어 목록만 참고하여 독자 작성.
 withdraw|v|take-out|(돈을) 인출하다|은행 계좌에서 돈을 꺼낼 때 써요.|withdraw money|돈을 인출하다|I withdrew some cash from the ATM.|나는 현금 인출기에서 현금을 조금 뽑았다.|You can withdraw money at any branch.|어느 지점에서나 돈을 찾을 수 있다.
 withdraw|v|pull-back|철수하다; 물러나다|빠지거나 그만두고 물러날 때 써요.|withdraw from|~에서 물러나다|The player withdrew from the race because of an injury.|그 선수는 부상 때문에 경주에서 기권했다.|The army withdrew its troops from the city.|군대는 그 도시에서 병력을 철수했다.|retreat
-aging|n|growing-old|노화; 고령화|나이가 들어 가는 것이에요.|an aging society|고령화 사회|Exercise can slow down aging.|운동은 노화를 늦출 수 있다.|Korea is facing the problem of an aging society.|한국은 고령화 사회 문제에 직면해 있다.
+aging|n|growing-old|노화; 고령화|나이가 들어 가는 것이에요.|the aging of the population|인구의 고령화|Exercise can slow the process of aging.|운동은 노화 과정을 늦출 수 있다.|The aging of the population is changing Korean society.|인구 고령화가 한국 사회를 바꾸고 있다.
 enhance|v|improve|(질·가치를) 높이다; 향상시키다|질이나 가치를 더 좋게 할 때 써요.|enhance quality|질을 높이다|Good lighting can enhance the look of a room.|좋은 조명은 방의 분위기를 돋보이게 한다.|The course will enhance your writing skills.|그 강좌는 네 글쓰기 실력을 향상시킬 것이다.|improve
 flavor|n|taste|맛; 풍미|음식에서 느껴지는 맛이에요.|a strong flavor|강한 맛|This ice cream comes in ten flavors.|이 아이스크림은 열 가지 맛이 있다.|Add some lemon to improve the flavor.|맛을 좋게 하려면 레몬을 조금 넣어라.|taste
 ignorance|n|lack-of-knowledge|무지; 모름|알아야 할 것을 모르는 상태예요.|out of ignorance|몰라서|His mistake was caused by ignorance, not bad intentions.|그의 실수는 나쁜 의도가 아니라 무지 때문이었다.|Ignorance of the law is no excuse.|법을 몰랐다는 것은 변명이 되지 않는다.
@@ -19,7 +19,7 @@ eager|adj|keen|열망하는; 간절히 바라는|무엇을 몹시 하고 싶어 
 essence|n|core|본질; 핵심|가장 중요한 성질이에요.|in essence|본질적으로|The essence of friendship is trust.|우정의 본질은 신뢰이다.|In essence, the two plans are the same.|본질적으로 두 계획은 같다.|core
 junk|n|rubbish|잡동사니; 쓰레기|쓸모없는 물건이에요.|junk food|정크 푸드|The garage is full of old junk.|차고는 오래된 잡동사니로 가득하다.|Try to eat less junk food.|정크 푸드를 덜 먹도록 해라.|trash
 kidney|n|organ|신장; 콩팥|피를 걸러 소변을 만드는 몸속 기관이에요.|kidney disease|신장 질환|Humans have two kidneys that filter waste from the blood.|사람에게는 혈액의 노폐물을 걸러 주는 신장이 두 개 있다.|Drinking enough water is good for your kidneys.|물을 충분히 마시는 것은 신장에 좋다.
-ladder|n|climbing-steps|사다리|높은 곳에 오르는 도구예요.|climb a ladder|사다리를 오르다|He climbed the ladder to fix the roof.|그는 지붕을 고치려고 사다리를 올라갔다.|She worked her way up the career ladder.|그녀는 경력의 사다리를 한 단계씩 올라갔다.
+ladder|n|climbing-steps|사다리; (출세의) 단계|높은 곳에 오르는 도구나 지위가 오르는 단계를 말해요.|climb a ladder|사다리를 오르다|He climbed the ladder to fix the roof.|그는 지붕을 고치려고 사다리를 올라갔다.|She worked her way up the career ladder.|그녀는 경력의 사다리를 한 단계씩 올라갔다.
 modest|adj|humble|소박한; (수입·규모가) 많지 않은; 겸손한|자신을 내세우지 않거나 규모가 크지 않고 소박한 것이에요.|a modest income|많지 않은 수입|She is very modest about her success.|그녀는 자신의 성공에 대해 매우 겸손하다.|They live in a modest house.|그들은 소박한 집에 산다.|humble
 orbit|n|path|궤도|천체가 다른 천체 주위를 도는 길이에요.|in orbit|궤도에 있는|The satellite is now in orbit around the earth.|그 위성은 현재 지구 궤도를 돌고 있다.|The moon's orbit takes about a month.|달이 궤도를 한 바퀴 도는 데 약 한 달이 걸린다.
 orbit|v|circle|궤도를 돌다|천체 주위를 빙빙 돌 때 써요.|orbit the earth|지구 주위를 돌다|The earth orbits the sun once every year.|지구는 1년에 한 번 태양 주위를 돈다.|Many satellites orbit our planet and collect weather data.|많은 위성이 우리 행성 주위를 돌며 기상 자료를 수집한다.|circle
@@ -36,7 +36,7 @@ abandon|v|leave|버리다; 포기하다|돌보지 않고 떠나거나 그만둘 
 accordingly|adv|appropriately|그에 맞게; 따라서|상황에 맞추거나 그 결과에 따라 행동하는 것을 뜻해요.|act accordingly|그에 맞게 행동하다|The weather will change, so dress accordingly.|날씨가 바뀔 테니 그에 맞게 옷을 입어라.|He was late; accordingly, he missed the bus.|그는 늦었고 따라서 버스를 놓쳤다.
 aesthetic|adj|artistic|미적인; 심미적인|아름다움과 관련된 것이에요.|aesthetic value|미적 가치|The building has great aesthetic value.|그 건물은 미적 가치가 크다.|She chose the colors for aesthetic reasons.|그녀는 미적인 이유로 그 색들을 골랐다.
 complexity|n|complication|복잡성|여러 부분이 얽혀 어려운 정도예요.|the complexity of|~의 복잡성|The complexity of the problem surprised everyone.|그 문제의 복잡성에 모두가 놀랐다.|Scientists study the complexity of the human brain.|과학자들은 인간 뇌의 복잡성을 연구한다.
-convenience|n|ease|편리함; 편의|쓰기 쉽고 편한 것이에요.|for convenience|편의를 위해|Online shopping offers great convenience to people with busy schedules.|온라인 쇼핑은 바쁜 사람들에게 큰 편의를 제공한다.|For convenience, we booked our tickets online.|편의를 위해 우리는 표를 온라인으로 예매했다.
+convenience|n|ease|편리함; 편의|쓰기 쉽고 편한 것이에요.|for convenience|편의를 위해|Online shopping offers great convenience to people with busy schedules.|온라인 쇼핑은 바쁜 사람들에게 큰 편리함을 준다.|For convenience, we booked our tickets online.|편의를 위해 우리는 표를 온라인으로 예매했다.
 dignity|n|self-respect|존엄성; 위엄|사람으로서 존중받을 가치나 품위예요.|human dignity|인간의 존엄성|Every person should be treated with dignity.|모든 사람은 존엄하게 대우받아야 한다.|She accepted her defeat with dignity.|그녀는 품위 있게 패배를 받아들였다.|respect
 enthusiasm|n|eagerness|열정; 열의|무엇을 아주 좋아하고 열심히 하려는 마음이에요.|with enthusiasm|열정적으로|The students welcomed the idea with enthusiasm.|학생들은 그 생각을 열렬히 환영했다.|His enthusiasm for science is impressive.|과학에 대한 그의 열정은 인상적이다.|passion
 equation|n|math-statement|방정식; 등식|두 식이 같음을 나타내는 수학식이에요.|solve an equation|방정식을 풀다|Can you solve this equation before the class ends?|수업이 끝나기 전에 이 방정식을 풀 수 있니?|Use the equation to calculate the distance between the two cities.|두 도시 사이의 거리를 계산하는 데 그 방정식을 사용해라.
@@ -49,7 +49,7 @@ slam|v|shut-hard|쾅 닫다; 탁 내려놓다|문 따위를 세게 닫거나 놓
 width|n|breadth|폭; 너비|옆으로 잰 길이예요.|in width|폭이|The road is ten meters in width.|그 도로는 폭이 10미터이다.|Measure the width of the window.|창문의 너비를 재라.|breadth
 creativity|n|imagination|창의성; 창의력|새로운 것을 생각해 내는 능력이에요.|encourage creativity|창의성을 북돋우다|Art classes help develop creativity.|미술 수업은 창의력을 기르는 데 도움이 된다.|Children show great creativity when they play.|아이들은 놀 때 대단한 창의력을 보여 준다.|imagination
 delicate|adj|fragile|섬세한; 연약한; 미묘한|쉽게 손상되거나 미묘해서 조심히 다뤄야 하는 것이에요.|a delicate matter|미묘한 문제|Be careful with that delicate glass.|그 깨지기 쉬운 유리컵을 조심해라.|This is a delicate situation that requires careful discussion.|이것은 신중한 논의가 필요한 미묘한 상황이다.|fragile
-evaluate|v|assess|(꼼꼼히) 평가하다|가치나 결과를 판단할 때 써요.|evaluate performance|성과를 평가하다|Teachers evaluate students' progress every term.|교사들은 매 학기 학생들의 발전 정도를 평가한다.|We need to evaluate the results carefully.|우리는 결과를 신중하게 평가해야 한다.|assess
+evaluate|v|assess|평가하다|가치나 결과를 판단할 때 써요.|evaluate performance|성과를 평가하다|Teachers evaluate students' progress every term.|교사들은 매 학기 학생들의 발전 정도를 평가한다.|We need to evaluate the results carefully.|우리는 결과를 신중하게 평가해야 한다.|assess
 insert|v|put-in|넣다; 삽입하다|안으로 끼워 넣을 때 써요.|insert a coin|동전을 넣다|Insert your card into the machine.|기계에 카드를 넣어라.|Please insert a picture into your report.|보고서에 그림을 넣어라.
 relaxed|adj|calm|편안한; 느긋한|긴장하지 않고 마음이 편한 것이에요.|feel relaxed|편안하다|I feel relaxed after a hot bath.|따뜻한 목욕을 하고 나니 마음이 편안하다.|The cafe has a relaxed atmosphere.|그 카페는 편안한 분위기이다.|calm
 sympathy|n|compassion|동정; 공감|다른 사람의 슬픔을 함께 느끼는 마음이에요.|feel sympathy for|~을 동정하다|I feel great sympathy for the victims.|나는 피해자들을 깊이 동정한다.|She showed no sympathy for his problem.|그녀는 그의 문제에 아무런 동정심도 보이지 않았다.|compassion
@@ -58,10 +58,10 @@ acute|adj|severe|급성의; 극심한|아주 심하거나 갑자기 시작된 �
 acute|adj|sharp|예리한; 예민한|감각이나 생각이 날카로운 것이에요.|an acute sense of smell|예민한 후각|Dogs have an acute sense of smell.|개는 후각이 예민하다.|She has an acute mind.|그녀는 예리한 지성을 지녔다.|sharp
 behave|v|act|행동하다; 예의 바르게 굴다|어떤 방식으로 행동하거나 얌전히 굴 때 써요.|behave well|예의 바르게 행동하다|The children behaved well at the restaurant.|아이들은 식당에서 얌전하게 행동했다.|He behaves strangely when he is nervous.|그는 긴장하면 이상하게 행동한다.|act
 distinctive|adj|unique|뚜렷이 구별되는; 독특한|다른 것과 쉽게 구별되는 것이에요.|a distinctive style|독특한 스타일|The singer has a distinctive voice.|그 가수는 독특한 목소리를 가졌다.|The bird has distinctive red feathers.|그 새는 특유의 빨간 깃털이 있다.|unique
-donation|n|gift|기부; 기증|대가 없이 주는 돈이나 물건이에요.|make a donation|기부하다|She made a donation to the children's hospital.|그녀는 어린이 병원에 기부했다.|Blood donations save many lives.|헌혈은 많은 생명을 구한다.|contribution
-firmly|adv|strongly|단호하게; 단단히|흔들림 없이 강하게를 뜻해요.|firmly believe|굳게 믿다|I firmly believe that hard work pays off.|나는 노력이 보답받는다고 굳게 믿는다.|Hold the rope firmly.|밧줄을 단단히 잡아라.
+donation|n|gift|기부; 기증|돈·물건·혈액 등을 대가 없이 주는 일이나 그렇게 준 것이에요.|make a donation|기부하다|She made a donation to the children's hospital.|그녀는 어린이 병원에 기부했다.|Blood donations save many lives every year.|헌혈은 매년 많은 생명을 구한다.|contribution
+firmly|adv|strongly|단호하게; 단단히|흔들림 없이 강하거나 단단하게 하는 모습을 나타내요.|firmly believe|굳게 믿다|I firmly believe that hard work pays off.|나는 노력이 보답받는다고 굳게 믿는다.|Hold the rope firmly with both hands.|밧줄을 두 손으로 단단히 잡아라.
 inspire|v|motivate|영감을 주다; 고무하다|좋은 생각이나 의욕이 생기게 할 때 써요.|inspire someone to|~가 ~하도록 고무하다|Her story inspired me to study harder.|그녀의 이야기는 내가 더 열심히 공부하도록 동기를 주었다.|The painting was inspired by the sea.|그 그림은 바다에서 영감을 얻어 그려졌다.|motivate
-lottery|n|draw|복권; 추첨|번호를 뽑아 상금을 주는 제도예요.|win the lottery|복권에 당첨되다|He dreams of winning the lottery.|그는 복권에 당첨되는 꿈을 꾼다.|Tickets were given out by lottery.|표는 추첨으로 나누어 주었다.
+lottery|n|draw|복권; 추첨|복권으로 당첨자를 뽑는 제도나 무작위로 뽑는 방식이에요.|win the lottery|복권에 당첨되다|He dreams of winning the lottery.|그는 복권에 당첨되는 꿈을 꾼다.|Tickets were given out by lottery.|표는 추첨으로 나누어 주었다.
 outlet|n|shop-or-socket|직판점; 콘센트|싸게 파는 가게나 전기를 꽂는 곳이에요.|an electrical outlet|전기 콘센트|Plug the charger into the outlet.|충전기를 콘센트에 꽂아라.|We bought shoes at an outlet store.|우리는 아웃렛 매장에서 신발을 샀다.
 outlet|n|means-of-release|배출구; 표현 수단|감정이나 에너지를 풀 수 있는 방법이에요.|an outlet for|~의 배출구|Sports are a good outlet for stress.|운동은 스트레스를 푸는 좋은 방법이다.|Writing is an outlet for her feelings.|글쓰기는 그녀의 감정 표현 수단이다.
 infant|n|baby|유아; 아기|아주 어린 아이예요.|infant care|유아 보육|The nurse took care of the newborn infant.|간호사가 갓 태어난 아기를 돌보았다.|Infants need a lot of sleep.|아기는 잠을 많이 자야 한다.|baby
@@ -70,11 +70,11 @@ insult|n|offense|모욕|기분을 상하게 하는 무례한 말이나 행동이
 spark|n|tiny-fire|불꽃; 계기|작은 불티나 무엇이 시작되는 계기예요.|a spark of|~의 불씨|A spark from the fire landed on the carpet.|불에서 튄 불꽃이 카펫에 떨어졌다.|Her speech was the spark that started the movement.|그녀의 연설이 그 운동을 시작하게 한 계기였다.
 spark|v|trigger|촉발하다; 불러일으키다|어떤 일이 일어나게 할 때 써요.|spark interest|관심을 불러일으키다|The news sparked a heated debate.|그 소식은 열띤 논쟁을 촉발했다.|The trip sparked her interest in history.|그 여행이 그녀에게 역사에 대한 관심을 불러일으켰다.|trigger
 steep|adj|sharply-sloped|가파른; 급격한|경사가 심하거나 변화가 큰 것이에요.|a steep hill|가파른 언덕|We climbed a steep hill to reach the temple.|우리는 사원에 가려고 가파른 언덕을 올랐다.|The cost of housing has seen a steep increase this year.|올해 주거비가 급격히 상승했다.
-absent|adj|not-present|결석한; 없는|학교나 모임에 나오지 않은 상태예요.|be absent from|~에 결석하다|She was absent from school because of a cold.|그녀는 감기 때문에 학교에 결석했다.|Fear was absent from his face.|그의 얼굴에는 두려움이 없었다.
+absent|adj|not-present|결석한; 없는|자리에 나오지 않았거나 어떤 것이 존재하지 않는 상태예요.|be absent from|~에 결석하다|She was absent from school because of a cold.|그녀는 감기 때문에 학교에 결석했다.|Fear was absent from his face.|그의 얼굴에는 두려움이 없었다.
 colleague|n|coworker|동료|같은 곳에서 함께 일하는 사람이에요.|a close colleague|가까운 동료|My mother had lunch with her colleagues.|어머니는 동료들과 점심을 드셨다.|He discussed the problem with a colleague.|그는 동료와 그 문제를 의논했다.|coworker
 dense|adj|thick|빽빽한; 짙은|사이가 촘촘하거나 농도가 높은 것이에요.|a dense forest|울창한 숲|We got lost in the dense forest.|우리는 울창한 숲에서 길을 잃었다.|A dense fog covered the city.|짙은 안개가 도시를 뒤덮었다.|thick
 habitat|n|home-environment|서식지|동식물이 자연스럽게 사는 곳이에요.|natural habitat|자연 서식지|Many animals are losing their habitats.|많은 동물이 서식지를 잃고 있다.|The zoo recreates the natural habitat of each animal.|그 동물원은 동물마다 자연 서식지를 재현한다.
 needle|n|sewing-tool|바늘; 주삿바늘|바느질하거나 주사를 놓는 가늘고 뾰족한 도구예요.|a needle and thread|바늘과 실|Can you put the thread through the needle for me?|바늘에 실을 꿰어 줄 수 있니?|Some people are afraid of needles.|어떤 사람들은 주삿바늘을 무서워한다.
-organize|v|arrange|조직하다; 준비하다|행사를 계획하거나 물건을 정리할 때 써요.|organize an event|행사를 준비하다|The students organized a charity concert.|학생들은 자선 음악회를 준비했다.|I need to organize my desk.|나는 책상을 정리해야 한다.|arrange
+organize|v|arrange|조직하다; 준비하다; 정리하다|행사를 계획하거나 물건을 정리할 때 써요.|organize an event|행사를 준비하다|The students organized a charity concert.|학생들은 자선 음악회를 준비했다.|I need to organize my desk.|나는 책상을 정리해야 한다.|arrange
 grasp|v|grip|파악하다; 꽉 잡다|단단히 쥐거나 의미를 이해할 때 써요.|grasp an idea|생각을 이해하다|She grasped my hand tightly before crossing the busy street.|그녀는 붐비는 길을 건너기 전에 내 손을 꽉 잡았다.|Some students could not grasp the main idea.|몇몇 학생은 요점을 이해하지 못했다.|grip
 grasp|n|understanding|파악; 움켜쥠|무엇을 이해하는 정도나 손으로 잡는 것이에요.|a good grasp of|~을 잘 이해함|She has a good grasp of grammar.|그녀는 문법을 잘 이해하고 있다.|The rope slipped from his grasp.|밧줄이 그의 손에서 미끄러져 빠졌다.|understanding

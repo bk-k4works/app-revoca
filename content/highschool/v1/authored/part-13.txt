@@ -33,7 +33,7 @@ editor|n|person-who-edits|편집자|글이나 책, 신문을 다듬어 펴내는
 opposite|adj|facing|맞은편의; 정반대의|마주 보고 있거나 완전히 다른 것이에요.|the opposite side|반대편|The bank is on the opposite side of the street.|은행은 길 맞은편에 있다.|They walked in opposite directions.|그들은 정반대 방향으로 걸어갔다.
 opposite|n|contrary|반대(되는 것)|완전히 다른 것이에요.|the opposite of|~의 반대|Hot is the opposite of cold.|'뜨거운'은 '차가운'의 반대말이다.|She is quiet, but her sister is the opposite.|그녀는 조용하지만 언니는 정반대이다.
 combination|n|mix|조합; 결합|여러 가지를 합친 것이에요.|a combination of|~의 조합|Success is a combination of talent and hard work.|성공은 재능과 노력의 조합이다.|The color is a combination of blue and green.|그 색은 파랑과 초록을 섞은 것이다.|mix
-conservative|adj|traditional|보수적인|전통을 중시하거나 변화에 신중한 태도·스타일을 말해요.|conservative views|보수적인 견해|My grandparents have very conservative ideas.|우리 조부모님은 생각이 매우 보수적이시다.|He wore a conservative black suit.|그는 수수한 검은 정장을 입었다.|traditional
+conservative|adj|traditional|보수적인; (옷차림이) 수수한|전통을 중시하거나 변화에 신중하고 튀지 않는 것이에요.|conservative views|보수적인 견해|My grandparents have very conservative ideas.|우리 조부모님은 생각이 매우 보수적이시다.|He wore a conservative black suit.|그는 수수한 검은 정장을 입었다.|traditional
 essential|adj|necessary|필수적인; 매우 중요한|꼭 있어야 하는 것이에요.|essential for|~에 필수적인|Water is essential for life.|물은 생명에 필수적이다.|Good sleep is essential for learning.|숙면은 학습에 매우 중요하다.|necessary
 guilty|adj|ashamed|죄책감이 드는|잘못을 해서 마음이 불편한 것이에요.|feel guilty|죄책감을 느끼다|I felt guilty about lying to my mother.|나는 엄마에게 거짓말한 것에 죄책감을 느꼈다.|She feels guilty for not calling her friend.|그녀는 친구에게 전화하지 않은 것에 죄책감을 느낀다.
 guilty|adj|responsible-for-crime|유죄의|법적으로 죄를 지은 것이에요.|be found guilty|유죄 판결을 받다|The man was found guilty of stealing.|그 남자는 절도죄로 유죄 판결을 받았다.|The court decided she was not guilty.|법원은 그녀가 무죄라고 판결했다.

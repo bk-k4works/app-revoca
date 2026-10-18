@@ -61,7 +61,7 @@ surround|v|encircle|둘러싸다|주위를 빙 둘러 감쌀 때 써요.|be surr
 faint|v|pass-out|기절하다|잠깐 정신을 잃고 쓰러질 때 써요.|faint from heat|더위로 기절하다|She fainted because of the heat.|그녀는 더위 때문에 기절했다.|He almost fainted when he heard the news.|그는 그 소식을 듣고 거의 기절할 뻔했다.
 faint|adj|weak|희미한; 약한|소리·빛·가능성이 아주 약한 것이에요.|a faint sound|희미한 소리|I heard a faint sound from the next room.|옆방에서 희미한 소리가 들렸다.|There is only a faint hope of finding the ring.|반지를 찾을 희망은 희박하다.|weak
 crawl|v|creep|기어가다; 느릿느릿 움직이다|몸을 낮춰 기어가거나 차량 등이 아주 느리게 움직일 때 써요.|crawl on the floor|바닥을 기어가다|The baby is learning to crawl.|아기는 기는 법을 배우고 있다.|Traffic crawled along the highway.|차들이 고속도로를 따라 거북이걸음을 했다.|creep
-attach|v|fasten|첨부하다; 붙이다|무엇에 연결하거나 파일을 덧붙일 때 써요.|attach a file|파일을 첨부하다|Please attach a photo to your application.|지원서에 사진을 붙여라.|I attached the report to my email.|나는 이메일에 보고서를 첨부했다.|fix
+attach|v|fasten|첨부하다; 붙이다|무엇에 연결하거나 파일을 덧붙일 때 써요.|attach a file|파일을 첨부하다|Please attach a photo to your application.|지원서에 사진을 첨부해라.|I attached the report to my email.|나는 이메일에 보고서를 첨부했다.|fix
 attach|v|feel-close|애착을 갖다|be attached to로 정이 들었을 때 써요.|be attached to|~에 애착을 갖다|The child is very attached to her teddy bear.|그 아이는 곰 인형에 무척 애착을 가지고 있다.|We became attached to the old house.|우리는 그 오래된 집에 정이 들었다.
 tray|n|flat-carrier|쟁반|음식이나 물건을 나르는 납작한 판이에요.|a tea tray|찻쟁반|She carried the drinks on a tray.|그녀는 음료를 쟁반에 담아 날랐다.|Put your tray back after lunch.|점심을 먹은 뒤 쟁반을 제자리에 갖다 놓아라.
 whisper|v|speak-softly|속삭이다|아주 작은 목소리로 말할 때 써요.|whisper to|~에게 속삭이다|She whispered the answer to her friend.|그녀는 친구에게 답을 속삭였다.|Please whisper in the library.|도서관에서는 작게 말해라.
@@ -70,12 +70,12 @@ greet|v|welcome|맞이하다; 인사하다|만났을 때 반갑게 인사할 때
 accuse|v|blame|고발하다; 비난하다|accuse A of B로 잘못을 했다고 말할 때 써요.|accuse A of B|A를 B로 고발하다|He was accused of stealing the money.|그는 돈을 훔쳤다는 혐의를 받았다.|She accused me of lying.|그녀는 내가 거짓말을 한다고 비난했다.|blame
 emphasize|v|stress|힘주어 말하다; 강조하다|특히 중요하다고 힘주어 말할 때 써요.|emphasize the importance|중요성을 강조하다|The teacher emphasized the need for daily practice.|선생님은 매일 연습해야 할 필요성을 강조하셨다.|The report emphasizes the role of parents.|그 보고서는 부모의 역할을 강조한다.|stress
 disappoint|v|let-down|실망시키다|기대에 못 미쳐 서운하게 할 때 써요.|disappoint the fans|팬들을 실망시키다|The team's poor performance disappointed the fans.|팀의 형편없는 경기력은 팬들을 실망시켰다.|I do not want to disappoint my parents.|나는 부모님을 실망시키고 싶지 않다.
-govern|v|rule|다스리다; 통치하다|나라나 조직을 운영하며 이끌 때 써요.|govern a country|나라를 다스리다|The country is governed by an elected president.|그 나라는 선출된 대통령이 통치한다.|Laws govern how businesses use personal data.|법은 기업이 개인 정보를 쓰는 방식을 규제한다.|rule
+govern|v|rule|다스리다; 통치하다; (법·원칙이) 좌우하다|나라를 다스리거나 법·원칙이 어떤 일을 정하고 규제할 때 써요.|govern a country|나라를 다스리다|The country is governed by an elected president.|그 나라는 선출된 대통령이 통치한다.|Laws govern how businesses use personal data.|법은 기업이 개인 정보를 쓰는 방식을 규제한다.|rule
 assign|v|give-task|배정하다; 맡기다|일이나 역할을 나누어 줄 때 써요.|assign homework|숙제를 내다|The teacher assigned us a lot of homework.|선생님은 우리에게 숙제를 많이 내 주셨다.|Each student was assigned a partner.|각 학생에게 짝이 정해졌다.
 chew|v|bite-repeatedly|씹다|입에서 음식을 이로 여러 번 물 때 써요.|chew gum|껌을 씹다|Chew your food slowly.|음식을 천천히 씹어라.|Do not chew gum in class.|수업 시간에 껌을 씹지 마라.
 remark|n|comment|말; 의견|짧게 한 말이나 의견이에요.|a rude remark|무례한 말|His rude remark made her angry.|그의 무례한 말이 그녀를 화나게 했다.|The teacher made a few remarks about my essay.|선생님은 내 에세이에 대해 몇 마디 의견을 주셨다.|comment
 remark|v|comment|말하다; 언급하다|느낀 점을 짧게 말할 때 써요.|remark on|~에 대해 말하다|She remarked that the room was very cold.|그녀는 방이 매우 춥다고 말했다.|Visitors often remark on the beauty of the garden.|방문객들은 종종 정원의 아름다움을 언급한다.|comment
-interrupt|v|break-in|끼어들다; 방해하다|말이나 일을 도중에 끊을 때 써요.|interrupt a speaker|발표자의 말을 끊다|Please do not interrupt me while I am talking.|내가 말하는 동안 끼어들지 마라.|The game was interrupted by heavy rain.|경기가 폭우로 중단되었다.
+interrupt|v|break-in|끼어들다; 방해하다; 중단시키다|말이나 진행 중인 일을 도중에 끊거나 멈추게 할 때 써요.|interrupt a speaker|발표자의 말을 끊다|Please do not interrupt me while I am talking.|내가 말하는 동안 끼어들지 마라.|The game was interrupted by heavy rain.|경기가 폭우로 중단되었다.
 disturb|v|bother|방해하다; 어지럽히다|조용히 있는 사람을 귀찮게 할 때 써요.|do not disturb|방해하지 마시오|Sorry to disturb you, but there is a call for you.|방해해서 미안하지만, 너에게 전화가 왔다.|Loud music may disturb your neighbors.|큰 음악 소리는 이웃에게 방해가 될 수 있다.|bother
 disturb|v|upset|불안하게 하다; 동요시키다|마음을 괴롭게 할 때 써요.|be disturbed by|~에 마음이 불편하다|I was disturbed by the violent scenes in the movie.|나는 그 영화의 폭력적인 장면에 마음이 불편했다.|The news disturbed many parents.|그 소식은 많은 학부모를 동요시켰다.|upset
 annoy|v|irritate|짜증 나게 하다|귀찮게 해서 기분을 상하게 할 때 써요.|be annoyed with|~에게 짜증 나다|His loud chewing annoys me.|그가 시끄럽게 씹는 소리가 나를 짜증 나게 한다.|She was annoyed with herself for forgetting the key.|그녀는 열쇠를 잊은 자신에게 짜증이 났다.|bother

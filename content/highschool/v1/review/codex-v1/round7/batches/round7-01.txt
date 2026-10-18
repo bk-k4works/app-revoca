@@ -1,0 +1,238 @@
+[register|v|sign-up] hash=57532cdc9caa0878
+  뜻: 등록하다; (불만·의견 등을) 제기하다
+  설명: 이름이나 물건을 명부에 올리거나 불만·의견을 공식적으로 밝힐 때 써요.
+  연어: register for = ~에 등록하다
+  예문1: You must register for the class by Friday. / 금요일까지 그 수업에 등록해야 한다.
+  예문2: All new cars must be registered. / 모든 새 차는 등록해야 한다.
+[fortune|n|luck] hash=ad6fbe73b9003890
+  뜻: 운; 행운; 운세
+  설명: 좋거나 나쁜 일이 우연히 생기는 것이나 점쳐 본 운이에요.
+  연어: good fortune = 행운
+  예문1: We had the good fortune to meet a kind guide. / 우리는 운 좋게 친절한 안내자를 만났다.
+  예문2: She uses cards to tell fortunes. / 그녀는 카드로 점을 친다.
+  유의어(오답 제외): luck
+[drag|v|pull] hash=1f6a7293327afbe7
+  뜻: 끌다; 질질 끌다; (시간이) 질질 이어지다
+  설명: 무거운 것을 끌거나 일·시간이 지루하게 이어질 때 써요.
+  연어: drag a box = 상자를 끌다
+  예문1: He dragged the heavy bag across the floor. / 그는 무거운 가방을 바닥에 질질 끌고 갔다.
+  예문2: The meeting dragged on for hours. / 회의가 몇 시간이나 질질 이어졌다.
+  유의어(오답 제외): pull
+[blank|adj|empty] hash=740fd5438dd180b5
+  뜻: 빈; 공백의; (머릿속이) 텅 빈
+  설명: 아무것도 쓰여 있지 않거나 아무 생각이 나지 않는 상태예요.
+  연어: a blank page = 빈 페이지
+  예문1: Write your answer in the blank space. / 빈칸에 답을 써라.
+  예문2: My mind went blank during the test. / 시험 중에 머릿속이 하얘졌다.
+  유의어(오답 제외): empty
+[official|adj|formal] hash=fbe55476a8886a6c
+  뜻: (정부·기관의) 공식적인
+  설명: 정부나 기관이 정식으로 인정한 것이에요.
+  연어: an official language = 공용어
+  예문1: English is an official language in many countries. / 영어는 많은 나라에서 공용어이다.
+  예문2: We are still waiting for the official results. / 우리는 아직 공식 결과를 기다리고 있다.
+[agreement|n|deal] hash=719a70b743f3a3d6
+  뜻: 협정; 합의
+  설명: 서로 지키기로 한 약속이에요.
+  연어: reach an agreement = 합의에 이르다
+  예문1: The two countries signed a trade agreement. / 두 나라는 무역 협정에 서명했다.
+  예문2: We have finally reached an agreement. / 우리는 마침내 합의에 이르렀다.
+[executive|n|manager] hash=66e09174b304f6b4
+  뜻: 임원; 경영진
+  설명: 회사에서 중요한 결정을 하는 사람이에요.
+  연어: a company executive = 회사 임원
+  예문1: She became a top executive at the bank. / 그녀는 그 은행의 고위 임원이 되었다.
+  예문2: The executives met to discuss the plan. / 임원들은 그 계획을 논의하려고 모였다.
+[fantasy|n|imagination] hash=d5c825e9f2fb1d33
+  뜻: 공상; 판타지
+  설명: 현실에 없는 상상의 세계예요.
+  연어: a fantasy novel = 판타지 소설
+  예문1: She loves reading fantasy novels with dragons. / 그녀는 용이 나오는 판타지 소설을 읽는 것을 좋아한다.
+  예문2: Becoming rich overnight is just a fantasy. / 하룻밤에 부자가 되는 것은 그저 공상일 뿐이다.
+[contemporary|adj|modern] hash=e2097a4e4274306f
+  뜻: 현대의; 동시대의
+  설명: 지금 시대이거나 같은 시대의 것이에요.
+  연어: contemporary art = 현대 미술
+  예문1: The museum has contemporary art on display. / 그 박물관은 현대 미술을 전시한다.
+  예문2: The diary is a contemporary record of the war. / 그 일기는 전쟁 당시에 쓰인 동시대의 기록이다.
+  유의어(오답 제외): modern
+[penalty|n|punishment] hash=ccab525f4a512a75
+  뜻: 처벌; 벌금
+  설명: 규칙을 어겨 받는 벌이에요.
+  연어: pay a penalty = 벌금을 내다
+  예문1: There is a heavy penalty for littering. / 쓰레기를 함부로 버리면 무거운 처벌을 받는다.
+  예문2: The referee gave the team a penalty. / 심판은 그 팀에 페널티를 선언했다.
+  유의어(오답 제외): punishment
+[welfare|n|well-being] hash=e4c1c12028edd018
+  뜻: 복지; 안녕; 행복
+  설명: 건강하고 행복하게 사는 상태나 이를 돕는 사회적 지원이에요.
+  연어: social welfare = 사회 복지
+  예문1: The government spends a lot on social welfare. / 정부는 사회 복지에 많은 돈을 쓴다.
+  예문2: Parents care about the welfare of their children. / 부모는 자녀의 안녕을 걱정한다.
+[efficient|adj|effective] hash=c130c23698606a4f
+  뜻: 효율적인
+  설명: 시간이나 에너지를 낭비 없이 잘 쓰는 것이에요.
+  연어: an efficient system = 효율적인 시스템
+  예문1: This new car is very fuel efficient. / 이 새 차는 연비가 매우 좋다.
+  예문2: She is a very efficient worker. / 그녀는 일을 매우 효율적으로 하는 사람이다.
+[decent|adj|honest] hash=ff386a23c13f4606
+  뜻: 점잖은; 예의 바른; 선량한; 괜찮은
+  설명: 도덕적으로 올바르거나 만족할 만한 수준인 것이에요.
+  연어: a decent person = 괜찮은 사람
+  예문1: He is a decent man who helps others. / 그는 남을 돕는 선량한 사람이다.
+  예문2: It was decent of him to apologize. / 그가 사과한 것은 예의 바른 행동이었다.
+[fame|n|being-famous] hash=427e6077810764ad
+  뜻: 유명세; 명성
+  설명: 널리 알려지는 것이에요.
+  연어: rise to fame = 유명해지다
+  예문1: The singer rose to fame at a young age. / 그 가수는 어린 나이에 유명해졌다.
+  예문2: Money and fame do not always bring happiness. / 돈과 명성이 언제나 행복을 가져오는 것은 아니다.
+[conservation|n|protection] hash=e55f23564ade9696
+  뜻: 보존; 보호; 절약
+  설명: 자연이나 자원을 지키고 아껴 쓰는 것이에요.
+  연어: wildlife conservation = 야생 동물 보호
+  예문1: The group works for the conservation of forests. / 그 단체는 숲을 보존하는 일을 한다.
+  예문2: Energy conservation helps us save money. / 에너지 절약은 우리가 돈을 아끼는 데 도움이 된다.
+  유의어(오답 제외): protection
+[stability|n|steadiness] hash=d61a6909c0300a90
+  뜻: 안정(성)
+  설명: 흔들리지 않고 고른 상태예요.
+  연어: economic stability = 경제적 안정
+  예문1: People want both peace and stability. / 사람들은 평화와 안정을 모두 원한다.
+  예문2: The wide base gives the table more stability. / 넓은 받침 덕분에 탁자가 더 안정적이다.
+  유의어(오답 제외): steadiness
+[controversy|n|dispute] hash=f3c0299e7e0bdc14
+  뜻: 논란; 논쟁
+  설명: 어떤 문제를 두고 서로 다른 주장이 크게 맞서는 상황이에요.
+  연어: cause controversy = 논란을 일으키다
+  예문1: The new law caused a lot of controversy. / 새 법은 많은 논란을 일으켰다.
+  예문2: There is controversy over the use of animals in research. / 연구에 동물을 이용하는 것을 두고 논란이 있다.
+[productive|adj|efficient] hash=fce8b3df6f830119
+  뜻: 생산적인; 생산성 높은
+  설명: 좋은 결과를 많이 내는 것이에요.
+  연어: a productive day = 많은 일을 해낸 하루
+  예문1: I had a very productive morning. / 나는 매우 생산적인 아침을 보냈다.
+  예문2: Workers who are happy are more productive. / 행복한 노동자가 더 생산적이다.
+[lung|n|breathing-organ] hash=1114e70febb995ff
+  뜻: 폐
+  설명: 숨을 쉬게 하는 몸속 기관이에요.
+  연어: lung cancer = 폐암
+  예문1: Smoking causes damage to your lungs. / 흡연은 폐를 손상시킨다.
+  예문2: Unlike humans, most fish do not breathe with lungs. / 사람과 달리 대부분의 물고기는 폐로 숨을 쉬지 않는다.
+[miserable|adj|unhappy] hash=a937ac8ff527e033
+  뜻: 비참한; 아주 불행한; (날씨가) 궂은
+  설명: 몹시 괴롭고 불행하거나 날씨 등이 아주 불쾌한 것이에요.
+  연어: feel miserable = 비참하다
+  예문1: I felt miserable when I had the flu. / 나는 독감에 걸렸을 때 몹시 괴로웠다.
+  예문2: The weather was cold and miserable. / 날씨가 춥고 궂었다.
+  유의어(오답 제외): unhappy
+[aging|n|growing-old] hash=5b8d5440c7f04b0b
+  뜻: 노화; 고령화
+  설명: 나이가 들어 가는 것이에요.
+  연어: the aging of the population = 인구의 고령화
+  예문1: Exercise can slow the process of aging. / 운동은 노화 과정을 늦출 수 있다.
+  예문2: The aging of the population is changing Korean society. / 인구 고령화가 한국 사회를 바꾸고 있다.
+[donation|n|gift] hash=1772afbc815036d7
+  뜻: 기부; 기증
+  설명: 돈·물건·혈액 등을 대가 없이 주는 일이나 그렇게 준 것이에요.
+  연어: make a donation = 기부하다
+  예문1: She made a donation to the children's hospital. / 그녀는 어린이 병원에 기부했다.
+  예문2: Blood donations save many lives every year. / 헌혈은 매년 많은 생명을 구한다.
+  유의어(오답 제외): contribution
+[firmly|adv|strongly] hash=47582ca668542ae3
+  뜻: 단호하게; 단단히
+  설명: 흔들림 없이 강하거나 단단하게 하는 모습을 나타내요.
+  연어: firmly believe = 굳게 믿다
+  예문1: I firmly believe that hard work pays off. / 나는 노력이 보답받는다고 굳게 믿는다.
+  예문2: Hold the rope firmly with both hands. / 밧줄을 두 손으로 단단히 잡아라.
+[decay|v|rot] hash=aa27a82995314f55
+  뜻: 썩다; 쇠퇴하다
+  설명: 시간이 지나며 상하거나 약해질 때 써요.
+  연어: decay slowly = 서서히 썩다
+  예문1: Sugar can cause your teeth to decay. / 설탕은 이를 썩게 할 수 있다.
+  예문2: The old building has started to decay. / 그 오래된 건물이 점점 낡아 가기 시작했다.
+  유의어(오답 제외): rot
+[drown|v|die-in-water] hash=b004835f6e029c88
+  뜻: 물에 빠져 죽다; (소리를) 묻히게 하다
+  설명: 물에 빠져 죽거나 큰 소리로 다른 소리를 묻히게 할 때 써요.
+  연어: drown out = 소리를 묻히게 하다
+  예문1: Always wear a life jacket so you do not drown. / 물에 빠져 목숨을 잃지 않도록 항상 구명조끼를 입어라.
+  예문2: The music drowned out our voices. / 음악 소리에 우리 목소리가 묻혔다.
+[resistant|adj|unaffected] hash=6b8eeaca1ce57b98
+  뜻: 저항력 있는; ~에 강한; (변화 등에) 저항하는
+  설명: 외부 영향을 잘 견디거나 변화를 받아들이지 않으려는 성질이에요.
+  연어: water-resistant = 내수성 있는; 생활 방수의
+  예문1: This watch is resistant to water. / 이 시계는 물에 강하다.
+  예문2: Some people are resistant to change. / 어떤 사람들은 변화에 저항감을 보인다.
+[enrollment|n|registration] hash=f2597f7d196e7634
+  뜻: 입학; 등록; 등록자 수; 재학생 수
+  설명: 학교나 강좌에 등록하는 일이나 등록한 사람 수예요.
+  연어: school enrollment = 학교 등록; 재학생 수
+  예문1: Enrollment for the summer program starts today. / 여름 프로그램 등록이 오늘 시작된다.
+  예문2: The school's enrollment has grown to a thousand students. / 그 학교의 재학생 수가 천 명으로 늘었다.
+  유의어(오답 제외): registration
+[individually|adv|separately] hash=2cb054b70276e25c
+  뜻: 개별적으로; 하나씩
+  설명: 여럿을 한꺼번에 다루지 않고 하나씩 따로 하는 것이에요.
+  연어: wrapped individually = 개별 포장된
+  예문1: The teacher spoke to each student individually. / 선생님은 학생 한 명 한 명과 따로 이야기하셨다.
+  예문2: The cookies in this box are wrapped individually. / 이 상자에 든 쿠키들은 하나씩 포장되어 있다.
+  유의어(오답 제외): separately
+[steadily|adv|constantly] hash=73fcba9e6fa69509
+  뜻: 꾸준히; 착실하게
+  설명: 속도나 정도가 크게 바뀌지 않고 꾸준히 이어지는 모습이에요.
+  연어: grow steadily = 꾸준히 성장하다
+  예문1: Her English has improved steadily this year. / 올해 그녀의 영어 실력은 꾸준히 늘었다.
+  예문2: The rain fell steadily all day. / 비가 하루 종일 그치지 않고 내렸다.
+  유의어(오답 제외): constantly
+[drift|v|float] hash=557bb73319cb24fd
+  뜻: 떠다니다; 표류하다; (바람에 밀려) 쌓이다
+  설명: 물이나 바람에 실려 움직이거나 바람에 밀려 쌓일 때 써요.
+  연어: drift away = 떠내려가다
+  예문1: The boat drifted out to sea. / 배가 바다로 떠내려갔다.
+  예문2: Snow drifted against the door all night. / 밤새 눈이 바람에 날려 문 앞에 쌓였다.
+  유의어(오답 제외): float
+[reproduction|n|breeding] hash=6275028f8c59e526
+  뜻: 번식; 복제; 복제품
+  설명: 생물이 새 개체를 만들거나 원본을 똑같이 만든 것이에요.
+  연어: plant reproduction = 식물의 번식
+  예문1: Bees play a role in plant reproduction. / 벌은 식물이 번식하는 데 한몫을 한다.
+  예문2: This painting is a reproduction, not the original. / 이 그림은 원본이 아니라 복제품이다.
+[extinction|n|dying-out] hash=c8ce761e95bb2a88
+  뜻: 멸종
+  설명: 어떤 생물이 완전히 사라지는 것이에요.
+  연어: face extinction = 멸종에 직면하다
+  예문1: Many animal species are facing extinction. / 많은 동물 종이 멸종에 직면해 있다.
+  예문2: Scientists study the causes of dinosaur extinction. / 과학자들은 공룡 멸종의 원인을 연구한다.
+[backward|adv|toward-the-back] hash=52825866270f5aaf
+  뜻: 뒤로; 거꾸로
+  설명: 뒤쪽으로 움직이거나 순서를 거꾸로 따르는 것을 나타내요.
+  연어: walk backward = 뒤로 걷다
+  예문1: He slowly took a step backward. / 그는 천천히 한 걸음 뒤로 물러섰다.
+  예문2: Can you count backward from ten? / 10부터 거꾸로 셀 수 있니?
+[outdated|adj|old-fashioned] hash=6cf49fe426b7d705
+  뜻: 구식의; 시대에 뒤진
+  설명: 시대에 뒤떨어지거나 최신 상황에 맞지 않는 것이에요.
+  연어: outdated information = 최신이 아닌 정보
+  예문1: This map is outdated and needs replacing. / 이 지도는 최신 정보를 반영하지 못해 교체해야 한다.
+  예문2: Some school rules are outdated and need revision. / 일부 교칙은 시대에 뒤떨어져 개정이 필요하다.
+  유의어(오답 제외): old-fashioned
+[rectangular|adj|oblong] hash=66fb870029ab27b3
+  뜻: 직사각형의
+  설명: 네 각이 모두 직각인 사각형 모양이에요.
+  연어: a rectangular table = 직사각형 탁자
+  예문1: We bought a rectangular table for the kitchen. / 우리는 부엌에 둘 직사각형 탁자를 샀다.
+  예문2: A soccer field is rectangular in shape. / 축구장은 직사각형 모양이다.
+[poisonous|adj|toxic] hash=7d8a237287b3c6b7
+  뜻: 독이 있는; 유독한
+  설명: 먹거나 들이마시거나 닿으면 몸에 해로운 것이에요.
+  연어: poisonous snakes = 독사
+  예문1: Some wild mushrooms are poisonous and should be avoided. / 일부 야생 버섯은 독이 있으므로 먹지 말아야 한다.
+  예문2: The factory released poisonous gas into the surrounding air. / 그 공장은 주변 대기에 유독 가스를 배출했다.
+  유의어(오답 제외): toxic
+[thorn|n|sharp-point] hash=235df14ad13db8ff
+  뜻: (식물 줄기의) 가시
+  설명: 식물 줄기에 난 뾰족한 것이에요.
+  연어: a rose thorn = 장미 가시
+  예문1: Be careful of the thorns on the roses. / 장미 가시를 조심해라.
+  예문2: A thorn got stuck in my finger. / 가시가 내 손가락에 박혔다.

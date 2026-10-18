@@ -9,9 +9,9 @@ urge|n|strong-desire|충동; 욕구|무엇을 하고 싶은 강한 마음이에�
 booth|n|small-room|부스; 칸막이 공간|작게 칸을 막아 만든 공간이에요.|a phone booth|전화 부스|We set up a booth at the school festival.|우리는 학교 축제에 부스를 차렸다.|Voters enter a booth to mark their ballots.|유권자들은 칸막이 공간에 들어가 투표용지에 표시한다.
 facial|adj|of-the-face|얼굴의|얼굴과 관련된 것이에요.|facial expression|얼굴 표정|Her facial expression showed clear surprise at the result.|그녀의 얼굴 표정에는 결과에 대한 놀라움이 역력히 드러났다.|The app uses facial recognition to unlock the phone.|그 앱은 휴대전화를 잠금 해제하는 데 얼굴 인식 기능을 사용한다.
 import|v|bring-in|수입하다|다른 나라에서 물건을 사 들여올 때 써요.|import oil|석유를 수입하다|Korea imports most of its oil.|한국은 석유 대부분을 수입한다.|The store imports cheese from France.|그 가게는 프랑스에서 치즈를 수입한다.
-import|n|imported-goods|수입(품)|다른 나라에서 들여온 물건이에요.|cheap imports|값싼 수입품|Imports of electric cars have increased.|전기 자동차 수입이 늘었다.|The shop sells many imports from Japan.|그 가게는 일본에서 온 수입품을 많이 판다.
+import|n|imported-goods|수입(품)|다른 나라에서 물건을 들여오는 일이나 그 물건이에요.|cheap imports|값싼 수입품|Imports of electric cars have increased.|전기 자동차 수입이 늘었다.|The shop sells many imports from Japan.|그 가게는 일본에서 온 수입품을 많이 판다.
 innovative|adj|creative|혁신적인|새로운 생각이나 방법을 쓰는 것이에요.|an innovative design|혁신적인 디자인|The company is known for its innovative products.|그 회사는 혁신적인 제품으로 알려져 있다.|She came up with an innovative solution.|그녀는 혁신적인 해결책을 내놓았다.|creative
-lung|n|breathing-organ|폐|숨을 쉬게 하는 몸속 기관이에요.|lung cancer|폐암|Smoking damages your lungs.|흡연은 폐를 손상시킨다.|Fish do not have lungs.|물고기에게는 폐가 없다.
+lung|n|breathing-organ|폐|숨을 쉬게 하는 몸속 기관이에요.|lung cancer|폐암|Smoking causes damage to your lungs.|흡연은 폐를 손상시킨다.|Unlike humans, most fish do not breathe with lungs.|사람과 달리 대부분의 물고기는 폐로 숨을 쉬지 않는다.
 nutrition|n|nourishment|영양|몸에 필요한 음식을 섭취하는 것이에요.|good nutrition|좋은 영양|Good nutrition is important for growing children.|좋은 영양은 자라는 아이들에게 중요하다.|The label shows nutrition information for each serving.|그 라벨에는 1회 제공량당 영양 정보가 나와 있다.
 pose|v|present|(위험·문제를) 일으키다; 제기하다|위험이나 질문을 제기할 때 써요.|pose a threat|위협이 되다|Plastic waste poses a threat to sea life.|플라스틱 쓰레기는 바다 생물에게 위협이 된다.|The student posed an interesting question.|그 학생은 흥미로운 질문을 했다.
 pose|v|model|자세를 취하다|사진이나 그림을 위해 몸을 멈출 때 써요.|pose for a photo|사진을 찍으려고 포즈를 취하다|We posed for a photo in front of the tower.|우리는 탑 앞에서 사진을 찍으려고 포즈를 취했다.|The model posed for the artist for hours.|모델은 몇 시간 동안 화가를 위해 자세를 취했다.
@@ -27,7 +27,7 @@ leak|n|hole|누출; 새는 곳|액체나 기체가 새어 나오는 것이에요
 passionate|adj|enthusiastic|열정적인|무엇을 아주 좋아하고 열심인 것이에요.|be passionate about|~에 열정적이다|She is passionate about protecting animals.|그녀는 동물 보호에 열정적이다.|He gave a passionate speech.|그는 열정적인 연설을 했다.|enthusiastic
 recommendation|n|suggestion|추천; 권고|좋다고 권하는 것이에요.|a letter of recommendation|추천서|I bought this book on my friend's recommendation.|나는 친구의 추천으로 이 책을 샀다.|The teacher wrote a letter of recommendation for me.|선생님은 나를 위해 추천서를 써 주셨다.|suggestion
 servant|n|helper|하인; 종|남의 집에서 일을 해 주는 사람이에요.|a public servant|공무원|In the story, the servant saves the king.|그 이야기에서 하인이 왕을 구한다.|The servant brought food to the guests.|하인은 손님들에게 음식을 가져다주었다.
-suspicious|adj|doubtful|수상한; 의심스러운|믿기 어렵거나 수상해 보이는 것이에요.|be suspicious of|~을 의심하다|Call the police if you see anything suspicious.|수상한 것을 보면 경찰에 신고해라.|She was suspicious of the stranger's story.|그녀는 낯선 사람의 이야기를 의심했다.|doubtful
+suspicious|adj|doubtful|수상한; 의심스러운; 의심하는|수상해 보이거나 무언가를 의심하는 마음을 품은 상태예요.|be suspicious of|~을 의심하다|Call the police if you see anything suspicious.|수상한 것을 보면 경찰에 신고해라.|She was suspicious of the stranger's story.|그녀는 낯선 사람의 이야기를 의심했다.|doubtful
 tender|adj|gentle|다정한; 부드러운|마음이 따뜻하거나 고기가 연한 것이에요.|a tender touch|다정한 손길|She gave the baby a tender kiss.|그녀는 아기에게 다정하게 입을 맞췄다.|The meat was soft and tender.|그 고기는 부드럽고 연했다.|gentle
 architect|n|building-designer|건축가|건물을 설계하는 사람이에요.|a famous architect|유명한 건축가|The architect designed a modern museum.|그 건축가는 현대식 박물관을 설계했다.|She wants to become an architect.|그녀는 건축가가 되고 싶어 한다.
 beneficial|adj|helpful|유익한; 이로운|도움이 되거나 좋은 결과를 주는 것이에요.|beneficial to|~에 유익한|Regular exercise is beneficial to your health.|규칙적인 운동은 건강에 유익하다.|The new law will be beneficial for small businesses.|새 법은 소상공인에게 이로울 것이다.|helpful
@@ -35,7 +35,7 @@ breed|v|reproduce|새끼를 낳다; 기르다|동물이 번식하거나 사람�
 breed|n|type|품종|같은 특징을 가진 동물의 종류예요.|a rare breed|희귀 품종|What breed of dog is best for a small apartment?|작은 아파트에는 어떤 개 품종이 가장 잘 맞을까?|This breed of cat has long hair.|이 품종의 고양이는 털이 길다.
 breeding|n|raising-animals|사육; 번식|동물이 새끼를 낳거나 사람이 동물을 기르는 일이에요.|the breeding season|번식기|Spring is the breeding season for many birds.|봄은 많은 새의 번식기이다.|The zoo has a breeding program for pandas.|그 동물원에는 판다 번식 프로그램이 있다.
 diameter|n|width-through-center|지름|원의 한쪽 끝에서 가운데를 지나 다른 끝까지의 길이예요.|in diameter|지름이|The pizza is thirty centimeters in diameter.|그 피자는 지름이 30센티미터이다.|Measure the diameter of the circle.|원의 지름을 재라.
-exhausted|adj|very-tired|녹초가 된; 고갈된|몹시 지치거나 다 써 버린 것이에요.|feel exhausted|녹초가 되다|I was exhausted after the long hike.|나는 긴 등산 후 녹초가 되었다.|Our supply of water was almost exhausted.|물 공급이 거의 바닥났다.|tired
+exhausted|adj|very-tired|녹초가 된; 고갈된|몹시 지치거나 다 써 버린 것이에요.|feel exhausted|녹초가 되다|I was exhausted after the long hike.|나는 긴 등산 후 녹초가 되었다.|Our supply of water was almost exhausted.|우리가 비축한 물이 거의 바닥났다.|tired
 fabric|n|cloth|천; 직물|옷을 만드는 재료예요.|soft fabric|부드러운 천|This shirt is made of cotton fabric.|이 셔츠는 면직물로 만들어졌다.|She chose a bright fabric for the curtains.|그녀는 커튼용으로 밝은 천을 골랐다.|cloth
 fabric|n|structure|(사회의) 구조; 기본 틀|사회나 조직을 이루는 바탕이에요.|the fabric of society|사회 구조|Families are part of the fabric of society.|가족은 사회 구조의 일부이다.|War destroyed the fabric of the country.|전쟁은 그 나라의 기본 틀을 무너뜨렸다.|structure
 frustrated|adj|annoyed|좌절한; 답답한|뜻대로 되지 않아 속상한 것이에요.|feel frustrated|답답하다|I felt frustrated when the computer stopped working.|컴퓨터가 멈추자 나는 답답했다.|The team was frustrated by the loss.|팀은 패배로 좌절했다.
@@ -46,7 +46,7 @@ myth|n|legend|신화; 근거 없는 믿음|옛이야기나 사실이 아닌 널�
 pale|adj|light-colored|창백한; 연한|얼굴에 핏기가 없거나 색이 옅은 것이에요.|turn pale|창백해지다|She turned pale when she heard the news.|그녀는 그 소식을 듣고 창백해졌다.|The room was painted pale blue.|그 방은 연한 파란색으로 칠해져 있었다.
 predict|v|forecast|예측하다|앞으로 일어날 일을 미리 말할 때 써요.|predict the future|미래를 예측하다|No one can predict the future.|아무도 미래를 예측할 수 없다.|Scientists predict that sea levels will rise.|과학자들은 해수면이 높아질 것이라고 예측한다.|forecast
 rotation|n|turning|회전; 순환|돌거나 차례로 바꾸는 것이에요.|the rotation of the earth|지구의 자전|The rotation of the earth causes day and night.|지구의 자전으로 낮과 밤이 생긴다.|Farmers use crop rotation to keep the soil rich.|농부들은 흙을 비옥하게 유지하려고 돌려짓기를 한다.
-tragic|adj|very-sad|비극적인|매우 슬프고 끔찍한 것이에요.|a tragic accident|비극적인 사고|The movie has a tragic ending.|그 영화는 비극적인 결말을 맺는다.|It was a tragic loss for the family.|그 가족에게는 비극적인 상실이었다.
+tragic|adj|very-sad|비극적인|매우 슬프고 끔찍한 것이에요.|a tragic accident|비극적인 사고|The movie has a tragic ending.|그 영화는 비극적인 결말을 맺는다.|It was a tragic loss for the family.|그 가족에게는 큰 비극이었다.
 underneath|prep|below|~ 밑에|어떤 것의 바로 아래를 나타내요.|underneath the table|탁자 밑에|The cat is hiding underneath the bed.|고양이가 침대 밑에 숨어 있다.|I found my keys underneath a pile of papers.|나는 종이 더미 밑에서 열쇠를 찾았다.|beneath
 adjust|v|adapt|조절하다; 적응하다|알맞게 바꾸거나 새 환경에 맞출 때 써요.|adjust to|~에 적응하다|You can adjust the height of the chair.|의자 높이를 조절할 수 있다.|It took me a week to adjust to the new school.|새 학교에 적응하는 데 일주일이 걸렸다.|adapt
 consequence|n|result|(좋지 않은) 결과; 영향|어떤 행동 때문에 생긴 일이에요.|as a consequence|그 결과|Every action has consequences.|모든 행동에는 결과가 따른다.|He did not think about the consequences of his decision.|그는 자기 결정이 가져올 결과를 생각하지 않았다.|result
@@ -54,7 +54,7 @@ excellence|n|high-quality|뛰어남; 탁월함|아주 훌륭한 정도예요.|ac
 graduation|n|finishing-school|졸업; 졸업식|학교 과정을 마치는 것이나 그 행사예요.|after graduation|졸업 후에|My parents came to my graduation.|부모님이 내 졸업식에 오셨다.|She plans to travel after graduation.|그녀는 졸업 후 여행할 계획이다.
 horizon|n|skyline|수평선; 지평선; (horizons) 시야|하늘과 땅의 경계선이나 시야의 범위를 말해요.|above the horizon|지평선 위에|The sun rose slowly above the horizon.|해가 수평선 위로 천천히 떠올랐다.|Traveling abroad can broaden your horizons in many ways.|해외여행은 여러 면에서 시야를 넓혀 줄 수 있다.
 inn|n|small-hotel|여관; 작은 호텔|여행자가 묵는 작은 숙박 시설이에요.|a country inn|시골 여관|We stayed at a small inn by the lake.|우리는 호숫가의 작은 여관에 묵었다.|The old inn has only six rooms.|그 오래된 여관에는 방이 여섯 개뿐이다.
-miserable|adj|unhappy|비참한; 아주 불행한|몹시 괴롭고 기분이 나쁜 것이에요.|feel miserable|비참하다|I felt miserable when I had the flu.|나는 독감에 걸렸을 때 비참했다.|The weather was cold and miserable.|날씨가 춥고 궂었다.|unhappy
+miserable|adj|unhappy|비참한; 아주 불행한; (날씨가) 궂은|몹시 괴롭고 불행하거나 날씨 등이 아주 불쾌한 것이에요.|feel miserable|비참하다|I felt miserable when I had the flu.|나는 독감에 걸렸을 때 몹시 괴로웠다.|The weather was cold and miserable.|날씨가 춥고 궂었다.|unhappy
 quantity|n|amount|수량; 양|얼마나 많은지를 나타내요.|a large quantity of|많은 양의|The factory produces a large quantity of paper.|그 공장은 많은 양의 종이를 생산한다.|Quality is more important than quantity.|양보다 질이 더 중요하다.|amount
 tremendous|adj|huge|엄청난; 굉장한|크기나 정도가 아주 큰 것이에요.|a tremendous effort|엄청난 노력|The project took a tremendous amount of work.|그 프로젝트에는 엄청난 양의 일이 들었다.|We had a tremendous time at the party.|우리는 파티에서 굉장히 즐거운 시간을 보냈다.|enormous
 accommodation|n|lodging|숙소; 숙박 시설|머물러 자는 곳이에요.|find accommodation|숙소를 구하다|The price includes flights and accommodation.|가격에는 항공권과 숙소가 포함되어 있다.|It is hard to find cheap accommodation in summer.|여름에는 싼 숙소를 구하기 어렵다.|lodging
@@ -68,7 +68,7 @@ realm|n|area|영역; 왕국|활동이나 지식의 범위, 또는 왕이 다스�
 spectacular|adj|amazing|장관을 이루는; 굉장한|눈을 뗄 수 없을 만큼 멋진 것이에요.|a spectacular view|장관|The fireworks were spectacular.|불꽃놀이는 장관이었다.|We saw a spectacular sunset over the sea.|우리는 바다 위로 지는 멋진 노을을 보았다.|amazing
 accomplish|v|achieve|완수하다; 성취하다|목표나 일을 해낼 때 써요.|accomplish a goal|목표를 이루다|We accomplished a lot in one day.|우리는 하루 만에 많은 것을 해냈다.|The team accomplished the task in half the time.|그 팀은 절반의 시간 만에 과제를 완수했다.|achieve
 belonging|n|feeling-part-of|소속감|어떤 집단의 일원이라는 느낌이에요.|a sense of belonging|소속감|Joining the club gave me a sense of belonging.|그 동아리에 들어가자 소속감이 생겼다.|Children need a feeling of belonging at school.|아이들은 학교에서 소속감을 느낄 필요가 있다.
-belonging|n|possessions|소지품|(belongings) 가지고 있는 물건이에요.|personal belongings|개인 소지품|Take all your belongings when you leave the train.|기차에서 내릴 때 소지품을 모두 챙겨라.|He packed his belongings into one small bag.|그는 소지품을 작은 가방 하나에 쌌다.|possession
+belonging|n|possessions|소지품|가지고 다니거나 가지고 있는 개인 물건이에요.|personal belongings|개인 소지품|Take all your belongings when you leave the train.|기차에서 내릴 때 소지품을 모두 챙겨라.|He packed his belongings into one small bag.|그는 소지품을 작은 가방 하나에 쌌다.|possession
 dip|v|put-in|살짝 담그다|액체에 잠깐 넣었다 뺄 때 써요.|dip into|~에 담그다|Dip the bread in the soup.|빵을 수프에 찍어 먹어라.|She dipped her toes into the cold water.|그녀는 찬물에 발가락을 담갔다.
 dip|n|decrease|일시적 하락; 감소|양이나 수준이 잠깐 내려가는 것이에요.|a dip in sales|판매 하락|There was a small dip in prices last month.|지난달 가격이 조금 하락했다.|The stock price took a dip after the report came out.|보고서가 나온 뒤 주가가 하락했다.|drop
 embarrassed|adj|ashamed|당황한; 창피한|남 앞에서 부끄러운 것이에요.|feel embarrassed|창피하다|I was embarrassed when I fell on stage.|나는 무대에서 넘어져서 창피했다.|She felt embarrassed about her mistake.|그녀는 자기 실수 때문에 당황했다.|ashamed

@@ -88,8 +88,9 @@ class ContentRepository {
       '''SELECT s.payload FROM senses s
       JOIN headwords h ON h.id=s.headword_id
       WHERE h.term LIKE ? ESCAPE '\\' OR s.meaning LIKE ? ESCAPE '\\'
+        OR json_extract(s.payload, '\$.term') LIKE ? ESCAPE '\\'
       ORDER BY h.term, s.id LIMIT ? OFFSET ?''',
-      ['%$escaped%', '%$escaped%', limit, offset],
+      ['%$escaped%', '%$escaped%', '%$escaped%', limit, offset],
     );
     return rows
         .map((r) => Sense.fromJson(jsonDecode(r['payload'] as String)))
@@ -117,7 +118,8 @@ class ContentRepository {
       s.meaning_alternatives AS alternatives,
       s.distractor_exclusions AS exclusions,
       json_extract(s.payload, '$.acceptedSpellings') AS spellings,
-      json_extract(s.payload, '$.nearSynonymHeadwords') AS synonyms
+      json_extract(s.payload, '$.nearSynonymHeadwords') AS synonyms,
+      json_extract(s.payload, '$.term') AS term
       FROM senses s ORDER BY s.rowid''',
     );
     final words = rows
@@ -126,7 +128,8 @@ class ContentRepository {
             id: r['id'] as String,
             headword: Headword(
               id: r['headword_id'] as String,
-              term: heads[r['headword_id']]!.term,
+              // A sense may show a display form (customs) of its list headword.
+              term: r['term'] as String? ?? heads[r['headword_id']]!.term,
               source: heads[r['headword_id']]!.source,
               acceptedSpellings: List<String>.from(
                 jsonDecode(r['spellings'] as String),

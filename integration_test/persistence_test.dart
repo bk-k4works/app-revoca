@@ -19,6 +19,25 @@ void main() {
       expect(bundled.words, hasLength(2594));
       expect(bundled.words.map((w) => w.headword.id).toSet(), hasLength(2000));
       expect(bundled.provenance['track'], 'high');
+      // Display forms differ from the list key for one sense only; IDs stay.
+      expect(bundled.byId['hs.custom.n.border-control']!.term, 'customs');
+      expect(bundled.byId['hs.custom.n.tradition']!.term, 'custom');
+      expect(
+        bundled.byId['hs.antarctica.n.south-pole-continent']!.term,
+        'Antarctica',
+      );
+      final respect = bundled.byId['hs.in-respect-to.phrase.concerning']!;
+      expect(respect.term, 'with respect to');
+      expect(respect.accepts('With respect to'), isTrue);
+      expect(respect.headword.id, 'in-respect-to');
+      expect(
+        (await content.search('customs')).map((s) => s.id),
+        contains('hs.custom.n.border-control'),
+      );
+      expect(
+        (await content.loadSenses(['hs.belonging.n.possessions'])).single.term,
+        'belongings',
+      );
       final phrase = bundled.byId['hs.in-order-to.phrase.for-the-purpose']!;
       expect(phrase.pos, 'phrase');
       expect(phrase.accepts(' In  order to'), isTrue);

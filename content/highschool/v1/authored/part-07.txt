@@ -55,7 +55,7 @@ broad|adj|wide|넓은; 폭넓은|폭이 넓거나 범위가 큰 것이에요.|a 
 respond|v|answer|대답하다; 반응하다|질문에 답하거나 어떤 일에 반응할 때 써요.|respond to|~에 반응하다|She did not respond to my message.|그녀는 내 메시지에 답하지 않았다.|Plants respond to light by growing toward it.|식물은 빛 쪽으로 자라며 빛에 반응한다.|reply
 grab|v|seize|붙잡다; 급히 먹다|재빨리 움켜잡거나 급하게 할 때 써요.|grab someone's arm|~의 팔을 붙잡다|He grabbed my arm to stop me from falling.|그는 내가 넘어지지 않게 내 팔을 붙잡았다.|Let us grab a sandwich before class.|수업 전에 샌드위치를 간단히 먹자.
 immediate|adj|instant|즉각적인|바로 일어나는 것이에요.|an immediate answer|즉각적인 대답|The medicine had an immediate effect.|그 약은 즉각적인 효과가 있었다.|We need an immediate decision.|우리는 즉시 결정을 내려야 한다.|instant
-immediate|adj|nearest|가장 가까운; 직계의|시간·공간·관계가 바로 가까운 것이에요.|immediate family|직계 가족|Only immediate family members came to the wedding.|직계 가족만 결혼식에 왔다.|There is no hospital in the immediate area.|바로 인근에는 병원이 없다.
+immediate|adj|nearest|가장 가까운; 바로 인근의|시간·공간·관계가 바로 가까운 것이에요.|immediate family|가까운 가족|Only immediate family members came to the wedding.|가까운 가족만 결혼식에 왔다.|There is no hospital in the immediate area.|바로 인근에는 병원이 없다.
 license|n|permit|면허(증); 허가|어떤 일을 해도 된다는 공식 허가예요.|a driver's license|운전면허증|You need a license to drive a car.|자동차를 운전하려면 면허가 필요하다.|The restaurant lost its license.|그 식당은 영업 허가를 잃었다.|permit
 recognize|v|identify|알아보다; 인식하다|전에 본 적이 있어 누구인지 알 때 써요.|recognize a face|얼굴을 알아보다|I did not recognize her with short hair.|머리가 짧아서 나는 그녀를 알아보지 못했다.|Babies can recognize their mother's voice.|아기들은 엄마의 목소리를 알아들을 수 있다.|identify
 recognize|v|accept|(공식적으로) 인정하다|사실이나 가치를 받아들일 때 써요.|recognize the need|필요성을 인정하다|The school recognized her hard work with an award.|학교는 그녀의 노력을 인정해 상을 주었다.|We must recognize that the problem is serious.|우리는 그 문제가 심각하다는 것을 인정해야 한다.|admit
@@ -71,7 +71,7 @@ tie|v|fasten|묶다; 매다|끈이나 줄로 묶을 때 써요.|tie a knot|매�
 tie|n|connection|관계; 유대|사람이나 나라 사이의 관계예요.|family ties|가족 간의 유대|The two countries have strong economic ties.|두 나라는 강한 경제적 유대가 있다.|She kept close ties with her old friends.|그녀는 옛 친구들과 가까운 관계를 유지했다.|bond
 tie|n|draw|동점|경기에서 점수가 같은 것이에요.|end in a tie|동점으로 끝나다|The game ended in a tie.|그 경기는 동점으로 끝났다.|There was a tie for first place.|공동 1등이 나왔다.|draw
 contain|v|hold|들어 있다; 포함하다|안에 무엇을 담고 있을 때 써요.|contain sugar|설탕이 들어 있다|This drink contains a lot of sugar.|이 음료에는 설탕이 많이 들어 있다.|The box contained old photos and letters.|그 상자에는 오래된 사진과 편지가 들어 있었다.|include
-contain|v|control|억제하다; 막다|퍼지거나 커지지 않게 막을 때 써요.|contain a fire|불길을 잡다|Firefighters worked hard to contain the fire.|소방관들은 불길을 잡으려고 애썼다.|She could not contain her excitement.|그녀는 흥분을 감출 수 없었다.
+contain|v|control|억제하다; 막다; (감정을) 억누르다|퍼지거나 커지지 않게 막거나 감정을 억누를 때 써요.|contain a fire|불길을 잡다|Firefighters worked hard to contain the fire.|소방관들은 불길을 잡으려고 애썼다.|She could not contain her excitement.|그녀는 흥분을 감출 수 없었다.
 document|n|paper|서류; 문서|정보를 담은 공식적인 글이에요.|an important document|중요한 서류|Please sign this document before you leave the office.|사무실을 나가기 전에 이 서류에 서명해라.|I saved the document on my computer.|나는 그 문서를 컴퓨터에 저장했다.
 document|v|record|(문서로) 기록하다|사실을 자세히 남길 때 써요.|document a process|과정을 기록하다|The scientist documented every step of the experiment.|그 과학자는 실험의 모든 단계를 기록했다.|The film documents the life of a famous artist.|그 영화는 유명한 예술가의 삶을 기록한다.|record
 lift|v|raise|들어 올리다|무엇을 위로 올릴 때 써요.|lift a box|상자를 들어 올리다|He lifted the heavy box onto the table.|그는 무거운 상자를 탁자 위로 들어 올렸다.|Lift your arms above your head.|팔을 머리 위로 들어 올려라.|raise

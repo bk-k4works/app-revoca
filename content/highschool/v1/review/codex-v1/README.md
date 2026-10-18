@@ -14,10 +14,12 @@
 | 3차 | 2차에서 다시 고친 71개 | 58 | 6 | 7 | 0 | 3* |
 | 4차 | 3차에서 고친 13개 | 7 | 4 | 2 | 0 | 0 |
 | 5차 | 4차에서 고친 2개 | 2 | 0 | 0 | 0 | 0 |
+| 6차 | 사람 검수 1차로 고친 149개 + 표제어 표기를 바꾼 5개 (3묶음) | 113 | 15 | 26 | 0 | 16* |
+| 7차 | 6차에서 고친 37개 | 34 | 3 | 0 | 0 | 3* |
 
-최종 상태: 현재 원고의 뜻 2,594개 모두 Codex 판정이 있다. ok 2,534, minor 27, fix 33이다. 남은 fix 33개는 Claude가 이유를 남기고 받지 않은 지적이고(`triage/*-declined.tsv`), minor는 번역 어감 다듬기 제안이다. 둘 다 사람 검수표의 `codexVerdict`·`codexNotes` 열에 그대로 보인다.
+최종 상태(7차 후): 현재 원고의 뜻 2,594개 모두 Codex 판정이 있다. ok 2,570, minor 11, fix 13이다. 남은 fix 13개는 Claude가 이유를 남기고 받지 않은 지적이고(`triage/*-declined.tsv`), minor는 번역 어감 다듬기 제안이다. 둘 다 사람 검수표의 `codexVerdict`·`codexNotes` 열에 그대로 보인다.
 
-\* 2차·3차 묶음에는 고친 뜻만 들어 있어 Codex가 같은 표제어의 다른 뜻 카드를 보지 못했다. 이때 나온 '빠진 뜻' 제안은 대부분 이미 있는 카드라 받지 않았다.
+\* 2차·3차·6차·7차 묶음에는 고친 뜻만 들어 있어 Codex가 같은 표제어의 다른 뜻 카드를 보지 못했다. 이때 나온 '빠진 뜻' 제안은 대부분 이미 있는 카드라 받지 않았다.
 
 ## 판정 처리 (Claude)
 
@@ -25,7 +27,10 @@ Codex 지적을 그대로 쓰지 않고 하나씩 따져 받아들이거나 이�
 
 - 1차: 수정 822건(뜻 486개)을 반영했다. 그대로 수용 767건, 일부 수용 40건, 빠진 뜻 수용 15건이다. 거절 70건은 `triage/*-declined.tsv`에 이유와 함께 남겼다.
 - 2차: 수정 114건, 3차: 13건, 4차: 3건을 반영했다.
-- 새로 넣은 뜻 카드 7개: stand(나타내다), volume(부피), mass(질량), version(사람마다 다른 이야기), likely(아마), positive(양성의), shed(밝히다).
+- 1~4차에 새로 넣은 뜻 카드 7개: stand(나타내다), volume(부피), mass(질량), version(사람마다 다른 이야기), likely(아마), positive(양성의), shed(밝히다).
+- 6차: 사람 검수 1차(`review/human/round1/`) 반영으로 바뀐 뜻을 다시 받았다. 수정 58곳(뜻 37개)을 반영했다. fix 26건 중 25건 수용(일부 수용: official·fame 뜻, controversy·register 설명), minor 15건 중 12건 수용. 대부분 6단어 미만 예문을 늘리는 지적이라 hs-draft 경고가 2,115건에서 2,096건으로 줄었다.
+- 7차: 6차에서 고친 37개는 fix 없이 끝났다. minor 3건(fantasy·extinction 설명, welfare 번역)은 원고를 그대로 두고 Codex 의견으로 남겼다.
+- 사람 검수 의견을 되돌리는 제안은 받지 않았다: vice versa 예문2 번역('남동생'으로 단정), ladder 예문2 번역(비유 뜻이 사다리와 이어지게 둔 문장). tragic 예문2는 사람 의견대로 고친 문장이 2차 때 문장과 같아져 그때의 minor 판정('비극적인 상실'로 되돌리자)이 남아 있지만 받지 않았다.
 - 주요 거절 이유
   - 명령문·의문문 번역('~해라', '~니?')을 평서문으로 바꾸자는 제안(앱 규칙상 허용, 1차 12번 묶음에 많았다). 2차부터 프롬프트에 규칙을 분명히 적었다.
   - 철자 문제에서 정답이 둘이 되도록 같은 품사의 대표 뜻을 다시 겹치게 하는 제안
@@ -33,10 +38,18 @@ Codex 지적을 그대로 쓰지 않고 하나씩 따져 받아들이거나 이�
   - 뜻이 겹치는 낱말을 객관식 오답에서 빼 두는 유의어 연결을 지우자는 제안
   - 고등 지문 빈도가 낮은 뜻 추가 제안
 
+## 사람 판단이 필요한 곳 (6·7차)
+
+- apparent(형용사): Codex는 뜻을 '분명한; 명백한; 겉보기의'로 바꾸라고 했다(fix). obvious의 대표 뜻과 겹쳐 철자 문제 정답이 둘이 되므로 '분명해 보이는; 겉보기의'를 유지했다.
+- vice versa·ladder·tragic 예문 번역: 위 설명대로 사람 검수 의견을 유지했다. Codex 의견은 승인 화면에 보인다.
+- welfare 예문2 번역: 사람 검수에서 '안녕'으로 고친 문장에 Codex가 '걱정한다' 대신 '중요하게 여긴다'를 제안했다(minor).
+- 표제어 표기를 바꾼 5개(customs, belongings, Antarctica, Atlantic, with respect to)는 모두 ok다. 빠진 뜻으로 customs '관세'가 제안됐지만 duty(관세; 세금) 카드가 있어 받지 않았다.
+
 ## 파일
 
 - `prompt.md`, `schema.json`: 1차 검토 기준과 판정 형식. `round2/prompt.md`에 번역 규칙을 보완했다.
 - `batches/`, `results/`, `manifest.json`, `verdicts.jsonl`: 1차 입력·원본 판정·합친 판정
 - `triage/bNN.tsv`: 판정 처리 결과(원고 수정 목록), `triage/bNN-declined.tsv`: 거절과 이유
-- `changes-round1.jsonl`, `round2/changes-round2.jsonl`: 원고에 실제 적용된 변경 기록
+- `changes-round1.jsonl`, `round2/changes-round2.jsonl`: 원고에 실제 적용된 변경 기록 (6차는 `round6/changes-round6.jsonl`)
+- `round6/batches/round6-03.txt`: 표제어 표기(`display_forms.json`)를 함께 보여 준 묶음. 해시에 표기가 들어간다.
 - `draft_triage.py`, `finalize.py`, `show.py`: 판정 처리에 쓴 보조 스크립트

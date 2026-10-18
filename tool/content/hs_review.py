@@ -17,6 +17,8 @@ FIELDS = ['headword', 'pos', 'senseSlug', 'meaning', 'explanation', 'collocation
 
 
 def senses(root=AUTHORED):
+    from .highschool import display_forms
+    forms = display_forms()
     rows = []
     for f in sorted(Path(root).glob('*.txt')):
         for line in f.read_text().splitlines():
@@ -25,7 +27,9 @@ def senses(root=AUTHORED):
             values = line.split('|') + ([''] if line.count('|') == 10 else [])
             row = dict(zip(FIELDS, values))
             row['key'] = f"{row['headword']}|{row['pos']}|{row['senseSlug']}"
-            row['inputHash'] = digest({k: row[k] for k in FIELDS})[:16]
+            # A display form is reviewed with the text; senses without one keep their hash.
+            form = {'display': forms[row['key']]} if row['key'] in forms else {}
+            row['inputHash'] = digest({**{k: row[k] for k in FIELDS}, **form})[:16]
             row['file'] = f.name
             rows.append(row)
     return rows
@@ -222,16 +226,18 @@ def web_id(key):
 
 def export_web(output=WEB / 'senses.json'):
     """Write the data file the approval page loads: every current sense with its Codex verdict."""
-    from .highschool import HS_SOURCE
+    from .highschool import HS_SOURCE, display_forms
     from .common import sources, now
     tiers = {w: r['tier'] for w, r in sources(HS_SOURCE).items()}
+    forms = display_forms()
     verdicts, decided = current_verdicts(), ledger()
     items = []
     for r in senses():
         v = verdicts.get(r['key']) or {}
         d = decided.get(r['key'])
         items.append({'id': web_id(r['key']), 'key': r['key'], 'hash': r['inputHash'], 'part': r['file'][:-4],
-                      'tier': tiers.get(r['headword'], ''), 'hw': r['headword'], 'pos': r['pos'],
+                      'tier': tiers.get(r['headword'], ''),
+                      'hw': forms.get(r['key'], r['headword']), 'pos': r['pos'],
                       'meaning': r['meaning'], 'expl': r['explanation'], 'col': r['collocation'],
                       'colKo': r['collocationKo'], 'ex': [[r['en1'], r['ko1']], [r['en2'], r['ko2']]],
                       'syn': r['synonyms'], 'codex': v.get('verdict', 'none'),

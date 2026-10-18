@@ -54,7 +54,7 @@
 | 작성 완료 | **2,000개 전체** (뜻 2,594개, 예문 5,188개). 고교 기본 540, 아는 단어 59, 고교 핵심 881, 핵심 숙어 89, 수능 심화 431 |
 | 단어장 | 고교 기본 01–27, 아는 단어, 새로운 뜻 01–03, 고교 핵심 01–44, 핵심 숙어 01–05, 수능 심화 01–22 (총 101개) |
 | 자동 검사 | 2,000단어 모두 통과. 범위 밖 단어 1개 등의 경고는 남음. 같은 품사 대표 뜻·연어·설명 중복은 테스트로 막음 |
-| 검토 | 작성자 전체 재검토 1회(2026-10-17, [수정 목록](highschool-review-2026-10.md)). Codex 독립 검토 5회차 완료(2026-10-18, 뜻 2,594개 전부, [기록](../content/highschool/v1/review/codex-v1/README.md)). 사람 승인 0건 |
+| 검토 | 작성자 전체 재검토 1회(2026-10-17, [수정 목록](highschool-review-2026-10.md)). Codex 독립 검토 7회차 완료(2026-10-18, 사람 검수 1차 반영분 포함 뜻 2,594개 전부, [기록](../content/highschool/v1/review/codex-v1/README.md)). 사람 승인 0건 |
 | 앱 설치 | `assets/content/`에 개발용(`developmentOnly`)으로 설치. release 빌드는 기존처럼 차단됨 |
 
 이전 중학 파일럿(100개 표제어)은 `content/previews/pilot-v2/`와 `content/pilots/pilot-v1/`에 그대로 보존했다.
@@ -105,6 +105,10 @@ cd content/highschool/v1/review/codex-v1 && cat prompt.md batches/batch-01.txt |
 .venv-content/bin/python -m tool.content install content/releases/high-1.0.0
 ```
 
+### 표제어 표기
+
+교재 목록의 표제어는 소문자·단수로 정규화되어 있다. 고유명사(Antarctica)나 복수형으로만 쓰는 뜻(customs 세관), 표준 표현이 다른 숙어(with respect to)는 `content/highschool/v1/display_forms.json`에 뜻(`headword|pos|slug`)별 표기를 적는다. 목록 키와 뜻 ID는 바뀌지 않고, 앱은 그 뜻에서만 이 표기를 보여 주고 철자 정답으로도 받는다. 표기는 그 뜻의 검토 해시에 들어간다.
+
 ### 웹 승인 화면
 
 `tool/review-web/index.html`은 claude.ai Artifact로 게시하는 승인 화면이다. 뜻 카드마다 뜻·설명·연어·예문 2개·유의어와 Codex 지적을 보여 주고 **승인**·**수정 필요**·**반려**를 누른다(키보드 `J`/`K`로 이동, `A`·`F`·`R`로 결정). 수정·반려는 이유를 적어야 저장된다.
@@ -112,6 +116,7 @@ cd content/highschool/v1/review/codex-v1 && cat prompt.md batches/batch-01.txt |
 - 데이터: `hs-review-web-export`가 만든 `build/review-web/senses.json`을 화면과 함께 게시한다(저장소에는 넣지 않는다). 원고를 고치면 다시 만들어 게시한다.
 - 저장: 결정은 Artifact 저장소 `review/<part>/decisions/<뜻 id>`에 `{senseKey, inputHash, decision, note, reviewerId, decidedAt}`로 남는다. 검수자는 처음에 자기 이름을 `reviewers/<계정 id>`에 저장하고, 그 문서는 본인만 고칠 수 있다.
 - 원고가 바뀐 뜻은 해시가 달라 화면에 '원고 바뀜'으로 표시되고 미결정으로 센다.
+- 화면 저장소에 현재 원고 기준 결정이 없으면 저장소 `decisions.jsonl`에 기록된 결정(데이터 파일의 `repo`)을 '저장소 기록'으로 보여 준다.
 - 권한: 소유자와 기여자(Contributor) 이상만 결정을 남긴다. 다른 검수자에게는 Share 메뉴에서 기여자 권한을 준다.
 - 가져오기: 화면의 **결정 파일 받기**로 받은 JSON을 `hs-review-web-import`로 `decisions.jsonl`에 더한다. 해시가 다른 결정은 건너뛰어 보고하고, 이미 기록된 같은 결정은 다시 쓰지 않으므로 같은 파일을 여러 번 가져와도 된다. 기계 검토자 이름은 여기서도 받지 않는다.
 
