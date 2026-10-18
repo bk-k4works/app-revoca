@@ -69,6 +69,22 @@ class HighSchoolTest(unittest.TestCase):
         self.assertTrue(any('평서체' in w for w in high))
         self.assertTrue(any('해요체' in w for w in middle))
 
+    def test_display_forms_belong_to_one_sense_and_keep_list_keys(self):
+        forms = highschool.display_forms()
+        keys = {'|'.join(line.split('|')[:3]) for f in AUTHORED.glob('*.txt')
+                for line in f.read_text().splitlines() if line.strip() and not line.startswith('#')}
+        self.assertLessEqual(set(forms), keys)
+        rows = highschool.hs_sources()
+        # The list itself is unchanged: forms only add variant spellings.
+        self.assertEqual(set(rows), set(sources(highschool.HS_SOURCE)))
+        self.assertIn('customs', rows['custom']['variants'])
+        self.assertNotIn('antarctica', [v.lower() for v in rows['antarctica']['variants']])
+        entries = {e['headword']: e for e in highschool.parse_authored(AUTHORED, rows)}
+        spellings = {c['senseSlug']: c['acceptedSpellings'] for c in entries['custom']['senseCandidates']}
+        self.assertEqual(spellings, {'tradition': ['custom'], 'border-control': ['custom', 'customs']})
+        belonging = {c['senseSlug']: c['acceptedSpellings'] for c in entries['belonging']['senseCandidates']}
+        self.assertEqual(belonging['feeling-part-of'], ['belonging'])
+
     def test_authored_rows_do_not_repeat_across_headwords(self):
         rows = [line.split('|') for f in sorted(AUTHORED.glob('*.txt'))
                 for line in f.read_text().splitlines() if line.strip() and not line.startswith('#')]

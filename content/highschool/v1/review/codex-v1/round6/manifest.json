@@ -1,0 +1,633 @@
+[
+ {
+  "batch": "round6-01",
+  "senses": [
+   {
+    "key": "issue|v|give-out",
+    "inputHash": "644173078e2b1642"
+   },
+   {
+    "key": "version|n|side-of-story",
+    "inputHash": "030c2f46af9032cb"
+   },
+   {
+    "key": "nature|n|natural-world",
+    "inputHash": "2665ce27d3e020c9"
+   },
+   {
+    "key": "balance|n|remaining-money",
+    "inputHash": "ba2f39b3e6ff53e5"
+   },
+   {
+    "key": "register|v|sign-up",
+    "inputHash": "57a5d346565a50a8"
+   },
+   {
+    "key": "immediate|adj|nearest",
+    "inputHash": "c551418abd72a0c3"
+   },
+   {
+    "key": "contain|v|control",
+    "inputHash": "a58f392ab2d3df8c"
+   },
+   {
+    "key": "hire|v|employ",
+    "inputHash": "03679fcbc6a0d4f1"
+   },
+   {
+    "key": "remind|v|cause-to-remember",
+    "inputHash": "ff2eec07e490652d"
+   },
+   {
+    "key": "flood|n|overflow",
+    "inputHash": "a9c0295913392983"
+   },
+   {
+    "key": "trap|n|device",
+    "inputHash": "adac67ec479e4a43"
+   },
+   {
+    "key": "fortune|n|luck",
+    "inputHash": "ae96323c17e6a07d"
+   },
+   {
+    "key": "drag|v|pull",
+    "inputHash": "8e6d0880026abbac"
+   },
+   {
+    "key": "blank|adj|empty",
+    "inputHash": "1af21ecc81741b5b"
+   },
+   {
+    "key": "attach|v|fasten",
+    "inputHash": "5efa9091304276c9"
+   },
+   {
+    "key": "govern|v|rule",
+    "inputHash": "50f6f89858dd2368"
+   },
+   {
+    "key": "interrupt|v|break-in",
+    "inputHash": "4b6ce52ff018ae02"
+   },
+   {
+    "key": "given|adj|fixed",
+    "inputHash": "e35d7921c25ecbf3"
+   },
+   {
+    "key": "former|pron|first-of-two",
+    "inputHash": "05071122529a71e5"
+   },
+   {
+    "key": "official|adj|formal",
+    "inputHash": "85e0865c0d72caaf"
+   },
+   {
+    "key": "management|n|control",
+    "inputHash": "54bff7d14959fe18"
+   },
+   {
+    "key": "related|adj|connected",
+    "inputHash": "1bd995b1b75d0dd6"
+   },
+   {
+    "key": "difference|n|unlikeness",
+    "inputHash": "fef4f575ab43bd1c"
+   },
+   {
+    "key": "treatment|n|medical-care",
+    "inputHash": "dacc41b003c24d90"
+   },
+   {
+    "key": "absolutely|adv|completely",
+    "inputHash": "3faa1edfe278df2b"
+   },
+   {
+    "key": "administration|n|management",
+    "inputHash": "acec33daaddeecbf"
+   },
+   {
+    "key": "agreement|n|deal",
+    "inputHash": "a066963b06292cea"
+   },
+   {
+    "key": "executive|n|manager",
+    "inputHash": "718803ccf88482db"
+   },
+   {
+    "key": "status|n|position",
+    "inputHash": "22fc01d16bee62bb"
+   },
+   {
+    "key": "critical|adj|crucial",
+    "inputHash": "e040d7b8bd90eafb"
+   },
+   {
+    "key": "assistant|n|helper",
+    "inputHash": "c7d36fa977d749d5"
+   },
+   {
+    "key": "conservative|adj|traditional",
+    "inputHash": "a4339c405b35e0f8"
+   },
+   {
+    "key": "fantasy|n|imagination",
+    "inputHash": "ad2ad91a2d6d5b44"
+   },
+   {
+    "key": "contemporary|adj|modern",
+    "inputHash": "3c30d14dc43d7bb7"
+   },
+   {
+    "key": "format|n|layout",
+    "inputHash": "bcacb49b5200dd74"
+   },
+   {
+    "key": "awful|adj|terrible",
+    "inputHash": "a5c64f2f77a119f7"
+   },
+   {
+    "key": "fort|n|stronghold",
+    "inputHash": "c39a562467ffdc34"
+   },
+   {
+    "key": "penalty|n|punishment",
+    "inputHash": "cad0c03e4f2aec6a"
+   },
+   {
+    "key": "rating|n|score",
+    "inputHash": "4bf7635ed8aae398"
+   },
+   {
+    "key": "explanation|n|reason",
+    "inputHash": "a62a6441e5346970"
+   },
+   {
+    "key": "exposure|n|being-exposed",
+    "inputHash": "33d728df0a5bf728"
+   },
+   {
+    "key": "welfare|n|well-being",
+    "inputHash": "5b9d07633aefbbe3"
+   },
+   {
+    "key": "efficient|adj|effective",
+    "inputHash": "89c0a6ae5d4223f2"
+   },
+   {
+    "key": "decent|adj|honest",
+    "inputHash": "986aa50e2aad1483"
+   },
+   {
+    "key": "disaster|n|catastrophe",
+    "inputHash": "0963ba2c6bd77aef"
+   },
+   {
+    "key": "reduction|n|decrease",
+    "inputHash": "f9d700339dbd24ce"
+   },
+   {
+    "key": "passenger|n|traveler",
+    "inputHash": "6fa9dbc0f0684191"
+   },
+   {
+    "key": "fame|n|being-famous",
+    "inputHash": "003a08b6838bf4f3"
+   },
+   {
+    "key": "conservation|n|protection",
+    "inputHash": "7d45643370726920"
+   },
+   {
+    "key": "aggressive|adj|hostile",
+    "inputHash": "96a42891d12cc96a"
+   },
+   {
+    "key": "apparent|adj|obvious",
+    "inputHash": "906ef73265a739f7"
+   },
+   {
+    "key": "registration|n|signing-up",
+    "inputHash": "17678ffe9ce782b0"
+   },
+   {
+    "key": "tissue|n|paper",
+    "inputHash": "55c6bec2e10f3c31"
+   },
+   {
+    "key": "stability|n|steadiness",
+    "inputHash": "2f939fd8ae5adf3e"
+   },
+   {
+    "key": "controversy|n|dispute",
+    "inputHash": "67e897deccf262e2"
+   },
+   {
+    "key": "pursue|v|chase-goal",
+    "inputHash": "9edc829e618cce02"
+   },
+   {
+    "key": "venture|n|risky-project",
+    "inputHash": "396e04708a99adff"
+   },
+   {
+    "key": "substance|n|meaning",
+    "inputHash": "f550b34871871077"
+   },
+   {
+    "key": "productive|adj|efficient",
+    "inputHash": "8b024ea2b9d6a4a0"
+   },
+   {
+    "key": "useless|adj|worthless",
+    "inputHash": "7aa7a0c81f6699ff"
+   },
+   {
+    "key": "accessible|adj|reachable",
+    "inputHash": "4949224fdd580922"
+   },
+   {
+    "key": "crush|v|squeeze",
+    "inputHash": "1273b55466e55503"
+   },
+   {
+    "key": "reflection|n|mirror-image",
+    "inputHash": "a20039a37e2a4940"
+   },
+   {
+    "key": "acceptance|n|approval",
+    "inputHash": "355918277179319a"
+   },
+   {
+    "key": "elderly|adj|old",
+    "inputHash": "01a195dfa2e29ab0"
+   },
+   {
+    "key": "strain|v|overwork",
+    "inputHash": "f482d9bce2306fe2"
+   },
+   {
+    "key": "abstract|adj|conceptual",
+    "inputHash": "d87fd50259e1b993"
+   },
+   {
+    "key": "abstract|n|summary",
+    "inputHash": "06eaeba763bd00b5"
+   },
+   {
+    "key": "alike|adv|equally",
+    "inputHash": "4f959159c92bbbb7"
+   },
+   {
+    "key": "import|n|imported-goods",
+    "inputHash": "761604508f8d5a17"
+   },
+   {
+    "key": "lung|n|breathing-organ",
+    "inputHash": "a25ca2b48bc3586b"
+   },
+   {
+    "key": "suspicious|adj|doubtful",
+    "inputHash": "7b5545cd6aaf8dff"
+   },
+   {
+    "key": "exhausted|adj|very-tired",
+    "inputHash": "503e84cbd68756d3"
+   },
+   {
+    "key": "miserable|adj|unhappy",
+    "inputHash": "91d3436d45b0b5de"
+   },
+   {
+    "key": "aging|n|growing-old",
+    "inputHash": "2d1d53532c24170e"
+   }
+  ]
+ },
+ {
+  "batch": "round6-02",
+  "senses": [
+   {
+    "key": "ladder|n|climbing-steps",
+    "inputHash": "6a72eb89497de2be"
+   },
+   {
+    "key": "convenience|n|ease",
+    "inputHash": "a84d4d799a10b884"
+   },
+   {
+    "key": "evaluate|v|assess",
+    "inputHash": "a929398251a478c2"
+   },
+   {
+    "key": "donation|n|gift",
+    "inputHash": "5c6efe114b4c4252"
+   },
+   {
+    "key": "firmly|adv|strongly",
+    "inputHash": "70274ce41ecbc3b0"
+   },
+   {
+    "key": "lottery|n|draw",
+    "inputHash": "eb906f49a3f88dae"
+   },
+   {
+    "key": "absent|adj|not-present",
+    "inputHash": "080b84b2edea63a8"
+   },
+   {
+    "key": "organize|v|arrange",
+    "inputHash": "289758f99e03f2e2"
+   },
+   {
+    "key": "sigh|v|breathe-out",
+    "inputHash": "43c8d5b1a04660eb"
+   },
+   {
+    "key": "decay|v|rot",
+    "inputHash": "dc1d558a742de069"
+   },
+   {
+    "key": "peel|v|remove-skin",
+    "inputHash": "7d9742ee78211ec2"
+   },
+   {
+    "key": "neglect|n|lack-of-care",
+    "inputHash": "8b3dd9c67bb89ffa"
+   },
+   {
+    "key": "ingredient|n|component",
+    "inputHash": "873d029bb0ff0f51"
+   },
+   {
+    "key": "drown|v|die-in-water",
+    "inputHash": "84195511f3c4c26f"
+   },
+   {
+    "key": "wander|v|roam",
+    "inputHash": "c3640e4020fbd420"
+   },
+   {
+    "key": "comprise|v|consist-of",
+    "inputHash": "f3c380326824fd94"
+   },
+   {
+    "key": "discourage|v|dishearten",
+    "inputHash": "2571a6d258500500"
+   },
+   {
+    "key": "prohibit|v|forbid",
+    "inputHash": "bb14d97fef23b57f"
+   },
+   {
+    "key": "tempt|v|attract",
+    "inputHash": "5cedf1402c78031b"
+   },
+   {
+    "key": "all the time|phrase|always",
+    "inputHash": "c8ccae81cb91a267"
+   },
+   {
+    "key": "put up with|phrase|tolerate",
+    "inputHash": "8336316e17789678"
+   },
+   {
+    "key": "as soon as|phrase|immediately-after",
+    "inputHash": "bc17aa8180d889b1"
+   },
+   {
+    "key": "heart attack|phrase|cardiac-arrest",
+    "inputHash": "199477e469aaffb4"
+   },
+   {
+    "key": "in advance|phrase|beforehand",
+    "inputHash": "330e7bb06321f628"
+   },
+   {
+    "key": "regardless of|phrase|despite",
+    "inputHash": "9b317e22d4d8e19f"
+   },
+   {
+    "key": "in accordance with|phrase|following",
+    "inputHash": "1455c6f8b9e2ecf9"
+   },
+   {
+    "key": "upside down|phrase|inverted",
+    "inputHash": "3ffa87b59de188d4"
+   },
+   {
+    "key": "vice versa|phrase|the-other-way",
+    "inputHash": "cd6e7d6dc0e318c1"
+   },
+   {
+    "key": "accurately|adv|precisely",
+    "inputHash": "0fe15954881ccde8"
+   },
+   {
+    "key": "resistant|adj|unaffected",
+    "inputHash": "8916e57a8c814049"
+   },
+   {
+    "key": "skinny|adj|very-thin",
+    "inputHash": "da17c4e8785e3143"
+   },
+   {
+    "key": "desperately|adv|urgently",
+    "inputHash": "0d4e57ce44316bde"
+   },
+   {
+    "key": "financially|adv|money-wise",
+    "inputHash": "880724b23be6e8b3"
+   },
+   {
+    "key": "intake|n|consumption",
+    "inputHash": "02330a6da870d3db"
+   },
+   {
+    "key": "enrollment|n|registration",
+    "inputHash": "12fe6c59cae0f211"
+   },
+   {
+    "key": "renewable|adj|sustainable",
+    "inputHash": "b350983e69df7be5"
+   },
+   {
+    "key": "individually|adv|separately",
+    "inputHash": "bdcce8e4e24bd10b"
+   },
+   {
+    "key": "steadily|adv|constantly",
+    "inputHash": "9804d34b8245df8f"
+   },
+   {
+    "key": "drift|v|float",
+    "inputHash": "6ce521fe89019631"
+   },
+   {
+    "key": "obesity|n|being-overweight",
+    "inputHash": "5cb78e57e3e0d91c"
+   },
+   {
+    "key": "reproduction|n|breeding",
+    "inputHash": "1d66d3e074105d0c"
+   },
+   {
+    "key": "extinction|n|dying-out",
+    "inputHash": "18845fe7faa1c8dd"
+   },
+   {
+    "key": "exceptionally|adv|unusually",
+    "inputHash": "25df3e2ae71804a1"
+   },
+   {
+    "key": "hallway|n|corridor",
+    "inputHash": "e6618e769d8f0bca"
+   },
+   {
+    "key": "backward|adv|toward-the-back",
+    "inputHash": "78ba69a718cc69d1"
+   },
+   {
+    "key": "obese|adj|very-overweight",
+    "inputHash": "f9a84478631cf540"
+   },
+   {
+    "key": "casually|adv|informally",
+    "inputHash": "3a39713a91aa6697"
+   },
+   {
+    "key": "outdated|adj|old-fashioned",
+    "inputHash": "39d508e5256e764e"
+   },
+   {
+    "key": "reproduce|v|breed",
+    "inputHash": "1f2cd66774038fae"
+   },
+   {
+    "key": "rectangular|adj|oblong",
+    "inputHash": "51f6c4202e128f01"
+   },
+   {
+    "key": "poisonous|adj|toxic",
+    "inputHash": "1b4fa5ad24972c46"
+   },
+   {
+    "key": "abruptly|adv|suddenly",
+    "inputHash": "5f7a7eead43a4c89"
+   },
+   {
+    "key": "commute|v|travel-to-work",
+    "inputHash": "914f14ffadbbfee8"
+   },
+   {
+    "key": "commute|n|daily-trip",
+    "inputHash": "2737e32214158cf1"
+   },
+   {
+    "key": "radically|adv|completely",
+    "inputHash": "f70949984fbebb80"
+   },
+   {
+    "key": "diaper|n|nappy",
+    "inputHash": "eaf54cea86d0a4bc"
+   },
+   {
+    "key": "thorn|n|sharp-point",
+    "inputHash": "642937e2e77d1822"
+   },
+   {
+    "key": "purposely|adv|deliberately",
+    "inputHash": "c0abb7b2e0b4b8bc"
+   },
+   {
+    "key": "logically|adv|rationally",
+    "inputHash": "e9141069296b1905"
+   },
+   {
+    "key": "irritation|n|annoyance",
+    "inputHash": "0a824fc719fa3656"
+   },
+   {
+    "key": "hurdle|n|obstacle",
+    "inputHash": "6ecd770d3a958737"
+   },
+   {
+    "key": "adhesive|n|glue",
+    "inputHash": "554e596e535285c8"
+   },
+   {
+    "key": "spontaneously|adv|naturally",
+    "inputHash": "e795a06cb027a727"
+   },
+   {
+    "key": "annoyance|n|irritation",
+    "inputHash": "1b9c937a5673d97d"
+   },
+   {
+    "key": "quarrel|n|argument",
+    "inputHash": "b09670290e853ddd"
+   },
+   {
+    "key": "quarrel|v|argue",
+    "inputHash": "a3baf915b0342021"
+   },
+   {
+    "key": "frantically|adv|wildly",
+    "inputHash": "564dae78cc46ec1a"
+   },
+   {
+    "key": "inertia|n|inactivity",
+    "inputHash": "7c33bf1ffe905010"
+   },
+   {
+    "key": "abnormally|adv|unusually",
+    "inputHash": "283f1dc261dfbb29"
+   },
+   {
+    "key": "tremble|v|shake",
+    "inputHash": "d7eff7caf78b8dab"
+   },
+   {
+    "key": "habitually|adv|regularly",
+    "inputHash": "1b14723ee579fae9"
+   },
+   {
+    "key": "doze|v|nap",
+    "inputHash": "3d896014b2a921d4"
+   },
+   {
+    "key": "briskly|adv|quickly",
+    "inputHash": "8b21cf0746c69541"
+   },
+   {
+    "key": "contagiousness|n|infectiousness",
+    "inputHash": "cab37ff91e2226e0"
+   }
+  ]
+ },
+ {
+  "batch": "round6-03",
+  "senses": [
+   {
+    "key": "custom|n|border-control",
+    "inputHash": "27563758c11bb6f5"
+   },
+   {
+    "key": "atlantic|adj|ocean",
+    "inputHash": "9ba9deb0d1c5f0ab"
+   },
+   {
+    "key": "belonging|n|possessions",
+    "inputHash": "413f95a173dbe014"
+   },
+   {
+    "key": "in respect to|phrase|concerning",
+    "inputHash": "bbebcffe133971eb"
+   },
+   {
+    "key": "antarctica|n|south-pole-continent",
+    "inputHash": "0ffa2f63a3077b49"
+   }
+  ]
+ }
+]

@@ -76,7 +76,8 @@ class Sense {
         id: json['id'],
         headword: Headword(
           id: json['headwordId'],
-          term: json['headword'],
+          // A display form (Antarctica, customs) may differ from the list key.
+          term: json['term'] ?? json['headword'],
           acceptedSpellings: List<String>.from(json['acceptedSpellings']),
           source: Map<String, dynamic>.from(json['source'] ?? {}),
         ),

@@ -1,0 +1,155 @@
+[
+ {
+  "batch": "round7-01",
+  "senses": [
+   {
+    "key": "register|v|sign-up",
+    "inputHash": "57532cdc9caa0878"
+   },
+   {
+    "key": "fortune|n|luck",
+    "inputHash": "ad6fbe73b9003890"
+   },
+   {
+    "key": "drag|v|pull",
+    "inputHash": "1f6a7293327afbe7"
+   },
+   {
+    "key": "blank|adj|empty",
+    "inputHash": "740fd5438dd180b5"
+   },
+   {
+    "key": "official|adj|formal",
+    "inputHash": "fbe55476a8886a6c"
+   },
+   {
+    "key": "agreement|n|deal",
+    "inputHash": "719a70b743f3a3d6"
+   },
+   {
+    "key": "executive|n|manager",
+    "inputHash": "66e09174b304f6b4"
+   },
+   {
+    "key": "fantasy|n|imagination",
+    "inputHash": "d5c825e9f2fb1d33"
+   },
+   {
+    "key": "contemporary|adj|modern",
+    "inputHash": "e2097a4e4274306f"
+   },
+   {
+    "key": "penalty|n|punishment",
+    "inputHash": "ccab525f4a512a75"
+   },
+   {
+    "key": "welfare|n|well-being",
+    "inputHash": "e4c1c12028edd018"
+   },
+   {
+    "key": "efficient|adj|effective",
+    "inputHash": "c130c23698606a4f"
+   },
+   {
+    "key": "decent|adj|honest",
+    "inputHash": "ff386a23c13f4606"
+   },
+   {
+    "key": "fame|n|being-famous",
+    "inputHash": "427e6077810764ad"
+   },
+   {
+    "key": "conservation|n|protection",
+    "inputHash": "e55f23564ade9696"
+   },
+   {
+    "key": "stability|n|steadiness",
+    "inputHash": "d61a6909c0300a90"
+   },
+   {
+    "key": "controversy|n|dispute",
+    "inputHash": "f3c0299e7e0bdc14"
+   },
+   {
+    "key": "productive|adj|efficient",
+    "inputHash": "fce8b3df6f830119"
+   },
+   {
+    "key": "lung|n|breathing-organ",
+    "inputHash": "1114e70febb995ff"
+   },
+   {
+    "key": "miserable|adj|unhappy",
+    "inputHash": "a937ac8ff527e033"
+   },
+   {
+    "key": "aging|n|growing-old",
+    "inputHash": "5b8d5440c7f04b0b"
+   },
+   {
+    "key": "donation|n|gift",
+    "inputHash": "1772afbc815036d7"
+   },
+   {
+    "key": "firmly|adv|strongly",
+    "inputHash": "47582ca668542ae3"
+   },
+   {
+    "key": "decay|v|rot",
+    "inputHash": "aa27a82995314f55"
+   },
+   {
+    "key": "drown|v|die-in-water",
+    "inputHash": "b004835f6e029c88"
+   },
+   {
+    "key": "resistant|adj|unaffected",
+    "inputHash": "6b8eeaca1ce57b98"
+   },
+   {
+    "key": "enrollment|n|registration",
+    "inputHash": "f2597f7d196e7634"
+   },
+   {
+    "key": "individually|adv|separately",
+    "inputHash": "2cb054b70276e25c"
+   },
+   {
+    "key": "steadily|adv|constantly",
+    "inputHash": "73fcba9e6fa69509"
+   },
+   {
+    "key": "drift|v|float",
+    "inputHash": "557bb73319cb24fd"
+   },
+   {
+    "key": "reproduction|n|breeding",
+    "inputHash": "6275028f8c59e526"
+   },
+   {
+    "key": "extinction|n|dying-out",
+    "inputHash": "c8ce761e95bb2a88"
+   },
+   {
+    "key": "backward|adv|toward-the-back",
+    "inputHash": "52825866270f5aaf"
+   },
+   {
+    "key": "outdated|adj|old-fashioned",
+    "inputHash": "6cf49fe426b7d705"
+   },
+   {
+    "key": "rectangular|adj|oblong",
+    "inputHash": "66fb870029ab27b3"
+   },
+   {
+    "key": "poisonous|adj|toxic",
+    "inputHash": "7d8a237287b3c6b7"
+   },
+   {
+    "key": "thorn|n|sharp-point",
+    "inputHash": "235df14ad13db8ff"
+   }
+  ]
+ }
+]

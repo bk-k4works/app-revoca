@@ -5,7 +5,7 @@ scholar|n|academic|학자|어떤 분야를 깊이 연구하는 사람이에요.|
 absurd|adj|ridiculous|터무니없는; 불합리한|말이 안 될 만큼 어리석은 것이에요.|an absurd idea|터무니없는 생각|It is absurd to wear a coat in summer.|여름에 코트를 입는 것은 터무니없다.|The idea sounded absurd at first, but it worked.|그 생각은 처음엔 터무니없게 들렸지만 효과가 있었다.|ridiculous
 ambitious|adj|determined|야심 있는; 야심 찬|크게 성공하려는 마음이 강한 것이에요.|an ambitious plan|야심 찬 계획|She is an ambitious young scientist.|그녀는 야심 있는 젊은 과학자이다.|The city has ambitious plans for a new park.|그 도시는 새 공원을 짓는 야심 찬 계획을 세웠다.
 critic|n|reviewer|비평가; 비판하는 사람|작품을 평가하거나 무엇을 비판하는 사람이에요.|a film critic|영화 평론가|The critic gave the movie five stars.|그 평론가는 영화에 별 다섯 개를 주었다.|Critics of the plan say it is too expensive.|그 계획을 비판하는 사람들은 너무 비싸다고 말한다.
-sigh|v|breathe-out|한숨 쉬다|지치거나 실망해서 숨을 길게 내쉴 때 써요.|sigh deeply|깊이 한숨 쉬다|She sighed when she saw the long line.|그녀는 긴 줄을 보고 한숨을 쉬었다.|He sighed with relief after the exam.|그는 시험이 끝나자 안도의 한숨을 쉬었다.
+sigh|v|breathe-out|한숨 쉬다|피로·실망·안도 등으로 숨을 길게 내쉴 때 써요.|sigh deeply|깊이 한숨 쉬다|She sighed when she saw the long line.|그녀는 긴 줄을 보고 한숨을 쉬었다.|He sighed with relief after the exam.|그는 시험이 끝나자 안도의 한숨을 쉬었다.
 sigh|n|deep-breath|한숨|길게 내쉬는 숨이에요.|a sigh of relief|안도의 한숨|She let out a long sigh.|그녀는 긴 한숨을 내쉬었다.|We all breathed a sigh of relief.|우리는 모두 안도의 한숨을 쉬었다.
 spouse|n|husband-or-wife|배우자|결혼한 상대인 남편이나 아내예요.|your spouse|당신의 배우자|Employees can bring their spouses to the party.|직원들은 배우자를 파티에 데려올 수 있다.|Please write your spouse's name on the form.|양식에 배우자의 이름을 적어라.
 consist|v|be-made-up|이루어져 있다|consist of로 무엇으로 구성되어 있음을 말해요.|consist of|~으로 구성되다|The team consists of ten players.|그 팀은 선수 열 명으로 구성되어 있다.|A healthy breakfast consists of fruit, eggs, and bread.|건강한 아침 식사는 과일, 달걀, 빵으로 이루어진다.
@@ -45,7 +45,7 @@ enthusiastic|adj|eager|열렬한; 열정적인|매우 신이 나서 적극적인
 envy|n|jealousy|부러움; 질투|남이 가진 것을 갖고 싶은 마음이에요.|feel envy|부러움을 느끼다|She felt a little envy when her friend won the prize.|친구가 상을 받자 그녀는 조금 부러움을 느꼈다.|His new car is the envy of his neighbors.|그의 새 차는 이웃들의 부러움을 산다.|jealousy
 envy|v|be-jealous|부러워하다|남이 가진 것을 탐낼 때 써요.|envy someone|~을 부러워하다|I envy people who can speak many languages.|나는 여러 언어를 할 줄 아는 사람들이 부럽다.|Many people envied her success.|많은 사람이 그녀의 성공을 부러워했다.
 convey|v|communicate|전달하다; 운반하다|생각이나 물건을 다른 곳에 전할 때 써요.|convey a message|메시지를 전달하다|The painting conveys a feeling of peace.|그 그림은 평화로운 느낌을 전한다.|Pipes convey water to the city.|관이 도시로 물을 운반한다.|communicate
-decay|v|rot|썩다; 쇠퇴하다|시간이 지나며 상하거나 약해질 때 써요.|tooth decay|충치|Sugar can cause your teeth to decay.|설탕은 이를 썩게 할 수 있다.|The old building has started to decay.|그 오래된 건물이 허물어지기 시작했다.|rot
+decay|v|rot|썩다; 쇠퇴하다|시간이 지나며 상하거나 약해질 때 써요.|decay slowly|서서히 썩다|Sugar can cause your teeth to decay.|설탕은 이를 썩게 할 수 있다.|The old building has started to decay.|그 오래된 건물이 점점 낡아 가기 시작했다.|rot
 decay|n|rotting|부패; 쇠퇴|썩거나 약해지는 것이에요.|in decay|쇠퇴하는|Brushing your teeth prevents decay.|이를 닦으면 충치를 막을 수 있다.|The town fell into decay after the factory closed.|공장이 문을 닫은 뒤 그 마을은 쇠퇴했다.
 imply|v|suggest|넌지시 말하다; 암시하다|직접 말하지 않고 뜻을 드러낼 때 써요.|imply that|~을 암시하다|Are you implying that I am lazy?|내가 게으르다고 말하고 싶은 거니?|His silence implied that he agreed.|그의 침묵은 그가 동의한다는 것을 암시했다.|suggest
 obey|v|follow|따르다; 복종하다|규칙이나 명령대로 할 때 써요.|obey the rules|규칙을 따르다|Drivers must obey traffic laws.|운전자는 교통 법규를 지켜야 한다.|The dog obeyed every command.|그 개는 모든 명령에 따랐다.|follow
@@ -63,7 +63,7 @@ reluctant|adj|unwilling|꺼리는; 마지못한|하고 싶지 않아 망설이�
 undergo|v|go-through|겪다; 받다|변화나 치료, 시험 등을 거칠 때 써요.|undergo surgery|수술을 받다|He underwent surgery on his knee.|그는 무릎 수술을 받았다.|The city is undergoing big changes.|그 도시는 큰 변화를 겪고 있다.|experience
 evolve|v|develop|진화하다; 발전하다|오랜 시간에 걸쳐 조금씩 변할 때 써요.|evolve over time|시간이 지나며 발전하다|Humans evolved over millions of years.|인간은 수백만 년에 걸쳐 진화했다.|The company has evolved into a global business.|그 회사는 세계적인 기업으로 발전했다.|develop
 explode|v|blow-up|폭발하다; 급증하다|갑자기 터지거나 수가 크게 늘 때 써요.|explode suddenly|갑자기 폭발하다|The firework exploded in the night sky.|불꽃이 밤하늘에서 터졌다.|The number of online users exploded last year.|작년에 온라인 사용자 수가 폭증했다.|burst
-peel|v|remove-skin|껍질을 벗기다; (겉면이) 벗겨지다|과일이나 채소의 껍질을 벗길 때 써요.|peel an orange|오렌지 껍질을 벗기다|Peel the potatoes before you cook them.|요리하기 전에 감자 껍질을 벗겨라.|The paint is peeling off the wall.|벽의 페인트가 벗겨지고 있다.
+peel|v|remove-skin|껍질을 벗기다; (겉면이) 벗겨지다|껍질이나 겉면을 벗기거나 그것이 벗겨질 때 써요.|peel an orange|오렌지 껍질을 벗기다|Peel the potatoes before you cook them.|요리하기 전에 감자 껍질을 벗겨라.|The paint is peeling off the wall.|벽의 페인트가 벗겨지고 있다.
 peel|n|skin|껍질|과일이나 채소의 겉껍질이에요.|orange peel|오렌지 껍질|Throw the banana peel in the trash.|바나나 껍질을 쓰레기통에 버려라.|Lemon peel gives the cake a nice smell.|레몬 껍질은 케이크에 좋은 향을 낸다.|skin
 restrict|v|limit|제약하다; 제한하다|양이나 범위를 정해 넘지 못하게 할 때 써요.|restrict access|접근을 제한하다|The school restricts phone use during class.|학교는 수업 중 휴대전화 사용을 제한한다.|Access to the area is restricted.|그 지역은 출입이 제한된다.|limit
 cooperate|v|work-together|협력하다; 협조하다|함께 힘을 모아 일할 때 써요.|cooperate with|~와 협력하다|The two schools cooperated on the project.|두 학교는 그 프로젝트에 협력했다.|Please cooperate with the police.|경찰에 협조해 달라.

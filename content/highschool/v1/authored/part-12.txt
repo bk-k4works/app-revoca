@@ -18,14 +18,14 @@ basic|adj|fundamental|기본적인; 기초의|가장 중요하고 처음 알아�
 effective|adj|successful|효과적인|원하는 결과를 잘 내는 것이에요.|an effective way|효과적인 방법|Exercise is an effective way to reduce stress.|운동은 스트레스를 줄이는 효과적인 방법이다.|The new medicine is very effective.|새 약은 매우 효과적이다.
 highly|adv|very|대단히; 매우|정도가 아주 높을 때 써요.|highly recommend|강력히 추천하다|I highly recommend this book to students who enjoy science.|나는 과학을 좋아하는 학생들에게 이 책을 강력히 추천한다.|She is a highly skilled doctor.|그녀는 매우 숙련된 의사이다.
 reality|n|truth|현실; 실제|상상이 아니라 실제로 있는 것이에요.|in reality|실제로는|The dream finally became a reality.|그 꿈은 마침내 현실이 되었다.|In reality, the job was much harder.|실제로 그 일은 훨씬 더 힘들었다.
-agreement|n|deal|협정; 합의|서로 지키기로 한 약속이에요.|reach an agreement|합의에 이르다|The two countries signed a trade agreement.|두 나라는 무역 협정에 서명했다.|We finally reached an agreement.|우리는 마침내 합의에 이르렀다.|contract
+agreement|n|deal|협정; 합의|서로 지키기로 한 약속이에요.|reach an agreement|합의에 이르다|The two countries signed a trade agreement.|두 나라는 무역 협정에 서명했다.|We have finally reached an agreement.|우리는 마침내 합의에 이르렀다.
 agreement|n|same-opinion|동의; 일치|생각이 같은 것이에요.|in agreement|동의하여|Everyone was in agreement about the plan.|모두가 그 계획에 동의했다.|She nodded in agreement with the teacher's suggestion.|그녀는 선생님의 제안에 동의한다는 뜻으로 고개를 끄덕였다.
 equipment|n|tools|장비; 설비|어떤 일에 필요한 도구나 기계예요.|sports equipment|운동 장비|The gym has new exercise equipment.|그 체육관에는 새 운동 기구가 있다.|Safety equipment must be worn at all times.|안전 장비는 항상 착용해야 한다.|gear
 eventually|adv|finally|결국; 마침내|오랜 시간이나 과정 끝에를 뜻해요.|eventually succeed|결국 성공하다|He eventually found his lost dog.|그는 결국 잃어버린 개를 찾았다.|Hard work will eventually pay off.|노력은 결국 결실을 맺을 것이다.|finally
 primary|adj|main|주된; 주요한|가장 중요하거나 첫째가는 것이에요.|the primary reason|주된 이유|The primary goal of the project is safety.|그 프로젝트의 주된 목표는 안전이다.|Rice is the primary food in many Asian countries.|쌀은 많은 아시아 국가에서 주식이다.|main
 primary|adj|elementary|초등의; 초기의|교육의 첫 단계나 어떤 과정의 초기와 관련된 것이에요.|primary school|초등학교|She teaches at a primary school.|그녀는 초등학교에서 가르친다.|The primary stage of the disease has no symptoms.|그 병의 초기 단계에는 증상이 없다.
-executive|n|manager|임원; 경영진|회사에서 중요한 결정을 하는 사람이에요.|a company executive|회사 임원|She became a top executive at the bank.|그녀는 그 은행의 최고 임원이 되었다.|The executives met to discuss the plan.|임원들은 그 계획을 논의하려고 모였다.|manager
-status|n|position|지위; 상태|사회적 위치나 현재 상황이에요.|social status|사회적 지위|Money does not always bring high status.|돈이 항상 높은 지위를 가져다주는 것은 아니다.|You can check the status of your order online.|온라인으로 주문 상태를 확인할 수 있다.|position
+executive|n|manager|임원; 경영진|회사에서 중요한 결정을 하는 사람이에요.|a company executive|회사 임원|She became a top executive at the bank.|그녀는 그 은행의 고위 임원이 되었다.|The executives met to discuss the plan.|임원들은 그 계획을 논의하려고 모였다.
+status|n|position|지위; 상태|사회적 위치나 현재 상황이에요.|social status|사회적 지위|Money does not always bring high status.|돈이 항상 높은 지위를 가져다주는 것은 아니다.|You can check the status of your order online.|온라인으로 주문 상태를 확인할 수 있다.
 activity|n|action|활동|무엇을 하며 움직이는 일이에요.|outdoor activities|야외 활동|The school offers many after-school activities.|그 학교는 많은 방과 후 활동을 제공한다.|Physical activity is good for your heart.|신체 활동은 심장에 좋다.
 application|n|request|지원서; 신청|일자리나 학교에 들어가려고 내는 서류예요.|a job application|입사 지원서|I sent my application to three universities.|나는 세 대학에 지원서를 보냈다.|The application deadline is next Friday.|신청 마감일은 다음 주 금요일이다.
 application|n|program|응용 프로그램; 앱|휴대전화나 컴퓨터에서 쓰는 프로그램이에요.|download an application|앱을 내려받다|This application helps you learn new words.|이 앱은 새 단어를 배우는 데 도움을 준다.|Close all applications before restarting the computer.|컴퓨터를 다시 시작하기 전에 모든 프로그램을 닫아라.|app
@@ -41,7 +41,7 @@ religious|adj|of-religion|종교의; 신앙심이 깊은|종교와 관련되거�
 investment|n|putting-money|투자|이익을 바라고 돈이나 시간을 들이는 것이에요.|a good investment|좋은 투자|Education is the best investment for the future.|교육은 미래를 위한 최고의 투자이다.|The company made a big investment in new technology.|그 회사는 새 기술에 큰 투자를 했다.
 solution|n|answer|해결책; 정답|문제를 푸는 방법이나 답이에요.|find a solution|해결책을 찾다|We need to find a solution to this problem.|우리는 이 문제의 해결책을 찾아야 한다.|Check the solutions at the back of the book.|책 뒤쪽의 정답을 확인해라.|answer
 solution|n|liquid-mix|용액|물질이 녹아 있는 액체예요.|a salt solution|소금물|Put the egg in a salt solution.|달걀을 소금물에 넣어라.|The nurse cleaned the wound with a special solution.|간호사는 특수 용액으로 상처를 소독했다.
-critical|adj|crucial|중대한; 결정적인|매우 중요하거나 위험한 것이에요.|a critical moment|결정적인 순간|Sleep is critical for brain health.|수면은 뇌 건강에 매우 중요하다.|The patient is in critical condition.|그 환자는 위독한 상태이다.|crucial
+critical|adj|crucial|중대한; 결정적인; 위독한|매우 중요하거나 목숨이 위험할 만큼 상태가 나쁜 것이에요.|a critical moment|결정적인 순간|Sleep is critical for brain health.|수면은 뇌 건강에 매우 중요하다.|The patient is in critical condition.|그 환자는 위독한 상태이다.|crucial
 critical|adj|judging|비판적인|잘못을 따지거나 꼼꼼히 판단하는 것이에요.|critical thinking|비판적 사고|Critical thinking is an important skill.|비판적 사고는 중요한 능력이다.|She was very critical of the new rules.|그녀는 새 규칙을 매우 비판했다.
 owner|n|possessor|주인; 소유자|무엇을 가진 사람이에요.|the owner of|~의 주인|The owner of the shop is very friendly.|그 가게 주인은 매우 친절하다.|Dog owners must clean up after their pets.|개 주인은 반려견의 배설물을 치워야 한다.
 realize|v|understand|깨닫다; 알아차리다|어떤 사실을 분명히 알게 될 때 써요.|realize the truth|진실을 깨닫다|I suddenly realized that I had left my bag on the bus.|나는 버스에 가방을 두고 내렸다는 것을 갑자기 깨달았다.|She did not realize how late it was.|그녀는 얼마나 늦었는지 알아차리지 못했다.|understand
@@ -83,7 +83,7 @@ description|n|account|묘사; 설명|모습이나 일을 말이나 글로 나타
 nuclear|adj|atomic|핵의; 원자력의|원자핵이나 핵에너지와 관련된 것이에요.|nuclear power|원자력|The country has two nuclear power plants.|그 나라에는 원자력 발전소가 두 곳 있다.|Many people fear nuclear war.|많은 사람이 핵전쟁을 두려워한다.
 reaction|n|response|반응|어떤 일에 대한 행동이나 느낌이에요.|a quick reaction|빠른 반응|What was his reaction to the news?|그 소식에 대한 그의 반응은 어땠니?|Some people have a bad reaction to peanuts.|어떤 사람들은 땅콩에 나쁜 반응을 보인다.|response
 reaction|n|chemical-change|(화학) 반응|물질이 서로 만나 변하는 일이에요.|a chemical reaction|화학 반응|Burning wood is a chemical reaction.|나무가 타는 것은 화학 반응이다.|The scientist studied the reaction between the two gases.|그 과학자는 두 기체 사이의 반응을 연구했다.
-assistant|n|helper|조수; 보조원|다른 사람의 일을 돕는 사람이에요.|a teaching assistant|보조 교사|The doctor's assistant took my temperature.|의사의 조수가 내 체온을 쟀다.|She works as a shop assistant on weekends.|그녀는 주말에 가게 점원으로 일한다.|helper
+assistant|n|helper|조수; 보조원; 점원|다른 사람의 일을 돕거나 가게에서 손님을 돕는 사람이에요.|a teaching assistant|보조 교사|The doctor's assistant took my temperature.|의사의 조수가 내 체온을 쟀다.|She works as a shop assistant on weekends.|그녀는 주말에 가게 점원으로 일한다.|helper
 classic|adj|typical|대표적인; 고전적인|오래도록 가치를 인정받거나 대표적인 것이에요.|a classic example|전형적인 예|This is a classic example of bad planning.|이것은 잘못된 계획의 전형적인 예이다.|She loves classic movies from the 1950s.|그녀는 1950년대 고전 영화를 좋아한다.|typical
 classic|n|great-work|고전; 명작|오래도록 사랑받는 훌륭한 작품이에요.|a literary classic|문학 고전|This novel is a classic of English literature.|이 소설은 영문학의 고전이다.|The song has become a classic.|그 노래는 명곡이 되었다.
 emergency|n|crisis|비상사태; 응급 상황|급히 처리해야 하는 위험한 일이에요.|in an emergency|비상시에|In an emergency, call this number.|비상시에는 이 번호로 전화해라.|The hospital has a special room for emergencies.|그 병원에는 응급 환자를 위한 특별실이 있다.|crisis

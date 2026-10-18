@@ -1,0 +1,482 @@
+[ladder|n|climbing-steps] hash=6a72eb89497de2be
+  뜻: 사다리; (출세의) 단계
+  설명: 높은 곳에 오르는 도구나 지위가 오르는 단계를 말해요.
+  연어: climb a ladder = 사다리를 오르다
+  예문1: He climbed the ladder to fix the roof. / 그는 지붕을 고치려고 사다리를 올라갔다.
+  예문2: She worked her way up the career ladder. / 그녀는 경력의 사다리를 한 단계씩 올라갔다.
+[convenience|n|ease] hash=a84d4d799a10b884
+  뜻: 편리함; 편의
+  설명: 쓰기 쉽고 편한 것이에요.
+  연어: for convenience = 편의를 위해
+  예문1: Online shopping offers great convenience to people with busy schedules. / 온라인 쇼핑은 바쁜 사람들에게 큰 편리함을 준다.
+  예문2: For convenience, we booked our tickets online. / 편의를 위해 우리는 표를 온라인으로 예매했다.
+[evaluate|v|assess] hash=a929398251a478c2
+  뜻: 평가하다
+  설명: 가치나 결과를 판단할 때 써요.
+  연어: evaluate performance = 성과를 평가하다
+  예문1: Teachers evaluate students' progress every term. / 교사들은 매 학기 학생들의 발전 정도를 평가한다.
+  예문2: We need to evaluate the results carefully. / 우리는 결과를 신중하게 평가해야 한다.
+  유의어(오답 제외): assess
+[donation|n|gift] hash=5c6efe114b4c4252
+  뜻: 기부; 기증
+  설명: 돈·물건·혈액 등을 대가 없이 주는 일이나 그렇게 준 것이에요.
+  연어: make a donation = 기부하다
+  예문1: She made a donation to the children's hospital. / 그녀는 어린이 병원에 기부했다.
+  예문2: Blood donations save many lives. / 헌혈은 많은 생명을 구한다.
+  유의어(오답 제외): contribution
+[firmly|adv|strongly] hash=70274ce41ecbc3b0
+  뜻: 단호하게; 단단히
+  설명: 흔들림 없이 강하거나 단단하게 하는 모습을 나타내요.
+  연어: firmly believe = 굳게 믿다
+  예문1: I firmly believe that hard work pays off. / 나는 노력이 보답받는다고 굳게 믿는다.
+  예문2: Hold the rope firmly. / 밧줄을 단단히 잡아라.
+[lottery|n|draw] hash=eb906f49a3f88dae
+  뜻: 복권; 추첨
+  설명: 복권으로 당첨자를 뽑는 제도나 무작위로 뽑는 방식이에요.
+  연어: win the lottery = 복권에 당첨되다
+  예문1: He dreams of winning the lottery. / 그는 복권에 당첨되는 꿈을 꾼다.
+  예문2: Tickets were given out by lottery. / 표는 추첨으로 나누어 주었다.
+[absent|adj|not-present] hash=080b84b2edea63a8
+  뜻: 결석한; 없는
+  설명: 자리에 나오지 않았거나 어떤 것이 존재하지 않는 상태예요.
+  연어: be absent from = ~에 결석하다
+  예문1: She was absent from school because of a cold. / 그녀는 감기 때문에 학교에 결석했다.
+  예문2: Fear was absent from his face. / 그의 얼굴에는 두려움이 없었다.
+[organize|v|arrange] hash=289758f99e03f2e2
+  뜻: 조직하다; 준비하다; 정리하다
+  설명: 행사를 계획하거나 물건을 정리할 때 써요.
+  연어: organize an event = 행사를 준비하다
+  예문1: The students organized a charity concert. / 학생들은 자선 음악회를 준비했다.
+  예문2: I need to organize my desk. / 나는 책상을 정리해야 한다.
+  유의어(오답 제외): arrange
+[sigh|v|breathe-out] hash=43c8d5b1a04660eb
+  뜻: 한숨 쉬다
+  설명: 피로·실망·안도 등으로 숨을 길게 내쉴 때 써요.
+  연어: sigh deeply = 깊이 한숨 쉬다
+  예문1: She sighed when she saw the long line. / 그녀는 긴 줄을 보고 한숨을 쉬었다.
+  예문2: He sighed with relief after the exam. / 그는 시험이 끝나자 안도의 한숨을 쉬었다.
+[decay|v|rot] hash=dc1d558a742de069
+  뜻: 썩다; 쇠퇴하다
+  설명: 시간이 지나며 상하거나 약해질 때 써요.
+  연어: tooth decay = 충치
+  예문1: Sugar can cause your teeth to decay. / 설탕은 이를 썩게 할 수 있다.
+  예문2: The old building has started to decay. / 그 오래된 건물이 점점 낡아 가기 시작했다.
+  유의어(오답 제외): rot
+[peel|v|remove-skin] hash=7d9742ee78211ec2
+  뜻: 껍질을 벗기다; (겉면이) 벗겨지다
+  설명: 껍질이나 겉면을 벗기거나 그것이 벗겨질 때 써요.
+  연어: peel an orange = 오렌지 껍질을 벗기다
+  예문1: Peel the potatoes before you cook them. / 요리하기 전에 감자 껍질을 벗겨라.
+  예문2: The paint is peeling off the wall. / 벽의 페인트가 벗겨지고 있다.
+[neglect|n|lack-of-care] hash=8b3dd9c67bb89ffa
+  뜻: 방치; 소홀
+  설명: 돌보지 않고 내버려 두는 것이에요.
+  연어: child neglect = 아동 방치
+  예문1: The garden died from neglect during the long, dry summer. / 길고 건조한 여름 동안 돌보지 않아 정원의 식물들이 시들어 죽었다.
+  예문2: Child neglect is a serious problem. / 아동 방치는 심각한 문제이다.
+[ingredient|n|component] hash=873d029bb0ff0f51
+  뜻: (음식의) 재료; 구성 요소
+  설명: 음식에 들어가는 재료나 어떤 것을 이루는 요소예요.
+  연어: main ingredients = 주재료
+  예문1: Flour and eggs are the main ingredients of this cake. / 밀가루와 달걀이 이 케이크의 주재료이다.
+  예문2: Trust is a key ingredient of a good team. / 신뢰는 좋은 팀의 핵심 요소이다.
+  유의어(오답 제외): component
+[drown|v|die-in-water] hash=84195511f3c4c26f
+  뜻: 물에 빠져 죽다; (소리를) 묻히게 하다
+  설명: 물속에서 숨을 못 쉬거나 소리에 묻힐 때 써요.
+  연어: drown out = 소리를 묻히게 하다
+  예문1: Always wear a life jacket so you do not drown. / 물에 빠져 목숨을 잃지 않도록 항상 구명조끼를 입어라.
+  예문2: The music drowned out our voices. / 음악 소리에 우리 목소리가 묻혔다.
+[wander|v|roam] hash=c3640e4020fbd420
+  뜻: 돌아다니다; 헤매다; (생각이) 딴 데로 흐르다
+  설명: 목적 없이 걸어 다니거나 생각이 딴 데로 흐를 때 써요.
+  연어: wander around = 돌아다니다
+  예문1: We wandered around the old town all afternoon. / 우리는 오후 내내 구시가지를 돌아다녔다.
+  예문2: My mind wandered during the long lecture. / 긴 강의 동안 나는 딴생각을 했다.
+  유의어(오답 제외): roam
+[comprise|v|consist-of] hash=f3c380326824fd94
+  뜻: 구성되다; 차지하다
+  설명: 여러 부분으로 이루어지거나 어떤 부분이 전체를 이룰 때 써요.
+  연어: be comprised of = ~으로 구성되다
+  예문1: The team comprises ten players and two coaches. / 그 팀은 선수 열 명과 코치 두 명으로 구성된다.
+  예문2: Women comprise half of the workers here. / 이곳 노동자의 절반을 여성이 차지한다.
+  유의어(오답 제외): consist
+[discourage|v|dishearten] hash=2571a6d258500500
+  뜻: 낙담시키다; 말리다
+  설명: 의욕을 꺾거나 하지 못하게 할 때 써요.
+  연어: discourage someone from = ~가 ~하지 않도록 말리다
+  예문1: Do not let one failure discourage you. / 한 번의 실패로 낙담하지 마라.
+  예문2: The high price discourages people from buying it. / 비싼 가격은 사람들이 그것을 사기를 꺼리게 한다.
+[prohibit|v|forbid] hash=bb14d97fef23b57f
+  뜻: (법·규칙 등으로) 금지하다
+  설명: 법이나 규칙 등으로 공식적으로 금지할 때 써요.
+  연어: prohibit smoking = 흡연을 금지하다
+  예문1: The law prohibits selling alcohol to minors. / 법은 미성년자에게 술을 파는 것을 금지한다.
+  예문2: Photography is prohibited inside the museum. / 박물관 안에서는 사진 촬영이 금지되어 있다.
+  유의어(오답 제외): ban
+[tempt|v|attract] hash=5cedf1402c78031b
+  뜻: 유혹하다; 부추기다
+  설명: 매력적인 것을 내보여 어떤 일을 하고 싶게 만들 때 써요.
+  연어: be tempted to = ~하고 싶은 마음이 들다
+  예문1: I was tempted to eat another piece of cake. / 나는 케이크를 한 조각 더 먹고 싶은 유혹을 느꼈다.
+  예문2: The low price tempted many shoppers. / 싼 가격은 많은 쇼핑객을 유혹했다.
+  유의어(오답 제외): attract
+[all the time|phrase|always] hash=c8ccae81cb91a267
+  뜻: 항상; 내내
+  설명: 어떤 일이 늘 일어나거나 내내 이어짐을 나타내요.
+  연어: happen all the time = 늘 일어나다
+  예문1: My little brother asks questions all the time. / 내 남동생은 항상 질문을 한다.
+  예문2: This kind of thing happens all the time. / 이런 일은 늘 일어난다.
+  유의어(오답 제외): always
+[put up with|phrase|tolerate] hash=8336316e17789678
+  뜻: (불쾌한 것을) 참고 견디다
+  설명: 불쾌하거나 싫은 상황을 참고 견딜 때 써요.
+  연어: put up with noise = 소음을 참다
+  예문1: I cannot put up with his rude behavior any longer. / 나는 그의 무례한 행동을 더 이상 참을 수 없다.
+  예문2: We had to put up with the heat all summer. / 우리는 여름 내내 더위를 견뎌야 했다.
+  유의어(오답 제외): endure
+[as soon as|phrase|immediately-after] hash=bc17aa8180d889b1
+  뜻: ~하자마자
+  설명: 어떤 일이 일어난 바로 뒤를 말해요.
+  연어: as soon as you arrive = 도착하자마자
+  예문1: Please text me as soon as you get home. / 집에 도착하자마자 나에게 문자를 보내라.
+  예문2: As soon as the bell rang, the students ran outside. / 종이 울리자마자 학생들은 밖으로 뛰어나갔다.
+[heart attack|phrase|cardiac-arrest] hash=199477e469aaffb4
+  뜻: 심근 경색; 심장 발작
+  설명: 심장에 혈액을 공급하는 혈관이 막혀 심장 근육이 손상되는 병이에요.
+  연어: have a heart attack = 심장 발작이 오다
+  예문1: My uncle had a heart attack last year. / 삼촌은 작년에 심근 경색을 겪으셨다.
+  예문2: Exercise lowers the risk of a heart attack. / 운동은 심장 발작의 위험을 낮춘다.
+[in advance|phrase|beforehand] hash=330e7bb06321f628
+  뜻: 미리; 사전에
+  설명: 어떤 일이 일어나기 전에 미리 준비하거나 행동할 때 써요.
+  연어: book in advance = 미리 예약하다
+  예문1: You should buy tickets in advance. / 표는 미리 사야 한다.
+  예문2: Thank you in advance for your help. / 도움에 미리 감사드린다.
+  유의어(오답 제외): beforehand
+[regardless of|phrase|despite] hash=9b317e22d4d8e19f
+  뜻: ~에 상관없이
+  설명: 어떤 조건이 달라져도 영향을 받지 않음을 나타내요.
+  연어: regardless of age = 나이에 상관없이
+  예문1: Everyone can join the club regardless of age. / 나이에 상관없이 누구나 그 동아리에 가입할 수 있다.
+  예문2: We will go regardless of the weather. / 날씨에 상관없이 우리는 갈 것이다.
+[in accordance with|phrase|following] hash=1455c6f8b9e2ecf9
+  뜻: ~에 따라
+  설명: 규칙이나 누군가의 바람을 따라 행동할 때 써요.
+  연어: in accordance with the law = 법에 따라
+  예문1: The building was built in accordance with safety rules. / 그 건물은 안전 규정에 따라 지어졌다.
+  예문2: We acted in accordance with your wishes. / 우리는 네 바람대로 행동했다.
+  유의어(오답 제외): according to
+[upside down|phrase|inverted] hash=3ffa87b59de188d4
+  뜻: 거꾸로; 뒤집혀; (삶·상황이) 완전히 뒤바뀌어
+  설명: 위아래가 바뀌거나 삶·상황이 완전히 뒤바뀐 상태예요.
+  연어: turn upside down = 뒤집다
+  예문1: The picture on the wall is upside down. / 벽에 걸린 그림이 거꾸로 되어 있다.
+  예문2: The news turned her life upside down. / 그 소식은 그녀의 삶을 송두리째 뒤흔들었다.
+[vice versa|phrase|the-other-way] hash=cd6e7d6dc0e318c1
+  뜻: 반대로도 마찬가지로
+  설명: 앞의 관계가 거꾸로도 성립할 때 써요.
+  연어: and vice versa = 그 반대도 마찬가지
+  예문1: Parents learn from their children, and vice versa. / 부모는 자녀에게서 배우고, 그 반대도 마찬가지이다.
+  예문2: I help my brother, and vice versa. / 나는 남자 형제를 돕고 그도 나를 돕는다.
+[accurately|adv|precisely] hash=0fe15954881ccde8
+  뜻: 정확하게
+  설명: 실수나 오차 없이 바르게 하는 모습을 나타내요.
+  연어: measure accurately = 정확하게 재다
+  예문1: Please measure the length accurately with this ruler. / 이 자로 길이를 정확하게 재라.
+  예문2: The report accurately describes what happened. / 그 보고서는 일어난 일을 정확하게 서술한다.
+  유의어(오답 제외): precisely
+[resistant|adj|unaffected] hash=8916e57a8c814049
+  뜻: 저항력 있는; ~에 강한
+  설명: 쉽게 영향을 받거나 상하지 않는 것이에요.
+  연어: water-resistant = 내수성 있는; 생활 방수의
+  예문1: This watch is resistant to water. / 이 시계는 물에 강하다.
+  예문2: Some people are resistant to change. / 어떤 사람들은 변화에 저항감을 보인다.
+[skinny|adj|very-thin] hash=da17c4e8785e3143
+  뜻: 깡마른
+  설명: 몸이 지나치게 마른 것이에요.
+  연어: a skinny cat = 깡마른 고양이
+  예문1: The skinny dog was waiting outside the shop. / 깡마른 개 한 마리가 가게 밖에서 기다리고 있었다.
+  예문2: He was skinny as a child but grew strong later. / 그는 어렸을 때 말랐지만 나중에 튼튼해졌다.
+  유의어(오답 제외): thin
+[desperately|adv|urgently] hash=0d4e57ce44316bde
+  뜻: 필사적으로; 몹시
+  설명: 매우 간절하고 절박한 마음으로 하는 모습을 나타내요.
+  연어: desperately need = 몹시 필요하다
+  예문1: The village desperately needs clean water. / 그 마을은 깨끗한 물이 몹시 필요하다.
+  예문2: She tried desperately to catch the bus. / 그녀는 버스를 잡으려고 필사적으로 애썼다.
+[financially|adv|money-wise] hash=880724b23be6e8b3
+  뜻: 재정적으로
+  설명: 돈이나 재정과 관련된 측면을 나타내요.
+  연어: financially independent = 경제적으로 독립한
+  예문1: He wants to be financially independent. / 그는 경제적으로 독립하고 싶어 한다.
+  예문2: The project was not financially successful. / 그 프로젝트는 재정적으로 성공하지 못했다.
+[intake|n|consumption] hash=02330a6da870d3db
+  뜻: 섭취(량)
+  설명: 몸에 받아들이는 음식이나 물의 양이에요.
+  연어: sugar intake = 설탕 섭취량
+  예문1: Doctors advise us to reduce our salt intake. / 의사들은 소금 섭취량을 줄이라고 권한다.
+  예문2: She keeps track of her daily water intake. / 그녀는 매일 물 섭취량을 기록한다.
+  유의어(오답 제외): consumption
+[enrollment|n|registration] hash=12fe6c59cae0f211
+  뜻: 입학; 등록; 등록자 수; 재학생 수
+  설명: 학교나 강좌에 등록하는 것이나 등록한 수예요.
+  연어: school enrollment = 학교 등록; 재학생 수
+  예문1: Enrollment for the summer program starts today. / 여름 프로그램 등록이 오늘 시작된다.
+  예문2: The school's enrollment has grown to a thousand students. / 그 학교의 재학생 수가 천 명으로 늘었다.
+  유의어(오답 제외): registration
+[renewable|adj|sustainable] hash=b350983e69df7be5
+  뜻: 재생 가능한
+  설명: 자연에서 계속 보충되어 다시 쓸 수 있는 것이에요.
+  연어: renewable energy = 재생 에너지
+  예문1: Solar and wind power are renewable energy sources. / 태양 에너지와 풍력은 재생 가능한 에너지원이다.
+  예문2: The country aims to use more renewable resources. / 그 나라는 재생 가능한 자원을 더 많이 쓰는 것을 목표로 한다.
+[individually|adv|separately] hash=bdcce8e4e24bd10b
+  뜻: 개별적으로; 하나씩
+  설명: 여럿을 한꺼번에 다루지 않고 하나씩 따로 하는 것이에요.
+  연어: wrapped individually = 개별 포장된
+  예문1: The teacher spoke to each student individually. / 선생님은 학생 한 명 한 명과 따로 이야기하셨다.
+  예문2: The cookies are wrapped individually. / 그 쿠키들은 하나씩 포장되어 있다.
+  유의어(오답 제외): separately
+[steadily|adv|constantly] hash=9804d34b8245df8f
+  뜻: 꾸준히; 착실하게
+  설명: 속도나 정도가 크게 바뀌지 않고 꾸준히 이어지는 모습이에요.
+  연어: grow steadily = 꾸준히 성장하다
+  예문1: Her English has improved steadily. / 그녀의 영어 실력은 꾸준히 늘었다.
+  예문2: The rain fell steadily all day. / 비가 하루 종일 그치지 않고 내렸다.
+  유의어(오답 제외): constantly
+[drift|v|float] hash=6ce521fe89019631
+  뜻: 떠다니다; 표류하다; (바람에 밀려) 쌓이다
+  설명: 물이나 바람에 실려 움직이거나 바람에 밀려 쌓일 때 써요.
+  연어: drift away = 떠내려가다
+  예문1: The boat drifted out to sea. / 배가 바다로 떠내려갔다.
+  예문2: Snow drifted against the door. / 눈이 바람에 날려 문 앞에 쌓였다.
+  유의어(오답 제외): float
+[obesity|n|being-overweight] hash=5cb78e57e3e0d91c
+  뜻: 비만
+  설명: 건강에 영향을 줄 만큼 체지방이 과도하게 쌓인 상태예요.
+  연어: childhood obesity = 소아 비만
+  예문1: Obesity can lead to many health problems. / 비만은 많은 건강 문제로 이어질 수 있다.
+  예문2: Schools are trying to reduce obesity among children. / 학교들은 아이들의 비만을 줄이려고 노력하고 있다.
+[reproduction|n|breeding] hash=1d66d3e074105d0c
+  뜻: 번식; 복제; 복제품
+  설명: 생물이 새 개체를 만들거나 원본을 똑같이 만든 것이에요.
+  연어: plant reproduction = 식물의 번식
+  예문1: Bees play a role in plant reproduction. / 벌은 식물의 번식에 역할을 한다.
+  예문2: This painting is a reproduction, not the original. / 이 그림은 원본이 아니라 복제품이다.
+[extinction|n|dying-out] hash=18845fe7faa1c8dd
+  뜻: 멸종
+  설명: 어떤 생물이 완전히 사라지는 것이에요.
+  연어: face extinction = 멸종에 직면하다
+  예문1: Many animals are facing extinction. / 많은 동물이 멸종에 직면해 있다.
+  예문2: Scientists study the causes of dinosaur extinction. / 과학자들은 공룡 멸종의 원인을 연구한다.
+[exceptionally|adv|unusually] hash=25df3e2ae71804a1
+  뜻: 유난히; 특별히
+  설명: 보통 수준을 훨씬 넘어 특별히 두드러짐을 나타내요.
+  연어: exceptionally talented = 유난히 재능 있는
+  예문1: She is an exceptionally talented pianist. / 그녀는 유난히 재능 있는 피아니스트이다.
+  예문2: The weather was exceptionally warm for December. / 12월치고 날씨가 유난히 따뜻했다.
+[hallway|n|corridor] hash=e6618e769d8f0bca
+  뜻: 복도; 현관
+  설명: 방과 방을 잇는 복도나 집에 들어서면 있는 현관이에요.
+  연어: a long hallway = 긴 복도
+  예문1: Do not run in the hallway. / 복도에서 뛰지 마라.
+  예문2: Leave your shoes in the hallway. / 신발은 현관에 벗어 두어라.
+  유의어(오답 제외): corridor
+[backward|adv|toward-the-back] hash=78ba69a718cc69d1
+  뜻: 뒤로; 거꾸로
+  설명: 뒤쪽으로 움직이거나 순서를 거꾸로 따르는 것을 나타내요.
+  연어: walk backward = 뒤로 걷다
+  예문1: He took a step backward. / 그는 한 걸음 뒤로 물러섰다.
+  예문2: Can you count backward from ten? / 10부터 거꾸로 셀 수 있니?
+[obese|adj|very-overweight] hash=f9a84478631cf540
+  뜻: 비만인
+  설명: 건강에 영향을 줄 만큼 체지방이 지나치게 많은 것이에요.
+  연어: become obese = 비만이 되다
+  예문1: Eating too much junk food can make you obese. / 정크 푸드를 너무 많이 먹으면 비만이 될 수 있다.
+  예문2: The number of obese children is growing. / 비만 아동의 수가 늘고 있다.
+[casually|adv|informally] hash=3a39713a91aa6697
+  뜻: 편하게; 무심코
+  설명: 격식에 얽매이지 않거나 대수롭지 않게 하는 모습이에요.
+  연어: dress casually = 편하게 입다
+  예문1: You can dress casually for the party. / 파티에는 편하게 입고 와도 된다.
+  예문2: He casually mentioned that he was moving abroad. / 그는 해외로 이사한다는 말을 가볍게 꺼냈다.
+  유의어(오답 제외): informally
+[outdated|adj|old-fashioned] hash=39d508e5256e764e
+  뜻: 구식의; 시대에 뒤진
+  설명: 시대에 뒤떨어지거나 최신 상황에 맞지 않는 것이에요.
+  연어: outdated information = 오래된 정보
+  예문1: This map is outdated. / 이 지도는 오래되었다.
+  예문2: Some school rules are outdated. / 일부 교칙은 시대에 뒤떨어졌다.
+  유의어(오답 제외): old-fashioned
+[reproduce|v|breed] hash=1f2cd66774038fae
+  뜻: 번식하다; 복제하다
+  설명: 생물이 번식하거나 원본과 똑같이 만들어 낼 때 써요.
+  연어: reproduce quickly = 빨리 번식하다
+  예문1: Rabbits reproduce very quickly when food and shelter are plentiful. / 토끼는 먹이와 은신처가 풍부하면 매우 빠르게 번식한다.
+  예문2: The photo was reproduced in many newspapers. / 그 사진은 여러 신문에 전재되었다.
+[rectangular|adj|oblong] hash=51f6c4202e128f01
+  뜻: 직사각형의
+  설명: 네 각이 모두 직각인 사각형 모양이에요.
+  연어: a rectangular table = 직사각형 탁자
+  예문1: We bought a rectangular table for the kitchen. / 우리는 부엌에 둘 직사각형 탁자를 샀다.
+  예문2: A soccer field is rectangular. / 축구장은 직사각형이다.
+[poisonous|adj|toxic] hash=1b4fa5ad24972c46
+  뜻: 독이 있는; 유독한
+  설명: 먹거나 들이마시거나 닿으면 몸에 해로운 것이에요.
+  연어: poisonous snakes = 독사
+  예문1: Some wild mushrooms are poisonous and should be avoided. / 일부 야생 버섯은 독이 있으므로 먹지 말아야 한다.
+  예문2: The factory released poisonous gas into the nearby air. / 그 공장은 인근 대기로 유독 가스를 배출했다.
+  유의어(오답 제외): toxic
+[abruptly|adv|suddenly] hash=5f7a7eead43a4c89
+  뜻: 갑자기; 퉁명스럽게
+  설명: 예고 없이 갑자기 일어나거나 말투가 퉁명스러운 모습이에요.
+  연어: stop abruptly = 갑자기 멈추다
+  예문1: The car stopped abruptly near the busy school crossing. / 그 차는 붐비는 학교 앞 횡단보도 근처에서 갑자기 멈췄다.
+  예문2: He left the meeting abruptly without explaining his decision. / 그는 결정을 설명하지 않은 채 회의 도중 갑자기 자리를 떴다.
+  유의어(오답 제외): suddenly
+[commute|v|travel-to-work] hash=914f14ffadbbfee8
+  뜻: 통근하다; 통학하다
+  설명: 집과 직장·학교를 오갈 때 써요.
+  연어: commute to work = 직장에 통근하다
+  예문1: My father commutes to work by subway. / 아버지는 지하철로 출퇴근하신다.
+  예문2: Many students commute an hour to school. / 많은 학생이 학교까지 한 시간씩 통학한다.
+[commute|n|daily-trip] hash=2737e32214158cf1
+  뜻: 통근(길); 통학(길)
+  설명: 집과 직장·학교 사이를 정기적으로 오가는 일이에요.
+  연어: a long commute = 긴 통근 시간
+  예문1: Her commute takes about forty minutes. / 그녀의 통근 시간은 약 40분이다.
+  예문2: I read books during my commute. / 나는 통근하는 동안 책을 읽는다.
+[radically|adv|completely] hash=f70949984fbebb80
+  뜻: 근본적으로; 급진적으로
+  설명: 변화나 차이가 근본적이거나 매우 크다는 것을 나타내요.
+  연어: radically change = 근본적으로 바꾸다
+  예문1: The internet radically changed our lives. / 인터넷은 우리 삶을 근본적으로 바꾸었다.
+  예문2: Their opinions are radically different on this important issue. / 이 중요한 사안에 대해 그들의 의견은 근본적으로 다르다.
+  유의어(오답 제외): completely
+[diaper|n|nappy] hash=eaf54cea86d0a4bc
+  뜻: 기저귀
+  설명: 대소변을 받아내도록 몸에 차는 천이나 일회용품이에요.
+  연어: change a diaper = 기저귀를 갈다
+  예문1: He learned how to change a diaper. / 그는 기저귀 가는 법을 배웠다.
+  예문2: Babies use many diapers every day. / 아기들은 매일 기저귀를 많이 쓴다.
+[thorn|n|sharp-point] hash=642937e2e77d1822
+  뜻: 가시
+  설명: 식물 줄기에 난 뾰족한 것이에요.
+  연어: a rose thorn = 장미 가시
+  예문1: Be careful of the thorns on the roses. / 장미 가시를 조심해라.
+  예문2: A thorn got stuck in my finger. / 가시가 내 손가락에 박혔다.
+[purposely|adv|deliberately] hash=c0abb7b2e0b4b8bc
+  뜻: 일부러; 고의로
+  설명: 실수가 아니라 의도를 가지고 행동할 때 써요.
+  연어: purposely ignore = 일부러 무시하다
+  예문1: She purposely left the door open. / 그녀는 일부러 문을 열어 두었다.
+  예문2: He purposely did not answer the phone. / 그는 일부러 전화를 받지 않았다.
+  유의어(오답 제외): deliberately
+[logically|adv|rationally] hash=e9141069296b1905
+  뜻: 논리적으로
+  설명: 이치와 논리에 맞추어 생각하거나 판단하는 모습이에요.
+  연어: think logically = 논리적으로 생각하다
+  예문1: Try to think logically about the problem. / 그 문제를 논리적으로 생각해 보아라.
+  예문2: Logically, the plan should work as expected. / 논리적으로 보면 그 계획은 예상대로 잘될 것이다.
+  유의어(오답 제외): rationally
+[irritation|n|annoyance] hash=0a824fc719fa3656
+  뜻: 짜증; (피부 등의) 자극
+  설명: 화가 나는 감정이나 피부 등이 따갑고 자극받는 상태예요.
+  연어: skin irritation = 피부 자극
+  예문1: He could not hide his irritation. / 그는 짜증을 감출 수 없었다.
+  예문2: This cream may cause skin irritation. / 이 크림은 피부 자극을 일으킬 수 있다.
+  유의어(오답 제외): annoyance
+[hurdle|n|obstacle] hash=6ecd770d3a958737
+  뜻: 난관; 장애물
+  설명: 경주에서 뛰어넘는 장애물이나 해결해야 할 어려움이에요.
+  연어: overcome a hurdle = 난관을 넘다
+  예문1: Money is the biggest hurdle to studying abroad. / 돈은 유학의 가장 큰 걸림돌이다.
+  예문2: The runners jumped over the hurdles. / 주자들은 허들을 뛰어넘었다.
+  유의어(오답 제외): obstacle
+[adhesive|n|glue] hash=554e596e535285c8
+  뜻: 접착제
+  설명: 물건을 붙이는 물질이에요.
+  연어: a strong adhesive = 강력 접착제
+  예문1: Use a strong adhesive to fix the broken cup. / 깨진 컵을 붙이려면 강력 접착제를 써라.
+  예문2: The label is attached with adhesive. / 라벨은 접착제로 붙어 있다.
+  유의어(오답 제외): glue
+[spontaneously|adv|naturally] hash=e795a06cb027a727
+  뜻: 자발적으로; 즉흥적으로
+  설명: 강요나 사전 계획 없이 스스로 또는 저절로 하는 모습이에요.
+  연어: act spontaneously = 즉흥적으로 행동하다
+  예문1: The audience spontaneously stood up and cheered. / 관객들이 자발적으로 일어나 환호했다.
+  예문2: We decided spontaneously to go to the beach. / 우리는 즉흥적으로 해변에 가기로 했다.
+[annoyance|n|irritation] hash=1b9c937a5673d97d
+  뜻: 성가심; 짜증; 골칫거리
+  설명: 귀찮아서 생기는 불쾌한 감정이나 그런 성가신 일이에요.
+  연어: to my annoyance = 짜증스럽게도
+  예문1: To my annoyance, the bus was late again. / 짜증스럽게도 버스가 또 늦었다.
+  예문2: The noise from the road is a constant annoyance. / 도로 소음은 늘 성가신 문제이다.
+  유의어(오답 제외): irritation
+[quarrel|n|argument] hash=b09670290e853ddd
+  뜻: 언쟁; 말다툼
+  설명: 화를 내며 다투는 것이에요.
+  연어: have a quarrel = 말다툼하다
+  예문1: They had a quarrel about money. / 그들은 돈 문제로 말다툼을 했다.
+  예문2: A small quarrel can ruin a friendship. / 사소한 다툼이 우정을 망칠 수 있다.
+  유의어(오답 제외): argument
+[quarrel|v|argue] hash=a3baf915b0342021
+  뜻: 언쟁하다; 말다툼하다
+  설명: 화를 내며 다툴 때 써요.
+  연어: quarrel with = ~와 다투다
+  예문1: The children often quarrel over toys. / 아이들은 장난감 때문에 자주 다툰다.
+  예문2: I do not want to quarrel with you. / 나는 너와 다투고 싶지 않다.
+  유의어(오답 제외): argue
+[frantically|adv|wildly] hash=564dae78cc46ec1a
+  뜻: 미친 듯이; 정신없이
+  설명: 몹시 다급하거나 불안해서 정신없이 하는 모습이에요.
+  연어: search frantically = 정신없이 찾다
+  예문1: She searched frantically for her lost passport. / 그녀는 잃어버린 여권을 정신없이 찾았다.
+  예문2: He waved frantically to get our attention. / 그는 우리 눈길을 끌려고 미친 듯이 손을 흔들었다.
+[inertia|n|inactivity] hash=7c33bf1ffe905010
+  뜻: 관성; 무기력
+  설명: 멈추거나 움직이던 상태를 유지하려는 성질이나 무기력이에요.
+  연어: the law of inertia = 관성의 법칙
+  예문1: Inertia keeps a moving object moving. / 관성은 움직이는 물체가 계속 움직이게 한다.
+  예문2: It is hard to overcome inertia on a lazy Sunday. / 느긋한 일요일에는 무기력을 이겨 내기 어렵다.
+[abnormally|adv|unusually] hash=283f1dc261dfbb29
+  뜻: 비정상적으로
+  설명: 정상이나 보통의 상태에서 벗어난 모습을 나타내요.
+  연어: abnormally high = 비정상적으로 높은
+  예문1: Temperatures were abnormally high this winter. / 올겨울 기온은 비정상적으로 높았다.
+  예문2: His heart was beating abnormally fast. / 그의 심장이 비정상적으로 빨리 뛰고 있었다.
+  유의어(오답 제외): unusually
+[tremble|v|shake] hash=d7eff7caf78b8dab
+  뜻: 떨다; 떨리다
+  설명: 몸이나 물체가 작고 빠르게 떨리거나 흔들릴 때 써요.
+  연어: tremble with fear = 두려움에 떨다
+  예문1: Her hands trembled as she opened the letter. / 편지를 열 때 그녀의 손이 떨렸다.
+  예문2: The ground trembled during the earthquake. / 지진이 일어나는 동안 땅이 흔들렸다.
+  유의어(오답 제외): shake
+[habitually|adv|regularly] hash=1b14723ee579fae9
+  뜻: 습관적으로
+  설명: 어떤 행동을 버릇처럼 반복하는 모습을 나타내요.
+  연어: habitually late = 습관적으로 늦는
+  예문1: He is habitually late for class. / 그는 습관적으로 수업에 늦는다.
+  예문2: She habitually checks her phone before bed. / 그녀는 자기 전에 습관적으로 휴대전화를 확인한다.
+[doze|v|nap] hash=3d896014b2a921d4
+  뜻: 꾸벅꾸벅 졸다
+  설명: 잠깐 얕게 잠들 때 써요.
+  연어: doze off = 깜빡 졸다
+  예문1: I dozed off during the movie. / 나는 영화를 보다가 깜빡 졸았다.
+  예문2: Grandpa often dozes in his chair after lunch. / 할아버지는 점심 후 의자에서 자주 졸곤 하신다.
+  유의어(오답 제외): nap
+[briskly|adv|quickly] hash=8b21cf0746c69541
+  뜻: 활발하게; 빠르게
+  설명: 움직임이 기운차고 빠르거나 거래가 활발한 모습이에요.
+  연어: walk briskly = 빠르게 걷다
+  예문1: We walked briskly to keep warm. / 우리는 몸을 따뜻하게 하려고 빠르게 걸었다.
+  예문2: The new phone is selling briskly. / 그 새 휴대전화는 잘 팔리고 있다.
+  유의어(오답 제외): quickly
+[contagiousness|n|infectiousness] hash=cab37ff91e2226e0
+  뜻: 전염성
+  설명: 병이나 감정·행동이 다른 사람에게 쉽게 옮는 정도예요.
+  연어: the contagiousness of = ~의 전염성
+  예문1: Doctors are studying the contagiousness of the new virus. / 의사들은 새 바이러스의 전염성을 연구하고 있다.
+  예문2: The contagiousness of laughter is well known. / 웃음이 옮는다는 것은 잘 알려져 있다.

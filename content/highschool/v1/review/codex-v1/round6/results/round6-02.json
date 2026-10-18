@@ -1,0 +1,603 @@
+{
+  "items": [
+    {
+      "senseKey": "ladder|n|climbing-steps",
+      "inputHash": "6a72eb89497de2be",
+      "verdict": "minor",
+      "issues": [
+        {
+          "field": "ko2",
+          "problem": "'경력의 사다리'는 직역투이며, 노력하여 직업적 지위를 높였다는 뜻이 덜 자연스럽게 전달된다.",
+          "suggestion": "그녀는 꾸준히 노력해 직업적 지위를 높여 갔다."
+        }
+      ]
+    },
+    {
+      "senseKey": "convenience|n|ease",
+      "inputHash": "a84d4d799a10b884",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "evaluate|v|assess",
+      "inputHash": "a929398251a478c2",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "donation|n|gift",
+      "inputHash": "5c6efe114b4c4252",
+      "verdict": "fix",
+      "issues": [
+        {
+          "field": "en2",
+          "problem": "5단어로 최소 6단어 규칙에 미달한다.",
+          "suggestion": "Blood donations save many lives every year. / 헌혈은 매년 많은 생명을 구한다."
+        }
+      ]
+    },
+    {
+      "senseKey": "firmly|adv|strongly",
+      "inputHash": "70274ce41ecbc3b0",
+      "verdict": "fix",
+      "issues": [
+        {
+          "field": "en2",
+          "problem": "4단어로 최소 6단어 규칙에 미달한다.",
+          "suggestion": "Hold the rope firmly with both hands. / 밧줄을 두 손으로 단단히 잡아라."
+        }
+      ]
+    },
+    {
+      "senseKey": "lottery|n|draw",
+      "inputHash": "eb906f49a3f88dae",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "absent|adj|not-present",
+      "inputHash": "080b84b2edea63a8",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "organize|v|arrange",
+      "inputHash": "289758f99e03f2e2",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "sigh|v|breathe-out",
+      "inputHash": "43c8d5b1a04660eb",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "decay|v|rot",
+      "inputHash": "dc1d558a742de069",
+      "verdict": "fix",
+      "issues": [
+        {
+          "field": "collocation",
+          "problem": "'tooth decay'의 decay는 명사이므로 동사 카드의 용법을 보여 주지 못한다.",
+          "suggestion": "decay slowly = 서서히 썩다"
+        }
+      ]
+    },
+    {
+      "senseKey": "peel|v|remove-skin",
+      "inputHash": "7d9742ee78211ec2",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "neglect|n|lack-of-care",
+      "inputHash": "8b3dd9c67bb89ffa",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "ingredient|n|component",
+      "inputHash": "873d029bb0ff0f51",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "drown|v|die-in-water",
+      "inputHash": "84195511f3c4c26f",
+      "verdict": "minor",
+      "issues": [
+        {
+          "field": "explanation",
+          "problem": "익사한다는 뜻과 다른 소리를 묻히게 한다는 뜻을 더 명확하게 풀어 쓰면 좋다.",
+          "suggestion": "물에 빠져 죽거나 큰 소리로 다른 소리를 묻히게 할 때 써요."
+        }
+      ]
+    },
+    {
+      "senseKey": "wander|v|roam",
+      "inputHash": "c3640e4020fbd420",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "comprise|v|consist-of",
+      "inputHash": "f3c380326824fd94",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "discourage|v|dishearten",
+      "inputHash": "2571a6d258500500",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "prohibit|v|forbid",
+      "inputHash": "bb14d97fef23b57f",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "tempt|v|attract",
+      "inputHash": "5cedf1402c78031b",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "all the time|phrase|always",
+      "inputHash": "c8ccae81cb91a267",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "put up with|phrase|tolerate",
+      "inputHash": "8336316e17789678",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "as soon as|phrase|immediately-after",
+      "inputHash": "bc17aa8180d889b1",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "heart attack|phrase|cardiac-arrest",
+      "inputHash": "199477e469aaffb4",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "in advance|phrase|beforehand",
+      "inputHash": "330e7bb06321f628",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "regardless of|phrase|despite",
+      "inputHash": "9b317e22d4d8e19f",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "in accordance with|phrase|following",
+      "inputHash": "1455c6f8b9e2ecf9",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "upside down|phrase|inverted",
+      "inputHash": "3ffa87b59de188d4",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "vice versa|phrase|the-other-way",
+      "inputHash": "cd6e7d6dc0e318c1",
+      "verdict": "minor",
+      "issues": [
+        {
+          "field": "ko2",
+          "problem": "'남자 형제'는 뜻은 통하지만 이 문맥에서는 직역투이다.",
+          "suggestion": "나는 남동생을 돕고, 남동생도 나를 돕는다."
+        }
+      ]
+    },
+    {
+      "senseKey": "accurately|adv|precisely",
+      "inputHash": "0fe15954881ccde8",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "resistant|adj|unaffected",
+      "inputHash": "8916e57a8c814049",
+      "verdict": "fix",
+      "issues": [
+        {
+          "field": "meaning",
+          "problem": "예문2는 변화를 받아들이려 하지 않는다는 뜻이다. '저항력 있는; ~에 강한'만으로는 이 용법을 설명하지 못한다.",
+          "suggestion": "저항력 있는; ~에 강한; (변화 등에) 저항하는"
+        },
+        {
+          "field": "explanation",
+          "problem": "현재 설명에는 예문2의 변화에 대한 거부감이나 반대의 뜻이 빠져 있다.",
+          "suggestion": "외부 영향을 잘 견디거나 변화를 받아들이지 않으려는 성질이에요."
+        }
+      ]
+    },
+    {
+      "senseKey": "skinny|adj|very-thin",
+      "inputHash": "da17c4e8785e3143",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "desperately|adv|urgently",
+      "inputHash": "0d4e57ce44316bde",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "financially|adv|money-wise",
+      "inputHash": "880724b23be6e8b3",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "intake|n|consumption",
+      "inputHash": "02330a6da870d3db",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "enrollment|n|registration",
+      "inputHash": "12fe6c59cae0f211",
+      "verdict": "minor",
+      "issues": [
+        {
+          "field": "explanation",
+          "problem": "'등록한 수'보다 등록한 사람의 수라고 명시하는 편이 자연스럽고 정확하다.",
+          "suggestion": "학교나 강좌에 등록하는 일이나 등록한 사람 수예요."
+        }
+      ]
+    },
+    {
+      "senseKey": "renewable|adj|sustainable",
+      "inputHash": "b350983e69df7be5",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "individually|adv|separately",
+      "inputHash": "bdcce8e4e24bd10b",
+      "verdict": "fix",
+      "issues": [
+        {
+          "field": "en2",
+          "problem": "5단어로 최소 6단어 규칙에 미달한다.",
+          "suggestion": "The cookies in this box are wrapped individually. / 이 상자에 든 쿠키들은 하나씩 포장되어 있다."
+        }
+      ]
+    },
+    {
+      "senseKey": "steadily|adv|constantly",
+      "inputHash": "9804d34b8245df8f",
+      "verdict": "fix",
+      "issues": [
+        {
+          "field": "en1",
+          "problem": "5단어로 최소 6단어 규칙에 미달한다.",
+          "suggestion": "Her English has improved steadily this year. / 올해 그녀의 영어 실력은 꾸준히 늘었다."
+        }
+      ]
+    },
+    {
+      "senseKey": "drift|v|float",
+      "inputHash": "6ce521fe89019631",
+      "verdict": "fix",
+      "issues": [
+        {
+          "field": "en2",
+          "problem": "5단어로 최소 6단어 규칙에 미달한다.",
+          "suggestion": "Snow drifted against the door all night. / 밤새 눈이 바람에 날려 문 앞에 쌓였다."
+        }
+      ]
+    },
+    {
+      "senseKey": "obesity|n|being-overweight",
+      "inputHash": "5cb78e57e3e0d91c",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "reproduction|n|breeding",
+      "inputHash": "1d66d3e074105d0c",
+      "verdict": "minor",
+      "issues": [
+        {
+          "field": "ko1",
+          "problem": "'번식에 역할을 한다'는 결합이 어색하다.",
+          "suggestion": "벌은 식물이 번식하는 데 한몫을 한다."
+        }
+      ]
+    },
+    {
+      "senseKey": "extinction|n|dying-out",
+      "inputHash": "18845fe7faa1c8dd",
+      "verdict": "fix",
+      "issues": [
+        {
+          "field": "en1",
+          "problem": "5단어로 최소 6단어 규칙에 미달한다.",
+          "suggestion": "Many animal species are facing extinction. / 많은 동물 종이 멸종에 직면해 있다."
+        }
+      ]
+    },
+    {
+      "senseKey": "exceptionally|adv|unusually",
+      "inputHash": "25df3e2ae71804a1",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "hallway|n|corridor",
+      "inputHash": "e6618e769d8f0bca",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "backward|adv|toward-the-back",
+      "inputHash": "78ba69a718cc69d1",
+      "verdict": "fix",
+      "issues": [
+        {
+          "field": "en1",
+          "problem": "5단어로 최소 6단어 규칙에 미달한다.",
+          "suggestion": "He slowly took a step backward. / 그는 천천히 한 걸음 뒤로 물러섰다."
+        }
+      ]
+    },
+    {
+      "senseKey": "obese|adj|very-overweight",
+      "inputHash": "f9a84478631cf540",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "casually|adv|informally",
+      "inputHash": "3a39713a91aa6697",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "outdated|adj|old-fashioned",
+      "inputHash": "39d508e5256e764e",
+      "verdict": "fix",
+      "issues": [
+        {
+          "field": "collocationKo",
+          "problem": "'오래된 정보'만으로는 현재 상황에 맞지 않는다는 의미가 충분히 전달되지 않는다.",
+          "suggestion": "최신 상황에 맞지 않는 정보"
+        },
+        {
+          "field": "en1",
+          "problem": "4단어로 최소 6단어 규칙에 미달한다.",
+          "suggestion": "This map is outdated and needs replacing."
+        },
+        {
+          "field": "ko1",
+          "problem": "'outdated'는 단순히 오래되었다는 뜻이 아니라 최신 상황을 반영하지 못한다는 뜻이다.",
+          "suggestion": "수정한 예문1에 맞춰: 이 지도는 최신 정보를 반영하지 못해 교체해야 한다."
+        },
+        {
+          "field": "en2",
+          "problem": "5단어로 최소 6단어 규칙에 미달한다.",
+          "suggestion": "Some school rules are outdated and need revision. / 일부 교칙은 시대에 뒤떨어져 개정이 필요하다."
+        }
+      ]
+    },
+    {
+      "senseKey": "reproduce|v|breed",
+      "inputHash": "1f2cd66774038fae",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "rectangular|adj|oblong",
+      "inputHash": "51f6c4202e128f01",
+      "verdict": "fix",
+      "issues": [
+        {
+          "field": "en2",
+          "problem": "5단어로 최소 6단어 규칙에 미달한다.",
+          "suggestion": "A soccer field is rectangular in shape. / 축구장은 직사각형 모양이다."
+        }
+      ]
+    },
+    {
+      "senseKey": "poisonous|adj|toxic",
+      "inputHash": "1b4fa5ad24972c46",
+      "verdict": "minor",
+      "issues": [
+        {
+          "field": "en2",
+          "problem": "공장 주변의 공기를 가리킬 때 'the nearby air'보다 'the surrounding air'가 자연스럽다.",
+          "suggestion": "The factory released poisonous gas into the surrounding air. / 그 공장은 주변 대기에 유독 가스를 배출했다."
+        }
+      ]
+    },
+    {
+      "senseKey": "abruptly|adv|suddenly",
+      "inputHash": "5f7a7eead43a4c89",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "commute|v|travel-to-work",
+      "inputHash": "914f14ffadbbfee8",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "commute|n|daily-trip",
+      "inputHash": "2737e32214158cf1",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "radically|adv|completely",
+      "inputHash": "f70949984fbebb80",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "diaper|n|nappy",
+      "inputHash": "eaf54cea86d0a4bc",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "thorn|n|sharp-point",
+      "inputHash": "642937e2e77d1822",
+      "verdict": "fix",
+      "issues": [
+        {
+          "field": "meaning",
+          "problem": "'가시'만 제시하면 생선 가시나 동물의 가시와도 구분되지 않아 철자 문제의 단서가 모호하다.",
+          "suggestion": "(식물 줄기의) 가시"
+        }
+      ]
+    },
+    {
+      "senseKey": "purposely|adv|deliberately",
+      "inputHash": "c0abb7b2e0b4b8bc",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "logically|adv|rationally",
+      "inputHash": "e9141069296b1905",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "irritation|n|annoyance",
+      "inputHash": "0a824fc719fa3656",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "hurdle|n|obstacle",
+      "inputHash": "6ecd770d3a958737",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "adhesive|n|glue",
+      "inputHash": "554e596e535285c8",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "spontaneously|adv|naturally",
+      "inputHash": "e795a06cb027a727",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "annoyance|n|irritation",
+      "inputHash": "1b9c937a5673d97d",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "quarrel|n|argument",
+      "inputHash": "b09670290e853ddd",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "quarrel|v|argue",
+      "inputHash": "a3baf915b0342021",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "frantically|adv|wildly",
+      "inputHash": "564dae78cc46ec1a",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "inertia|n|inactivity",
+      "inputHash": "7c33bf1ffe905010",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "abnormally|adv|unusually",
+      "inputHash": "283f1dc261dfbb29",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "tremble|v|shake",
+      "inputHash": "d7eff7caf78b8dab",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "habitually|adv|regularly",
+      "inputHash": "1b14723ee579fae9",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "doze|v|nap",
+      "inputHash": "3d896014b2a921d4",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "briskly|adv|quickly",
+      "inputHash": "8b21cf0746c69541",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "contagiousness|n|infectiousness",
+      "inputHash": "cab37ff91e2226e0",
+      "verdict": "ok",
+      "issues": []
+    }
+  ],
+  "missingSenses": [
+    {
+      "headword": "sigh",
+      "reason": "'a sigh of relief'처럼 감정이나 행동을 묘사하는 흔한 명사 용법이 빠져 있다.",
+      "suggestion": "명사 뜻 '한숨'을 추가한다."
+    },
+    {
+      "headword": "decay",
+      "reason": "'tooth decay'나 유기물의 부패를 설명하는 지문에서 쓰이는 주요 명사 용법이 빠져 있다.",
+      "suggestion": "명사 뜻 '부패; 부식; 쇠퇴'를 추가한다."
+    },
+    {
+      "headword": "neglect",
+      "reason": "건강·의무·돌봄 등을 소홀히 한다는 기본 동사 용법이 빠져 있다.",
+      "suggestion": "동사 뜻 '소홀히 하다; 방치하다'를 추가한다."
+    },
+    {
+      "headword": "reproduce",
+      "reason": "과학 지문에서 실험 결과나 현상을 다시 만들어 낸다는 '재현하다'의 뜻이 중요하다.",
+      "suggestion": "동사 뜻 '(실험 결과·현상 등을) 재현하다'를 추가한다."
+    },
+    {
+      "headword": "adhesive",
+      "reason": "'adhesive tape'나 물질의 접착 특성을 설명할 때 쓰이는 주요 형용사 용법이 빠져 있다.",
+      "suggestion": "형용사 뜻 '접착성의; 접착용의'를 추가한다."
+    }
+  ]
+}

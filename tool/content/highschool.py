@@ -21,6 +21,11 @@ from .common import (CONTENT, SOURCE, atomic_write, digest, file_hash, now, read
 from .validate import HIGH, exclusions, normalize_meaning, validate_records
 
 HS_SOURCE = CONTENT / 'sources/highschool_v1.csv'
+# Display forms for senses whose list headword is not how the word is written there
+# (proper nouns, plural-only senses, the standard form of a phrase), keyed by
+# headword|pos|slug. The list key and sense IDs stay; the app shows the form and
+# accepts it as a spelling for that sense only.
+DISPLAY_FORMS = CONTENT / 'highschool/v1/display_forms.json'
 HS_PROVENANCE = CONTENT / 'sources/highschool_v1.provenance.json'
 LIST_BOOK = 'sarang-csat-2000'
 TIERS = {'basic': '고교 기본', 'familiar': '아는 단어, 새로운 뜻', 'core': '고교 핵심', 'phrase': '핵심 숙어',
@@ -93,9 +98,23 @@ def build_source(entries_path, output=HS_SOURCE, provenance=HS_PROVENANCE, curri
     return {'headwords': len(rows), 'tiers': counts}
 
 
+def display_forms(path=DISPLAY_FORMS):
+    return read_json(path) if Path(path).exists() else {}
+
+
+def hs_sources(source_path=HS_SOURCE, forms_path=DISPLAY_FORMS):
+    """Source rows where a display form that differs beyond case counts as a variant spelling."""
+    rows = sources(source_path)
+    for key, form in display_forms(forms_path).items():
+        word = key.split('|')[0]
+        if word in rows and form.lower() != word and form not in rows[word]['variants']:
+            rows[word] = {**rows[word], 'variants': [*rows[word]['variants'], form]}
+    return rows
+
+
 def lexicon_rows(source_path=HS_SOURCE, curriculum_path=SOURCE):
     """Example-vocabulary scope: curriculum list plus the high-school list."""
-    return {**sources(curriculum_path), **sources(source_path)}
+    return {**sources(curriculum_path), **hs_sources(source_path)}
 
 
 def parse_authored(path, rows):
@@ -104,6 +123,13 @@ def parse_authored(path, rows):
     files = sorted(path.glob('*.txt')) if path.is_dir() else [path]
     lines = [(f'{f.name}:{n}', line) for f in files for n, line in enumerate(f.read_text().splitlines(), 1)]
     entries = {}
+    # A display form belongs to one sense; the headword's other senses do not accept it.
+    forms = {tuple(k.split('|')): v for k, v in display_forms().items()}
+    others = {}
+    for number, line in lines:
+        if line.strip() and not line.startswith('#'):
+            key = tuple(line.split('|')[:3])
+            others[key] = {f for k, f in forms.items() if k[0] == key[0] and k != key}
     for number, line in lines:
         if not line.strip() or line.startswith('#'):
             continue
@@ -121,7 +147,8 @@ def parse_authored(path, rows):
             'isPrimaryProposal': primary, 'explanationKo': explanation,
             'collocation': collocation, 'collocationKo': collocation_ko,
             'examples': [{'en': en1, 'ko': ko1}, {'en': en2, 'ko': ko2}],
-            'acceptedSpellings': [word, *(v for v in rows[word]['variants'] if v not in NOT_SPELLINGS)],
+            'acceptedSpellings': [word, *(v for v in rows[word]['variants'] if v not in NOT_SPELLINGS
+                                          and v not in others.get((word, pos, slug), ()))],
             'confusableHeadwords': [],
             'nearSynonymHeadwords': synonyms})
     for entry in entries.values():
@@ -139,7 +166,7 @@ def authored_hash(path):
 
 
 def draft(authored, output, source_path=HS_SOURCE, author='claude-session'):
-    rows = sources(source_path)
+    rows = hs_sources(source_path)
     entries = parse_authored(authored, rows)
     generation = {'model': author, 'method': 'local-authoring', 'promptVersion': 'highschool_v1',
                   'generatedAt': now(), 'authoredFileSha256': authored_hash(authored),
@@ -207,7 +234,8 @@ def approved_only(senses, version):
 
 
 def build_preview(drafts, output, source_path=HS_SOURCE, release_version=None):
-    rows = sources(source_path)
+    rows = hs_sources(source_path)
+    forms = display_forms()
     records = read_jsonl(drafts)
     require(records, 'No drafts')
     checked = validate_records(records, rows, HIGH, lexicon_rows(source_path))
@@ -219,6 +247,8 @@ def build_preview(drafts, output, source_path=HS_SOURCE, release_version=None):
         for candidate in record['data']['senseCandidates']:
             senses.append({**candidate, 'id': f"hs.{slug(record['headword'])}.{candidate['pos']}.{candidate['senseSlug']}",
                            'headwordId': slug(record['headword']), 'headword': record['headword'],
+                           'term': forms.get(f"{record['headword']}|{candidate['pos']}|{candidate['senseSlug']}",
+                                             record['headword']),
                            'source': record['source'], 'generation': original['generation'],
                            'status': 'auto_checked', 'review': None, 'llmReview': None,
                            'contentHash': digest(candidate), 'draftInputHash': record['contentHash'],

@@ -1,0 +1,261 @@
+{
+  "items": [
+    {
+      "senseKey": "register|v|sign-up",
+      "inputHash": "57532cdc9caa0878",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "fortune|n|luck",
+      "inputHash": "ad6fbe73b9003890",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "drag|v|pull",
+      "inputHash": "1f6a7293327afbe7",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "blank|adj|empty",
+      "inputHash": "740fd5438dd180b5",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "official|adj|formal",
+      "inputHash": "fbe55476a8886a6c",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "agreement|n|deal",
+      "inputHash": "719a70b743f3a3d6",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "executive|n|manager",
+      "inputHash": "66e09174b304f6b4",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "fantasy|n|imagination",
+      "inputHash": "d5c825e9f2fb1d33",
+      "verdict": "minor",
+      "issues": [
+        {
+          "field": "explanation",
+          "problem": "공상은 상상의 세계뿐 아니라 실현 가능성이 낮은 생각이나 소망도 포함하므로 설명의 범위가 조금 좁다.",
+          "suggestion": "현실과 동떨어진 상상이나 그런 상상 속의 세계예요."
+        }
+      ]
+    },
+    {
+      "senseKey": "contemporary|adj|modern",
+      "inputHash": "e2097a4e4274306f",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "penalty|n|punishment",
+      "inputHash": "ccab525f4a512a75",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "welfare|n|well-being",
+      "inputHash": "e4c1c12028edd018",
+      "verdict": "minor",
+      "issues": [
+        {
+          "field": "ko2",
+          "problem": "‘걱정한다’는 care about보다 불안의 뉘앙스가 강하다. 여기서는 중요하게 여기고 마음을 쓴다는 뜻이다.",
+          "suggestion": "부모는 자녀의 안녕을 중요하게 여긴다."
+        }
+      ]
+    },
+    {
+      "senseKey": "efficient|adj|effective",
+      "inputHash": "c130c23698606a4f",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "decent|adj|honest",
+      "inputHash": "ff386a23c13f4606",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "fame|n|being-famous",
+      "inputHash": "427e6077810764ad",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "conservation|n|protection",
+      "inputHash": "e55f23564ade9696",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "stability|n|steadiness",
+      "inputHash": "d61a6909c0300a90",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "controversy|n|dispute",
+      "inputHash": "f3c0299e7e0bdc14",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "productive|adj|efficient",
+      "inputHash": "fce8b3df6f830119",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "lung|n|breathing-organ",
+      "inputHash": "1114e70febb995ff",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "miserable|adj|unhappy",
+      "inputHash": "a937ac8ff527e033",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "aging|n|growing-old",
+      "inputHash": "5b8d5440c7f04b0b",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "donation|n|gift",
+      "inputHash": "1772afbc815036d7",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "firmly|adv|strongly",
+      "inputHash": "47582ca668542ae3",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "decay|v|rot",
+      "inputHash": "aa27a82995314f55",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "drown|v|die-in-water",
+      "inputHash": "b004835f6e029c88",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "resistant|adj|unaffected",
+      "inputHash": "6b8eeaca1ce57b98",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "enrollment|n|registration",
+      "inputHash": "f2597f7d196e7634",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "individually|adv|separately",
+      "inputHash": "2cb054b70276e25c",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "steadily|adv|constantly",
+      "inputHash": "73fcba9e6fa69509",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "drift|v|float",
+      "inputHash": "557bb73319cb24fd",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "reproduction|n|breeding",
+      "inputHash": "6275028f8c59e526",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "extinction|n|dying-out",
+      "inputHash": "c8ce761e95bb2a88",
+      "verdict": "minor",
+      "issues": [
+        {
+          "field": "explanation",
+          "problem": "멸종이 개체의 죽음과 구별되도록 생물의 ‘종’이 사라지는 것임을 명시하면 더 정확하다.",
+          "suggestion": "어떤 생물 종이 완전히 사라지는 것이에요."
+        }
+      ]
+    },
+    {
+      "senseKey": "backward|adv|toward-the-back",
+      "inputHash": "52825866270f5aaf",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "outdated|adj|old-fashioned",
+      "inputHash": "6cf49fe426b7d705",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "rectangular|adj|oblong",
+      "inputHash": "66fb870029ab27b3",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "poisonous|adj|toxic",
+      "inputHash": "7d8a237287b3c6b7",
+      "verdict": "ok",
+      "issues": []
+    },
+    {
+      "senseKey": "thorn|n|sharp-point",
+      "inputHash": "235df14ad13db8ff",
+      "verdict": "ok",
+      "issues": []
+    }
+  ],
+  "missingSenses": [
+    {
+      "headword": "fortune",
+      "reason": "make a fortune, cost a fortune 등에서 쓰이는 재산·거액의 의미가 빠져 있다.",
+      "suggestion": "명사 뜻 ‘큰 재산; 거액’을 추가한다."
+    },
+    {
+      "headword": "official",
+      "reason": "government officials 등에서 정부나 기관의 직책을 맡은 사람을 가리키는 주요 명사 용법이 빠져 있다.",
+      "suggestion": "명사 뜻 ‘(정부·기관의) 관리; 공무원’을 추가한다."
+    },
+    {
+      "headword": "executive",
+      "reason": "executive power 등 경영·행정 관련 지문에서 쓰이는 주요 형용사 용법이 빠져 있다.",
+      "suggestion": "형용사 뜻 ‘경영의; 행정의; 집행의’를 추가한다."
+    }
+  ]
+}

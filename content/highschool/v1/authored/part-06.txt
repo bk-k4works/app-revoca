@@ -95,7 +95,7 @@ bond|v|connect|유대를 맺다; 붙다|가까워지거나 서로 붙을 때 써
 deserve|v|be-worthy|~을 받을 만하다|행동이나 자질에 맞는 대가를 받을 자격이 있을 때 써요.|deserve a rest|쉴 자격이 있다|You worked hard, so you deserve a break.|너는 열심히 일했으니 쉴 자격이 있다.|The team deserved to win the game.|그 팀은 경기에서 이길 만했다.
 empty|adj|with-nothing|비어 있는|안에 아무것도 없는 것이에요.|an empty room|빈 방|The bottle is completely empty now.|그 병은 지금 완전히 비어 있다.|The streets were empty early in the morning.|이른 아침에 거리는 텅 비어 있었다.
 empty|v|make-empty|비우다|안에 든 것을 모두 꺼낼 때 써요.|empty a bag|가방을 비우다|Please empty your pockets before washing the jeans.|청바지를 빨기 전에 주머니를 비워라.|He emptied the trash can before dinner.|그는 저녁 식사 전에 쓰레기통을 비웠다.
-register|v|sign-up|등록하다; 신고하다|이름을 공식 명단에 올릴 때 써요.|register for|~에 등록하다|You must register for the class by Friday.|금요일까지 그 수업에 등록해야 한다.|All new cars must be registered.|모든 새 차는 등록해야 한다.
+register|v|sign-up|등록하다; (불만·의견 등을) 제기하다|이름이나 물건을 명부에 올리거나 불만·의견을 공식적으로 밝힐 때 써요.|register for|~에 등록하다|You must register for the class by Friday.|금요일까지 그 수업에 등록해야 한다.|All new cars must be registered.|모든 새 차는 등록해야 한다.
 register|n|record|명부; 기록부|이름이나 사실을 적는 공식 목록이에요.|a class register|출석부|The teacher checked the class register.|선생님은 출석부를 확인했다.|Sign the visitor register at the front desk.|안내 데스크에서 방문자 명부에 서명해라.
 admit|v|confess|(잘못을) 인정하다; 시인하다|잘못이나 사실을 마지못해 받아들일 때 써요.|admit a mistake|실수를 인정하다|He admitted that he had broken the window.|그는 자신이 창문을 깼다고 인정했다.|I must admit that you were right.|네가 옳았다는 것을 인정해야겠다.|accept
 admit|v|let-in|입장을 허락하다; 입학시키다|들어오거나 가입하도록 허락할 때 써요.|be admitted to|~에 입학하다|She was admitted to a famous university.|그녀는 유명한 대학에 입학 허가를 받았다.|Children under ten are not admitted.|10세 미만 어린이는 입장할 수 없다.

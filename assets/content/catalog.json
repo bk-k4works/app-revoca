@@ -1,5 +1,5 @@
 {
-  "contentVersion": "dev-high-cbb730c7ed77",
+  "contentVersion": "dev-high-e2eaa16e7e3f",
   "developmentOnly": true,
   "track": "high",
   "courses": [
@@ -58,17 +58,18 @@
   "senseCount": 2594,
   "exampleCount": 5188,
   "humanApproved": 0,
-  "inputSha256": "34d3e508f6d1c6970ca3a511d1edb9657082ecb5021705d5bd28ac09626bacde",
+  "inputSha256": "29cdce114c742e7749872cb60b6beaffa9cb97377a5a6f92c0dc37e3442937c2",
   "sparseChoiceSenseIds": [
     "hs.any.det.whatever",
     "hs.any.det.some",
     "hs.those.det.plural-that",
     "hs.those.pron.people",
+    "hs.former.pron.first-of-two",
     "hs.whatever.pron.anything"
   ],
   "reviewMethod": "auto-check-only",
   "independentModel": false,
-  "buildHash": "cbb730c7ed7706b07fbd9a63523649bd4100a60cddf2b0d2db71a6e82c025e37",
+  "buildHash": "e2eaa16e7e3fd5d654f336c0098523ea458931b3e1aa7ba614f75b89c725c65d",
   "deckCount": 101,
-  "databaseSha256": "3fe4b67d9866b772877de8f40b634de943529758a1493d0459424f333cbb4c59"
+  "databaseSha256": "6d7f322c470035eca93d1af3b28a66e0339da4e54dac1c6a56c677d9b5a943d9"
 }

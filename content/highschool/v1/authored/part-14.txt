@@ -38,7 +38,7 @@ decade|n|ten-years|10년|열 해 동안의 기간이에요.|for decades|수십 �
 engaged|adj|to-marry|약혼한|결혼하기로 약속한 것이에요.|get engaged|약혼하다|My sister got engaged last month.|우리 언니는 지난달 약혼했다.|They have been engaged for two years.|그들은 2년째 약혼한 사이이다.
 engaged|adj|involved|몰두한; 참여하는|be engaged in으로 어떤 일에 열중할 때 써요.|be engaged in|~에 종사하다|Students were engaged in a lively discussion.|학생들은 활발한 토론에 몰두해 있었다.|He is engaged in research on climate change.|그는 기후 변화 연구에 종사하고 있다.
 external|adj|outside|외부의|바깥쪽에 있거나 바깥에서 오는 것이에요.|external factors|외부 요인|The success of the plan depends on external factors.|그 계획의 성공은 외부 요인에 달려 있다.|This cream is for external use only.|이 크림은 외용으로만 써야 한다.
-fantasy|n|imagination|공상; 판타지|현실에 없는 상상의 세계예요.|a fantasy novel|판타지 소설|She loves reading fantasy novels with dragons.|그녀는 용이 나오는 판타지 소설을 좋아한다.|Becoming rich overnight is just a fantasy.|하룻밤에 부자가 되는 것은 그저 공상일 뿐이다.|imagination
+fantasy|n|imagination|공상; 판타지|현실에 없는 상상의 세계예요.|a fantasy novel|판타지 소설|She loves reading fantasy novels with dragons.|그녀는 용이 나오는 판타지 소설을 읽는 것을 좋아한다.|Becoming rich overnight is just a fantasy.|하룻밤에 부자가 되는 것은 그저 공상일 뿐이다.
 regularly|adv|often|정기적으로; 규칙적으로|일정한 간격으로 자주를 뜻해요.|exercise regularly|규칙적으로 운동하다|You should exercise regularly to stay healthy.|건강을 유지하려면 규칙적으로 운동해야 한다.|The bus comes regularly throughout the day.|버스는 하루 종일 규칙적으로 온다.
 defeat|v|beat|패배시키다; 물리치다|경쟁이나 싸움에서 상대를 이길 때 써요.|defeat an enemy|적을 물리치다|Our team defeated the champions last night.|우리 팀은 어젯밤 우승 팀을 꺾었다.|The army defeated the enemy in a long battle.|그 군대는 긴 전투 끝에 적을 물리쳤다.|beat
 defeat|n|loss|패배|경쟁이나 싸움에서 지는 것이에요.|suffer a defeat|패배하다|The team accepted its defeat calmly.|그 팀은 패배를 담담하게 받아들였다.|It was their first defeat of the season.|그 경기는 그들의 시즌 첫 패배였다.|loss
@@ -58,7 +58,7 @@ visual|adj|seeing|시각의; 시각적인|눈으로 보는 것과 관련된 것�
 appointment|n|meeting|약속; 예약|정해진 시간에 만나기로 한 것이에요.|make an appointment|예약하다|I have a doctor's appointment at three.|나는 3시에 병원 예약이 있다.|Please call to make an appointment.|예약하려면 전화해라.
 appointment|n|selection|임명|어떤 자리에 사람을 정하는 것이에요.|the appointment of|~의 임명|The appointment of the new principal was announced.|새 교장의 임명이 발표되었다.|Her appointment as manager surprised everyone.|그녀가 관리자로 임명되어 모두가 놀랐다.
 celebrate|v|honor|축하하다; 기념하다|기쁜 일을 즐겁게 기념할 때 써요.|celebrate a birthday|생일을 축하하다|We celebrated the end of exams with a big dinner.|우리는 성대한 저녁 식사로 시험이 끝난 것을 축하했다.|The town celebrates the harvest every autumn.|그 마을은 매년 가을 추수를 기념한다.
-contemporary|adj|modern|현대의; 동시대의|지금 시대이거나 같은 시대의 것이에요.|contemporary art|현대 미술|The museum shows contemporary art.|그 박물관은 현대 미술을 전시한다.|The book describes contemporary life in Seoul.|그 책은 서울의 현대 생활을 그린다.|modern
+contemporary|adj|modern|현대의; 동시대의|지금 시대이거나 같은 시대의 것이에요.|contemporary art|현대 미술|The museum has contemporary art on display.|그 박물관은 현대 미술을 전시한다.|The diary is a contemporary record of the war.|그 일기는 전쟁 당시에 쓰인 동시대의 기록이다.|modern
 criticism|n|disapproval|비판; 비평|잘못을 지적하거나 작품을 평가하는 것이에요.|face criticism|비판을 받다|The new law faced strong criticism.|새 법은 강한 비판에 직면했다.|She is good at taking criticism.|그녀는 비판을 잘 받아들인다.
 extensive|adj|wide|광범위한; 넓은|범위나 양이 아주 넓은 것이에요.|extensive research|광범위한 연구|The library has an extensive collection of books.|그 도서관은 방대한 장서를 갖추고 있다.|The storm caused extensive damage.|폭풍은 광범위한 피해를 입혔다.|broad
 gallery|n|art-museum|미술관; 화랑|그림이나 작품을 전시하는 곳이에요.|an art gallery|미술관|We visited an art gallery downtown.|우리는 시내의 미술관에 갔다.|Her paintings are on display at the gallery.|그녀의 그림이 그 화랑에 전시되어 있다.
@@ -76,12 +76,12 @@ rescue|v|save|구조하다|위험에서 사람을 구해 낼 때 써요.|rescue 
 rescue|n|saving|구조; 구출|위험에서 구해 내는 일이에요.|a rescue team|구조대|A rescue team searched for the missing hikers.|구조대가 실종된 등산객들을 찾았다.|The dog came to my rescue.|그 개가 나를 구해 주었다.
 temporary|adj|short-term|일시적인; 임시의|잠깐 동안만 계속되는 것이에요.|a temporary job|임시직|She found a temporary job for the summer.|그녀는 여름 동안 할 임시직을 구했다.|The pain is only temporary, so it should fade soon.|그 통증은 일시적이라 곧 사라질 것이다.
 complicated|adj|complex|(얽혀서) 복잡한; 까다로운|얽혀서 이해하거나 다루기 까다로운 것이에요.|a complicated problem|복잡한 문제|The instructions are too complicated for most students to follow.|그 설명서는 대부분의 학생이 따라 하기에 너무 복잡하다.|The situation became more complicated after the storm.|폭풍이 지나간 뒤 상황은 더 복잡해졌다.|complex
-format|n|layout|형식; 구성|무엇이 짜여 있는 방식이에요.|file format|파일 형식|The test has a new format this year.|올해 시험은 새로운 형식이다.|Save the document in a different format.|문서를 다른 형식으로 저장해라.
+format|n|layout|형식; 구성|정보나 내용이 정리되어 있는 방식이에요.|file format|파일 형식|The test has a new format this year.|올해 시험은 새로운 형식이다.|Save the document in a different format.|문서를 다른 형식으로 저장해라.
 gap|n|space|틈; 격차|사이에 벌어진 공간이나 차이예요.|the gap between|~ 사이의 격차|The cat got through a small gap in the fence.|고양이가 울타리의 작은 틈으로 빠져나갔다.|The gap between rich and poor is growing.|빈부 격차가 커지고 있다.|difference
 impressive|adj|remarkable|인상적인; 훌륭한|감탄할 만큼 대단한 것이에요.|an impressive result|인상적인 결과|Her speech was very impressive and inspired the whole audience.|그녀의 연설은 매우 인상적이었고 청중 모두에게 영감을 주었다.|The building has an impressive design.|그 건물의 디자인은 인상적이다.|remarkable
 proposal|n|plan|제안; 청혼|계획이나 생각을 제안하거나 결혼을 청하는 일이에요.|a marriage proposal|청혼|The committee accepted our proposal.|위원회는 우리 제안을 받아들였다.|He made a proposal of marriage on the beach.|그는 해변에서 청혼했다.|suggestion
 recognition|n|acknowledgment|인정; 인식|사람이나 사실을 알아보거나 가치를 인정하는 것이에요.|in recognition of|~을 인정하여|She received an award in recognition of her work.|그녀는 업적을 인정받아 상을 받았다.|Face recognition software can unlock your phone.|얼굴 인식 소프트웨어로 휴대전화 잠금을 풀 수 있다.
 reputation|n|good-name|평판; 명성|사람이나 단체에 대한 사람들의 평가예요.|a good reputation|좋은 평판|The restaurant has a good reputation.|그 식당은 평판이 좋다.|He built his reputation as a fair judge.|그는 공정한 판사로 명성을 쌓았다.
-awful|adj|terrible|지독한; 끔찍한|아주 나쁘거나 불쾌한 것이에요.|an awful smell|지독한 냄새|The food at that restaurant was awful.|그 식당의 음식은 끔찍했다.|I feel awful about missing your party.|네 파티에 못 가서 정말 미안하다.|terrible
+awful|adj|terrible|지독한; 끔찍한; (마음이) 몹시 미안한|아주 나쁘고 불쾌하거나 마음이 몹시 불편한 상태예요.|an awful smell|지독한 냄새|The food at that restaurant was awful.|그 식당의 음식은 끔찍했다.|I feel awful about missing your party.|네 파티에 못 가서 정말 미안하다.|terrible
 bound|adj|certain|~할 것이 확실한|be bound to로 반드시 그렇게 될 때 써요.|be bound to|반드시 ~하다|If you keep practicing, you are bound to improve.|계속 연습하면 반드시 실력이 늘 것이다.|It was bound to happen sooner or later.|그런 일은 조만간 일어날 수밖에 없었다.|certain
 bound|adj|heading|~행의|be bound for로 목적지를 나타내요.|be bound for|~행이다|This train is bound for Busan.|이 기차는 부산행이다.|The ship was bound for a small island.|그 배는 작은 섬으로 향하고 있었다.

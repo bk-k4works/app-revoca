@@ -1,0 +1,32 @@
+EDIT	register	sign-up	expl	이름이나 물건을 명부에 올리거나 불만·의견을 공식적으로 밝힐 때 써요.	Codex minor 일부 수용	이름을 명단에 올리는 경우만 설명해 차량 등록과 의견·불만 제기 의미를 충분히 포괄하지 못한다.
+EDIT	fortune	luck	en2	She uses cards to tell fortunes.	Codex fix 수용	5단어로, 예문 최소 길이인 6단어에 못 미친다.
+EDIT	fortune	luck	ko2	그녀는 카드로 점을 친다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	drag	pull	ko1	그는 무거운 가방을 바닥에 질질 끌고 갔다.	Codex minor 수용	'바닥으로'는 바닥을 향한 방향처럼 읽혀 어색하다.
+EDIT	blank	empty	colko	빈 페이지	Codex minor 수용	'빈 쪽'도 뜻은 통하지만, 문맥 없이 제시할 때는 '빈 페이지'가 더 자연스럽고 명확하다.
+EDIT	official	formal	meaning	(정부·기관의) 공식적인	Codex fix 일부 수용	'공식적인'만으로는 같은 형용사인 formal과 철자 문제에서 구별하기 어렵다. 기관의 인정이나 발표라는 단서가 필요하다.
+EDIT	agreement	deal	en2	We have finally reached an agreement.	Codex fix 수용	5단어로, 예문 최소 길이인 6단어에 못 미친다.
+EDIT	agreement	deal	ko2	우리는 마침내 합의에 이르렀다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	executive	manager	ko1	그녀는 그 은행의 고위 임원이 되었다.	Codex minor 수용	'a top executive'는 고위 임원 중 한 사람을 뜻할 수 있어, '최고 임원'보다 '고위 임원'이 정확하다.
+EDIT	fantasy	imagination	ko1	그녀는 용이 나오는 판타지 소설을 읽는 것을 좋아한다.	Codex minor 수용	'소설을 좋아한다'도 자연스럽지만, 원문은 소설을 읽는 활동을 좋아한다는 뜻이다.
+EDIT	contemporary	modern	en1	The museum has contemporary art on display.	Codex fix 수용	5단어로, 예문 최소 길이인 6단어에 못 미친다.
+EDIT	contemporary	modern	ko1	그 박물관은 현대 미술을 전시한다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	penalty	punishment	ko1	쓰레기를 함부로 버리면 무거운 처벌을 받는다.	Codex minor 수용	'무거운 벌금이 있다'가 어색하다. penalty는 벌금 이외의 처벌도 포함하므로 더 넓게 옮길 수 있다.
+EDIT	welfare	well-being	expl	건강하고 행복하게 사는 상태나 이를 돕는 사회적 지원이에요.	Codex fix 수용	welfare는 돕는 행위뿐 아니라 건강하고 행복한 상태 자체를 뜻한다. 현재 설명으로는 예문2의 '안녕'을 설명할 수 없다.
+EDIT	efficient	effective	en2	She is a very efficient worker.	Codex fix 수용	5단어로, 예문 최소 길이인 6단어에 못 미친다.
+EDIT	efficient	effective	ko2	그녀는 일을 매우 효율적으로 하는 사람이다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	decent	honest	en2	It was decent of him to apologize.	Codex minor 수용	문법적으로 가능하지만, 사람의 행동을 평가하는 이 의미에서는 'decent of someone to ...' 구문이 더 관용적이다.
+EDIT	decent	honest	ko2	그가 사과한 것은 예의 바른 행동이었다.	Codex minor 수용	예문 교체에 맞춘 번역
+EDIT	fame	being-famous	meaning	유명세; 명성	Codex fix 일부 수용	'명성'만 제시하면 reputation도 답이 될 수 있다. 널리 알려져 있다는 핵심을 뜻에 넣어야 철자 문제에서 구별하기 쉽다.
+EDIT	conservation	protection	en2	Energy conservation helps us save money.	Codex fix 수용	4단어로, 예문 최소 길이인 6단어에 못 미친다.
+EDIT	conservation	protection	ko2	에너지 절약은 우리가 돈을 아끼는 데 도움이 된다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	stability	steadiness	en1	People want both peace and stability.	Codex fix 수용	5단어로, 예문 최소 길이인 6단어에 못 미친다.
+EDIT	stability	steadiness	ko1	사람들은 평화와 안정을 모두 원한다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	controversy	dispute	expl	어떤 문제를 두고 서로 다른 주장이 크게 맞서는 상황이에요.	Codex fix 일부 수용	controversy는 의견이 엇갈리는 문제 자체보다 그 문제를 둘러싼 논란이나 논쟁을 뜻한다.
+EDIT	productive	efficient	en2	Workers who are happy are more productive.	Codex fix 수용	5단어로, 예문 최소 길이인 6단어에 못 미친다.
+EDIT	productive	efficient	ko2	행복한 노동자가 더 생산적이다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	productive	efficient	colko	많은 일을 해낸 하루	Codex fix 수용	'보람찬'은 만족감에 초점을 둔다. productive가 나타내는 일의 성과를 더 직접적으로 옮기면 좋다.
+EDIT	lung	breathing-organ	en1	Smoking causes damage to your lungs.	Codex fix 수용	4단어로, 예문 최소 길이인 6단어에 못 미친다.
+EDIT	lung	breathing-organ	ko1	흡연은 폐를 손상시킨다.	Codex fix 수용	예문 교체에 맞춘 번역
+EDIT	miserable	unhappy	ko1	나는 독감에 걸렸을 때 몹시 괴로웠다.	Codex minor 수용	독감으로 몸이 매우 괴로운 문맥에서는 '비참했다'보다 '몹시 괴로웠다'가 자연스럽다.
+EDIT	aging	growing-old	en1	Exercise can slow the process of aging.	Codex fix 수용	5단어로, 예문 최소 길이인 6단어에 못 미친다.
+EDIT	aging	growing-old	ko1	운동은 노화 과정을 늦출 수 있다.	Codex fix 수용	예문 교체에 맞춘 번역

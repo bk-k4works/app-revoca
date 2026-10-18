@@ -15,7 +15,7 @@ shed|v|reveal|(빛을) 비추다; 밝히다|shed light on으로 어떤 사실을
 strict|adj|firm|엄격한; 엄한|규칙을 꼭 지키게 하는 것이에요.|strict rules|엄격한 규칙|My parents are very strict about bedtime.|우리 부모님은 잠자는 시간에 대해 매우 엄격하시다.|The library has strict rules about noise.|그 도서관은 소음에 관한 규칙이 엄격하다.|severe
 subsequently|adv|later|그 후에; 나중에|어떤 일 다음에 일어났음을 말해요.|subsequently become|그 후에 ~이 되다|He was injured and subsequently missed the final.|그는 부상을 입었고 그 후 결승전에 나가지 못했다.|The book was subsequently made into a movie.|그 책은 나중에 영화로 만들어졌다.|later
 substance|n|material|(특정한) 물질|일정한 성질을 가진 물체의 재료예요.|a harmful substance|유해 물질|The scientists found a strange substance in the water.|과학자들은 물속에서 이상한 물질을 발견했다.|Some substances are dangerous to touch.|어떤 물질은 만지면 위험하다.|matter
-substance|n|meaning|요지; 실체|겉모습이 아닌 실제 내용이나 핵심을 가리켜요.|lack substance|알맹이가 없다|The speech was long but had little substance.|그 연설은 길었지만 알맹이가 거의 없었다.|What was the substance of their argument?|그들 논쟁의 요지는 무엇이었니?
+substance|n|meaning|요지; 실체|겉모습이 아닌 실제 내용이나 핵심을 가리켜요.|lack substance|알맹이가 없다|The speech was long but had little substance.|그 연설은 길었지만 알맹이가 거의 없었다.|What was the substance of their argument?|그들이 한 논쟁의 요지는 무엇이었니?
 unexpected|adj|surprising|예상치 못한; 뜻밖의|생각하지 못한 것이에요.|an unexpected visit|뜻밖의 방문|We had an unexpected visit from my uncle.|삼촌이 예고 없이 우리 집을 방문하셨다.|The story has an unexpected ending.|그 이야기는 뜻밖의 결말을 맺는다.|surprising
 usage|n|use|사용(량); 어법|쓰는 것이나 말을 쓰는 방식이에요.|water usage|물 사용량|Water usage goes up in summer.|여름에는 물 사용량이 늘어난다.|The dictionary shows the usage of each word.|그 사전은 단어마다 쓰임새를 보여 준다.|use
 accidentally|adv|by-mistake|우연히; 실수로|의도하지 않게를 뜻해요.|accidentally break|실수로 깨다|I accidentally deleted the file.|나는 실수로 그 파일을 지웠다.|She accidentally found an old letter in the book.|그녀는 우연히 책 속에서 오래된 편지를 발견했다.
@@ -27,10 +27,10 @@ motivation|n|drive|동기; 의욕|무엇을 하고 싶게 만드는 마음이에
 pension|n|retirement-money|연금|은퇴 후 정기적으로 받는 돈이에요.|a monthly pension|매달 받는 연금|My grandparents live on their pension.|조부모님은 연금으로 생활하신다.|Workers pay into a pension fund every month.|노동자들은 매달 연금 기금에 돈을 낸다.
 permit|v|allow|(공식적으로) 허가하다; 허락하다|규칙이나 사람이 어떤 일을 하도록 허락할 때 써요.|be permitted to|~하는 것이 허용되다|Smoking is not permitted in the building.|건물 안에서는 흡연이 허용되지 않는다.|The teacher permitted us to leave early.|선생님은 우리가 일찍 나가도록 허락하셨다.|allow
 permit|n|license|허가증|공식적으로 허락한 문서예요.|a work permit|취업 허가증|You need a permit to park here.|이곳에 주차하려면 허가증이 필요하다.|She applied for a work permit.|그녀는 취업 허가증을 신청했다.|license
-productive|adj|efficient|생산적인; 생산성 높은|좋은 결과를 많이 내는 것이에요.|a productive day|보람찬 하루|I had a very productive morning.|나는 매우 생산적인 아침을 보냈다.|Happy workers are more productive.|행복한 노동자가 더 생산적이다.|efficient
+productive|adj|efficient|생산적인; 생산성 높은|좋은 결과를 많이 내는 것이에요.|a productive day|많은 일을 해낸 하루|I had a very productive morning.|나는 매우 생산적인 아침을 보냈다.|Workers who are happy are more productive.|행복한 노동자가 더 생산적이다.
 unemployment|n|joblessness|실업; 실업률|일자리가 없는 상태나 그 비율을 말해요.|high unemployment|높은 실업률|Unemployment rose during the crisis.|위기 동안 실업률이 올랐다.|Youth unemployment is a serious problem.|청년 실업은 심각한 문제이다.
 unity|n|oneness|통일; 단결|하나로 뭉친 상태예요.|national unity|국민 통합|The team showed great unity.|그 팀은 대단한 단결력을 보여 주었다.|The leader called for unity after the election.|지도자는 선거 후 단합을 호소했다.
-useless|adj|worthless|쓸모없는|도움이 되지 않는 것이에요.|completely useless|전혀 쓸모없는|This old phone is useless now.|이 오래된 휴대전화는 이제 쓸모가 없다.|It is useless to argue with him.|그와 논쟁해 봤자 소용없다.
+useless|adj|worthless|쓸모없는; 소용없는; 헛된|도움이 되지 않는 것이에요.|completely useless|전혀 쓸모없는|This old phone is useless now.|이 오래된 휴대전화는 이제 쓸모가 없다.|It is useless to argue with him.|그와 논쟁해 봤자 소용없다.
 excess|n|too-much|초과; 과잉|필요한 것보다 많은 양이에요.|in excess of|~을 초과하여|Eating sugar in excess is bad for your teeth.|설탕을 과하게 먹는 것은 이에 나쁘다.|Too much of anything is bad, so avoid excess.|무엇이든 지나치면 해로우니 과도함을 피해라.
 excess|adj|extra|초과한; 여분의|필요한 양보다 많은 것이에요.|excess weight|초과 체중|The airline charged us for excess baggage.|항공사는 초과 수하물 요금을 받았다.|Exercise helps you lose excess weight.|운동은 초과 체중을 줄이는 데 도움이 된다.|extra
 farming|n|agriculture|농업; 농사|곡식을 기르거나 가축을 키우는 일이에요.|organic farming|유기 농업|Farming is the main industry in this village.|농업은 이 마을의 주요 산업이다.|Modern farming uses many machines.|현대 농업은 많은 기계를 사용한다.|agriculture
@@ -57,7 +57,7 @@ insight|n|understanding|통찰(력); 이해|어떤 것의 본질을 깊이 아�
 preserve|v|protect|보존하다; 지키다|좋은 상태로 오래 지킬 때 써요.|preserve nature|자연을 보존하다|We must preserve our forests for the future.|우리는 미래를 위해 숲을 보존해야 한다.|Salt is used to preserve fish.|소금은 생선을 보존하는 데 쓰인다.|protect
 uncomfortable|adj|uneasy|불편한|몸이나 마음이 편하지 않은 것이에요.|feel uncomfortable|불편함을 느끼다|These shoes are uncomfortable after a long walk.|이 신발은 오래 걸으면 불편하다.|I felt uncomfortable when everyone looked at me.|모두가 나를 쳐다보자 나는 불편했다.
 weakness|n|weak-point|약점; 약함|부족하거나 약한 부분이에요.|a weakness for|~을 몹시 좋아함|Everyone has strengths and weaknesses in different areas.|누구에게나 분야마다 강점과 약점이 있다.|Chocolate is my weakness when I feel stressed.|스트레스를 받을 때 나는 초콜릿에 약하다.
-accessible|adj|reachable|접근·이용하기 쉬운; 이해하기 쉬운|쉽게 접근하거나 이용할 수 있고 이해하기 쉬운 것이에요.|easily accessible|쉽게 이용할 수 있는|The museum is accessible by subway.|그 박물관은 지하철로 갈 수 있다.|The book is written in accessible language.|그 책은 이해하기 쉬운 말로 쓰여 있다.|available
+accessible|adj|reachable|접근·이용하기 쉬운; 이해하기 쉬운|쉽게 접근하거나 이용할 수 있고 이해하기 쉬운 것이에요.|easily accessible|쉽게 이용할 수 있는|The museum is accessible by subway.|그 박물관은 지하철로 갈 수 있다.|The book is written in accessible language.|그 책은 이해하기 쉬운 말로 쓰여 있다.
 acknowledge|v|admit|인정하다; 감사를 표하다|사실이나 도움을 받아들이고 밝힐 때 써요.|acknowledge a mistake|실수를 인정하다|He acknowledged that he had made a mistake.|그는 자신이 실수했다는 것을 인정했다.|The author acknowledged everyone who helped her.|저자는 자신을 도와준 모든 사람의 공을 인정했다.|admit
 assignment|n|task|과제; 임무|맡겨진 일이나 숙제예요.|a homework assignment|숙제|I finished my history assignment last night.|나는 어젯밤 역사 과제를 끝냈다.|The reporter went to Africa on an assignment.|그 기자는 취재 임무로 아프리카에 갔다.|task
 basement|n|underground-floor|지하실; 지하층|건물의 땅속 층이에요.|in the basement|지하실에|We keep old boxes in the basement.|우리는 오래된 상자들을 지하실에 둔다.|The gym is in the basement of the building.|체육관은 건물 지하층에 있다.
@@ -74,11 +74,11 @@ restore|v|bring-back|회복시키다; 복원하다|원래 상태로 되돌릴 �
 significance|n|importance|의의; 중요성|어떤 것이 지닌 중요한 의미예요.|historical significance|역사적 의의|The building has great historical significance.|그 건물은 역사적으로 매우 중요하다.|Few people understood the significance of the discovery.|그 발견의 중요성을 이해한 사람은 거의 없었다.|importance
 tropical|adj|hot-region|열대의|덥고 습한 지역과 관련된 것이에요.|a tropical island|열대 섬|Bananas grow well in many tropical countries.|바나나는 많은 열대 국가에서 잘 자란다.|The tropical rainforest is home to many animals.|열대 우림에는 많은 동물이 산다.
 adoption|n|taking-child|입양; 채택|아이를 가족으로 맞거나 새 방법을 쓰기로 하는 것이에요.|the adoption of|~의 채택|They decided on the adoption of a baby girl.|그들은 여자아이를 입양하기로 했다.|The adoption of new technology made work faster.|새 기술을 도입하자 일이 더 빨라졌다.
-crush|v|squeeze|으깨다; 짓밟다|세게 눌러 부수거나 기세를 꺾을 때 써요.|crush garlic|마늘을 으깨다|Crush the garlic before you add it to the pan.|팬에 넣기 전에 마늘을 으깨라.|The army crushed the rebellion after several weeks of fighting.|군대는 몇 주간의 전투 끝에 반란을 진압했다.|squeeze
+crush|v|squeeze|으깨다; 짓밟다; 진압하다|세게 눌러 부수거나 저항을 힘으로 진압할 때 써요.|crush garlic|마늘을 으깨다|Crush the garlic before you add it to the pan.|팬에 넣기 전에 마늘을 으깨라.|The army crushed the rebellion after several weeks of fighting.|군대는 몇 주간의 전투 끝에 반란을 진압했다.|squeeze
 crush|n|infatuation|홀딱 반함|누군가에게 강하게 끌리거나 좋아하는 마음이에요.|have a crush on|~에게 반하다|He has a crush on a girl in his class.|그는 같은 반 여학생에게 반했다.|My first crush was in middle school.|내 첫 짝사랑은 중학교 때였다.
 decrease|v|reduce|감소하다; 줄이다|양이나 수가 줄어들 때 써요.|decrease sharply|급격히 감소하다|The number of smokers has decreased.|흡연자 수가 줄었다.|Exercise can decrease the risk of disease.|운동은 질병의 위험을 줄일 수 있다.|reduce
 decrease|n|reduction|감소|양이나 수가 줄어드는 것이에요.|a decrease in|~의 감소|There was a decrease in crime last year.|작년에 범죄가 감소했다.|We noticed a decrease in the number of visitors.|우리는 방문객 수가 줄어든 것을 알아챘다.|reduction
 genre|n|category|장르; 유형|음악·영화·책의 종류예요.|a music genre|음악 장르|My favorite movie genre is science fiction.|내가 가장 좋아하는 영화 장르는 공상 과학이다.|The band mixes several genres of music.|그 밴드는 여러 장르의 음악을 섞는다.|category
 notion|n|idea|생각; 개념|어떤 것에 대한 생각이나 믿음이에요.|the notion that|~라는 생각|I reject the notion that girls are bad at math.|나는 여자아이들이 수학을 못한다는 생각에 반대한다.|He has no notion of time.|그는 시간 개념이 없다.|idea
-reflection|n|mirror-image|(비친) 모습; 반사|거울이나 물에 비친 모습이에요.|a reflection in the mirror|거울에 비친 모습|She looked at her reflection in the window.|그녀는 창문에 비친 자기 모습을 바라보았다.|The reflection of the moon was on the lake.|호수에 달이 비쳤다.
+reflection|n|mirror-image|(비친) 모습; 반사|거울이나 물에 비친 모습이에요.|a reflection in the mirror|거울에 비친 모습|She looked at her reflection in the window.|그녀는 창문에 비친 자기 모습을 바라보았다.|The moon's reflection shone on the calm lake.|잔잔한 호수 위에 달의 모습이 비쳐 빛났다.
 reflection|n|thought|숙고; 반성|깊이 생각하는 것이에요.|on reflection|곰곰이 생각해 보니|After some reflection, she accepted the offer.|조금 생각해 본 뒤 그녀는 그 제안을 받아들였다.|The diary is full of personal reflections.|그 일기는 개인적인 성찰로 가득하다.|thought

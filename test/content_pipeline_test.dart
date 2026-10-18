@@ -64,6 +64,30 @@ Sense sense(
 void main() {
   TestWidgetsFlutterBinding.ensureInitialized();
 
+  test('a sense shows its display form while keeping the list headword id', () {
+    Map<String, dynamic> payload(String term) => {
+      'id': 'hs.custom.n.border-control',
+      'headwordId': 'custom',
+      'headword': 'custom',
+      'term': term,
+      'acceptedSpellings': ['custom', 'customs'],
+      'pos': 'n',
+      'meaningKo': '세관',
+      'explanationKo': '공항이나 항구에서 드나드는 짐을 검사하는 곳이에요.',
+      'collocation': 'go through customs',
+      'collocationKo': '세관을 통과하다',
+      'examples': [
+        {'en': 'We went through customs.', 'ko': '우리는 세관을 통과했다.'},
+      ],
+    };
+    final sense = Sense.fromJson(payload('customs'));
+    expect(sense.term, 'customs');
+    expect(sense.headword.id, 'custom');
+    expect(sense.accepts('customs'), isTrue);
+    final legacy = Sense.fromJson(payload('customs')..remove('term'));
+    expect(legacy.term, 'custom');
+  });
+
   test('spelling accepts phrases with extra spaces and curly apostrophes', () {
     final phrase = Sense(
       id: 'p',

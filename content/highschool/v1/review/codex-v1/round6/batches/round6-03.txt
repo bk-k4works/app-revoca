@@ -1,0 +1,38 @@
+(이 묶음은 앱 화면의 표제어 표기를 바꾼 뜻이다. 대괄호 안 키는 내부 식별자이고, 학생에게는 "표제어 표기"가 표제어로 보인다. 표기가 뜻·예문과 맞는지도 함께 본다.)
+[custom|n|border-control] hash=27563758c11bb6f5
+  표제어 표기(앱 화면에 보이는 형태): customs
+  뜻: 세관
+  설명: 공항이나 항구에서 드나드는 짐을 검사하는 곳이에요.
+  연어: go through customs = 세관을 통과하다
+  예문1: We went through customs at the airport. / 우리는 공항에서 세관을 통과했다.
+  예문2: Customs officers carefully checked our bags before we left the airport. / 세관원들은 우리가 공항을 떠나기 전에 가방을 꼼꼼히 검사했다.
+[atlantic|adj|ocean] hash=9ba9deb0d1c5f0ab
+  표제어 표기(앱 화면에 보이는 형태): Atlantic
+  뜻: 대서양의
+  설명: 유럽·아프리카와 아메리카 사이의 바다와 관련돼요.
+  연어: the Atlantic Ocean = 대서양
+  예문1: Atlantic winds often bring cool air to the eastern coast. / 대서양의 바람은 종종 동부 해안에 서늘한 공기를 가져온다.
+  예문2: Scientists study Atlantic currents to understand regional climates. / 과학자들은 지역 기후를 이해하려고 대서양 해류를 연구한다.
+[belonging|n|possessions] hash=413f95a173dbe014
+  표제어 표기(앱 화면에 보이는 형태): belongings
+  뜻: 소지품
+  설명: 가지고 다니거나 가지고 있는 개인 물건이에요.
+  연어: personal belongings = 개인 소지품
+  예문1: Take all your belongings when you leave the train. / 기차에서 내릴 때 소지품을 모두 챙겨라.
+  예문2: He packed his belongings into one small bag. / 그는 소지품을 작은 가방 하나에 쌌다.
+  유의어(오답 제외): possession
+[in respect to|phrase|concerning] hash=bbebcffe133971eb
+  표제어 표기(앱 화면에 보이는 형태): with respect to
+  뜻: ~에 관하여
+  설명: 어떤 주제에 대해 격식 있게 말할 때 써요.
+  연어: with respect to = ~에 관해서는
+  예문1: With respect to your question, I will answer tomorrow. / 네 질문에 관해서는 내일 답하겠다.
+  예문2: The two plans differ with respect to cost. / 두 계획은 비용 면에서 다르다.
+  유의어(오답 제외): concerning
+[antarctica|n|south-pole-continent] hash=0ffa2f63a3077b49
+  표제어 표기(앱 화면에 보이는 형태): Antarctica
+  뜻: 남극 대륙
+  설명: 지구 남쪽 끝의 얼음으로 덮인 대륙이에요.
+  연어: travel to Antarctica = 남극에 가다
+  예문1: Many scientists work in Antarctica during the summer. / 많은 과학자가 여름 동안 남극 대륙에서 일한다.
+  예문2: Scientists study the ice in Antarctica. / 과학자들은 남극 대륙의 얼음을 연구한다.

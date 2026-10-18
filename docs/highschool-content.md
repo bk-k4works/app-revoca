@@ -54,7 +54,7 @@
 | 작성 완료 | **2,000개 전체** (뜻 2,594개, 예문 5,188개). 고교 기본 540, 아는 단어 59, 고교 핵심 881, 핵심 숙어 89, 수능 심화 431 |
 | 단어장 | 고교 기본 01–27, 아는 단어, 새로운 뜻 01–03, 고교 핵심 01–44, 핵심 숙어 01–05, 수능 심화 01–22 (총 101개) |
 | 자동 검사 | 2,000단어 모두 통과. 범위 밖 단어 1개 등의 경고는 남음. 같은 품사 대표 뜻·연어·설명 중복은 테스트로 막음 |
-| 검토 | 작성자 전체 재검토 1회(2026-10-17, [수정 목록](highschool-review-2026-10.md)). Codex 독립 검토 5회차 완료(2026-10-18, 뜻 2,594개 전부, [기록](../content/highschool/v1/review/codex-v1/README.md)). 사람 승인 0건 |
+| 검토 | 작성자 전체 재검토 1회(2026-10-17, [수정 목록](highschool-review-2026-10.md)). Codex 독립 검토 7회차 완료(2026-10-18, 사람 검수 1차 반영분 포함 뜻 2,594개 전부, [기록](../content/highschool/v1/review/codex-v1/README.md)). 사람 승인 0건 |
 | 앱 설치 | `assets/content/`에 개발용(`developmentOnly`)으로 설치. release 빌드는 기존처럼 차단됨 |
 
 이전 중학 파일럿(100개 표제어)은 `content/previews/pilot-v2/`와 `content/pilots/pilot-v1/`에 그대로 보존했다.
@@ -104,6 +104,10 @@ cd content/highschool/v1/review/codex-v1 && cat prompt.md batches/batch-01.txt |
   --output content/releases/high-1.0.0 --version high-1.0.0
 .venv-content/bin/python -m tool.content install content/releases/high-1.0.0
 ```
+
+### 표제어 표기
+
+교재 목록의 표제어는 소문자·단수로 정규화되어 있다. 고유명사(Antarctica)나 복수형으로만 쓰는 뜻(customs 세관), 표준 표현이 다른 숙어(with respect to)는 `content/highschool/v1/display_forms.json`에 뜻(`headword|pos|slug`)별 표기를 적는다. 목록 키와 뜻 ID는 바뀌지 않고, 앱은 그 뜻에서만 이 표기를 보여 주고 철자 정답으로도 받는다. 표기는 그 뜻의 검토 해시에 들어간다.
 
 ### 웹 승인 화면
 

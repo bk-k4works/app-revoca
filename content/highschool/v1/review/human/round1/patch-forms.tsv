@@ -1,0 +1,7 @@
+# 표제어 표기 5건(headword_forms.json)에 맞춘 원고 수정. hs_patch.py 형식.
+EDIT	in respect to	concerning	col	with respect to	사람 검수 수정 반영	표준 표현 with respect to로 표기
+EDIT	in respect to	concerning	en1	With respect to your question, I will answer tomorrow.	사람 검수 수정 반영	표준 표현 with respect to로 표기
+EDIT	in respect to	concerning	en2	The two plans differ with respect to cost.	사람 검수 수정 반영	표준 표현 with respect to로 표기
+EDIT	custom	border-control	meaning	세관	사람 검수 수정 반영	표제어를 customs로 표기하므로 (customs) 덧붙임 삭제
+EDIT	custom	border-control	expl	공항이나 항구에서 드나드는 짐을 검사하는 곳이에요.	사람 검수 수정 반영	표제어를 customs로 표기하므로 복수형 안내 삭제
+EDIT	belonging	possessions	expl	가지고 다니거나 가지고 있는 개인 물건이에요.	사람 검수 수정 반영	표제어를 belongings로 표기하므로 복수형 안내 삭제
