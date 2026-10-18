@@ -318,6 +318,144 @@ void main() {
     },
   );
 
+  group('one headword, several senses', () {
+    Sense still(String slug, String pos, String meaning) => Sense(
+      id: 'hs.still.$pos.$slug',
+      headword: const Headword(
+        id: 'still',
+        term: 'still',
+        acceptedSpellings: ['still'],
+      ),
+      pos: pos,
+      meaning: meaning,
+      collocation: 'still here',
+      example: 'She is still here.',
+      exampleMeaning: '그녀는 아직 여기 있다.',
+      explanation: '설명이에요.',
+    );
+    final words = [
+      still('continuing', 'adv', '아직도'),
+      still('nevertheless', 'adv', '그런데도'),
+      still('motionless', 'adj', '고요한'),
+      Sense(
+        id: 'hs.calm.adj.peaceful',
+        headword: const Headword(
+          id: 'calm',
+          term: 'calm',
+          acceptedSpellings: ['calm'],
+        ),
+        pos: 'adj',
+        meaning: '침착한',
+        collocation: 'stay calm',
+        example: 'Stay calm.',
+        exampleMeaning: '침착해라.',
+        explanation: '설명이에요.',
+      ),
+    ];
+    final deck = WordDeck(
+      id: 'basic',
+      title: '고교 기본 01',
+      subtitle: '',
+      wordIds: words.map((w) => w.id).toList(),
+    );
+
+    test('senses of a headword come back in content order', () {
+      final vocabulary = Vocabulary(
+        words: words,
+        decks: [deck],
+        provenance: {},
+      );
+      expect(vocabulary.sensesOf(words[1]).map((w) => w.meaning), [
+        '아직도',
+        '그런데도',
+        '고요한',
+      ]);
+      expect(vocabulary.sensesOf(words[3]).single.id, 'hs.calm.adj.peaceful');
+    });
+
+    testWidgets('the deck lists a headword once with each meaning', (
+      tester,
+    ) async {
+      tester.view.physicalSize = const Size(800, 3000);
+      tester.view.devicePixelRatio = 1;
+      addTearDown(tester.view.resetPhysicalSize);
+      addTearDown(tester.view.resetDevicePixelRatio);
+      final controller = LearningController(
+        vocabulary: Vocabulary(words: words, decks: [deck], provenance: {}),
+        store: MemoryStore(),
+      );
+      await controller.initialize();
+      await tester.pumpWidget(
+        MaterialApp(
+          theme: focusTheme(Brightness.light),
+          home: DeckScreen(
+            deck: deck,
+            controller: controller,
+            speech: FakeSpeech(),
+          ),
+        ),
+      );
+      await tester.pumpAndSettle();
+      expect(find.text('still'), findsOneWidget);
+      expect(find.text('뜻 3개'), findsOneWidget);
+      expect(find.text('calm'), findsOneWidget);
+      for (final line in ['부사 · 아직도', '부사 · 그런데도', '형용사 · 고요한']) {
+        expect(find.text(line), findsOneWidget);
+      }
+      // Each meaning keeps its own exam bookmark.
+      await tester.tap(
+        find.descendant(
+          of: find.byKey(const ValueKey('sense-hs.still.adv.nevertheless')),
+          matching: find.byIcon(Icons.bookmark_border_rounded),
+        ),
+      );
+      await tester.pumpAndSettle();
+      expect(controller.examWordIds, ['hs.still.adv.nevertheless']);
+      await tapText(tester, '부사 · 그런데도');
+      expect(find.text('부사 · 뜻 3개 중 2번째'), findsOneWidget);
+      await tapText(tester, '이 단어의 다른 뜻 2개');
+      expect(find.text('부사 · 아직도'), findsWidgets);
+      expect(find.text('형용사 · 고요한'), findsWidgets);
+      expect(tester.takeException(), isNull);
+    });
+
+    testWidgets('the learn card places the sense among its meanings', (
+      tester,
+    ) async {
+      final second = WordDeck(
+        id: 'second',
+        title: '그런데도',
+        subtitle: '',
+        wordIds: ['hs.still.adv.nevertheless'],
+      );
+      final controller = LearningController(
+        vocabulary: Vocabulary(
+          words: words,
+          decks: [deck, second],
+          provenance: {},
+        ),
+        store: MemoryStore(),
+      );
+      await controller.initialize();
+      await controller.start(deck: second);
+      await tester.pumpWidget(
+        FocusVocaApp(controller: controller, speech: FakeSpeech()),
+      );
+      await tester.pumpAndSettle();
+      await tapText(tester, '이어서 학습하기');
+      expect(find.text('부사 · 뜻 3개 중 2번째'), findsOneWidget);
+      expect(find.text('이 단어의 다른 뜻 2개'), findsNothing);
+      await tapText(tester, '뜻 확인하기');
+      await tapText(tester, '이 단어의 다른 뜻 2개');
+      expect(find.text('부사 · 아직도'), findsOneWidget);
+      expect(find.text('형용사 · 고요한'), findsOneWidget);
+      // Recall must not reveal the other meanings or their count.
+      await tapText(tester, '뜻 떠올리기로');
+      expect(find.textContaining('뜻 3개'), findsNothing);
+      expect(tester.takeException(), isNull);
+    });
+  });
+
   testWidgets(
     'exam selection persists and the chosen word appears in its deck',
     (tester) async {

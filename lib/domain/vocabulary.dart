@@ -212,6 +212,21 @@ class Vocabulary {
   final Map<String, String> idMigrations;
   final Future<List<Sense>> Function(List<String>)? detailLoader;
   late final Map<String, Sense> byId;
+  // Sense ids per headword in content order (primary first). Ids, not senses,
+  // so details loaded later are always read through byId.
+  late final Map<String, List<String>> _headwordSenseIds = () {
+    final ids = <String, List<String>>{};
+    for (final word in words) {
+      ids.putIfAbsent(word.headword.id, () => []).add(word.id);
+    }
+    return ids;
+  }();
+
+  /// Every sense of [word]'s headword; learning stays per sense, display groups.
+  List<Sense> sensesOf(Sense word) =>
+      (_headwordSenseIds[word.headword.id] ?? [word.id])
+          .map((id) => byId[id]!)
+          .toList();
 
   String resolveId(String id) {
     var current = id;
