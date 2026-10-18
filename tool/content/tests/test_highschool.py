@@ -3,6 +3,7 @@ import re
 import sqlite3
 import tempfile
 import unittest
+from unittest import mock
 from pathlib import Path
 
 from tool.content import highschool
@@ -154,8 +155,10 @@ class HighSchoolTest(unittest.TestCase):
         with tempfile.TemporaryDirectory() as temporary:
             drafts = Path(temporary) / 'drafts.jsonl'
             highschool.draft(AUTHORED, drafts)
-            with self.assertRaises(ValueError):
-                highschool.build_preview(drafts, Path(temporary) / 'release', release_version='high-1.0.0')
+            # 실제 승인 기록과 무관하게, 사람 결정이 하나도 없으면 출시를 멈춰야 한다.
+            with mock.patch('tool.content.hs_review.ledger', return_value={}):
+                with self.assertRaises(ValueError):
+                    highschool.build_preview(drafts, Path(temporary) / 'release', release_version='high-1.0.0')
             self.assertFalse((Path(temporary) / 'release').exists())
 
     def test_authored_rows_pass_and_build_tier_decks(self):

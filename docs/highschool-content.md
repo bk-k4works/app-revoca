@@ -116,6 +116,7 @@ cd content/highschool/v1/review/codex-v1 && cat prompt.md batches/batch-01.txt |
 - 데이터: `hs-review-web-export`가 만든 `build/review-web/senses.json`을 화면과 함께 게시한다(저장소에는 넣지 않는다). 원고를 고치면 다시 만들어 게시한다.
 - 저장: 결정은 Artifact 저장소 `review/<part>/decisions/<뜻 id>`에 `{senseKey, inputHash, decision, note, reviewerId, decidedAt}`로 남는다. 검수자는 처음에 자기 이름을 `reviewers/<계정 id>`에 저장하고, 그 문서는 본인만 고칠 수 있다.
 - 원고가 바뀐 뜻은 해시가 달라 화면에 '원고 바뀜'으로 표시되고 미결정으로 센다.
+- 화면 저장소에 현재 원고 기준 결정이 없으면 저장소 `decisions.jsonl`에 기록된 결정(데이터 파일의 `repo`)을 '저장소 기록'으로 보여 준다.
 - 권한: 소유자와 기여자(Contributor) 이상만 결정을 남긴다. 다른 검수자에게는 Share 메뉴에서 기여자 권한을 준다.
 - 가져오기: 화면의 **결정 파일 받기**로 받은 JSON을 `hs-review-web-import`로 `decisions.jsonl`에 더한다. 해시가 다른 결정은 건너뛰어 보고하고, 이미 기록된 같은 결정은 다시 쓰지 않으므로 같은 파일을 여러 번 가져와도 된다. 기계 검토자 이름은 여기서도 받지 않는다.
 
