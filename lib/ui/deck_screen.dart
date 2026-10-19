@@ -402,70 +402,106 @@ class _DeckScreenState extends State<DeckScreen> {
                         : '검색한 단어가 없어요.',
                   ),
                 ),
-              for (final word in words)
-                ListTile(
-                  contentPadding: const EdgeInsets.symmetric(vertical: 4),
-                  title: Text(
-                    word.term,
-                    style: const TextStyle(
-                      fontSize: 20,
-                      fontWeight: FontWeight.w600,
-                    ),
+              for (final group in _byHeadword(words)) ...[
+                Padding(
+                  padding: const EdgeInsets.only(top: 14, bottom: 2),
+                  child: Wrap(
+                    spacing: 8,
+                    crossAxisAlignment: WrapCrossAlignment.end,
+                    children: [
+                      Text(
+                        group.first.term,
+                        style: const TextStyle(
+                          fontSize: 20,
+                          fontWeight: FontWeight.w600,
+                        ),
+                      ),
+                      if (group.length > 1)
+                        Padding(
+                          padding: const EdgeInsets.only(bottom: 3),
+                          child: Caption('뜻 ${group.length}개'),
+                        ),
+                    ],
                   ),
-                  subtitle: Padding(
-                    padding: const EdgeInsets.only(top: 4),
-                    child: Caption('${word.partOfSpeech} · ${word.meaning}'),
-                  ),
-                  trailing: IconButton(
-                    tooltip: controller.examWordIds.contains(word.id)
-                        ? '시험 범위에서 빼기'
-                        : '시험 범위에 담기',
-                    icon: Icon(
-                      controller.examWordIds.contains(word.id)
-                          ? Icons.bookmark_rounded
-                          : Icons.bookmark_border_rounded,
-                    ),
-                    onPressed: controller.busy
-                        ? null
-                        : () async {
-                            final ids = controller.examWordIds.toSet();
-                            if (!ids.remove(word.id)) ids.add(word.id);
-                            if (!await controller.setExamWords(ids) &&
-                                context.mounted) {
-                              showNotice(context, controller.error!);
-                            }
-                          },
-                  ),
-                  onTap: () async {
-                    try {
-                      await controller.vocabulary.ensureDetails([word.id]);
-                      if (context.mounted) {
-                        await showWordDetails(
-                          context,
-                          controller.vocabulary.byId[word.id]!,
-                          widget.speech,
-                        );
-                      }
-                    } catch (_) {
-                      if (context.mounted) {
-                        showNotice(context, '단어를 불러오지 못했어요. 다시 시도해 주세요.');
-                      }
-                    }
-                  },
                 ),
+                for (final word in group)
+                  ListTile(
+                    key: ValueKey('sense-${word.id}'),
+                    dense: true,
+                    contentPadding: EdgeInsets.zero,
+                    visualDensity: VisualDensity.compact,
+                    title: Text(
+                      '${word.partOfSpeech} · ${word.meaning}',
+                      style: TextStyle(
+                        fontSize: 15,
+                        color: FocusColors.of(context).muted,
+                      ),
+                    ),
+                    trailing: IconButton(
+                      tooltip: controller.examWordIds.contains(word.id)
+                          ? '시험 범위에서 빼기'
+                          : '시험 범위에 담기',
+                      icon: Icon(
+                        controller.examWordIds.contains(word.id)
+                            ? Icons.bookmark_rounded
+                            : Icons.bookmark_border_rounded,
+                      ),
+                      onPressed: controller.busy
+                          ? null
+                          : () async {
+                              final ids = controller.examWordIds.toSet();
+                              if (!ids.remove(word.id)) ids.add(word.id);
+                              if (!await controller.setExamWords(ids) &&
+                                  context.mounted) {
+                                showNotice(context, controller.error!);
+                              }
+                            },
+                    ),
+                    onTap: () async {
+                      final senses = controller.vocabulary.sensesOf(word);
+                      try {
+                        await controller.vocabulary.ensureDetails([word.id]);
+                        if (context.mounted) {
+                          await showWordDetails(
+                            context,
+                            controller.vocabulary.byId[word.id]!,
+                            widget.speech,
+                            senses: senses,
+                          );
+                        }
+                      } catch (_) {
+                        if (context.mounted) {
+                          showNotice(context, '단어를 불러오지 못했어요. 다시 시도해 주세요.');
+                        }
+                      }
+                    },
+                  ),
+              ],
             ],
           ),
         ),
       );
     },
   );
+
+  // Learning stays per sense; the list shows a headword once with its meanings.
+  static List<List<WordEntry>> _byHeadword(List<WordEntry> words) {
+    final groups = <String, List<WordEntry>>{};
+    for (final word in words) {
+      groups
+          .putIfAbsent('${word.headword.id}|${word.term}', () => [])
+          .add(word);
+    }
+    return groups.values.toList();
+  }
 }
 
 Future<void> showWordDetails(
   BuildContext context,
   WordEntry word,
-  SpeechService speech,
-) async {
+  SpeechService speech, {
+  List<WordEntry> senses = const [],
+}) async {
   await showModalBottomSheet<void>(
     context: context,
     isScrollControlled: true,
@@ -475,7 +511,7 @@ Future<void> showWordDetails(
         heightFactor: 0.82,
         child: PageContent(
           children: [
-            Caption(word.partOfSpeech),
+            Caption(senseLabel(word, senses)),
             const SizedBox(height: 8),
             Text(
               word.term,
@@ -534,6 +570,7 @@ Future<void> showWordDetails(
                 ),
               ],
             ),
+            OtherSenses(word: word, senses: senses),
           ],
         ),
       ),

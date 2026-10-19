@@ -1,5 +1,6 @@
 import '../services/content_speech_service.dart';
 import 'package:flutter/material.dart';
+import '../domain/vocabulary.dart';
 import '../services/speech_service.dart';
 import 'focus_theme.dart';
 
@@ -169,4 +170,45 @@ class _SpeechButtonState extends State<SpeechButton> {
 
 void showNotice(BuildContext context, String message) {
   ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text(message)));
+}
+
+/// Part of speech, plus the sense's place among its headword's meanings.
+String senseLabel(Sense word, List<Sense> senses) {
+  final index = senses.indexWhere((s) => s.id == word.id);
+  return senses.length > 1 && index >= 0
+      ? '${word.partOfSpeech} · 뜻 ${senses.length}개 중 ${index + 1}번째'
+      : word.partOfSpeech;
+}
+
+/// The headword's other meanings, so a sense is never learned in isolation.
+class OtherSenses extends StatelessWidget {
+  const OtherSenses({super.key, required this.word, required this.senses});
+  final Sense word;
+  final List<Sense> senses;
+  @override
+  Widget build(BuildContext context) {
+    final others = senses.where((s) => s.id != word.id).toList();
+    if (others.isEmpty) return const SizedBox.shrink();
+    return ExpansionTile(
+      key: const Key('other-senses'),
+      tilePadding: EdgeInsets.zero,
+      title: Text('이 단어의 다른 뜻 ${others.length}개'),
+      children: [
+        for (final other in others)
+          Padding(
+            padding: const EdgeInsets.only(bottom: 12),
+            child: Align(
+              alignment: Alignment.centerLeft,
+              child: Text(
+                [
+                  if (other.term != word.term) other.term,
+                  other.partOfSpeech,
+                  other.meaning,
+                ].join(' · '),
+              ),
+            ),
+          ),
+      ],
+    );
+  }
 }

@@ -150,7 +150,12 @@ class StudyScreen extends StatelessWidget {
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
-                        Caption(word.partOfSpeech),
+                        Caption(
+                          senseLabel(
+                            word,
+                            controller.vocabulary.sensesOf(word),
+                          ),
+                        ),
                         const SizedBox(height: 24),
                         Text(
                           word.term,
@@ -208,6 +213,10 @@ class StudyScreen extends StatelessWidget {
                                 ),
                               ),
                             ],
+                          ),
+                          OtherSenses(
+                            word: word,
+                            senses: controller.vocabulary.sensesOf(word),
                           ),
                         ] else
                           const Padding(
