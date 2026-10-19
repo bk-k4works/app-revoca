@@ -18,6 +18,10 @@ dependencies:
   archive: ^4.0.7
   audioplayers: ^6.5.1
   path_provider: ^2.1.5
+  flutter_local_notifications: ^22.3.2
+  timezone: ^0.11.2
+  flutter_timezone: ^5.1.1
+  home_widget: ^0.10.0
 
 dev_dependencies:
   flutter_test:

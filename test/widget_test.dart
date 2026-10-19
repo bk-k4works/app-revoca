@@ -480,6 +480,11 @@ void main() {
       await tapText(tester, '1개 담기');
       expect(controller.examWordIds, [vocabulary.words.first.id]);
       expect(store.snapshot.examWordIds, controller.examWordIds);
+      await tester.scrollUntilVisible(
+        find.text(vocabulary.words.first.term),
+        200,
+        scrollable: find.byType(Scrollable).first,
+      );
       expect(find.text(vocabulary.words.first.term), findsOneWidget);
       expect(tester.takeException(), isNull);
     },
@@ -576,6 +581,9 @@ void main() {
         ),
       );
       await tester.pumpAndSettle();
+      expect(find.text('즐겨찾기'), findsOneWidget, reason: 'personal first');
+      expect(find.text('나의 시험 범위'), findsOneWidget);
+      await tester.scrollUntilVisible(find.text('BASIC\n01'), 200);
       expect(find.text('고등 영단어'), findsOneWidget);
       expect(find.text('고교 기본 01'), findsOneWidget);
       expect(find.text('BASIC\n01'), findsOneWidget);

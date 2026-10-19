@@ -5,6 +5,7 @@ import '../domain/vocabulary.dart';
 import '../services/speech_service.dart';
 import 'focus_theme.dart';
 import 'listen_screen.dart';
+import 'search_screen.dart';
 import 'study_screen.dart';
 import 'widgets.dart';
 
@@ -24,7 +25,46 @@ class DeckLibrary extends StatelessWidget {
         style: Theme.of(context).textTheme.headlineMedium,
       ),
       const SizedBox(height: 12),
-      const Caption('한 번에 5개씩, 부담 없이 시작해요.'),
+      Caption('한 번에 ${controller.sessionSize}개씩, 부담 없이 시작해요.'),
+      const SizedBox(height: 20),
+      OutlinedButton.icon(
+        key: const Key('open-word-search'),
+        style: OutlinedButton.styleFrom(alignment: Alignment.centerLeft),
+        onPressed: () => openWordSearch(context, controller, speech),
+        icon: const Icon(Icons.search_rounded),
+        label: const Text('모든 단어장에서 영단어·뜻 찾기'),
+      ),
+      const SizedBox(height: 28),
+      const SectionHeading('내 단어'),
+      DeckTile(
+        deck: controller.favoriteDeck,
+        controller: controller,
+        speech: speech,
+        index: 1,
+      ),
+      const SizedBox(height: 16),
+      DeckTile(
+        deck: controller.weakDeck,
+        controller: controller,
+        speech: speech,
+        index: 2,
+      ),
+      const SizedBox(height: 16),
+      DeckTile(
+        deck: controller.examDeck,
+        controller: controller,
+        speech: speech,
+        index: 3,
+      ),
+      const SizedBox(height: 8),
+      Align(
+        alignment: Alignment.centerLeft,
+        child: TextButton.icon(
+          onPressed: () => editExamWords(context, controller),
+          icon: const Icon(Icons.add_rounded),
+          label: const Text('시험 범위 고르기'),
+        ),
+      ),
       const SizedBox(height: 28),
       SectionHeading(
         '단어장 컬렉션',
@@ -50,20 +90,6 @@ class DeckLibrary extends StatelessWidget {
         ),
       ),
       ..._courseSections(context),
-      const SizedBox(height: 16),
-      const SectionHeading('내가 고른 단어'),
-      DeckTile(
-        deck: controller.examDeck,
-        controller: controller,
-        speech: speech,
-        index: 3,
-      ),
-      const SizedBox(height: 16),
-      OutlinedButton.icon(
-        onPressed: () => editExamWords(context, controller),
-        icon: const Icon(Icons.add_rounded),
-        label: const Text('시험 범위 고르기'),
-      ),
     ],
   );
 
@@ -198,9 +224,12 @@ class DeckTile extends StatelessWidget {
                       fit: BoxFit.scaleDown,
                       alignment: Alignment.topLeft,
                       child: Text(
-                        deck.id == 'my-exam'
-                            ? 'MY\nWORDS'
-                            : _badge(deck.id, index),
+                        switch (deck.id) {
+                          'my-exam' => 'MY\nTEST',
+                          'my-favorites' => 'MY\nSTARS',
+                          'my-weak' => 'RE\nTEST',
+                          _ => _badge(deck.id, index),
+                        },
                         textScaler: TextScaler.noScaling,
                         softWrap: false,
                         style: const TextStyle(
@@ -292,16 +321,23 @@ class DeckScreen extends StatefulWidget {
   State<DeckScreen> createState() => _DeckScreenState();
 }
 
+/// What the word list covers so the student can check themselves.
+enum ListCover { none, meaning, term }
+
 class _DeckScreenState extends State<DeckScreen> {
   String _query = '';
+  ListCover _cover = ListCover.none;
+  // Headwords or senses uncovered one by one while a cover is on.
+  final Set<String> _uncovered = {};
   @override
   Widget build(BuildContext context) => AnimatedBuilder(
     animation: widget.controller,
     builder: (context, child) {
       final controller = widget.controller;
-      final deck = widget.deck.id == 'my-exam'
-          ? controller.examDeck
-          : widget.deck;
+      final deck = controller.latest(widget.deck);
+      final favorites = deck.id == 'my-favorites';
+      final weak = deck.id == 'my-weak';
+      final retest = deck.wordIds.take(controller.sessionSize).length;
       final words = deck.wordIds
           .map((id) => controller.vocabulary.byId[id]!)
           .where(
@@ -318,19 +354,37 @@ class _DeckScreenState extends State<DeckScreen> {
             children: [
               Caption(_deckCaption(deck)),
               const SizedBox(height: 12),
-              Text(
-                deck.id == 'my-exam'
-                    ? '이번 시험에 필요한\n단어를 모았어요.'
-                    : '오늘은 다섯 개,\n차근차근 익혀요.',
-                style: Theme.of(context).textTheme.headlineMedium,
-              ),
+              Text(switch (deck.id) {
+                'my-exam' => '이번 시험에 필요한\n단어를 모았어요.',
+                'my-favorites' => '별표한 단어를\n다시 꺼내 봐요.',
+                'my-weak' => '틀린 단어만\n다시 시험해요.',
+                _ => '오늘은 ${controller.sessionSize}개씩,\n차근차근 익혀요.',
+              }, style: Theme.of(context).textTheme.headlineMedium),
               const SizedBox(height: 24),
               PrimaryAction(
-                deck.wordIds.isEmpty ? '시험 범위에 단어 담기' : '5개 학습하기',
-                onPressed: controller.busy
+                weak
+                    ? deck.wordIds.isEmpty
+                          ? '아직 틀린 단어가 없어요'
+                          : '틀린 단어 $retest개 다시 시험'
+                    : deck.wordIds.isEmpty
+                    ? favorites
+                          ? '단어 찾아서 별표하기'
+                          : '시험 범위에 단어 담기'
+                    : '${controller.sessionSize}개 학습하기',
+                onPressed: controller.busy || (weak && deck.wordIds.isEmpty)
                     ? null
                     : () {
-                        if (deck.wordIds.isEmpty) {
+                        if (weak) {
+                          openStudy(
+                            context,
+                            controller,
+                            widget.speech,
+                            deck: deck,
+                            start: controller.retestWeak,
+                          );
+                        } else if (deck.wordIds.isEmpty && favorites) {
+                          openWordSearch(context, controller, widget.speech);
+                        } else if (deck.wordIds.isEmpty) {
                           editExamWords(context, controller);
                         } else {
                           openStudy(
@@ -352,6 +406,7 @@ class _DeckScreenState extends State<DeckScreen> {
                             deck: deck,
                             vocabulary: controller.vocabulary,
                             speech: widget.speech,
+                            onHeard: controller.recordListen,
                           ),
                         ),
                       ),
@@ -393,88 +448,59 @@ class _DeckScreenState extends State<DeckScreen> {
                   prefixIcon: Icon(Icons.search_rounded),
                 ),
               ),
+              const SizedBox(height: 12),
+              SegmentedButton<ListCover>(
+                key: const Key('list-cover'),
+                showSelectedIcon: false,
+                segments: const [
+                  ButtonSegment(value: ListCover.none, label: Text('모두')),
+                  ButtonSegment(value: ListCover.meaning, label: Text('영어만')),
+                  ButtonSegment(value: ListCover.term, label: Text('뜻만')),
+                ],
+                selected: {_cover},
+                onSelectionChanged: (value) => setState(() {
+                  _cover = value.single;
+                  _uncovered.clear();
+                }),
+              ),
+              if (_cover != ListCover.none) ...[
+                const SizedBox(height: 8),
+                const Caption('가린 부분을 누르면 하나씩 보여요.'),
+              ],
               const SizedBox(height: 16),
               if (words.isEmpty)
                 PaperCard(
                   child: Caption(
                     deck.wordIds.isEmpty
-                        ? '시험 범위를 고르면 여기에 단어가 모여요.'
+                        ? weak
+                              ? '뜻 고르기나 철자 쓰기에서 틀린 단어가 여기에 모여요. 여러 날에 걸쳐 다시 맞히면 빠져요.'
+                              : favorites
+                              ? '단어 옆의 별을 누르면 여기에 모여요.'
+                              : '시험 범위를 고르면 여기에 단어가 모여요.'
                         : '검색한 단어가 없어요.',
                   ),
                 ),
-              for (final group in _byHeadword(words)) ...[
-                Padding(
-                  padding: const EdgeInsets.only(top: 14, bottom: 2),
-                  child: Wrap(
-                    spacing: 8,
-                    crossAxisAlignment: WrapCrossAlignment.end,
-                    children: [
-                      Text(
-                        group.first.term,
-                        style: const TextStyle(
-                          fontSize: 20,
-                          fontWeight: FontWeight.w600,
-                        ),
-                      ),
-                      if (group.length > 1)
-                        Padding(
-                          padding: const EdgeInsets.only(bottom: 3),
-                          child: Caption('뜻 ${group.length}개'),
-                        ),
-                    ],
-                  ),
+              for (final group in groupByHeadword(words)) ...[
+                HeadwordHeading(
+                  group: group,
+                  covered:
+                      _cover == ListCover.term &&
+                      !_uncovered.contains(group.first.headword.id),
+                  onUncover: () =>
+                      setState(() => _uncovered.add(group.first.headword.id)),
                 ),
                 for (final word in group)
-                  ListTile(
-                    key: ValueKey('sense-${word.id}'),
-                    dense: true,
-                    contentPadding: EdgeInsets.zero,
-                    visualDensity: VisualDensity.compact,
-                    title: Text(
-                      '${word.partOfSpeech} · ${word.meaning}',
-                      style: TextStyle(
-                        fontSize: 15,
-                        color: FocusColors.of(context).muted,
-                      ),
-                    ),
-                    trailing: IconButton(
-                      tooltip: controller.examWordIds.contains(word.id)
-                          ? '시험 범위에서 빼기'
-                          : '시험 범위에 담기',
-                      icon: Icon(
-                        controller.examWordIds.contains(word.id)
-                            ? Icons.bookmark_rounded
-                            : Icons.bookmark_border_rounded,
-                      ),
-                      onPressed: controller.busy
-                          ? null
-                          : () async {
-                              final ids = controller.examWordIds.toSet();
-                              if (!ids.remove(word.id)) ids.add(word.id);
-                              if (!await controller.setExamWords(ids) &&
-                                  context.mounted) {
-                                showNotice(context, controller.error!);
-                              }
-                            },
-                    ),
-                    onTap: () async {
-                      final senses = controller.vocabulary.sensesOf(word);
-                      try {
-                        await controller.vocabulary.ensureDetails([word.id]);
-                        if (context.mounted) {
-                          await showWordDetails(
-                            context,
-                            controller.vocabulary.byId[word.id]!,
-                            widget.speech,
-                            senses: senses,
-                          );
-                        }
-                      } catch (_) {
-                        if (context.mounted) {
-                          showNotice(context, '단어를 불러오지 못했어요. 다시 시도해 주세요.');
-                        }
-                      }
-                    },
+                  SenseTile(
+                    word: word,
+                    controller: controller,
+                    speech: widget.speech,
+                    meaningCovered:
+                        _cover == ListCover.meaning &&
+                        !_uncovered.contains(word.id),
+                    onUncover: () => setState(() => _uncovered.add(word.id)),
+                    detail: weak
+                        ? '틀린 횟수 ${controller.wrongCount(word.id)}번'
+                        : null,
                   ),
               ],
             ],
@@ -483,17 +509,216 @@ class _DeckScreenState extends State<DeckScreen> {
       );
     },
   );
+}
 
-  // Learning stays per sense; the list shows a headword once with its meanings.
-  static List<List<WordEntry>> _byHeadword(List<WordEntry> words) {
-    final groups = <String, List<WordEntry>>{};
-    for (final word in words) {
-      groups
-          .putIfAbsent('${word.headword.id}|${word.term}', () => [])
-          .add(word);
-    }
-    return groups.values.toList();
+/// Learning stays per sense; lists show a headword once with its meanings.
+List<List<WordEntry>> groupByHeadword(List<WordEntry> words) {
+  final groups = <String, List<WordEntry>>{};
+  for (final word in words) {
+    groups.putIfAbsent('${word.headword.id}|${word.term}', () => []).add(word);
   }
+  return groups.values.toList();
+}
+
+class HeadwordHeading extends StatelessWidget {
+  const HeadwordHeading({
+    super.key,
+    required this.group,
+    this.covered = false,
+    this.onUncover,
+  });
+  final List<WordEntry> group;
+
+  /// Shows a cover instead of the word until [onUncover] is called.
+  final bool covered;
+  final VoidCallback? onUncover;
+  @override
+  Widget build(BuildContext context) => Padding(
+    padding: const EdgeInsets.only(top: 14, bottom: 2),
+    child: Wrap(
+      spacing: 8,
+      crossAxisAlignment: WrapCrossAlignment.end,
+      children: [
+        if (covered)
+          _Cover(label: '단어 보기', onTap: onUncover, large: true)
+        else
+          Text(
+            group.first.term,
+            style: const TextStyle(fontSize: 20, fontWeight: FontWeight.w600),
+          ),
+        if (group.length > 1)
+          Padding(
+            padding: const EdgeInsets.only(bottom: 3),
+            child: Caption('뜻 ${group.length}개'),
+          ),
+      ],
+    ),
+  );
+}
+
+/// One sense in a list: opens its details and toggles the exam range.
+class SenseTile extends StatelessWidget {
+  const SenseTile({
+    super.key,
+    required this.word,
+    required this.controller,
+    required this.speech,
+    this.detail,
+    this.meaningCovered = false,
+    this.onUncover,
+  });
+  final WordEntry word;
+  final LearningController controller;
+  final SpeechService speech;
+  final String? detail;
+
+  /// Shows a cover instead of the meaning until [onUncover] is called.
+  final bool meaningCovered;
+  final VoidCallback? onUncover;
+
+  @override
+  Widget build(BuildContext context) {
+    final saved = controller.examWordIds.contains(word.id);
+    return ListTile(
+      key: ValueKey('sense-${word.id}'),
+      dense: true,
+      contentPadding: EdgeInsets.zero,
+      visualDensity: VisualDensity.compact,
+      title: meaningCovered
+          ? Row(
+              children: [
+                Text(
+                  '${word.partOfSpeech} · ',
+                  style: TextStyle(
+                    fontSize: 15,
+                    color: FocusColors.of(context).muted,
+                  ),
+                ),
+                _Cover(label: '뜻 보기', onTap: onUncover),
+              ],
+            )
+          : Text(
+              '${word.partOfSpeech} · ${word.meaning}',
+              style: TextStyle(
+                fontSize: 15,
+                color: FocusColors.of(context).muted,
+              ),
+            ),
+      subtitle: detail == null ? null : Caption(detail!),
+      trailing: Row(
+        mainAxisSize: MainAxisSize.min,
+        children: [
+          FavoriteButton(controller: controller, wordId: word.id),
+          IconButton(
+            tooltip: saved ? '시험 범위에서 빼기' : '시험 범위에 담기',
+            icon: Icon(
+              saved ? Icons.bookmark_rounded : Icons.bookmark_border_rounded,
+            ),
+            onPressed: controller.busy
+                ? null
+                : () async {
+                    final ids = controller.examWordIds.toSet();
+                    if (!ids.remove(word.id)) ids.add(word.id);
+                    if (!await controller.setExamWords(ids) &&
+                        context.mounted) {
+                      showNotice(context, controller.error!);
+                    }
+                  },
+          ),
+        ],
+      ),
+      onTap: () async {
+        final senses = controller.vocabulary.sensesOf(word);
+        try {
+          await controller.vocabulary.ensureDetails([word.id]);
+          if (context.mounted) {
+            await showWordDetails(
+              context,
+              controller.vocabulary.byId[word.id]!,
+              speech,
+              senses: senses,
+              controller: controller,
+            );
+          }
+        } catch (_) {
+          if (context.mounted) {
+            showNotice(context, '단어를 불러오지 못했어요. 다시 시도해 주세요.');
+          }
+        }
+      },
+    );
+  }
+}
+
+/// A tappable cover hiding a word or meaning in a self-check list.
+class _Cover extends StatelessWidget {
+  const _Cover({required this.label, this.onTap, this.large = false});
+  final String label;
+  final VoidCallback? onTap;
+  final bool large;
+  @override
+  Widget build(BuildContext context) {
+    final c = FocusColors.of(context);
+    return Material(
+      color: c.soft,
+      borderRadius: BorderRadius.circular(8),
+      child: InkWell(
+        borderRadius: BorderRadius.circular(8),
+        onTap: onTap,
+        child: Padding(
+          padding: EdgeInsets.symmetric(
+            horizontal: large ? 16 : 10,
+            vertical: large ? 6 : 3,
+          ),
+          child: Text(
+            label,
+            style: TextStyle(
+              fontSize: large ? 15 : 13,
+              color: c.muted,
+              fontWeight: FontWeight.w600,
+            ),
+          ),
+        ),
+      ),
+    );
+  }
+}
+
+/// Stars or unstars a sense; starred senses gather in the 즐겨찾기 deck.
+class FavoriteButton extends StatelessWidget {
+  const FavoriteButton({
+    super.key,
+    required this.controller,
+    required this.wordId,
+  });
+  final LearningController controller;
+  final String wordId;
+  @override
+  Widget build(BuildContext context) => AnimatedBuilder(
+    animation: controller,
+    builder: (context, child) {
+      final starred = controller.isFavorite(wordId);
+      return IconButton(
+        key: ValueKey('favorite-$wordId'),
+        tooltip: starred ? '즐겨찾기에서 빼기' : '즐겨찾기에 담기',
+        isSelected: starred,
+        icon: const Icon(Icons.star_outline_rounded),
+        selectedIcon: Icon(
+          Icons.star_rounded,
+          color: FocusColors.of(context).warning,
+        ),
+        onPressed: controller.busy
+            ? null
+            : () async {
+                if (!await controller.toggleFavorite(wordId) &&
+                    context.mounted &&
+                    controller.error != null) {
+                  showNotice(context, controller.error!);
+                }
+              },
+      );
+    },
+  );
 }
 
 Future<void> showWordDetails(
@@ -501,6 +726,7 @@ Future<void> showWordDetails(
   WordEntry word,
   SpeechService speech, {
   List<WordEntry> senses = const [],
+  LearningController? controller,
 }) async {
   await showModalBottomSheet<void>(
     context: context,
@@ -513,13 +739,21 @@ Future<void> showWordDetails(
           children: [
             Caption(senseLabel(word, senses)),
             const SizedBox(height: 8),
-            Text(
-              word.term,
-              style: const TextStyle(
-                fontSize: 40,
-                fontWeight: FontWeight.w700,
-                letterSpacing: -1,
-              ),
+            Row(
+              children: [
+                Expanded(
+                  child: Text(
+                    word.term,
+                    style: const TextStyle(
+                      fontSize: 40,
+                      fontWeight: FontWeight.w700,
+                      letterSpacing: -1,
+                    ),
+                  ),
+                ),
+                if (controller != null)
+                  FavoriteButton(controller: controller, wordId: word.id),
+              ],
             ),
             const SizedBox(height: 12),
             Text(
@@ -599,8 +833,30 @@ class _ExamSelector extends StatefulWidget {
 class _ExamSelectorState extends State<_ExamSelector> {
   late final Set<String> _selected = widget.controller.examWordIds.toSet();
   bool _saving = false;
+  String _query = '';
+  WordDeck? _deck;
+
+  // Senses narrowed by deck and by a search over the word and its meaning.
+  List<WordEntry> get _visible {
+    final vocabulary = widget.controller.vocabulary;
+    final query = _query.trim().toLowerCase();
+    final words =
+        _deck?.wordIds.map((id) => vocabulary.byId[id]!) ?? vocabulary.words;
+    return words
+        .where(
+          (w) =>
+              query.isEmpty ||
+              w.term.toLowerCase().contains(query) ||
+              w.meaning.contains(query),
+        )
+        .toList();
+  }
+
   @override
   Widget build(BuildContext context) {
+    final visible = _visible;
+    final allVisibleSelected =
+        visible.isNotEmpty && visible.every((w) => _selected.contains(w.id));
     final header = <Widget>[
       const Padding(
         padding: EdgeInsets.all(16),
@@ -611,28 +867,81 @@ class _ExamSelectorState extends State<_ExamSelector> {
       ),
       Padding(
         padding: const EdgeInsets.symmetric(horizontal: 16),
-        child: Caption('${_selected.length}개 선택 · 필요한 만큼 담아요'),
+        child: Caption('${_selected.length}개 선택 · 단어장이나 검색으로 좁혀서 담아요'),
       ),
       const SizedBox(height: 12),
-    ];
-    final items = widget.controller.vocabulary.words
-        .map(
-          (word) => CheckboxListTile(
-            value: _selected.contains(word.id),
-            title: Text(word.term),
-            subtitle: Caption(word.meaning),
-            onChanged: _saving
+      Padding(
+        padding: const EdgeInsets.symmetric(horizontal: 16),
+        child: DropdownButtonFormField<WordDeck?>(
+          key: const Key('exam-deck-filter'),
+          initialValue: _deck,
+          isExpanded: true,
+          decoration: const InputDecoration(labelText: '단어장'),
+          items: [
+            const DropdownMenuItem<WordDeck?>(child: Text('전체 단어장')),
+            for (final deck in widget.controller.vocabulary.decks)
+              DropdownMenuItem<WordDeck?>(
+                value: deck,
+                child: Text(deck.title, overflow: TextOverflow.ellipsis),
+              ),
+          ],
+          onChanged: (deck) => setState(() => _deck = deck),
+        ),
+      ),
+      const SizedBox(height: 12),
+      Padding(
+        padding: const EdgeInsets.symmetric(horizontal: 16),
+        child: TextField(
+          key: const Key('exam-search'),
+          onChanged: (value) => setState(() => _query = value),
+          decoration: const InputDecoration(
+            hintText: '영단어 또는 뜻 검색',
+            prefixIcon: Icon(Icons.search_rounded),
+          ),
+        ),
+      ),
+      Padding(
+        padding: const EdgeInsets.symmetric(horizontal: 8),
+        child: Align(
+          alignment: Alignment.centerLeft,
+          child: TextButton(
+            onPressed: _saving || visible.isEmpty
                 ? null
-                : (value) => setState(() {
-                    if (value == true) {
-                      _selected.add(word.id);
+                : () => setState(() {
+                    final ids = visible.map((w) => w.id);
+                    if (allVisibleSelected) {
+                      _selected.removeAll(ids);
                     } else {
-                      _selected.remove(word.id);
+                      _selected.addAll(ids);
                     }
                   }),
+            child: Text(
+              allVisibleSelected
+                  ? '보이는 ${visible.length}개 모두 빼기'
+                  : '보이는 ${visible.length}개 모두 담기',
+            ),
           ),
-        )
-        .toList();
+        ),
+      ),
+    ];
+    Widget item(WordEntry word) => CheckboxListTile(
+      value: _selected.contains(word.id),
+      title: Text(word.term),
+      subtitle: Caption(word.meaning),
+      onChanged: _saving
+          ? null
+          : (value) => setState(() {
+              if (value == true) {
+                _selected.add(word.id);
+              } else {
+                _selected.remove(word.id);
+              }
+            }),
+    );
+    const empty = Padding(
+      padding: EdgeInsets.all(16),
+      child: Caption('검색한 단어가 없어요.'),
+    );
     final saveAction = Padding(
       padding: const EdgeInsets.all(24),
       child: PrimaryAction(
@@ -659,19 +968,24 @@ class _ExamSelectorState extends State<_ExamSelector> {
         child: LayoutBuilder(
           builder: (context, constraints) {
             final minimumHeight =
-                260 + MediaQuery.textScalerOf(context).scale(24) * 5;
-            if (constraints.maxHeight < minimumHeight) {
-              return Column(
-                children: [
-                  Expanded(child: ListView(children: [...header, ...items])),
-                  saveAction,
-                ],
-              );
-            }
+                420 + MediaQuery.textScalerOf(context).scale(24) * 5;
+            // Short screens scroll the filters away with the list.
+            final leading = constraints.maxHeight < minimumHeight
+                ? header
+                : const <Widget>[];
+            final list = ListView.builder(
+              itemCount:
+                  leading.length + (visible.isEmpty ? 1 : visible.length),
+              itemBuilder: (context, index) => index < leading.length
+                  ? leading[index]
+                  : visible.isEmpty
+                  ? empty
+                  : item(visible[index - leading.length]),
+            );
             return Column(
               children: [
-                ...header,
-                Expanded(child: ListView(children: items)),
+                if (leading.isEmpty) ...header,
+                Expanded(child: list),
                 saveAction,
               ],
             );

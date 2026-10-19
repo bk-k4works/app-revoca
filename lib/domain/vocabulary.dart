@@ -149,6 +149,21 @@ class Sense {
   Set<String> get normalizedMeanings =>
       {meaning, ...meaningAlternatives}.map(normalizeMeaning).toSet();
 
+  /// The meaning as a quiz choice: parenthesised usage hints such as "(돈을)"
+  /// would echo the collocation shown with the question and give it away.
+  String get choiceLabel {
+    final parts = meaning
+        .split(';')
+        .map(
+          (part) => part
+              .replaceAll(RegExp(r'\([^)]*\)'), '')
+              .replaceAll(RegExp(r'\s+'), ' ')
+              .trim(),
+        )
+        .where((part) => part.isNotEmpty);
+    return parts.isEmpty ? meaning : parts.join('; ');
+  }
+
   /// Reveals just enough of [term] to tell it apart from [typed], never all of it.
   static String spellingHint(String term, String typed) {
     final target = normalizeAnswer(term), other = normalizeAnswer(typed);
@@ -300,24 +315,25 @@ class Vocabulary {
 
   List<Sense> choicesFor(Sense word) {
     const normalized = Sense.normalizeMeaning;
-    final meanings = word.normalizedMeanings;
-    final others = words
-        .where(
-          (other) =>
-              other.id != word.id &&
-              other.pos == word.pos &&
-              other.headword.id != word.headword.id &&
-              !word.distractorExclusions.contains(other.id) &&
-              !other.distractorExclusions.contains(word.id) &&
-              !other.normalizedMeanings.any(meanings.contains),
-        )
-        .toList();
+    final meanings = {...word.normalizedMeanings, normalized(word.choiceLabel)};
+    final labels = <String, String>{};
+    final others = words.where((other) {
+      if (other.id == word.id ||
+          other.pos != word.pos ||
+          other.headword.id == word.headword.id ||
+          word.distractorExclusions.contains(other.id) ||
+          other.distractorExclusions.contains(word.id) ||
+          other.normalizedMeanings.any(meanings.contains)) {
+        return false;
+      }
+      final label = labels[other.id] = other.choiceLabel;
+      return !meanings.contains(normalized(label));
+    }).toList();
+    final length = word.choiceLabel.runes.length;
     others.sort((a, b) {
-      final difference = (a.meaning.runes.length - word.meaning.runes.length)
-          .abs()
-          .compareTo(
-            (b.meaning.runes.length - word.meaning.runes.length).abs(),
-          );
+      final difference = (labels[a.id]!.runes.length - length).abs().compareTo(
+        (labels[b.id]!.runes.length - length).abs(),
+      );
       if (difference != 0) return difference;
       final variety = choiceRank(
         '${word.id}:${a.id}',
@@ -326,11 +342,132 @@ class Vocabulary {
     });
     final distinct = <String, Sense>{};
     for (final other in others) {
-      distinct.putIfAbsent(normalized(other.meaning), () => other);
+      distinct.putIfAbsent(normalized(labels[other.id]!), () => other);
     }
     final choices = [word, ...distinct.values.take(3)];
     final offset = word.id.codeUnits.fold(0, (a, b) => a + b) % choices.length;
     return [...choices.skip(offset), ...choices.take(offset)];
+  }
+
+  // Normalised search keys per sense id, built once on the first search.
+  late final Map<String, ({Set<String> terms, Set<String> meanings})>
+  _searchKeys = {
+    for (final word in words)
+      word.id: (
+        terms: {
+          word.term,
+          ...word.acceptedSpellings,
+        }.map(Sense.normalizeAnswer).toSet(),
+        meanings: {
+          ...word.normalizedMeanings,
+          Sense.normalizeMeaning(word.choiceLabel),
+          for (final part in word.choiceLabel.split(';'))
+            Sense.normalizeMeaning(part),
+        },
+      ),
+  };
+
+  /// Base forms to try for an inflected query: earned → earn, studies → study.
+  static Set<String> _baseForms(String query) {
+    if (query.contains(' ') || query.length < 4) return const {};
+    final forms = <String>{};
+    void strip(String suffix, [String add = '']) {
+      if (query.endsWith(suffix) && query.length > suffix.length + 1) {
+        final stem = query.substring(0, query.length - suffix.length);
+        forms.add('$stem$add');
+        // running → run, stopped → stop
+        if (add.isEmpty &&
+            stem.length > 2 &&
+            stem[stem.length - 1] == stem[stem.length - 2]) {
+          forms.add(stem.substring(0, stem.length - 1));
+        }
+      }
+    }
+
+    strip('ies', 'y');
+    strip('ied', 'y');
+    strip('es');
+    strip('s');
+    strip('ed');
+    strip('ed', 'e');
+    strip('ing');
+    strip('ing', 'e');
+    return forms;
+  }
+
+  /// Senses matching [query] by English word or Korean meaning, best first:
+  /// exact, then prefix, then a word inside a phrase, then anywhere, then an
+  /// inflected form of the word. Senses of a headword stay together.
+  List<Sense> search(String query, {int limit = 60}) {
+    final english = Sense.normalizeAnswer(query);
+    final korean = Sense.normalizeMeaning(query);
+    if (english.isEmpty || korean.isEmpty) return const [];
+    final hangul = RegExp(r'[가-힣ㄱ-ㅎㅏ-ㅣ]').hasMatch(query);
+    final bases = _baseForms(english);
+    int? termRank(Set<String> terms) {
+      int? best;
+      for (final term in terms) {
+        final rank = term == english
+            ? 0
+            : term.startsWith(english)
+            ? 1
+            : term.contains(' $english')
+            ? 2
+            : term.contains(english)
+            ? 3
+            : bases.contains(term)
+            ? 4
+            : null;
+        if (rank != null && (best == null || rank < best)) best = rank;
+      }
+      return best;
+    }
+
+    int? meaningRank(Set<String> meanings) {
+      int? best;
+      for (final meaning in meanings) {
+        final rank = meaning == korean
+            ? 0
+            : meaning.startsWith(korean)
+            ? 1
+            : meaning.contains(korean)
+            ? 3
+            : null;
+        if (rank != null && (best == null || rank < best)) best = rank;
+      }
+      return best;
+    }
+
+    final ranked = <String, int>{};
+    for (final entry in _searchKeys.entries) {
+      final rank = hangul
+          ? meaningRank(entry.value.meanings)
+          : termRank(entry.value.terms);
+      if (rank != null) ranked[entry.key] = rank;
+    }
+    // A headword ranks by its best sense and keeps its senses in content order.
+    final headwordRank = <String, int>{};
+    for (final entry in ranked.entries) {
+      final headword = byId[entry.key]!.headword.id;
+      final current = headwordRank[headword];
+      if (current == null || entry.value < current) {
+        headwordRank[headword] = entry.value;
+      }
+    }
+    final order = {for (var i = 0; i < words.length; i++) words[i].id: i};
+    final ids = ranked.keys.toList()
+      ..sort((a, b) {
+        final wordA = byId[a]!, wordB = byId[b]!;
+        final byRank = headwordRank[wordA.headword.id]!.compareTo(
+          headwordRank[wordB.headword.id]!,
+        );
+        if (byRank != 0) return byRank;
+        final byTerm = wordA.term.length.compareTo(wordB.term.length);
+        if (byTerm != 0) return byTerm;
+        final byHeadword = wordA.term.compareTo(wordB.term);
+        return byHeadword != 0 ? byHeadword : order[a]!.compareTo(order[b]!);
+      });
+    return ids.take(limit).map((id) => byId[id]!).toList();
   }
 
   factory Vocabulary.fromJson(Map<String, dynamic> json) => Vocabulary(

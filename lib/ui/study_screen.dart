@@ -3,7 +3,9 @@ import 'package:flutter/material.dart';
 import '../application/learning_controller.dart';
 import '../domain/learning.dart';
 import '../domain/vocabulary.dart';
+import '../services/content_speech_service.dart';
 import '../services/speech_service.dart';
+import 'deck_screen.dart';
 import 'focus_theme.dart';
 import 'widgets.dart';
 
@@ -12,6 +14,7 @@ Future<void> openStudy(
   LearningController controller,
   SpeechService speech, {
   WordDeck? deck,
+  Future<bool> Function()? start,
 }) async {
   var startNew = controller.session == null;
   if (deck != null && controller.session != null) {
@@ -41,7 +44,7 @@ Future<void> openStudy(
       startNew = choice;
     }
   }
-  if (startNew && !await controller.start(deck: deck)) {
+  if (startNew && !await (start ?? () => controller.start(deck: deck))()) {
     if (context.mounted) {
       showNotice(context, controller.error ?? '잠시 후 다시 시도해 주세요.');
     }
@@ -107,11 +110,31 @@ class StudyScreen extends StatelessWidget {
               ),
             ],
           ),
+          // The step's main action stays in reach without scrolling.
+          bottomNavigationBar: _BottomAction(
+            controller: controller,
+            speech: speech,
+            word: word,
+          ),
           body: SafeArea(
             top: false,
             child: PageContent(
               key: ValueKey('${session.id}:${session.position}'),
               children: [
+                // The word is said as a card or question appears; in spelling
+                // only once answered, since hearing it would give it away.
+                if (controller.settings.autoPlayWord &&
+                    (session.stage != SessionStage.spelling ||
+                        session.answered))
+                  _AutoSpeak(
+                    // Spelling speaks once answered; other steps only once.
+                    key: ValueKey(
+                      '${session.id}:${session.position}:'
+                      '${session.stage == SessionStage.spelling && session.answered}',
+                    ),
+                    speech: speech,
+                    word: word,
+                  ),
                 Row(
                   children: List.generate(
                     3,
@@ -150,13 +173,23 @@ class StudyScreen extends StatelessWidget {
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
-                        Caption(
-                          senseLabel(
-                            word,
-                            controller.vocabulary.sensesOf(word),
-                          ),
+                        Row(
+                          children: [
+                            Expanded(
+                              child: Caption(
+                                senseLabel(
+                                  word,
+                                  controller.vocabulary.sensesOf(word),
+                                ),
+                              ),
+                            ),
+                            FavoriteButton(
+                              controller: controller,
+                              wordId: word.id,
+                            ),
+                          ],
                         ),
-                        const SizedBox(height: 24),
+                        const SizedBox(height: 8),
                         Text(
                           word.term,
                           style: const TextStyle(
@@ -226,28 +259,7 @@ class StudyScreen extends StatelessWidget {
                       ],
                     ),
                   ),
-                  const SizedBox(height: 24),
-                  PrimaryAction(
-                    session.revealed
-                        ? session.step == session.stageCount
-                              ? '뜻 떠올리기로'
-                              : '다음 단어'
-                        : '뜻 확인하기',
-                    onPressed: controller.busy
-                        ? null
-                        : () async {
-                            await speech.stop();
-                            if (!context.mounted) return;
-                            await studyAction(
-                              context,
-                              controller,
-                              session.revealed
-                                  ? controller.next
-                                  : controller.reveal,
-                            );
-                          },
-                  ),
-                  const SizedBox(height: 12),
+                  const SizedBox(height: 16),
                   const Caption('진행 중인 위치는 자동으로 저장돼요.'),
                 ] else if (session.stage == SessionStage.recall) ...[
                   Caption(
@@ -302,30 +314,11 @@ class StudyScreen extends StatelessWidget {
                               ),
                         child: Padding(
                           padding: const EdgeInsets.symmetric(vertical: 16),
-                          child: Text(choice.meaning),
+                          child: Text(choice.choiceLabel),
                         ),
                       ),
                       const SizedBox(height: 10),
                     ],
-                  if (session.answered) ...[
-                    _Feedback(
-                      correct: session.answers.last.correct,
-                      answer: word.meaning,
-                    ),
-                    const SizedBox(height: 20),
-                    PrimaryAction(
-                      session.step == session.wordIds.length
-                          ? '철자 쓰기로'
-                          : '다음 문제',
-                      onPressed: controller.busy
-                          ? null
-                          : () => studyAction(
-                              context,
-                              controller,
-                              controller.next,
-                            ),
-                    ),
-                  ],
                 ] else
                   _SpellingQuestion(
                     key: ValueKey('${session.id}:${session.position}'),
@@ -506,31 +499,10 @@ class _SpellingQuestionState extends State<_SpellingQuestion> {
           const SizedBox(height: 20),
         ],
         if (session.answered) ...[
-          _Feedback(
-            correct: session.answers.last.correct,
-            answer: widget.word.term,
-          ),
-          const SizedBox(height: 12),
           SpeechButton(
             speech: widget.speech,
             text: widget.word.term,
             senseId: widget.word.id,
-          ),
-          const SizedBox(height: 24),
-          PrimaryAction(
-            session.step == session.wordIds.length ? '결과 보기' : '다음 문제',
-            onPressed: widget.controller.busy
-                ? null
-                : () async {
-                    await widget.speech.stop();
-                    if (context.mounted) {
-                      await studyAction(
-                        context,
-                        widget.controller,
-                        widget.controller.next,
-                      );
-                    }
-                  },
           ),
         ] else ...[
           PrimaryAction(
@@ -604,6 +576,173 @@ class _SynonymNotice extends StatelessWidget {
               ),
             ),
           ],
+        ),
+      ),
+    );
+  }
+}
+
+/// Says the word once when it first appears.
+class _AutoSpeak extends StatefulWidget {
+  const _AutoSpeak({super.key, required this.speech, required this.word});
+  final SpeechService speech;
+  final WordEntry word;
+  @override
+  State<_AutoSpeak> createState() => _AutoSpeakState();
+}
+
+class _AutoSpeakState extends State<_AutoSpeak> {
+  @override
+  void initState() {
+    super.initState();
+    WidgetsBinding.instance.addPostFrameCallback((_) async {
+      if (!mounted) return;
+      try {
+        await speakContent(
+          widget.speech,
+          widget.word.term,
+          senseId: widget.word.id,
+        );
+      } catch (_) {
+        // Pronunciation is optional; the speak button reports failures.
+      }
+    });
+  }
+
+  @override
+  Widget build(BuildContext context) => const SizedBox.shrink();
+}
+
+/// Moves on after [delay] once a question was answered correctly, unless the
+/// student moved on or left first.
+class _AutoAdvance extends StatefulWidget {
+  const _AutoAdvance({
+    super.key,
+    required this.controller,
+    required this.speech,
+    required this.delay,
+  });
+  final LearningController controller;
+  final SpeechService speech;
+  final Duration delay;
+  @override
+  State<_AutoAdvance> createState() => _AutoAdvanceState();
+}
+
+class _AutoAdvanceState extends State<_AutoAdvance> {
+  Timer? _timer;
+
+  @override
+  void initState() {
+    super.initState();
+    final position = widget.controller.session?.position;
+    _timer = Timer(widget.delay, () async {
+      final session = widget.controller.session;
+      if (!mounted || session?.position != position || !session!.answered) {
+        return;
+      }
+      await widget.speech.stop();
+      if (!mounted) return;
+      await studyAction(context, widget.controller, widget.controller.next);
+    });
+  }
+
+  @override
+  void dispose() {
+    _timer?.cancel();
+    super.dispose();
+  }
+
+  @override
+  Widget build(BuildContext context) => const Caption('맞혔어요. 곧 다음으로 넘어가요.');
+}
+
+/// Feedback and the step's next action, pinned below the scrolling content.
+class _BottomAction extends StatelessWidget {
+  const _BottomAction({
+    required this.controller,
+    required this.speech,
+    required this.word,
+  });
+  final LearningController controller;
+  final SpeechService speech;
+  final WordEntry word;
+
+  @override
+  Widget build(BuildContext context) {
+    final session = controller.session!;
+    final learn = session.stage == SessionStage.learn;
+    if (!learn && !session.answered) return const SizedBox.shrink();
+    final last = session.step == session.stageCount;
+    final label = switch (session.stage) {
+      SessionStage.learn when !session.revealed => '뜻 확인하기',
+      SessionStage.learn => last ? '뜻 떠올리기로' : '다음 단어',
+      SessionStage.recall => last ? '철자 쓰기로' : '다음 문제',
+      SessionStage.spelling => last ? '결과 보기' : '다음 문제',
+    };
+    final c = FocusColors.of(context);
+    return DecoratedBox(
+      decoration: BoxDecoration(
+        color: c.background,
+        border: Border(top: BorderSide(color: c.line)),
+      ),
+      child: SafeArea(
+        top: false,
+        child: Align(
+          heightFactor: 1,
+          alignment: Alignment.topCenter,
+          child: ConstrainedBox(
+            constraints: const BoxConstraints(maxWidth: 620),
+            child: Padding(
+              padding: const EdgeInsets.fromLTRB(24, 12, 24, 12),
+              child: Column(
+                mainAxisSize: MainAxisSize.min,
+                crossAxisAlignment: CrossAxisAlignment.stretch,
+                children: [
+                  if (!learn &&
+                      controller.settings.autoAdvance &&
+                      session.answers.last.correct)
+                    _AutoAdvance(
+                      key: ValueKey('${session.id}:${session.position}'),
+                      controller: controller,
+                      speech: speech,
+                      delay: Duration(
+                        milliseconds:
+                            controller.settings.autoPlayWord &&
+                                session.stage == SessionStage.spelling
+                            ? 1400
+                            : 700,
+                      ),
+                    ),
+                  if (!learn) ...[
+                    _Feedback(
+                      correct: session.answers.last.correct,
+                      answer: session.stage == SessionStage.recall
+                          ? word.meaning
+                          : word.term,
+                    ),
+                    const SizedBox(height: 12),
+                  ],
+                  PrimaryAction(
+                    label,
+                    onPressed: controller.busy
+                        ? null
+                        : () async {
+                            await speech.stop();
+                            if (!context.mounted) return;
+                            await studyAction(
+                              context,
+                              controller,
+                              learn && !session.revealed
+                                  ? controller.reveal
+                                  : controller.next,
+                            );
+                          },
+                  ),
+                ],
+              ),
+            ),
+          ),
         ),
       ),
     );
