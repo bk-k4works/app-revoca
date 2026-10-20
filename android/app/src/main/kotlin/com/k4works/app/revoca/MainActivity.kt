@@ -1,4 +1,4 @@
-package com.focusvoca.focus_voca
+package com.k4works.app.revoca
 
 import io.flutter.embedding.android.FlutterActivity
 

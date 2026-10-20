@@ -54,8 +54,8 @@
 | 작성 완료 | **2,000개 전체** (뜻 2,594개, 예문 5,188개). 고교 기본 540, 아는 단어 59, 고교 핵심 881, 핵심 숙어 89, 수능 심화 431 |
 | 단어장 | 고교 기본 01–27, 아는 단어, 새로운 뜻 01–03, 고교 핵심 01–44, 핵심 숙어 01–05, 수능 심화 01–22 (총 101개) |
 | 자동 검사 | 2,000단어 모두 통과. 범위 밖 단어 1개 등의 경고는 남음. 같은 품사 대표 뜻·연어·설명 중복은 테스트로 막음 |
-| 검토 | 작성자 전체 재검토 1회(2026-10-17, [수정 목록](highschool-review-2026-10.md)). Codex 독립 검토 7회차 완료(2026-10-18, 사람 검수 1차 반영분 포함 뜻 2,594개 전부, [기록](../content/highschool/v1/review/codex-v1/README.md)). 사람 승인 0건 |
-| 앱 설치 | `assets/content/`에 개발용(`developmentOnly`)으로 설치. release 빌드는 기존처럼 차단됨 |
+| 검토 | 작성자 전체 재검토 1회(2026-10-17, [수정 목록](highschool-review-2026-10.md)). Codex 독립 검토 7회차 완료(2026-10-18, 뜻 2,594개 전부, [기록](../content/highschool/v1/review/codex-v1/README.md)). 기존 사람 승인 2,594건을 2026-10-20 현재 원고 해시와 검증함. [사람 승인 경위](../content/highschool/v1/review/human/round1/README.md) |
+| 앱 설치 | 2026-10-20 `hs-release`로 `high-1.0.0`을 생성하고 `install`로 `assets/content/`에 설치. `developmentOnly: false`, `humanApproved: 2594`. 승인 검증을 우회하지 않음 |
 
 이전 중학 파일럿(100개 표제어)은 `content/previews/pilot-v2/`와 `content/pilots/pilot-v1/`에 그대로 보존했다.
 
@@ -122,5 +122,5 @@ cd content/highschool/v1/review/codex-v1 && cat prompt.md batches/batch-01.txt |
 
 ## 다음 작업
 
-1. 사람 승인: 웹 승인 화면(또는 `review/human/review.csv`)에서 뜻 2,594개의 결정을 기록한다. 모두 결정되면 `hs-release`로 출시 패키지를 만든다.
+1. 현재 원고는 사람 승인 및 정식 패키지 설치를 완료했다. 이후 원고 변경 시 변경된 뜻의 독립 검토·사람 승인 기록을 갱신하고 새 버전으로 출시 패키지를 만든다.
 2. 철자 문제에서 뜻이 같은 다른 표제어(예: nevertheless·nonetheless)를 쓰면 오답 대신 안내하는 방식을 검토한다. 원고에서는 같은 품사의 대표 뜻을 모두 구분했지만, 진짜 유의어는 뜻만으로 완전히 가를 수 없다.

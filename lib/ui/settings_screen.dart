@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:url_launcher/url_launcher.dart';
 import '../application/learning_controller.dart';
 import '../application/study_nudges.dart';
 import '../domain/study_settings.dart';
@@ -28,6 +29,33 @@ class SettingsScreen extends StatelessWidget {
   });
   final LearningController controller;
   final StudyNudges nudges;
+
+  Future<void> _openLink(BuildContext context, String address) async {
+    try {
+      if (await launchUrl(
+        Uri.parse(address),
+        mode: LaunchMode.externalApplication,
+      )) {
+        return;
+      }
+    } catch (_) {
+      // Keep the address available when no browser or mail app can open it.
+    }
+    if (!context.mounted) return;
+    await showDialog<void>(
+      context: context,
+      builder: (context) => AlertDialog(
+        title: const Text('주소를 확인해 주세요'),
+        content: SelectableText(address.replaceFirst('mailto:', '')),
+        actions: [
+          TextButton(
+            onPressed: () => Navigator.of(context).pop(),
+            child: const Text('닫기'),
+          ),
+        ],
+      ),
+    );
+  }
 
   Future<void> _setReminder(BuildContext context, bool on) async {
     if (on && !await nudges.requestPermission()) {
@@ -177,6 +205,22 @@ class SettingsScreen extends StatelessWidget {
               const SizedBox(height: 12),
               const Caption(
                 'Android에서는 홈 화면에 리보카 위젯을 추가하면 오늘 남은 단어 수와 연속 학습일을 볼 수 있어요.',
+              ),
+              const SizedBox(height: 28),
+              const SectionHeading('앱 정보 및 지원'),
+              ListTile(
+                contentPadding: EdgeInsets.zero,
+                title: const Text('개인정보처리방침'),
+                trailing: const Icon(Icons.open_in_new),
+                onTap: () =>
+                    _openLink(context, 'https://k4works.com/privacy/revoca'),
+              ),
+              ListTile(
+                contentPadding: EdgeInsets.zero,
+                title: const Text('고객지원'),
+                subtitle: const Text('help@k4works.com'),
+                trailing: const Icon(Icons.mail_outline),
+                onTap: () => _openLink(context, 'mailto:help@k4works.com'),
               ),
             ],
           ),
