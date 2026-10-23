@@ -1,0 +1,99 @@
+{
+  "updatedDate": "2026-10-20",
+  "appName": "리보카",
+  "bundleId": "com.k4works.app.revoca",
+  "version": "1.0.0",
+  "buildNumber": 2,
+  "price": "free",
+  "releaseCountries": [
+    "KR"
+  ],
+  "publicSupportEmail": "help@k4works.com",
+  "privacyPolicyUrl": "https://k4works.com/privacy/revoca",
+  "supportUrl": "https://k4works.com/apps/revoca/",
+  "contentRights": {
+    "userConfirmedDate": "2026-10-20",
+    "confirmation": "배포 권한 또는 적법한 사용을 확인",
+    "appleDeclarationSaved": true
+  },
+  "googlePlay": {
+    "developerId": "8839711436720470461",
+    "appId": "4975524643187847844",
+    "consoleUrl": "https://play.google.com/console/u/0/developers/8839711436720470461/app/4975524643187847844/app-dashboard",
+    "listingStatus": "saved_ready_to_send_for_review",
+    "screenshots": 3,
+    "contentRatingKR": "3+",
+    "iarcQuestionnaire": "completed",
+    "productionReleaseName": "1.0.0 (2) - 첫 출시",
+    "productionValidation": "출시 준비됨; no errors shown",
+    "productionStatus": "검토 중인 변경사항",
+    "pendingChanges": 0,
+    "additionalAutomaticChecks": "completed; changes under review",
+    "managedPublishing": true,
+    "reviewSubmitted": true,
+    "publiclyReleased": false,
+    "internalTestStatus": "saved_draft_build_2_not_released_no_testers",
+    "artifact": "build/app/outputs/bundle/release/app-release.aab",
+    "artifactSha256": "2530de333492d4261ab6166b9308e20cb2874ae4f2265d1bf9107dcaa3a6a29d",
+    "evidence": [
+      "output/store-registration/google-publishing-prepared.png",
+      "output/store-registration/google-production-validated.png",
+      "output/store-registration/google-korea-availability.png",
+      "output/store-registration/google-listing-ready.png",
+      "output/store-registration/google-review-submitted.png"
+    ],
+    "submittedChanges": 10
+  },
+  "appStore": {
+    "appId": "6824714416",
+    "teamId": "NXGF67FB4W",
+    "consoleUrl": "https://appstoreconnect.apple.com/apps/6824714416/distribution",
+    "versionStatus": "심사 대기 중",
+    "buildStatus": "제출 준비 완료",
+    "buildAttached": 2,
+    "iphoneScreenshots": 3,
+    "ipadScreenshots": 2,
+    "contentRatingKR": "12+",
+    "contentRatingDefault": "13+",
+    "privacyDisclosure": "no_data_collected_published",
+    "exportCompliance": "none_of_listed_encryption_types_saved",
+    "releaseMode": "manual",
+    "reviewSubmitted": true,
+    "publiclyReleased": false,
+    "artifact": "build/ios/ipa/리보카.ipa",
+    "artifactSha256": "815ceae9ef43d07ed00df280e2d5db62ef2c048c7890faab575f7eba467abfdf",
+    "evidence": [
+      "output/store-registration/apple-version-prepared.png",
+      "output/store-registration/apple-korea-availability.png",
+      "output/store-registration/apple-build2-ready.png",
+      "output/store-registration/apple-ipad-corrected.png",
+      "output/store-registration/apple-review-submitted.png"
+    ],
+    "submissionValidation": "passed after replacing 2064x2752 iPad screenshots with actual 2048x2732 captures",
+    "ipadScreenshotFiles": [
+      "output/store-registration/ipad-2048-home.png",
+      "output/store-registration/ipad-2048-learn.png"
+    ],
+    "submissionConfirmation": "1개의 항목 제출됨"
+  },
+  "validation": {
+    "flutterAnalyze": "passed",
+    "flutterTestsPassed": 87,
+    "gitDiffCheck": "passed"
+  },
+  "remaining": [
+    "Await store review results.",
+    "Actual public release remains manual after store approval; no public release performed."
+  ],
+  "approvalBlock": {
+    "action": "App Store 심사에 추가",
+    "reason": "Automatic approval review required explicit review-submission authorization.",
+    "status": "resolved_by_explicit_user_approval_2026-10-20"
+  },
+  "signingKeyBackup": "Keep android/keystore/revoca-upload.jks and android/key.properties in secure separate storage; do not commit secrets.",
+  "reviewSubmissionAuthorization": {
+    "date": "2026-10-20",
+    "scope": "양쪽 스토어 심사 제출 승인; actual public release remains manual"
+  },
+  "updatedAt": "2026-10-20T10:59:27+09:00"
+}

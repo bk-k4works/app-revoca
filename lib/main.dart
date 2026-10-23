@@ -3,11 +3,13 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'application/learning_controller.dart';
+import 'application/study_nudges.dart';
 import 'data/learning_store.dart';
 import 'data/content_repository.dart';
 import 'domain/audio_asset.dart';
 import 'services/audio_pack_service.dart';
 import 'services/content_speech_service.dart';
+import 'services/nudge_service.dart';
 import 'package:path/path.dart' as path;
 import 'package:path_provider/path_provider.dart';
 import 'services/speech_service.dart';
@@ -28,6 +30,7 @@ class Bootstrap extends StatefulWidget {
 class _BootstrapState extends State<Bootstrap> {
   late Future<LearningController> _loading = _load();
   SpeechService _speech = DeviceSpeechService();
+  final StudyNudges _nudges = DeviceStudyNudges();
   ContentRepository? _content;
   SqliteLearningStore? _store;
   Future<LearningController> _load() async {
@@ -78,7 +81,11 @@ class _BootstrapState extends State<Bootstrap> {
     future: _loading,
     builder: (context, snapshot) {
       if (snapshot.hasData) {
-        return FocusVocaApp(controller: snapshot.data!, speech: _speech);
+        return FocusVocaApp(
+          controller: snapshot.data!,
+          speech: _speech,
+          nudges: _nudges,
+        );
       }
       return MaterialApp(
         debugShowCheckedModeBanner: false,
@@ -122,29 +129,50 @@ class FocusVocaApp extends StatefulWidget {
     super.key,
     required this.controller,
     required this.speech,
+    this.nudges = const NoStudyNudges(),
   });
   final LearningController controller;
   final SpeechService speech;
+  final StudyNudges nudges;
   @override
   State<FocusVocaApp> createState() => _FocusVocaAppState();
 }
 
 class _FocusVocaAppState extends State<FocusVocaApp>
     with WidgetsBindingObserver {
+  Timer? _refresh;
+
   @override
   void initState() {
     super.initState();
     WidgetsBinding.instance.addObserver(this);
+    widget.controller.addListener(_scheduleNudges);
+    unawaited(widget.nudges.refresh(widget.controller));
+  }
+
+  // Reminders and the widget follow study, at most once a second.
+  void _scheduleNudges() {
+    _refresh?.cancel();
+    _refresh = Timer(
+      const Duration(seconds: 1),
+      () => unawaited(widget.nudges.refresh(widget.controller)),
+    );
   }
 
   @override
   void didChangeAppLifecycleState(AppLifecycleState state) {
     if (state != AppLifecycleState.resumed) unawaited(widget.speech.stop());
-    if (state == AppLifecycleState.resumed && mounted) setState(() {});
+    if (state == AppLifecycleState.resumed && mounted) {
+      setState(() {});
+      // A new day may have begun while the app was away.
+      unawaited(widget.nudges.refresh(widget.controller));
+    }
   }
 
   @override
   void dispose() {
+    _refresh?.cancel();
+    widget.controller.removeListener(_scheduleNudges);
     WidgetsBinding.instance.removeObserver(this);
     super.dispose();
   }
@@ -158,6 +186,10 @@ class _FocusVocaAppState extends State<FocusVocaApp>
     localizationsDelegates: GlobalMaterialLocalizations.delegates,
     theme: focusTheme(Brightness.light),
     darkTheme: focusTheme(Brightness.dark),
-    home: HomeShell(controller: widget.controller, speech: widget.speech),
+    home: HomeShell(
+      controller: widget.controller,
+      speech: widget.speech,
+      nudges: widget.nudges,
+    ),
   );
 }

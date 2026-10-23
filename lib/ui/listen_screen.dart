@@ -12,10 +12,14 @@ class ListenScreen extends StatefulWidget {
     required this.deck,
     required this.vocabulary,
     required this.speech,
+    this.onHeard,
   });
   final WordDeck deck;
   final Vocabulary vocabulary;
   final SpeechService speech;
+
+  /// Called once per word and pass, after the word itself has been spoken.
+  final void Function(String wordId)? onHeard;
   @override
   State<ListenScreen> createState() => _ListenScreenState();
 }
@@ -97,6 +101,7 @@ class _ListenScreenState extends State<ListenScreen>
         for (var repeat = 0; repeat < _repeat && active(); repeat++) {
           await say(word.term, '단어를 듣고 있어요', 'en-US', word.id, 'word');
           if (!active()) return;
+          if (repeat == 0) widget.onHeard?.call(word.id);
           setState(() => _part = '뜻을 떠올려 보세요');
           await Future<void>.delayed(const Duration(milliseconds: 900));
           if (!active()) return;

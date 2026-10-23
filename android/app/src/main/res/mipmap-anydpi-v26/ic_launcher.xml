@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@color/ic_launcher_background" />
+    <foreground>
+        <!-- 18dp on each side of a 108dp layer leaves the 72dp viewport.
+             The selected artwork already contains its own logo safe margin. -->
+        <inset
+            android:insetLeft="16.666667%"
+            android:insetTop="16.666667%"
+            android:insetRight="16.666667%"
+            android:insetBottom="16.666667%">
+            <bitmap
+                android:src="@drawable/ic_launcher_artwork"
+                android:gravity="fill"
+                android:filter="true" />
+        </inset>
+    </foreground>
+</adaptive-icon>

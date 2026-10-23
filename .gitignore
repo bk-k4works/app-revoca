@@ -69,3 +69,13 @@ app.*.map.json
 # Codex 실행 로그(프롬프트·원고 사본)는 결과 JSON으로 충분해 올리지 않는다
 content/highschool/v1/review/**/logs/
 content/highschool/v1/review/**/run.log
+
+# 스토어 관리 화면 증빙과 임시 초안은 로컬 보관, 공개 등록 자료만 추적
+/output/store-registration/*
+!/output/store-registration/android-*.png
+!/output/store-registration/iphone-*.png
+!/output/store-registration/ipad-2048-*.png
+!/output/store-registration/google-feature-1024x500.png
+!/output/store-registration/google-play-icon-512.png
+!/output/store-registration/feature-graphic.html
+!/output/store-registration/description-ko.txt

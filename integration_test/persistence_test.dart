@@ -1,3 +1,4 @@
+import 'dart:convert';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:integration_test/integration_test.dart';
 import 'package:focus_voca/application/learning_controller.dart';
@@ -318,6 +319,8 @@ void main() {
       );
       await first.initialize();
       expect(await first.setExamWords([word.id]), isTrue);
+      expect(await first.toggleFavorite(word.id), isTrue);
+      await first.markHintSeen(LearningController.searchHint);
       expect(await first.start(deck: first.examDeck), isTrue);
       expect(await first.reveal(), isTrue);
       expect(await first.next(), isTrue);
@@ -334,6 +337,9 @@ void main() {
       );
       await second.initialize();
       expect(second.examWordIds, [word.id]);
+      expect(second.favoriteWordIds, [word.id]);
+      expect(second.activities.map((a) => a.kind), [ActivityKind.learn]);
+      expect(second.searchHintPending, isFalse);
       expect(second.session!.id, sessionId);
       expect(second.session!.stage, SessionStage.recall);
       expect(second.session!.answered, isTrue);
@@ -357,6 +363,61 @@ void main() {
       expect((await secondStore.load()).events.length, 2);
       await secondStore.database.close();
       second.dispose();
+      await deleteDatabase(dbPath);
+    },
+  );
+  testWidgets(
+    'a version 1 database gains the activity table and keeps history',
+    (tester) async {
+      const filename = 'upgrade_test.db';
+      final dbPath = path.join(await getDatabasesPath(), filename);
+      await deleteDatabase(dbPath);
+      final legacy = await openDatabase(
+        dbPath,
+        version: 1,
+        onCreate: (db, version) async {
+          for (final table in ['progress', 'review_events', 'app_state']) {
+            await db.execute(
+              'CREATE TABLE $table (id TEXT PRIMARY KEY, payload TEXT NOT NULL)',
+            );
+          }
+        },
+      );
+      final old = ReviewEvent(
+        id: 'old',
+        wordId: 'achieve',
+        mode: StudyMode.recall,
+        correct: true,
+        practice: false,
+        at: DateTime(2026, 10, 1, 9),
+      );
+      await legacy.insert('review_events', {
+        'id': old.id,
+        'payload': jsonEncode(old.toJson()),
+      });
+      await legacy.close();
+
+      final upgraded = await SqliteLearningStore.open(filename: filename);
+      expect(await upgraded.database.getVersion(), 2);
+      var snapshot = await upgraded.load();
+      expect(snapshot.events.single.id, 'old');
+      expect(snapshot.activities, isEmpty);
+      await upgraded.saveActivities([
+        ActivityEvent(
+          id: 'heard',
+          wordId: 'achieve',
+          kind: ActivityKind.listen,
+          at: DateTime(2026, 10, 2, 9),
+        ),
+      ]);
+      await upgraded.database.close();
+
+      final reopened = await SqliteLearningStore.open(filename: filename);
+      snapshot = await reopened.load();
+      expect(snapshot.events.single.id, 'old');
+      expect(snapshot.activities.single.kind, ActivityKind.listen);
+      expect(snapshot.session, isNull, reason: 'activity alone keeps session');
+      await reopened.database.close();
       await deleteDatabase(dbPath);
     },
   );

@@ -22,8 +22,14 @@ class MemoryStore implements LearningStore {
                     .map((item) => item.toJson())
                     .toList(),
                 'events': value.events.map((item) => item.toJson()).toList(),
+                'activities': value.activities
+                    .map((item) => item.toJson())
+                    .toList(),
                 'session': value.session?.toJson(),
                 'examWordIds': value.examWordIds,
+                'favoriteWordIds': value.favoriteWordIds,
+                'seenHints': value.seenHints,
+                'settings': value.settings,
               }),
             )
             as Map<String, dynamic>;
@@ -34,12 +40,43 @@ class MemoryStore implements LearningStore {
       events: (json['events'] as List)
           .map((item) => ReviewEvent.fromJson(item))
           .toList(),
+      activities: (json['activities'] as List)
+          .map((item) => ActivityEvent.fromJson(item))
+          .toList(),
       session: json['session'] == null
           ? null
           : StudySession.fromJson(json['session']),
       examWordIds: List<String>.from(json['examWordIds']),
+      favoriteWordIds: List<String>.from(json['favoriteWordIds']),
+      seenHints: List<String>.from(json['seenHints']),
+      settings: json['settings'] == null
+          ? null
+          : Map<String, dynamic>.from(json['settings']),
     );
   }
+
+  // The current snapshot with some parts replaced.
+  LearningSnapshot _with({
+    List<LearningProgress>? progress,
+    List<ReviewEvent>? events,
+    List<ActivityEvent>? activities,
+    StudySession? Function()? session,
+    List<String>? examWordIds,
+    List<String>? favoriteWordIds,
+    List<String>? seenHints,
+    Map<String, dynamic>? settings,
+  }) => _clone(
+    LearningSnapshot(
+      progress: progress ?? _snapshot.progress,
+      events: events ?? _snapshot.events,
+      activities: activities ?? _snapshot.activities,
+      session: session == null ? _snapshot.session : session(),
+      examWordIds: examWordIds ?? _snapshot.examWordIds,
+      favoriteWordIds: favoriteWordIds ?? _snapshot.favoriteWordIds,
+      seenHints: seenHints ?? _snapshot.seenHints,
+      settings: settings ?? _snapshot.settings,
+    ),
+  );
 
   void _beforeWrite() {
     if (failNextWrite) {
@@ -66,14 +103,7 @@ class MemoryStore implements LearningStore {
   @override
   Future<void> saveSession(StudySession? session) async {
     _beforeWrite();
-    _snapshot = _clone(
-      LearningSnapshot(
-        progress: _snapshot.progress,
-        events: _snapshot.events,
-        session: session,
-        examWordIds: _snapshot.examWordIds,
-      ),
-    );
+    _snapshot = _with(session: () => session);
   }
 
   @override
@@ -91,26 +121,49 @@ class MemoryStore implements LearningStore {
       for (final item in _snapshot.events) item.id: item,
       event.id: event,
     };
-    _snapshot = _clone(
-      LearningSnapshot(
-        progress: updatedProgress.values.toList(),
-        events: updatedEvents.values.toList(),
-        session: session,
-        examWordIds: _snapshot.examWordIds,
-      ),
+    _snapshot = _with(
+      progress: updatedProgress.values.toList(),
+      events: updatedEvents.values.toList(),
+      session: () => session,
     );
   }
 
   @override
   Future<void> saveExamWords(List<String> ids) async {
     _beforeWrite();
-    _snapshot = _clone(
-      LearningSnapshot(
-        progress: _snapshot.progress,
-        events: _snapshot.events,
-        session: _snapshot.session,
-        examWordIds: ids,
-      ),
+    _snapshot = _with(examWordIds: ids);
+  }
+
+  @override
+  Future<void> saveActivities(
+    List<ActivityEvent> activities, {
+    StudySession? session,
+  }) async {
+    _beforeWrite();
+    _snapshot = _with(
+      activities: {
+        for (final item in _snapshot.activities) item.id: item,
+        for (final item in activities) item.id: item,
+      }.values.toList(),
+      session: session == null ? null : () => session,
     );
+  }
+
+  @override
+  Future<void> saveFavoriteWords(List<String> ids) async {
+    _beforeWrite();
+    _snapshot = _with(favoriteWordIds: ids);
+  }
+
+  @override
+  Future<void> saveSettings(Map<String, dynamic> settings) async {
+    _beforeWrite();
+    _snapshot = _with(settings: settings);
+  }
+
+  @override
+  Future<void> saveSeenHints(List<String> hints) async {
+    _beforeWrite();
+    _snapshot = _with(seenHints: hints);
   }
 }

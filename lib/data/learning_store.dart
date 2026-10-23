@@ -9,13 +9,27 @@ class LearningSnapshot {
   const LearningSnapshot({
     this.progress = const [],
     this.events = const [],
+    this.activities = const [],
     this.session,
     this.examWordIds = const [],
+    this.favoriteWordIds = const [],
+    this.seenHints = const [],
+    this.settings,
   });
   final List<LearningProgress> progress;
   final List<ReviewEvent> events;
+  final List<ActivityEvent> activities;
   final StudySession? session;
   final List<String> examWordIds;
+
+  /// Starred senses, most recently starred first.
+  final List<String> favoriteWordIds;
+
+  /// One-time guidance the student has already been shown.
+  final List<String> seenHints;
+
+  /// Saved [StudySettings] as JSON, or null before anything was changed.
+  final Map<String, dynamic>? settings;
 }
 
 abstract interface class LearningStore {
@@ -31,6 +45,16 @@ abstract interface class LearningStore {
     StudySession session,
   );
   Future<void> saveExamWords(List<String> ids);
+
+  /// Stores [activities]; when [session] is given it is saved in the same
+  /// write, otherwise the saved session is left as it is.
+  Future<void> saveActivities(
+    List<ActivityEvent> activities, {
+    StudySession? session,
+  });
+  Future<void> saveFavoriteWords(List<String> ids);
+  Future<void> saveSeenHints(List<String> hints);
+  Future<void> saveSettings(Map<String, dynamic> settings);
 }
 
 /// Resolve chains first, preserve history for unavailable successors, and merge
@@ -92,8 +116,19 @@ LearningSnapshot migrateLearningSnapshot(
           }),
         )
         .toList(),
+    activities: snapshot.activities
+        .map(
+          (e) => ActivityEvent.fromJson({
+            ...e.toJson(),
+            'wordId': resolve(e.wordId),
+          }),
+        )
+        .toList(),
     session: session == null ? null : StudySession.fromJson(session),
     examWordIds: snapshot.examWordIds.map(resolve).toSet().toList(),
+    favoriteWordIds: snapshot.favoriteWordIds.map(resolve).toSet().toList(),
+    seenHints: snapshot.seenHints,
+    settings: snapshot.settings,
   );
 }
 
@@ -106,7 +141,10 @@ class SqliteLearningStore implements LearningStore {
   }) async {
     final db = await openDatabase(
       path.join(await getDatabasesPath(), filename),
-      version: 1,
+      version: 2,
+      onUpgrade: (db, oldVersion, newVersion) async {
+        if (oldVersion < 2) await _createActivityTable(db);
+      },
       onCreate: (db, version) async {
         await db.execute(
           'CREATE TABLE progress (id TEXT PRIMARY KEY, payload TEXT NOT NULL)',
@@ -117,10 +155,16 @@ class SqliteLearningStore implements LearningStore {
         await db.execute(
           'CREATE TABLE app_state (id TEXT PRIMARY KEY, payload TEXT NOT NULL)',
         );
+        await _createActivityTable(db);
       },
     );
     return SqliteLearningStore(db);
   }
+
+  // Version 2: learn cards and listening, kept apart from answers.
+  static Future<void> _createActivityTable(Database db) => db.execute(
+    'CREATE TABLE activity_events (id TEXT PRIMARY KEY, payload TEXT NOT NULL)',
+  );
 
   @override
   Future<LearningSnapshot> load() => _load(database);
@@ -128,6 +172,7 @@ class SqliteLearningStore implements LearningStore {
   Future<LearningSnapshot> _load(DatabaseExecutor executor) async {
     final progress = await executor.query('progress');
     final events = await executor.query('review_events');
+    final activities = await executor.query('activity_events');
     final state = {
       for (final row in await executor.query('app_state'))
         row['id'] as String: jsonDecode(row['payload'] as String),
@@ -142,10 +187,20 @@ class SqliteLearningStore implements LearningStore {
       events: events
           .map((r) => ReviewEvent.fromJson(jsonDecode(r['payload'] as String)))
           .toList(),
+      activities: activities
+          .map(
+            (r) => ActivityEvent.fromJson(jsonDecode(r['payload'] as String)),
+          )
+          .toList(),
       session: state['session'] == null
           ? null
           : StudySession.fromJson(state['session']),
       examWordIds: List<String>.from(state['exam'] ?? []),
+      favoriteWordIds: List<String>.from(state['favorites'] ?? []),
+      seenHints: List<String>.from(state['hints'] ?? []),
+      settings: state['settings'] is Map
+          ? Map<String, dynamic>.from(state['settings'])
+          : null,
     );
   }
 
@@ -212,8 +267,12 @@ class SqliteLearningStore implements LearningStore {
       for (final item in updated.events) {
         await _put(txn, 'review_events', item.id, item.toJson());
       }
+      for (final item in updated.activities) {
+        await _put(txn, 'activity_events', item.id, item.toJson());
+      }
       await _put(txn, 'app_state', 'session', activeSession?.toJson());
       await _put(txn, 'app_state', 'exam', updated.examWordIds);
+      await _put(txn, 'app_state', 'favorites', updated.favoriteWordIds);
     });
   }
 
@@ -249,4 +308,29 @@ class SqliteLearningStore implements LearningStore {
   @override
   Future<void> saveExamWords(List<String> ids) =>
       _put(database, 'app_state', 'exam', ids);
+
+  @override
+  Future<void> saveActivities(
+    List<ActivityEvent> activities, {
+    StudySession? session,
+  }) => database.transaction((txn) async {
+    for (final item in activities) {
+      await _put(txn, 'activity_events', item.id, item.toJson());
+    }
+    if (session != null) {
+      await _put(txn, 'app_state', 'session', session.toJson());
+    }
+  });
+
+  @override
+  Future<void> saveFavoriteWords(List<String> ids) =>
+      _put(database, 'app_state', 'favorites', ids);
+
+  @override
+  Future<void> saveSeenHints(List<String> hints) =>
+      _put(database, 'app_state', 'hints', hints);
+
+  @override
+  Future<void> saveSettings(Map<String, dynamic> settings) =>
+      _put(database, 'app_state', 'settings', settings);
 }

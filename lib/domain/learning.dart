@@ -98,6 +98,34 @@ class ReviewEvent {
   );
 }
 
+enum ActivityKind { learn, listen }
+
+/// Studying that is not an answer: a learn card opened or a word heard. It
+/// marks the day as studied but never changes accuracy or the review schedule.
+class ActivityEvent {
+  const ActivityEvent({
+    required this.id,
+    required this.wordId,
+    required this.kind,
+    required this.at,
+  });
+  final String id, wordId;
+  final ActivityKind kind;
+  final DateTime at;
+  Map<String, dynamic> toJson() => {
+    'id': id,
+    'wordId': wordId,
+    'kind': kind.name,
+    'at': at.toIso8601String(),
+  };
+  factory ActivityEvent.fromJson(Map<String, dynamic> json) => ActivityEvent(
+    id: json['id'],
+    wordId: json['wordId'],
+    kind: ActivityKind.values.byName(json['kind']),
+    at: DateTime.parse(json['at']),
+  );
+}
+
 class StudyAnswer {
   const StudyAnswer(this.wordId, this.mode, this.correct);
   final String wordId;
