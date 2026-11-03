@@ -95,5 +95,117 @@
     "date": "2026-10-20",
     "scope": "양쪽 스토어 심사 제출 승인; actual public release remains manual"
   },
-  "updatedAt": "2026-10-20T10:59:27+09:00"
+  "updatedAt": "2026-11-03T22:40:00+09:00",
+  "privacyUpdateFor1_0_1": {
+    "reason": "1.0.1+3 adds Firebase Analytics (firebase_core 5.0.0, firebase_analytics 13.0.0) for Google Ads app-campaign conversion measurement (first_open).",
+    "googlePlay": {
+      "status": "saved_2026-10-23_not_sent_for_review",
+      "adIdDeclaration": "uses Advertising ID: Analytics, Advertising or marketing",
+      "dataSafety": {
+        "collectsData": true,
+        "encryptedInTransit": true,
+        "accountCreation": "none",
+        "externalAccountLogin": false,
+        "deletionRequest": "unanswered (optional)",
+        "types": {
+          "Approximate location": [
+            "Analytics"
+          ],
+          "App interactions": [
+            "Analytics",
+            "Advertising or marketing"
+          ],
+          "Device or other IDs": [
+            "Analytics",
+            "Advertising or marketing"
+          ]
+        },
+        "shared": false,
+        "ephemeral": false,
+        "required": true
+      },
+      "note": "Send for review together with the 1.0.1 (3) AAB. AAB includes com.google.android.gms.permission.AD_ID."
+    },
+    "appStore": {
+      "status": "published_2026-10-23 (Coarse Location: Analytics; Device ID & Product Interaction: Analytics + Developer Advertising/Marketing; not linked; no tracking)",
+      "planToPublishWhenSubmitting1_0_1": {
+        "Coarse Location": {
+          "purposes": [
+            "Analytics"
+          ],
+          "linkedToUser": false,
+          "tracking": false
+        },
+        "Device ID": {
+          "purposes": [
+            "Analytics",
+            "Developer's Advertising or Marketing"
+          ],
+          "linkedToUser": false,
+          "tracking": false
+        },
+        "Product Interaction": {
+          "purposes": [
+            "Analytics",
+            "Developer's Advertising or Marketing"
+          ],
+          "linkedToUser": false,
+          "tracking": false
+        }
+      },
+      "note": "No ATT prompt in app, so IDFA is not accessed and data is not used for tracking.",
+      "submission": {
+        "version": "1.0.1",
+        "build": 3,
+        "uploadedVia": "xcodebuild -exportArchive destination=upload",
+        "exportCompliance": "none_of_listed_encryption_types",
+        "releaseMode": "manual",
+        "status": "심사 대기 중",
+        "submittedAt": "2026-10-23T12:55+09:00"
+      }
+    },
+    "privacyPolicy": "Updated and deployed 2026-10-23 (k4works.com repo src/privacyData.ts, section 3 Firebase/Google Analytics).",
+    "builds": {
+      "aab": "build/app/outputs/bundle/release/app-release.aab",
+      "ipa": "build/ios/ipa/리보카.ipa",
+      "version": "1.0.1",
+      "buildNumber": 3
+    }
+  },
+  "update1_0_2": {
+    "reason": "1.0.2+4 adds the in-app rating prompt (in_app_review 2.0.12): asked once, when a round ends after 3 study days. No data collected, so privacy labels, Data safety and the privacy policy are unchanged.",
+    "why1_0_2": "1.0.1 (3) was already approved on the App Store (train closed) and published on Google Play 2026-10-26, so build 4 could not replace it.",
+    "builtAt": "2026-11-03",
+    "aab": {
+      "path": "build/app/outputs/bundle/release/app-release.aab",
+      "versionCode": 4,
+      "versionName": "1.0.2",
+      "sha256": "99922fed4ac6d45e32c26cfdb1b5c99bc256121f7962bf7e00eb5d6b24d9d88a",
+      "signer": "CN=K4WORKS, O=K4WORKS, C=KR"
+    },
+    "ipa": {
+      "path": "build/ios/ipa/리보카.ipa",
+      "version": "1.0.2",
+      "build": 4,
+      "sha256": "95b2b419b73c321954f9a1fbfbf9008738d8ec52b3d871f5ab7f6b791f495b2b",
+      "signer": "Apple Distribution (NXGF67FB4W)"
+    },
+    "googlePlay": {
+      "releaseName": "1.0.2 (4) - 앱 평가 요청",
+      "releaseNotesKo": "며칠 꾸준히 학습한 뒤 앱 평가를 남길 수 있도록 안내를 추가했어요.",
+      "status": "sent_for_review_2026-11-03 (managed publishing: publish manually after approval)"
+    },
+    "appStore": {
+      "uploadedVia": "xcodebuild -exportArchive destination=upload",
+      "whatsNew": "며칠 꾸준히 학습한 뒤 앱 평가를 남길 수 있도록 안내를 추가했습니다. 학습 기록은 이전과 같이 기기에만 저장됩니다.",
+      "reviewNotesAdded": "1.0.2: system rating request (SKStoreReviewController) shown once after a round on the 3rd study day.",
+      "exportCompliance": "none_of_listed_encryption_types (answered by the user)",
+      "releaseMode": "manual",
+      "status": "submitted_for_review_2026-11-03"
+    },
+    "validation": {
+      "flutterAnalyze": "passed",
+      "flutterTestsPassed": 89
+    }
+  }
 }

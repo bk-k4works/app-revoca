@@ -36,6 +36,12 @@ class LearningController extends ChangeNotifier {
   /// One-time guidance already shown, such as [searchHint].
   final Set<String> seenHints = {};
   static const searchHint = 'search';
+
+  /// Recorded once the store's rating sheet has been asked for.
+  static const reviewHint = 'review';
+
+  /// Days studied before the rating sheet is asked for.
+  static const reviewAfterDays = 3;
   StudySession? session;
   bool busy = false;
   String? error;
@@ -332,6 +338,13 @@ class LearningController extends ChangeNotifier {
   bool isFavorite(String id) => favoriteWordIds.contains(id);
 
   bool get searchHintPending => !seenHints.contains(searchHint);
+
+  /// Ask for a rating once, as a round ends, after the student has come back
+  /// on [reviewAfterDays] different days, never in the middle of studying.
+  bool get reviewRequestDue =>
+      session?.complete == true &&
+      activeDays.length >= reviewAfterDays &&
+      !seenHints.contains(reviewHint);
 
   /// Records guidance as shown. Saving is best effort: if it fails, the hint
   /// simply appears once more on the next launch.
